@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "In which year did Australia become a federation?",
+    "answers": [
+      {"text": "1901", "score": 1},
+      {"text": "1788", "score": 0},
+      {"text": "1918", "score": 0},
+      {"text": "1945", "score": 0}
+    ]
+  },
+  {
+    "question": "Which fleet arrived in Sydney Cove in 1788?",
+    "answers": [
+      {"text": "First Fleet", "score": 1},
+      {"text": "Royal Fleet", "score": 0},
+      {"text": "Southern Fleet", "score": 0},
+      {"text": "Convict Squadron", "score": 0}
+    ]
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "answers": [
+      {"text": "Canberra", "score": 1},
+      {"text": "Sydney", "score": 0},
+      {"text": "Melbourne", "score": 0},
+      {"text": "Perth", "score": 0}
+    ]
+  },
+  {
+    "question": "On which date is ANZAC Day observed?",
+    "answers": [
+      {"text": "25 April", "score": 1},
+      {"text": "26 January", "score": 0},
+      {"text": "1 July", "score": 0},
+      {"text": "11 November", "score": 0}
+    ]
+  },
+  {
+    "question": "Which famous Australian landmark is also known as Ayers Rock?",
+    "answers": [
+      {"text": "Uluru", "score": 1},
+      {"text": "Great Dividing Range", "score": 0},
+      {"text": "Twelve Apostles", "score": 0},
+      {"text": "Blue Mountains", "score": 0}
+    ]
+  }
+]

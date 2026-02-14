@@ -24,6 +24,8 @@ flutter:
   uses-material-design: true
 
   assets:
+    - assets/flags/
+    - assets/world-map-clickable.gif
     - assets/data/russia/
     - assets/data/russia/yakutia/
     - assets/data/russia/dagestan/
@@ -33,3 +35,7 @@ flutter:
     - assets/data/china/
     - assets/data/poland/
     - assets/data/france/
+    - assets/data/australia/
+    - assets/data/egypt/
+    - assets/data/brazil/
+    - assets/data/uk/

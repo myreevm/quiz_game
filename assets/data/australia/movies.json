@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "Which Australian director created the Mad Max film series?",
+    "answers": [
+      {"text": "George Miller", "score": 1},
+      {"text": "Baz Luhrmann", "score": 0},
+      {"text": "Peter Weir", "score": 0},
+      {"text": "James Wan", "score": 0}
+    ]
+  },
+  {
+    "question": "Which 1986 comedy made Paul Hogan internationally famous?",
+    "answers": [
+      {"text": "Crocodile Dundee", "score": 1},
+      {"text": "Muriel's Wedding", "score": 0},
+      {"text": "Australia", "score": 0},
+      {"text": "The Castle", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Australian actor is known for playing Thor in Marvel films?",
+    "answers": [
+      {"text": "Chris Hemsworth", "score": 1},
+      {"text": "Liam Hemsworth", "score": 0},
+      {"text": "Joel Edgerton", "score": 0},
+      {"text": "Sam Worthington", "score": 0}
+    ]
+  },
+  {
+    "question": "Which city is home to the Sydney Opera House often shown in films?",
+    "answers": [
+      {"text": "Sydney", "score": 1},
+      {"text": "Adelaide", "score": 0},
+      {"text": "Brisbane", "score": 0},
+      {"text": "Hobart", "score": 0}
+    ]
+  },
+  {
+    "question": "Which 2008 epic film set in Australia stars Nicole Kidman and Hugh Jackman?",
+    "answers": [
+      {"text": "Australia", "score": 1},
+      {"text": "Rabbit-Proof Fence", "score": 0},
+      {"text": "The Proposition", "score": 0},
+      {"text": "Red Dog", "score": 0}
+    ]
+  }
+]

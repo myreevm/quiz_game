@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "In which UK city were The Beatles formed?",
+    "answers": [
+      {"text": "Liverpool", "score": 1},
+      {"text": "London", "score": 0},
+      {"text": "Manchester", "score": 0},
+      {"text": "Birmingham", "score": 0}
+    ]
+  },
+  {
+    "question": "Who was the lead singer of Queen?",
+    "answers": [
+      {"text": "Freddie Mercury", "score": 1},
+      {"text": "Mick Jagger", "score": 0},
+      {"text": "David Bowie", "score": 0},
+      {"text": "Bono", "score": 0}
+    ]
+  },
+  {
+    "question": "Which British singer released the album '21'?",
+    "answers": [
+      {"text": "Adele", "score": 1},
+      {"text": "Dua Lipa", "score": 0},
+      {"text": "Jessie J", "score": 0},
+      {"text": "Ellie Goulding", "score": 0}
+    ]
+  },
+  {
+    "question": "Which UK rock band released the song 'Paint It Black'?",
+    "answers": [
+      {"text": "The Rolling Stones", "score": 1},
+      {"text": "Oasis", "score": 0},
+      {"text": "Coldplay", "score": 0},
+      {"text": "Muse", "score": 0}
+    ]
+  },
+  {
+    "question": "Which major UK music festival is held in Somerset?",
+    "answers": [
+      {"text": "Glastonbury Festival", "score": 1},
+      {"text": "Reading Festival", "score": 0},
+      {"text": "Isle of Wight Festival", "score": 0},
+      {"text": "TRNSMT", "score": 0}
+    ]
+  }
+]

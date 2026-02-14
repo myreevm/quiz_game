@@ -278,15 +278,27 @@ class AppTexts {
   String countryName(String code) {
     switch (code) {
       case 'russia':
-        return _select(en: 'Russia', ru: 'Россия', yakut: 'Арассыыйа');
+        return _select(en: 'Russia', ru: 'Russia', yakut: 'Russia');
       case 'usa':
-        return _select(en: 'USA', ru: 'США', yakut: 'АЭШ');
+        return _select(en: 'USA', ru: 'USA', yakut: 'USA');
       case 'china':
-        return _select(en: 'China', ru: 'Китай', yakut: 'Кытай');
+        return _select(en: 'China', ru: 'China', yakut: 'China');
       case 'poland':
-        return _select(en: 'Poland', ru: 'Польша', yakut: 'Польша');
+        return _select(en: 'Poland', ru: 'Poland', yakut: 'Poland');
       case 'france':
-        return _select(en: 'France', ru: 'Франция', yakut: 'Франция');
+        return _select(en: 'France', ru: 'France', yakut: 'France');
+      case 'australia':
+        return _select(en: 'Australia', ru: 'Australia', yakut: 'Australia');
+      case 'egypt':
+        return _select(en: 'Egypt', ru: 'Egypt', yakut: 'Egypt');
+      case 'brazil':
+        return _select(en: 'Brazil', ru: 'Brazil', yakut: 'Brazil');
+      case 'uk':
+        return _select(
+          en: 'United Kingdom',
+          ru: 'United Kingdom',
+          yakut: 'United Kingdom',
+        );
       default:
         return code.toUpperCase();
     }
@@ -297,32 +309,56 @@ class AppTexts {
       case 'russia':
         return _select(
           en: 'Questions by country and regions',
-          ru: 'Вопросы по стране и регионам',
-          yakut: 'Дойду уонна регионнар туһунан ыйытыылар',
+          ru: 'Questions by country and regions',
+          yakut: 'Questions by country and regions',
         );
       case 'usa':
         return _select(
           en: 'Categories about USA and states',
-          ru: 'Категории по США и штатам',
-          yakut: 'АЭШ уонна штаттар туһунан категориялар',
+          ru: 'Categories about USA and states',
+          yakut: 'Categories about USA and states',
         );
       case 'china':
         return _select(
           en: 'History, culture, and modern facts',
-          ru: 'История, культура и современные факты',
-          yakut: 'История, культура уонна билиҥҥи фактылар',
+          ru: 'History, culture, and modern facts',
+          yakut: 'History, culture, and modern facts',
         );
       case 'poland':
         return _select(
           en: 'Questions about Poland and famous people',
-          ru: 'Вопросы по Польше и её известным людям',
-          yakut: 'Польша уонна аата биллэр дьон туһунан',
+          ru: 'Questions about Poland and famous people',
+          yakut: 'Questions about Poland and famous people',
         );
       case 'france':
         return _select(
           en: 'History, cinema, music, and personalities',
-          ru: 'История, кино, музыка и личности',
-          yakut: 'История, кино, ырыа уонна киһиэхэ',
+          ru: 'History, cinema, music, and personalities',
+          yakut: 'History, cinema, music, and personalities',
+        );
+      case 'australia':
+        return _select(
+          en: 'History, people, movies, and music of Australia',
+          ru: 'History, people, movies, and music of Australia',
+          yakut: 'History, people, movies, and music of Australia',
+        );
+      case 'egypt':
+        return _select(
+          en: 'Ancient history, culture, cinema, and music',
+          ru: 'Ancient history, culture, cinema, and music',
+          yakut: 'Ancient history, culture, cinema, and music',
+        );
+      case 'brazil':
+        return _select(
+          en: 'Brazilian history, famous people, films, and music',
+          ru: 'Brazilian history, famous people, films, and music',
+          yakut: 'Brazilian history, famous people, films, and music',
+        );
+      case 'uk':
+        return _select(
+          en: 'United Kingdom: history, cinema, music, and famous people',
+          ru: 'United Kingdom: history, cinema, music, and famous people',
+          yakut: 'United Kingdom: history, cinema, music, and famous people',
         );
       default:
         return code;

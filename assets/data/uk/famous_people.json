@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "Who wrote 'Hamlet'?",
+    "answers": [
+      {"text": "William Shakespeare", "score": 1},
+      {"text": "Charles Dickens", "score": 0},
+      {"text": "George Orwell", "score": 0},
+      {"text": "J.R.R. Tolkien", "score": 0}
+    ]
+  },
+  {
+    "question": "Which British scientist formulated the laws of motion and gravitation?",
+    "answers": [
+      {"text": "Isaac Newton", "score": 1},
+      {"text": "Charles Darwin", "score": 0},
+      {"text": "James Clerk Maxwell", "score": 0},
+      {"text": "Michael Faraday", "score": 0}
+    ]
+  },
+  {
+    "question": "Which British physicist wrote 'A Brief History of Time'?",
+    "answers": [
+      {"text": "Stephen Hawking", "score": 1},
+      {"text": "Brian Cox", "score": 0},
+      {"text": "Roger Penrose", "score": 0},
+      {"text": "Paul Dirac", "score": 0}
+    ]
+  },
+  {
+    "question": "Which UK prime minister led Britain through most of World War II?",
+    "answers": [
+      {"text": "Winston Churchill", "score": 1},
+      {"text": "Clement Attlee", "score": 0},
+      {"text": "Neville Chamberlain", "score": 0},
+      {"text": "Harold Macmillan", "score": 0}
+    ]
+  },
+  {
+    "question": "Which member of The Beatles was born in Liverpool?",
+    "answers": [
+      {"text": "John Lennon", "score": 1},
+      {"text": "Bob Dylan", "score": 0},
+      {"text": "Elton John", "score": 0},
+      {"text": "Bono", "score": 0}
+    ]
+  }
+]

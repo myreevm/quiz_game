@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "Who was known as 'The Crocodile Hunter'?",
+    "answers": [
+      {"text": "Steve Irwin", "score": 1},
+      {"text": "Russell Crowe", "score": 0},
+      {"text": "Hugh Jackman", "score": 0},
+      {"text": "Chris Hemsworth", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Australian actor played Wolverine in the X-Men films?",
+    "answers": [
+      {"text": "Hugh Jackman", "score": 1},
+      {"text": "Eric Bana", "score": 0},
+      {"text": "Ben Mendelsohn", "score": 0},
+      {"text": "Guy Pearce", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Australian singer released 'Can't Get You Out of My Head'?",
+    "answers": [
+      {"text": "Kylie Minogue", "score": 1},
+      {"text": "Sia", "score": 0},
+      {"text": "Delta Goodrem", "score": 0},
+      {"text": "Dido", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Australian athlete won 400m gold at the Sydney 2000 Olympics?",
+    "answers": [
+      {"text": "Cathy Freeman", "score": 1},
+      {"text": "Sally Pearson", "score": 0},
+      {"text": "Jessica Fox", "score": 0},
+      {"text": "Emma McKeon", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Australian actress played Harley Quinn in DC films?",
+    "answers": [
+      {"text": "Margot Robbie", "score": 1},
+      {"text": "Nicole Kidman", "score": 0},
+      {"text": "Cate Blanchett", "score": 0},
+      {"text": "Rose Byrne", "score": 0}
+    ]
+  }
+]

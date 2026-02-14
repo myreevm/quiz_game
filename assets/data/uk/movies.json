@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "What is the code number of James Bond?",
+    "answers": [
+      {"text": "007", "score": 1},
+      {"text": "001", "score": 0},
+      {"text": "009", "score": 0},
+      {"text": "117", "score": 0}
+    ]
+  },
+  {
+    "question": "Which British franchise follows a young wizard at Hogwarts?",
+    "answers": [
+      {"text": "Harry Potter", "score": 1},
+      {"text": "Narnia", "score": 0},
+      {"text": "The Witcher", "score": 0},
+      {"text": "Percy Jackson", "score": 0}
+    ]
+  },
+  {
+    "question": "Which detective created by Arthur Conan Doyle lives at 221B Baker Street?",
+    "answers": [
+      {"text": "Sherlock Holmes", "score": 1},
+      {"text": "Hercule Poirot", "score": 0},
+      {"text": "Miss Marple", "score": 0},
+      {"text": "Philip Marlowe", "score": 0}
+    ]
+  },
+  {
+    "question": "Which film about King George VI won the Oscar for Best Picture in 2011?",
+    "answers": [
+      {"text": "The King's Speech", "score": 1},
+      {"text": "Darkest Hour", "score": 0},
+      {"text": "The Imitation Game", "score": 0},
+      {"text": "1917", "score": 0}
+    ]
+  },
+  {
+    "question": "Which British actor is famous for playing Mr. Bean?",
+    "answers": [
+      {"text": "Rowan Atkinson", "score": 1},
+      {"text": "Hugh Grant", "score": 0},
+      {"text": "Benedict Cumberbatch", "score": 0},
+      {"text": "Daniel Craig", "score": 0}
+    ]
+  }
+]

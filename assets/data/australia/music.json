@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "Which instrument is traditionally associated with Aboriginal Australian music?",
+    "answers": [
+      {"text": "Didgeridoo", "score": 1},
+      {"text": "Bagpipe", "score": 0},
+      {"text": "Sitar", "score": 0},
+      {"text": "Harp", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Australian band released 'Highway to Hell'?",
+    "answers": [
+      {"text": "AC/DC", "score": 1},
+      {"text": "INXS", "score": 0},
+      {"text": "Silverchair", "score": 0},
+      {"text": "Jet", "score": 0}
+    ]
+  },
+  {
+    "question": "'Down Under' is a hit song by which Australian group?",
+    "answers": [
+      {"text": "Men at Work", "score": 1},
+      {"text": "Midnight Oil", "score": 0},
+      {"text": "Crowded House", "score": 0},
+      {"text": "Bee Gees", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Australian singer is known for the song 'Chandelier'?",
+    "answers": [
+      {"text": "Sia", "score": 1},
+      {"text": "Kylie Minogue", "score": 0},
+      {"text": "Natalie Imbruglia", "score": 0},
+      {"text": "Lorde", "score": 0}
+    ]
+  },
+  {
+    "question": "Which city hosts the famous Opera House used for major music performances?",
+    "answers": [
+      {"text": "Sydney", "score": 1},
+      {"text": "Canberra", "score": 0},
+      {"text": "Darwin", "score": 0},
+      {"text": "Perth", "score": 0}
+    ]
+  }
+]

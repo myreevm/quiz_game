@@ -12,6 +12,18 @@ class FlagBadge extends StatelessWidget {
     this.height = 36,
   });
 
+  static const Map<String, String> _countryFlagAssets = {
+    'russia': 'assets/flags/russia.png',
+    'china': 'assets/flags/china.png',
+    'usa': 'assets/flags/usa.png',
+    'france': 'assets/flags/france.png',
+    'poland': 'assets/flags/poland.png',
+    'australia': 'assets/flags/australia.png',
+    'egypt': 'assets/flags/egypt.png',
+    'brazil': 'assets/flags/brazil.png',
+    'uk': 'assets/flags/uk.png',
+  };
+
   @override
   Widget build(BuildContext context) {
     return Container(
@@ -34,47 +46,20 @@ class FlagBadge extends StatelessWidget {
   }
 
   Widget _buildFlag(BuildContext context) {
+    final assetPath = _countryFlagAssets[code];
+    if (assetPath != null) {
+      return Image.asset(
+        assetPath,
+        fit: BoxFit.cover,
+        errorBuilder: (_, __, ___) => _buildFallbackFlag(context),
+      );
+    }
+
+    return _buildFallbackFlag(context);
+  }
+
+  Widget _buildFallbackFlag(BuildContext context) {
     switch (code) {
-      case 'russia':
-        return _horizontalStripes(
-          const [
-            Colors.white,
-            Color(0xFF0A4EA1),
-            Color(0xFFD52B1E),
-          ],
-        );
-      case 'usa':
-        return _usaFlag();
-      case 'china':
-        return Container(
-          color: const Color(0xFFDE2910),
-          child: const Align(
-            alignment: Alignment(-0.55, -0.55),
-            child: Text(
-              '★',
-              style: TextStyle(
-                color: Color(0xFFFFDE00),
-                fontSize: 18,
-                height: 1,
-              ),
-            ),
-          ),
-        );
-      case 'poland':
-        return _horizontalStripes(
-          const [
-            Colors.white,
-            Color(0xFFDC143C),
-          ],
-        );
-      case 'france':
-        return _verticalStripes(
-          const [
-            Color(0xFF0055A4),
-            Colors.white,
-            Color(0xFFEF4135),
-          ],
-        );
       case 'yakutia':
         return _yakutiaFlag();
       case 'dagestan':
@@ -105,7 +90,7 @@ class FlagBadge extends StatelessWidget {
           child: Icon(Icons.public_rounded, color: colorScheme.primary),
         );
       default:
-        return _fallbackFlag();
+        return _textFallback();
     }
   }
 
@@ -116,50 +101,6 @@ class FlagBadge extends StatelessWidget {
           Expanded(
             child: ColoredBox(color: color),
           ),
-      ],
-    );
-  }
-
-  Widget _verticalStripes(List<Color> colors) {
-    return Row(
-      children: [
-        for (final color in colors)
-          Expanded(
-            child: ColoredBox(color: color),
-          ),
-      ],
-    );
-  }
-
-  Widget _usaFlag() {
-    return Stack(
-      children: [
-        Column(
-          children: List.generate(
-            13,
-            (index) => Expanded(
-              child: ColoredBox(
-                color: index.isEven ? const Color(0xFFB22234) : Colors.white,
-              ),
-            ),
-          ),
-        ),
-        Align(
-          alignment: Alignment.topLeft,
-          child: SizedBox(
-            width: width * 0.45,
-            height: height * 0.55,
-            child: const ColoredBox(
-              color: Color(0xFF3C3B6E),
-              child: Center(
-                child: Text(
-                  '★',
-                  style: TextStyle(color: Colors.white, fontSize: 12),
-                ),
-              ),
-            ),
-          ),
-        ),
       ],
     );
   }
@@ -194,9 +135,10 @@ class FlagBadge extends StatelessWidget {
           child: Container(
             color: const Color(0xFF002868),
             alignment: Alignment.center,
-            child: const Text(
-              '★',
-              style: TextStyle(color: Colors.white, fontSize: 12),
+            child: const Icon(
+              Icons.star_rounded,
+              color: Colors.white,
+              size: 14,
             ),
           ),
         ),
@@ -213,7 +155,7 @@ class FlagBadge extends StatelessWidget {
     );
   }
 
-  Widget _fallbackFlag() {
+  Widget _textFallback() {
     final short = code.length >= 2 ? code.substring(0, 2).toUpperCase() : code;
 
     return Container(

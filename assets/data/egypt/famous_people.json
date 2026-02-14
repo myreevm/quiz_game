@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "Who was the last active ruler of Ptolemaic Egypt?",
+    "answers": [
+      {"text": "Cleopatra VII", "score": 1},
+      {"text": "Nefertiti", "score": 0},
+      {"text": "Hatshepsut", "score": 0},
+      {"text": "Ramesses II", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Egyptian football star plays for Liverpool FC?",
+    "answers": [
+      {"text": "Mohamed Salah", "score": 1},
+      {"text": "Riyad Mahrez", "score": 0},
+      {"text": "Hakim Ziyech", "score": 0},
+      {"text": "Sadio Mane", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Egyptian novelist won the Nobel Prize in Literature in 1988?",
+    "answers": [
+      {"text": "Naguib Mahfouz", "score": 1},
+      {"text": "Taha Hussein", "score": 0},
+      {"text": "Alaa Al Aswany", "score": 0},
+      {"text": "Sonallah Ibrahim", "score": 0}
+    ]
+  },
+  {
+    "question": "Which famous Egyptian singer is often called the 'Star of the East'?",
+    "answers": [
+      {"text": "Umm Kulthum", "score": 1},
+      {"text": "Sherine", "score": 0},
+      {"text": "Ruby", "score": 0},
+      {"text": "Elissa", "score": 0}
+    ]
+  },
+  {
+    "question": "Who discovered Tutankhamun's tomb in 1922?",
+    "answers": [
+      {"text": "Howard Carter", "score": 1},
+      {"text": "Jean-Francois Champollion", "score": 0},
+      {"text": "Lord Carnarvon", "score": 0},
+      {"text": "Gaston Maspero", "score": 0}
+    ]
+  }
+]

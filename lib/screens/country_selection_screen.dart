@@ -2,11 +2,13 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 
+import '../models/app_settings.dart';
 import '../models/app_texts.dart';
 import '../services/question_service.dart';
 import 'flag_badge.dart';
 import 'quiz_screen.dart';
 import 'region_selection_screen.dart';
+import 'selection_maps.dart';
 
 class CountrySelectionScreen extends StatefulWidget {
   const CountrySelectionScreen({super.key});
@@ -17,6 +19,22 @@ class CountrySelectionScreen extends StatefulWidget {
     _CountryOption(code: 'china'),
     _CountryOption(code: 'poland'),
     _CountryOption(code: 'france'),
+    _CountryOption(code: 'australia'),
+    _CountryOption(code: 'egypt'),
+    _CountryOption(code: 'brazil'),
+    _CountryOption(code: 'uk'),
+  ];
+
+  static const mapPins = [
+    MapPinData(code: 'usa', position: Offset(0.19, 0.38)),
+    MapPinData(code: 'brazil', position: Offset(0.31, 0.65)),
+    MapPinData(code: 'uk', position: Offset(0.47, 0.32)),
+    MapPinData(code: 'france', position: Offset(0.48, 0.40)),
+    MapPinData(code: 'poland', position: Offset(0.54, 0.34)),
+    MapPinData(code: 'egypt', position: Offset(0.57, 0.49)),
+    MapPinData(code: 'russia', position: Offset(0.66, 0.25)),
+    MapPinData(code: 'china', position: Offset(0.70, 0.44)),
+    MapPinData(code: 'australia', position: Offset(0.86, 0.74)),
   ];
 
   @override
@@ -30,6 +48,10 @@ class _CountrySelectionScreenState extends State<CountrySelectionScreen> {
     'china': <String>['all'],
     'poland': <String>['all'],
     'france': <String>['all'],
+    'australia': <String>['all'],
+    'egypt': <String>['all'],
+    'brazil': <String>['all'],
+    'uk': <String>['all'],
   };
 
   static const List<String> _categories = [
@@ -155,6 +177,17 @@ class _CountrySelectionScreenState extends State<CountrySelectionScreen> {
     return validRoutes;
   }
 
+  String _mapHint(AppLanguage language) {
+    switch (language) {
+      case AppLanguage.english:
+        return 'Tap a country on the map';
+      case AppLanguage.russian:
+        return 'Нажмите на страну на карте';
+      case AppLanguage.yakut:
+        return 'Картаҕа дойдуну баттаа';
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     final texts = AppTexts.of(context);
@@ -192,6 +225,13 @@ class _CountrySelectionScreenState extends State<CountrySelectionScreen> {
               _HeaderCard(
                 texts: texts,
                 colorScheme: colorScheme,
+              ),
+              const SizedBox(height: 14),
+              WorldSelectionMap(
+                hint: _mapHint(texts.language),
+                countries: CountrySelectionScreen.mapPins,
+                labelBuilder: texts.countryName,
+                onTap: (code) => _openRegions(context, code),
               ),
               const SizedBox(height: 14),
               ...CountrySelectionScreen.countries.map(

@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "Which river flows through Egypt and has been vital to its civilization?",
+    "answers": [
+      {"text": "Nile", "score": 1},
+      {"text": "Amazon", "score": 0},
+      {"text": "Danube", "score": 0},
+      {"text": "Tigris", "score": 0}
+    ]
+  },
+  {
+    "question": "The Great Pyramid is located in which area near Cairo?",
+    "answers": [
+      {"text": "Giza", "score": 1},
+      {"text": "Alexandria", "score": 0},
+      {"text": "Luxor", "score": 0},
+      {"text": "Aswan", "score": 0}
+    ]
+  },
+  {
+    "question": "In what year was the Suez Canal officially opened?",
+    "answers": [
+      {"text": "1869", "score": 1},
+      {"text": "1801", "score": 0},
+      {"text": "1919", "score": 0},
+      {"text": "1956", "score": 0}
+    ]
+  },
+  {
+    "question": "What writing system was used in ancient Egypt?",
+    "answers": [
+      {"text": "Hieroglyphs", "score": 1},
+      {"text": "Cuneiform", "score": 0},
+      {"text": "Runes", "score": 0},
+      {"text": "Latin script", "score": 0}
+    ]
+  },
+  {
+    "question": "What is the capital city of modern Egypt?",
+    "answers": [
+      {"text": "Cairo", "score": 1},
+      {"text": "Giza", "score": 0},
+      {"text": "Alexandria", "score": 0},
+      {"text": "Port Said", "score": 0}
+    ]
+  }
+]

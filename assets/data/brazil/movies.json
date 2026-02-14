@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "Which Brazilian film set in Rio's favelas was nominated for four Oscars?",
+    "answers": [
+      {"text": "City of God", "score": 1},
+      {"text": "Elite Squad", "score": 0},
+      {"text": "Central Station", "score": 0},
+      {"text": "Bacurau", "score": 0}
+    ]
+  },
+  {
+    "question": "Which animated film follows blue macaws in Rio de Janeiro?",
+    "answers": [
+      {"text": "Rio", "score": 1},
+      {"text": "Up", "score": 0},
+      {"text": "Coco", "score": 0},
+      {"text": "Moana", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Brazilian director made 'Central Station' and 'The Motorcycle Diaries'?",
+    "answers": [
+      {"text": "Walter Salles", "score": 1},
+      {"text": "Fernando Meirelles", "score": 0},
+      {"text": "Jose Padilha", "score": 0},
+      {"text": "Kleber Mendonca Filho", "score": 0}
+    ]
+  },
+  {
+    "question": "In which city is the Festival do Rio held?",
+    "answers": [
+      {"text": "Rio de Janeiro", "score": 1},
+      {"text": "Recife", "score": 0},
+      {"text": "Fortaleza", "score": 0},
+      {"text": "Manaus", "score": 0}
+    ]
+  },
+  {
+    "question": "What is the international title of the Brazilian film 'Tropa de Elite'?",
+    "answers": [
+      {"text": "Elite Squad", "score": 1},
+      {"text": "City Guard", "score": 0},
+      {"text": "Rio Patrol", "score": 0},
+      {"text": "Street Command", "score": 0}
+    ]
+  }
+]

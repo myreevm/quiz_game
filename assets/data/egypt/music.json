@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "Which string instrument is common in traditional Egyptian and Arabic music?",
+    "answers": [
+      {"text": "Oud", "score": 1},
+      {"text": "Banjo", "score": 0},
+      {"text": "Didgeridoo", "score": 0},
+      {"text": "Balalaika", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Egyptian pop singer is known for the hit album 'Nour El Ain'?",
+    "answers": [
+      {"text": "Amr Diab", "score": 1},
+      {"text": "Tamer Hosny", "score": 0},
+      {"text": "Mohamed Mounir", "score": 0},
+      {"text": "Hamza Namira", "score": 0}
+    ]
+  },
+  {
+    "question": "What is the title of the national anthem of Egypt?",
+    "answers": [
+      {"text": "Bilady, Bilady, Bilady", "score": 1},
+      {"text": "Mawtini", "score": 0},
+      {"text": "Hatikva", "score": 0},
+      {"text": "Aegukga", "score": 0}
+    ]
+  },
+  {
+    "question": "Which goblet drum is widely used in Egyptian music?",
+    "answers": [
+      {"text": "Darbuka", "score": 1},
+      {"text": "Bongo", "score": 0},
+      {"text": "Djembe", "score": 0},
+      {"text": "Cajon", "score": 0}
+    ]
+  },
+  {
+    "question": "Which dance-related musical style is strongly associated with Egypt?",
+    "answers": [
+      {"text": "Raqs Sharqi", "score": 1},
+      {"text": "Flamenco", "score": 0},
+      {"text": "Tango", "score": 0},
+      {"text": "Waltz", "score": 0}
+    ]
+  }
+]

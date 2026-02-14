@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "Which city is considered the center of Arab film industry and hosts Cairo International Film Festival?",
+    "answers": [
+      {"text": "Cairo", "score": 1},
+      {"text": "Aswan", "score": 0},
+      {"text": "Tunis", "score": 0},
+      {"text": "Rabat", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Egyptian actor starred in 'Lawrence of Arabia' and 'Doctor Zhivago'?",
+    "answers": [
+      {"text": "Omar Sharif", "score": 1},
+      {"text": "Amr Waked", "score": 0},
+      {"text": "Khaled Nabawy", "score": 0},
+      {"text": "Youssef Chahine", "score": 0}
+    ]
+  },
+  {
+    "question": "Which 1999 adventure film is set around ancient Egyptian curses and mummies?",
+    "answers": [
+      {"text": "The Mummy", "score": 1},
+      {"text": "The Scorpion King", "score": 0},
+      {"text": "Exodus", "score": 0},
+      {"text": "Agora", "score": 0}
+    ]
+  },
+  {
+    "question": "Which river is often a key setting in films about ancient Egypt?",
+    "answers": [
+      {"text": "Nile", "score": 1},
+      {"text": "Jordan", "score": 0},
+      {"text": "Euphrates", "score": 0},
+      {"text": "Po", "score": 0}
+    ]
+  },
+  {
+    "question": "Which monument complex is commonly shown in movies set in Egypt?",
+    "answers": [
+      {"text": "Pyramids of Giza", "score": 1},
+      {"text": "Colosseum", "score": 0},
+      {"text": "Stonehenge", "score": 0},
+      {"text": "Machu Picchu", "score": 0}
+    ]
+  }
+]

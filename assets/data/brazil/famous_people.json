@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "Which Brazilian football legend is known as 'O Rei' (The King)?",
+    "answers": [
+      {"text": "Pele", "score": 1},
+      {"text": "Romario", "score": 0},
+      {"text": "Ronaldinho", "score": 0},
+      {"text": "Rivaldo", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Brazilian Formula 1 champion died in 1994?",
+    "answers": [
+      {"text": "Ayrton Senna", "score": 1},
+      {"text": "Nelson Piquet", "score": 0},
+      {"text": "Emerson Fittipaldi", "score": 0},
+      {"text": "Felipe Massa", "score": 0}
+    ]
+  },
+  {
+    "question": "Who is the Brazilian author of 'The Alchemist'?",
+    "answers": [
+      {"text": "Paulo Coelho", "score": 1},
+      {"text": "Jorge Amado", "score": 0},
+      {"text": "Clarice Lispector", "score": 0},
+      {"text": "Machado de Assis", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Brazilian supermodel became one of the highest-paid models in the 2000s?",
+    "answers": [
+      {"text": "Gisele Bundchen", "score": 1},
+      {"text": "Adriana Lima", "score": 0},
+      {"text": "Alessandra Ambrosio", "score": 0},
+      {"text": "Camila Alves", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Brazilian architect designed many iconic buildings in Brasilia?",
+    "answers": [
+      {"text": "Oscar Niemeyer", "score": 1},
+      {"text": "Lina Bo Bardi", "score": 0},
+      {"text": "Paulo Mendes da Rocha", "score": 0},
+      {"text": "Roberto Burle Marx", "score": 0}
+    ]
+  }
+]

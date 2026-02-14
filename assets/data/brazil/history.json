@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "In which year did Brazil declare independence from Portugal?",
+    "answers": [
+      {"text": "1822", "score": 1},
+      {"text": "1808", "score": 0},
+      {"text": "1889", "score": 0},
+      {"text": "1930", "score": 0}
+    ]
+  },
+  {
+    "question": "What is the official language of Brazil?",
+    "answers": [
+      {"text": "Portuguese", "score": 1},
+      {"text": "Spanish", "score": 0},
+      {"text": "English", "score": 0},
+      {"text": "French", "score": 0}
+    ]
+  },
+  {
+    "question": "What is the capital city of Brazil?",
+    "answers": [
+      {"text": "Brasilia", "score": 1},
+      {"text": "Rio de Janeiro", "score": 0},
+      {"text": "Sao Paulo", "score": 0},
+      {"text": "Salvador", "score": 0}
+    ]
+  },
+  {
+    "question": "Which rainforest is mostly located in Brazil?",
+    "answers": [
+      {"text": "Amazon Rainforest", "score": 1},
+      {"text": "Congo Rainforest", "score": 0},
+      {"text": "Daintree Rainforest", "score": 0},
+      {"text": "Taiga", "score": 0}
+    ]
+  },
+  {
+    "question": "Which famous festival is celebrated in Brazil before Lent?",
+    "answers": [
+      {"text": "Carnival", "score": 1},
+      {"text": "Oktoberfest", "score": 0},
+      {"text": "Mardi Gras", "score": 0},
+      {"text": "Songkran", "score": 0}
+    ]
+  }
+]

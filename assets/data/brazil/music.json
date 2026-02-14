@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "Which music genre is most associated with Rio Carnival?",
+    "answers": [
+      {"text": "Samba", "score": 1},
+      {"text": "Flamenco", "score": 0},
+      {"text": "Reggae", "score": 0},
+      {"text": "Blues", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Brazilian style includes the classic 'The Girl from Ipanema'?",
+    "answers": [
+      {"text": "Bossa nova", "score": 1},
+      {"text": "Sertanejo", "score": 0},
+      {"text": "Fado", "score": 0},
+      {"text": "Disco", "score": 0}
+    ]
+  },
+  {
+    "question": "Which instrument is a musical bow used in capoeira?",
+    "answers": [
+      {"text": "Berimbau", "score": 1},
+      {"text": "Maracas", "score": 0},
+      {"text": "Timpani", "score": 0},
+      {"text": "Accordion", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Brazilian composer co-wrote 'The Girl from Ipanema'?",
+    "answers": [
+      {"text": "Antonio Carlos Jobim", "score": 1},
+      {"text": "Caetano Veloso", "score": 0},
+      {"text": "Gilberto Gil", "score": 0},
+      {"text": "Djavan", "score": 0}
+    ]
+  },
+  {
+    "question": "Which contemporary Brazilian pop star is known for the hit 'Envolver'?",
+    "answers": [
+      {"text": "Anitta", "score": 1},
+      {"text": "Luisa Sonza", "score": 0},
+      {"text": "IZA", "score": 0},
+      {"text": "Pabllo Vittar", "score": 0}
+    ]
+  }
+]

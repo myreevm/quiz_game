@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 
+import '../models/app_settings.dart';
 import '../models/app_texts.dart';
 import 'category_selection_screen.dart';
 import 'flag_badge.dart';
+import 'selection_maps.dart';
 
 class RegionSelectionScreen extends StatelessWidget {
   final String country;
@@ -11,20 +13,12 @@ class RegionSelectionScreen extends StatelessWidget {
 
   static const regionsByCountry = {
     'russia': [
-      _RegionOption(
-        code: 'yakutia',
-      ),
-      _RegionOption(
-        code: 'dagestan',
-      ),
+      _RegionOption(code: 'yakutia'),
+      _RegionOption(code: 'dagestan'),
     ],
     'usa': [
-      _RegionOption(
-        code: 'texas',
-      ),
-      _RegionOption(
-        code: 'oklahoma',
-      ),
+      _RegionOption(code: 'texas'),
+      _RegionOption(code: 'oklahoma'),
     ],
   };
 
@@ -38,6 +32,38 @@ class RegionSelectionScreen extends StatelessWidget {
         ),
       ),
     );
+  }
+
+  String _mapHint(AppLanguage language) {
+    switch (language) {
+      case AppLanguage.english:
+        return 'Tap a region on the map';
+      case AppLanguage.russian:
+        return 'Нажмите на регион на карте';
+      case AppLanguage.yakut:
+        return 'Картаҕа региону баттаа';
+    }
+  }
+
+  List<MapPinData> _mapPinsForCountry() {
+    switch (country) {
+      case 'russia':
+        return const [
+          MapPinData(code: 'all', position: Offset(0.46, 0.25)),
+          MapPinData(code: 'yakutia', position: Offset(0.72, 0.46)),
+          MapPinData(code: 'dagestan', position: Offset(0.30, 0.62)),
+        ];
+      case 'usa':
+        return const [
+          MapPinData(code: 'all', position: Offset(0.46, 0.28)),
+          MapPinData(code: 'texas', position: Offset(0.44, 0.58)),
+          MapPinData(code: 'oklahoma', position: Offset(0.48, 0.46)),
+        ];
+      default:
+        return const [
+          MapPinData(code: 'all', position: Offset(0.50, 0.50)),
+        ];
+    }
   }
 
   @override
@@ -76,11 +102,19 @@ class RegionSelectionScreen extends StatelessWidget {
                 colorScheme: colorScheme,
               ),
               const SizedBox(height: 14),
+              RegionSelectionMap(
+                country: country,
+                hint: _mapHint(texts.language),
+                regions: _mapPinsForCountry(),
+                labelBuilder: texts.regionName,
+                onTap: (code) =>
+                    _openCategories(context, code == 'all' ? null : code),
+              ),
+              const SizedBox(height: 14),
               _RegionCard(
                 flagCode: 'all',
                 title: texts.regionAllCountryTitle,
                 subtitle: texts.regionAllCountrySubtitle,
-                color: colorScheme.primary,
                 onTap: () => _openCategories(context, null),
               ),
               const SizedBox(height: 10),
@@ -94,7 +128,6 @@ class RegionSelectionScreen extends StatelessWidget {
                       country: country,
                       region: region.code,
                     ),
-                    color: colorScheme.secondary,
                     onTap: () => _openCategories(context, region.code),
                   ),
                 ),
@@ -175,14 +208,12 @@ class _RegionCard extends StatelessWidget {
   final String flagCode;
   final String title;
   final String subtitle;
-  final Color color;
   final VoidCallback onTap;
 
   const _RegionCard({
     required this.flagCode,
     required this.title,
     required this.subtitle,
-    required this.color,
     required this.onTap,
   });
 
