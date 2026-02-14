@@ -1,26 +1,25 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
+import '../models/app_texts.dart';
+
 class SuggestQuestionScreen extends StatelessWidget {
   const SuggestQuestionScreen({super.key});
 
   static final Uri _instagramUri =
       Uri.parse('https://www.instagram.com/quiz_game_app');
   static final Uri _telegramUri = Uri.parse('https://t.me/myreev1');
-  static final Uri _gmailUri = Uri(
-    scheme: 'mailto',
-    path: 'myreevmark06@gmail.com',
-    queryParameters: <String, String>{
-      'subject': 'Предложение вопроса для Quiz Game',
-      'body': 'Здравствуйте!\n\n'
-          'Хочу предложить новый вопрос:\n'
-          '- Страна:\n'
-          '- Категория:\n'
-          '- Вопрос:\n'
-          '- Варианты ответов:\n'
-          '- Правильный ответ:\n',
-    },
-  );
+
+  Uri _gmailUri(AppTexts texts) {
+    return Uri(
+      scheme: 'mailto',
+      path: 'myreevmark06@gmail.com',
+      queryParameters: <String, String>{
+        'subject': texts.suggestMailSubject,
+        'body': texts.suggestMailBody,
+      },
+    );
+  }
 
   Future<void> _openLink(BuildContext context, Uri uri) async {
     final launched = await launchUrl(
@@ -32,19 +31,22 @@ class SuggestQuestionScreen extends StatelessWidget {
       return;
     }
 
+    final texts = AppTexts.of(context);
     ScaffoldMessenger.of(context).showSnackBar(
-      const SnackBar(
-        content: Text('Не удалось открыть ссылку. Попробуйте позже.'),
+      SnackBar(
+        content: Text(texts.suggestOpenLinkFailed),
       ),
     );
   }
 
   @override
   Widget build(BuildContext context) {
+    final texts = AppTexts.of(context);
     final colorScheme = Theme.of(context).colorScheme;
+    final gmailUri = _gmailUri(texts);
 
     return Scaffold(
-      appBar: AppBar(title: const Text('Предложить вопрос')),
+      appBar: AppBar(title: Text(texts.suggestTitle)),
       body: Container(
         decoration: BoxDecoration(
           gradient: LinearGradient(
@@ -60,7 +62,10 @@ class SuggestQuestionScreen extends StatelessWidget {
         child: ListView(
           padding: const EdgeInsets.fromLTRB(18, 16, 18, 22),
           children: [
-            _InfoCard(colorScheme: colorScheme),
+            _InfoCard(
+              texts: texts,
+              colorScheme: colorScheme,
+            ),
             const SizedBox(height: 14),
             _ContactCard(
               title: 'Instagram',
@@ -83,11 +88,11 @@ class SuggestQuestionScreen extends StatelessWidget {
               subtitle: 'myreevmark06@gmail.com',
               icon: Icons.mail_rounded,
               color: colorScheme.tertiary,
-              onTap: () => _openLink(context, _gmailUri),
+              onTap: () => _openLink(context, gmailUri),
             ),
             const SizedBox(height: 16),
             Text(
-              'Можно прислать вопрос, 4 варианта ответа и указать правильный вариант.',
+              texts.suggestFooter,
               style: Theme.of(context).textTheme.bodyMedium?.copyWith(
                     color: colorScheme.onSurfaceVariant,
                   ),
@@ -100,9 +105,13 @@ class SuggestQuestionScreen extends StatelessWidget {
 }
 
 class _InfoCard extends StatelessWidget {
+  final AppTexts texts;
   final ColorScheme colorScheme;
 
-  const _InfoCard({required this.colorScheme});
+  const _InfoCard({
+    required this.texts,
+    required this.colorScheme,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -117,22 +126,21 @@ class _InfoCard extends StatelessWidget {
           ],
         ),
       ),
-      child: const Column(
+      child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Text(
-            'Предложите свой вопрос',
-            style: TextStyle(
+            texts.suggestHeroTitle,
+            style: const TextStyle(
               color: Colors.white,
               fontSize: 24,
               fontWeight: FontWeight.w800,
             ),
           ),
-          SizedBox(height: 8),
+          const SizedBox(height: 8),
           Text(
-            'Вы можете отправить свои идеи через Instagram, Telegram или Gmail. '
-            'Лучшие вопросы добавим в следующие обновления.',
-            style: TextStyle(
+            texts.suggestHeroDescription,
+            style: const TextStyle(
               color: Colors.white,
               height: 1.4,
             ),

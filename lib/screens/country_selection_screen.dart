@@ -2,7 +2,9 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 
+import '../models/app_texts.dart';
 import '../services/question_service.dart';
+import 'flag_badge.dart';
 import 'quiz_screen.dart';
 import 'region_selection_screen.dart';
 
@@ -10,36 +12,11 @@ class CountrySelectionScreen extends StatefulWidget {
   const CountrySelectionScreen({super.key});
 
   static const countries = [
-    _CountryOption(
-      code: 'russia',
-      title: 'Россия',
-      subtitle: 'Вопросы по стране и регионам',
-      icon: Icons.public_rounded,
-    ),
-    _CountryOption(
-      code: 'usa',
-      title: 'США',
-      subtitle: 'Категории по США и штатам',
-      icon: Icons.flag_rounded,
-    ),
-    _CountryOption(
-      code: 'china',
-      title: 'Китай',
-      subtitle: 'История, культура и современные факты',
-      icon: Icons.temple_buddhist_rounded,
-    ),
-    _CountryOption(
-      code: 'poland',
-      title: 'Польша',
-      subtitle: 'Вопросы по Польше и её известным людям',
-      icon: Icons.account_balance_rounded,
-    ),
-    _CountryOption(
-      code: 'france',
-      title: 'Франция',
-      subtitle: 'Французская история, кино, музыка и личности',
-      icon: Icons.park_rounded,
-    ),
+    _CountryOption(code: 'russia'),
+    _CountryOption(code: 'usa'),
+    _CountryOption(code: 'china'),
+    _CountryOption(code: 'poland'),
+    _CountryOption(code: 'france'),
   ];
 
   @override
@@ -61,29 +38,6 @@ class _CountrySelectionScreenState extends State<CountrySelectionScreen> {
     'movies',
     'music',
   ];
-
-  static const Map<String, String> _countryNames = {
-    'russia': 'Россия',
-    'usa': 'США',
-    'china': 'Китай',
-    'poland': 'Польша',
-    'france': 'Франция',
-  };
-
-  static const Map<String, String> _regionNames = {
-    'all': 'Вся страна',
-    'yakutia': 'Якутия',
-    'dagestan': 'Дагестан',
-    'texas': 'Техас',
-    'oklahoma': 'Оклахома',
-  };
-
-  static const Map<String, String> _categoryNames = {
-    'famous_people': 'Известные личности',
-    'history': 'История',
-    'movies': 'Фильмы',
-    'music': 'Музыка',
-  };
 
   bool _isQuickGameLoading = false;
   List<_QuickGameRoute>? _cachedQuickGameRoutes;
@@ -111,14 +65,15 @@ class _CountrySelectionScreenState extends State<CountrySelectionScreen> {
       return;
     }
 
+    final texts = AppTexts.of(context);
     if (routes.isEmpty) {
       setState(() {
         _isQuickGameLoading = false;
       });
 
       ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(
-          content: Text('Не удалось найти вопросы для быстрой игры.'),
+        SnackBar(
+          content: Text(texts.quickGameNoQuestions),
         ),
       );
       return;
@@ -129,12 +84,9 @@ class _CountrySelectionScreenState extends State<CountrySelectionScreen> {
       _isQuickGameLoading = false;
     });
 
-    final regionText =
-        _regionNames[selectedRoute.region] ?? selectedRoute.region;
-    final categoryText =
-        _categoryNames[selectedRoute.category] ?? selectedRoute.category;
-    final countryText =
-        _countryNames[selectedRoute.country] ?? selectedRoute.country;
+    final countryText = texts.countryName(selectedRoute.country);
+    final regionText = texts.regionName(selectedRoute.region);
+    final categoryText = texts.categoryName(selectedRoute.category);
     final selectedRegion =
         selectedRoute.region == 'all' ? null : selectedRoute.region;
 
@@ -142,7 +94,11 @@ class _CountrySelectionScreenState extends State<CountrySelectionScreen> {
       SnackBar(
         duration: const Duration(seconds: 2),
         content: Text(
-          'Быстрая игра: $countryText, $regionText, $categoryText',
+          texts.quickGameStarted(
+            country: countryText,
+            region: regionText,
+            category: categoryText,
+          ),
         ),
       ),
     );
@@ -201,12 +157,13 @@ class _CountrySelectionScreenState extends State<CountrySelectionScreen> {
 
   @override
   Widget build(BuildContext context) {
+    final texts = AppTexts.of(context);
     final colorScheme = Theme.of(context).colorScheme;
 
     return Scaffold(
       extendBodyBehindAppBar: true,
       appBar: AppBar(
-        title: const Text('Выбор страны'),
+        title: Text(texts.countrySelectionTitle),
         backgroundColor: Colors.transparent,
         elevation: 0,
       ),
@@ -227,19 +184,23 @@ class _CountrySelectionScreenState extends State<CountrySelectionScreen> {
             padding: const EdgeInsets.fromLTRB(18, 14, 18, 22),
             children: [
               _QuickPlayButton(
+                texts: texts,
                 isLoading: _isQuickGameLoading,
                 onPressed: _startQuickGame,
               ),
               const SizedBox(height: 12),
-              _HeaderCard(colorScheme: colorScheme),
+              _HeaderCard(
+                texts: texts,
+                colorScheme: colorScheme,
+              ),
               const SizedBox(height: 14),
               ...CountrySelectionScreen.countries.map(
                 (country) => Padding(
                   padding: const EdgeInsets.only(bottom: 10),
                   child: _CountryCard(
-                    title: country.title,
-                    subtitle: country.subtitle,
-                    icon: country.icon,
+                    flagCode: country.code,
+                    title: texts.countryName(country.code),
+                    subtitle: texts.countrySelectionSubtitle(country.code),
                     onTap: () => _openRegions(context, country.code),
                   ),
                 ),
@@ -253,10 +214,12 @@ class _CountrySelectionScreenState extends State<CountrySelectionScreen> {
 }
 
 class _QuickPlayButton extends StatelessWidget {
+  final AppTexts texts;
   final bool isLoading;
   final VoidCallback onPressed;
 
   const _QuickPlayButton({
+    required this.texts,
     required this.isLoading,
     required this.onPressed,
   });
@@ -277,16 +240,20 @@ class _QuickPlayButton extends StatelessWidget {
             )
           : const Icon(Icons.bolt_rounded),
       label: Text(
-        isLoading ? 'Подбор случайной игры...' : 'Быстрая игра',
+        isLoading ? texts.quickGameLoadingTitle : texts.quickGameTitle,
       ),
     );
   }
 }
 
 class _HeaderCard extends StatelessWidget {
+  final AppTexts texts;
   final ColorScheme colorScheme;
 
-  const _HeaderCard({required this.colorScheme});
+  const _HeaderCard({
+    required this.texts,
+    required this.colorScheme,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -308,21 +275,21 @@ class _HeaderCard extends StatelessWidget {
           ),
         ],
       ),
-      child: const Column(
+      child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Text(
-            'С чего начнем?',
-            style: TextStyle(
+            texts.countrySelectionHeaderTitle,
+            style: const TextStyle(
               color: Colors.white,
               fontSize: 24,
               fontWeight: FontWeight.w800,
             ),
           ),
-          SizedBox(height: 8),
+          const SizedBox(height: 8),
           Text(
-            'Выберите страну, затем регион и категорию. Либо нажмите "Быстрая игра", чтобы сразу запустить случайный раунд.',
-            style: TextStyle(
+            texts.countrySelectionHeaderDescription,
+            style: const TextStyle(
               color: Colors.white,
               height: 1.45,
             ),
@@ -334,15 +301,15 @@ class _HeaderCard extends StatelessWidget {
 }
 
 class _CountryCard extends StatelessWidget {
+  final String flagCode;
   final String title;
   final String subtitle;
-  final IconData icon;
   final VoidCallback onTap;
 
   const _CountryCard({
+    required this.flagCode,
     required this.title,
     required this.subtitle,
-    required this.icon,
     required this.onTap,
   });
 
@@ -362,15 +329,7 @@ class _CountryCard extends StatelessWidget {
           padding: const EdgeInsets.all(14),
           child: Row(
             children: [
-              Container(
-                width: 48,
-                height: 48,
-                decoration: BoxDecoration(
-                  shape: BoxShape.circle,
-                  color: colorScheme.primary.withValues(alpha: 0.12),
-                ),
-                child: Icon(icon, color: colorScheme.primary),
-              ),
+              FlagBadge(code: flagCode),
               const SizedBox(width: 12),
               Expanded(
                 child: Column(
@@ -403,15 +362,9 @@ class _CountryCard extends StatelessWidget {
 
 class _CountryOption {
   final String code;
-  final String title;
-  final String subtitle;
-  final IconData icon;
 
   const _CountryOption({
     required this.code,
-    required this.title,
-    required this.subtitle,
-    required this.icon,
   });
 }
 

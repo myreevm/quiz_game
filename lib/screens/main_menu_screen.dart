@@ -2,6 +2,7 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 
+import '../models/app_texts.dart';
 import 'about_screen.dart';
 import 'country_selection_screen.dart';
 import 'settings_screen.dart';
@@ -18,20 +19,21 @@ class MainMenuScreen extends StatelessWidget {
   }
 
   Future<void> _confirmExit(BuildContext context) async {
+    final texts = AppTexts.of(context);
     final shouldExit = await showDialog<bool>(
       context: context,
       builder: (context) {
         return AlertDialog(
-          title: const Text('Выход'),
-          content: const Text('Закрыть приложение?'),
+          title: Text(texts.exitDialogTitle),
+          content: Text(texts.exitDialogMessage),
           actions: [
             TextButton(
               onPressed: () => Navigator.pop(context, false),
-              child: const Text('Отмена'),
+              child: Text(texts.cancelButton),
             ),
             FilledButton(
               onPressed: () => Navigator.pop(context, true),
-              child: const Text('Выйти'),
+              child: Text(texts.confirmExitButton),
             ),
           ],
         );
@@ -45,12 +47,13 @@ class MainMenuScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final texts = AppTexts.of(context);
     final colorScheme = Theme.of(context).colorScheme;
 
     return Scaffold(
       extendBodyBehindAppBar: true,
       appBar: AppBar(
-        title: const Text('Главное меню'),
+        title: Text(texts.mainMenuTitle),
         backgroundColor: Colors.transparent,
         elevation: 0,
       ),
@@ -85,20 +88,25 @@ class MainMenuScreen extends StatelessWidget {
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.stretch,
                       children: [
-                        _MainMenuHeader(colorScheme: colorScheme),
+                        _MainMenuHeader(
+                          colorScheme: colorScheme,
+                          texts: texts,
+                        ),
                         const SizedBox(height: 18),
                         _MenuActionCard(
-                          title: 'Играть',
-                          subtitle: 'Начать новую викторину',
+                          title: texts.playActionTitle,
+                          subtitle: texts.playActionSubtitle,
                           icon: Icons.play_circle_fill_rounded,
                           color: colorScheme.primary,
                           onTap: () => _openScreen(
-                              context, const CountrySelectionScreen()),
+                            context,
+                            const CountrySelectionScreen(),
+                          ),
                         ),
                         const SizedBox(height: 12),
                         _MenuActionCard(
-                          title: 'Настройки',
-                          subtitle: 'Тема, звук и параметры игры',
+                          title: texts.settingsActionTitle,
+                          subtitle: texts.settingsActionSubtitle,
                           icon: Icons.tune_rounded,
                           color: colorScheme.secondary,
                           onTap: () =>
@@ -106,8 +114,8 @@ class MainMenuScreen extends StatelessWidget {
                         ),
                         const SizedBox(height: 12),
                         _MenuActionCard(
-                          title: 'Об игре',
-                          subtitle: 'Описание, режимы и советы',
+                          title: texts.aboutActionTitle,
+                          subtitle: texts.aboutActionSubtitle,
                           icon: Icons.info_rounded,
                           color: colorScheme.tertiary,
                           onTap: () =>
@@ -115,18 +123,20 @@ class MainMenuScreen extends StatelessWidget {
                         ),
                         const SizedBox(height: 12),
                         _MenuActionCard(
-                          title: 'Предложить вопрос',
-                          subtitle: 'Instagram, Telegram или Gmail',
+                          title: texts.suggestActionTitle,
+                          subtitle: texts.suggestActionSubtitle,
                           icon: Icons.rate_review_rounded,
                           color: colorScheme.primary,
                           onTap: () => _openScreen(
-                              context, const SuggestQuestionScreen()),
+                            context,
+                            const SuggestQuestionScreen(),
+                          ),
                         ),
                         const SizedBox(height: 18),
                         FilledButton.tonalIcon(
                           onPressed: () => _confirmExit(context),
                           icon: const Icon(Icons.logout_rounded),
-                          label: const Text('Выйти'),
+                          label: Text(texts.exitActionTitle),
                           style: FilledButton.styleFrom(
                             padding: const EdgeInsets.symmetric(vertical: 16),
                           ),
@@ -146,8 +156,12 @@ class MainMenuScreen extends StatelessWidget {
 
 class _MainMenuHeader extends StatelessWidget {
   final ColorScheme colorScheme;
+  final AppTexts texts;
 
-  const _MainMenuHeader({required this.colorScheme});
+  const _MainMenuHeader({
+    required this.colorScheme,
+    required this.texts,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -172,18 +186,18 @@ class _MainMenuHeader extends StatelessWidget {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          const Text(
-            'Quiz Game',
-            style: TextStyle(
+          Text(
+            texts.appTitle,
+            style: const TextStyle(
               fontSize: 30,
               fontWeight: FontWeight.w800,
               color: Colors.white,
             ),
           ),
           const SizedBox(height: 8),
-          const Text(
-            'Проверьте знания по категориям, странам и регионам в динамичном формате.',
-            style: TextStyle(
+          Text(
+            texts.mainMenuHeaderDescription,
+            style: const TextStyle(
               fontSize: 15,
               color: Colors.white,
               height: 1.4,
@@ -193,10 +207,10 @@ class _MainMenuHeader extends StatelessWidget {
           Wrap(
             spacing: 8,
             runSpacing: 8,
-            children: const [
-              _HeaderTag(text: 'Категории'),
-              _HeaderTag(text: 'Прогресс'),
-              _HeaderTag(text: 'Результаты'),
+            children: [
+              _HeaderTag(text: texts.mainMenuTagCategories),
+              _HeaderTag(text: texts.mainMenuTagProgress),
+              _HeaderTag(text: texts.mainMenuTagResults),
             ],
           ),
         ],

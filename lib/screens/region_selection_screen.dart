@@ -1,47 +1,29 @@
 import 'package:flutter/material.dart';
 
+import '../models/app_texts.dart';
 import 'category_selection_screen.dart';
+import 'flag_badge.dart';
 
 class RegionSelectionScreen extends StatelessWidget {
   final String country;
 
   const RegionSelectionScreen({super.key, required this.country});
 
-  static const countryNames = {
-    'russia': 'Россия',
-    'usa': 'США',
-    'china': 'Китай',
-    'poland': 'Польша',
-    'france': 'Франция',
-  };
-
   static const regionsByCountry = {
     'russia': [
       _RegionOption(
         code: 'yakutia',
-        title: 'Якутия',
-        subtitle: 'Северный регион с богатой историей',
-        icon: Icons.ac_unit_rounded,
       ),
       _RegionOption(
         code: 'dagestan',
-        title: 'Дагестан',
-        subtitle: 'Культура, традиции и известные события',
-        icon: Icons.terrain_rounded,
       ),
     ],
     'usa': [
       _RegionOption(
         code: 'texas',
-        title: 'Техас',
-        subtitle: 'История и культура одного из крупнейших штатов',
-        icon: Icons.landscape_rounded,
       ),
       _RegionOption(
         code: 'oklahoma',
-        title: 'Оклахома',
-        subtitle: 'Факты о музыке, кино и прошлом штата',
-        icon: Icons.location_city_rounded,
       ),
     ],
   };
@@ -60,14 +42,15 @@ class RegionSelectionScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final texts = AppTexts.of(context);
     final colorScheme = Theme.of(context).colorScheme;
-    final countryName = countryNames[country] ?? country.toUpperCase();
+    final countryName = texts.countryName(country);
     final regions = regionsByCountry[country] ?? const <_RegionOption>[];
 
     return Scaffold(
       extendBodyBehindAppBar: true,
       appBar: AppBar(
-        title: const Text('Выбор региона'),
+        title: Text(texts.regionSelectionTitle),
         backgroundColor: Colors.transparent,
         elevation: 0,
       ),
@@ -88,14 +71,15 @@ class RegionSelectionScreen extends StatelessWidget {
             padding: const EdgeInsets.fromLTRB(18, 14, 18, 22),
             children: [
               _RegionHeader(
+                texts: texts,
                 countryName: countryName,
                 colorScheme: colorScheme,
               ),
               const SizedBox(height: 14),
               _RegionCard(
-                title: 'Вся страна',
-                subtitle: 'Вопросы без выбора конкретного региона',
-                icon: Icons.map_rounded,
+                flagCode: 'all',
+                title: texts.regionAllCountryTitle,
+                subtitle: texts.regionAllCountrySubtitle,
                 color: colorScheme.primary,
                 onTap: () => _openCategories(context, null),
               ),
@@ -104,9 +88,12 @@ class RegionSelectionScreen extends StatelessWidget {
                 (region) => Padding(
                   padding: const EdgeInsets.only(bottom: 10),
                   child: _RegionCard(
-                    title: region.title,
-                    subtitle: region.subtitle,
-                    icon: region.icon,
+                    flagCode: region.code,
+                    title: texts.regionName(region.code),
+                    subtitle: texts.regionSubtitle(
+                      country: country,
+                      region: region.code,
+                    ),
                     color: colorScheme.secondary,
                     onTap: () => _openCategories(context, region.code),
                   ),
@@ -121,10 +108,12 @@ class RegionSelectionScreen extends StatelessWidget {
 }
 
 class _RegionHeader extends StatelessWidget {
+  final AppTexts texts;
   final String countryName;
   final ColorScheme colorScheme;
 
   const _RegionHeader({
+    required this.texts,
     required this.countryName,
     required this.colorScheme,
   });
@@ -152,9 +141,9 @@ class _RegionHeader extends StatelessWidget {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          const Text(
-            'Выберите регион',
-            style: TextStyle(
+          Text(
+            texts.regionSelectionHeaderTitle,
+            style: const TextStyle(
               color: Colors.white,
               fontSize: 24,
               fontWeight: FontWeight.w800,
@@ -162,16 +151,16 @@ class _RegionHeader extends StatelessWidget {
           ),
           const SizedBox(height: 8),
           Text(
-            'Страна: $countryName',
+            texts.regionSelectionCountryLabel(countryName),
             style: const TextStyle(
               color: Colors.white,
               fontWeight: FontWeight.w600,
             ),
           ),
           const SizedBox(height: 6),
-          const Text(
-            'Можно играть как по всей стране, так и по отдельным регионам.',
-            style: TextStyle(
+          Text(
+            texts.regionSelectionHeaderDescription,
+            style: const TextStyle(
               color: Colors.white,
               height: 1.4,
             ),
@@ -183,16 +172,16 @@ class _RegionHeader extends StatelessWidget {
 }
 
 class _RegionCard extends StatelessWidget {
+  final String flagCode;
   final String title;
   final String subtitle;
-  final IconData icon;
   final Color color;
   final VoidCallback onTap;
 
   const _RegionCard({
+    required this.flagCode,
     required this.title,
     required this.subtitle,
-    required this.icon,
     required this.color,
     required this.onTap,
   });
@@ -213,15 +202,7 @@ class _RegionCard extends StatelessWidget {
           padding: const EdgeInsets.all(14),
           child: Row(
             children: [
-              Container(
-                width: 48,
-                height: 48,
-                decoration: BoxDecoration(
-                  shape: BoxShape.circle,
-                  color: color.withValues(alpha: 0.14),
-                ),
-                child: Icon(icon, color: color),
-              ),
+              FlagBadge(code: flagCode),
               const SizedBox(width: 12),
               Expanded(
                 child: Column(
@@ -254,14 +235,8 @@ class _RegionCard extends StatelessWidget {
 
 class _RegionOption {
   final String code;
-  final String title;
-  final String subtitle;
-  final IconData icon;
 
   const _RegionOption({
     required this.code,
-    required this.title,
-    required this.subtitle,
-    required this.icon,
   });
 }

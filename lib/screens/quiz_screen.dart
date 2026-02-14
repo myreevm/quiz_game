@@ -3,6 +3,7 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 
 import '../models/app_settings.dart';
+import '../models/app_texts.dart';
 import '../models/question.dart';
 import '../services/question_service.dart';
 import 'result_screen.dart';
@@ -102,6 +103,8 @@ class _QuizScreenState extends State<QuizScreen> {
 
   @override
   Widget build(BuildContext context) {
+    final texts = AppTexts.of(context);
+
     if (isLoading) {
       return const Scaffold(
         body: Center(child: CircularProgressIndicator()),
@@ -109,7 +112,10 @@ class _QuizScreenState extends State<QuizScreen> {
     }
 
     if (questions.isEmpty) {
-      return _QuizEmptyState(category: _categoryTitle(widget.category));
+      return _QuizEmptyState(
+        texts: texts,
+        category: texts.categoryName(widget.category),
+      );
     }
 
     final currentQuestion = questions[questionIndex];
@@ -119,7 +125,7 @@ class _QuizScreenState extends State<QuizScreen> {
     return Scaffold(
       extendBodyBehindAppBar: true,
       appBar: AppBar(
-        title: Text(_categoryTitle(widget.category)),
+        title: Text(texts.categoryName(widget.category)),
         centerTitle: true,
         backgroundColor: Colors.transparent,
         elevation: 0,
@@ -156,6 +162,7 @@ class _QuizScreenState extends State<QuizScreen> {
                       crossAxisAlignment: CrossAxisAlignment.stretch,
                       children: [
                         _QuizProgressCard(
+                          texts: texts,
                           currentQuestion: questionIndex + 1,
                           totalQuestions: questions.length,
                           score: score,
@@ -172,7 +179,7 @@ class _QuizScreenState extends State<QuizScreen> {
                         ),
                         const SizedBox(height: 14),
                         Text(
-                          'Выберите один вариант ответа',
+                          texts.quizSelectAnswer,
                           style:
                               Theme.of(context).textTheme.bodyMedium?.copyWith(
                                     color: colorScheme.onSurfaceVariant,
@@ -206,17 +213,6 @@ class _QuizScreenState extends State<QuizScreen> {
     );
   }
 
-  String _categoryTitle(String category) {
-    const categories = {
-      'famous_people': 'Известные личности',
-      'history': 'История',
-      'movies': 'Фильмы',
-      'music': 'Музыка',
-    };
-
-    return categories[category] ?? category.toUpperCase();
-  }
-
   Color _optionColor(int index, ColorScheme colorScheme) {
     switch (index % 4) {
       case 0:
@@ -232,12 +228,14 @@ class _QuizScreenState extends State<QuizScreen> {
 }
 
 class _QuizProgressCard extends StatelessWidget {
+  final AppTexts texts;
   final int currentQuestion;
   final int totalQuestions;
   final int score;
   final double progress;
 
   const _QuizProgressCard({
+    required this.texts,
     required this.currentQuestion,
     required this.totalQuestions,
     required this.score,
@@ -274,7 +272,7 @@ class _QuizProgressCard extends StatelessWidget {
             children: [
               Expanded(
                 child: Text(
-                  'Вопрос $currentQuestion из $totalQuestions',
+                  texts.quizQuestionProgress(currentQuestion, totalQuestions),
                   style: textTheme.titleMedium?.copyWith(
                     color: Colors.white,
                     fontWeight: FontWeight.w800,
@@ -289,7 +287,7 @@ class _QuizProgressCard extends StatelessWidget {
                   borderRadius: BorderRadius.circular(999),
                 ),
                 child: Text(
-                  'Очки: $score',
+                  texts.quizScoreLabel(score),
                   style: textTheme.labelLarge?.copyWith(
                     color: Colors.white,
                     fontWeight: FontWeight.w700,
@@ -441,9 +439,13 @@ class _AnswerCard extends StatelessWidget {
 }
 
 class _QuizEmptyState extends StatelessWidget {
+  final AppTexts texts;
   final String category;
 
-  const _QuizEmptyState({required this.category});
+  const _QuizEmptyState({
+    required this.texts,
+    required this.category,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -451,7 +453,7 @@ class _QuizEmptyState extends StatelessWidget {
     final textTheme = Theme.of(context).textTheme;
 
     return Scaffold(
-      appBar: AppBar(title: const Text('Викторина')),
+      appBar: AppBar(title: Text(texts.quizScreenTitle)),
       body: Center(
         child: Padding(
           padding: const EdgeInsets.all(24),
@@ -479,15 +481,14 @@ class _QuizEmptyState extends StatelessWidget {
                     ),
                     const SizedBox(height: 14),
                     Text(
-                      'Пока нет вопросов',
+                      texts.quizEmptyTitle,
                       style: textTheme.titleLarge?.copyWith(
                         fontWeight: FontWeight.w800,
                       ),
                     ),
                     const SizedBox(height: 8),
                     Text(
-                      'Для категории "$category" вопросы ещё не добавлены. '
-                      'Попробуйте другую категорию или регион.',
+                      texts.quizEmptyDescription(category),
                       textAlign: TextAlign.center,
                       style: textTheme.bodyMedium?.copyWith(
                         color: colorScheme.onSurfaceVariant,
@@ -498,7 +499,7 @@ class _QuizEmptyState extends StatelessWidget {
                     FilledButton.icon(
                       onPressed: () => Navigator.pop(context),
                       icon: const Icon(Icons.arrow_back_rounded),
-                      label: const Text('Вернуться назад'),
+                      label: Text(texts.backButton),
                     ),
                   ],
                 ),

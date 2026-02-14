@@ -1,32 +1,21 @@
 import 'package:flutter/material.dart';
 
+import '../models/app_texts.dart';
+
 class ResultScreen extends StatelessWidget {
   final int score;
   final int total;
 
   const ResultScreen({super.key, required this.score, required this.total});
 
-  String get resultMessage {
-    final percent = score / total;
-
-    if (percent >= 0.9) {
-      return 'Отличный результат! Вы настоящий эксперт 🎉';
-    }
-    if (percent >= 0.7) {
-      return 'Очень хорошо! Ещё немного и будет максимум 👏';
-    }
-    if (percent >= 0.5) {
-      return 'Неплохо! Попробуйте снова, чтобы улучшить результат 👍';
-    }
-    return 'Хорошая попытка! В следующий раз будет лучше 💪';
-  }
-
   @override
   Widget build(BuildContext context) {
+    final texts = AppTexts.of(context);
     final percent = ((score / total) * 100).round();
+    final ratio = score / total;
 
     return Scaffold(
-      appBar: AppBar(title: const Text('Результат')),
+      appBar: AppBar(title: Text(texts.resultTitle)),
       body: Center(
         child: Padding(
           padding: const EdgeInsets.all(24),
@@ -34,7 +23,7 @@ class ResultScreen extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Text(
-                'Ваш результат: $score из $total',
+                texts.resultScoreText(score, total),
                 textAlign: TextAlign.center,
                 style: const TextStyle(fontSize: 24),
               ),
@@ -45,7 +34,7 @@ class ResultScreen extends StatelessWidget {
               ),
               const SizedBox(height: 16),
               Text(
-                resultMessage,
+                texts.resultMessageForPercent(ratio),
                 textAlign: TextAlign.center,
                 style: Theme.of(context).textTheme.titleMedium,
               ),
@@ -54,8 +43,8 @@ class ResultScreen extends StatelessWidget {
                 onPressed: () {
                   Navigator.popUntil(context, (route) => route.isFirst);
                 },
-                child: const Text('В главное меню'),
-              )
+                child: Text(texts.resultToMainMenu),
+              ),
             ],
           ),
         ),

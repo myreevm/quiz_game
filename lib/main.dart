@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'models/app_settings.dart';
+import 'models/app_texts.dart';
 import 'screens/main_menu_screen.dart';
 
 void main() {
@@ -19,10 +20,11 @@ class QuizApp extends StatelessWidget {
         animation: controller,
         builder: (context, _) {
           final isDarkMode = controller.settings.darkModeEnabled;
+          final texts = AppTexts.of(context);
 
           return MaterialApp(
             debugShowCheckedModeBanner: false,
-            title: 'Quiz Game',
+            title: texts.appTitle,
             themeMode: isDarkMode ? ThemeMode.dark : ThemeMode.light,
             theme: ThemeData(
               colorScheme: ColorScheme.fromSeed(

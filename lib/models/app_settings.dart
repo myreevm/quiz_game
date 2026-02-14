@@ -1,11 +1,18 @@
 import 'package:flutter/material.dart';
 
+enum AppLanguage {
+  english,
+  russian,
+  yakut,
+}
+
 class AppSettings {
   final bool darkModeEnabled;
   final bool soundEnabled;
   final bool shuffleQuestions;
   final bool shuffleAnswers;
   final int questionsPerRound;
+  final AppLanguage appLanguage;
 
   const AppSettings({
     this.darkModeEnabled = false,
@@ -13,6 +20,7 @@ class AppSettings {
     this.shuffleQuestions = true,
     this.shuffleAnswers = true,
     this.questionsPerRound = 10,
+    this.appLanguage = AppLanguage.russian,
   });
 
   AppSettings copyWith({
@@ -21,6 +29,7 @@ class AppSettings {
     bool? shuffleQuestions,
     bool? shuffleAnswers,
     int? questionsPerRound,
+    AppLanguage? appLanguage,
   }) {
     return AppSettings(
       darkModeEnabled: darkModeEnabled ?? this.darkModeEnabled,
@@ -28,6 +37,7 @@ class AppSettings {
       shuffleQuestions: shuffleQuestions ?? this.shuffleQuestions,
       shuffleAnswers: shuffleAnswers ?? this.shuffleAnswers,
       questionsPerRound: questionsPerRound ?? this.questionsPerRound,
+      appLanguage: appLanguage ?? this.appLanguage,
     );
   }
 }
@@ -59,6 +69,11 @@ class AppSettingsController extends ChangeNotifier {
 
   void setQuestionsPerRound(int value) {
     _settings = _settings.copyWith(questionsPerRound: value);
+    notifyListeners();
+  }
+
+  void setAppLanguage(AppLanguage language) {
+    _settings = _settings.copyWith(appLanguage: language);
     notifyListeners();
   }
 }

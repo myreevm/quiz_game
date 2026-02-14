@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import '../models/app_texts.dart';
 import 'quiz_screen.dart';
 
 class CategorySelectionScreen extends StatelessWidget {
@@ -12,44 +13,21 @@ class CategorySelectionScreen extends StatelessWidget {
     required this.region,
   });
 
-  static const countryNames = {
-    'russia': 'Россия',
-    'usa': 'США',
-    'china': 'Китай',
-    'poland': 'Польша',
-    'france': 'Франция',
-  };
-
-  static const regionNames = {
-    'yakutia': 'Якутия',
-    'dagestan': 'Дагестан',
-    'texas': 'Техас',
-    'oklahoma': 'Оклахома',
-  };
-
   static const categories = [
     _CategoryOption(
       id: 'famous_people',
-      title: 'Известные личности',
-      subtitle: 'Выдающиеся люди, биографии и достижения',
       icon: Icons.person_rounded,
     ),
     _CategoryOption(
       id: 'history',
-      title: 'История',
-      subtitle: 'Ключевые события, даты и факты',
       icon: Icons.history_edu_rounded,
     ),
     _CategoryOption(
       id: 'movies',
-      title: 'Фильмы',
-      subtitle: 'Кино, режиссёры и знаковые сцены',
       icon: Icons.movie_rounded,
     ),
     _CategoryOption(
       id: 'music',
-      title: 'Музыка',
-      subtitle: 'Жанры, исполнители и популярные треки',
       icon: Icons.music_note_rounded,
     ),
   ];
@@ -69,17 +47,19 @@ class CategorySelectionScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final texts = AppTexts.of(context);
     final colorScheme = Theme.of(context).colorScheme;
-    final countryName = countryNames[country] ?? country.toUpperCase();
-    final regionName = region == null ? null : regionNames[region!] ?? region;
+    final countryName = texts.countryName(country);
+    final regionName = region == null ? null : texts.regionName(region!);
     final locationTitle = regionName ?? countryName;
-    final locationSubtitle =
-        regionName == null ? 'Страна целиком' : 'Страна: $countryName';
+    final locationSubtitle = regionName == null
+        ? texts.categorySelectionLocationAllCountry
+        : texts.categorySelectionLocationByCountry(countryName);
 
     return Scaffold(
       extendBodyBehindAppBar: true,
       appBar: AppBar(
-        title: const Text('Выбор категории'),
+        title: Text(texts.categorySelectionTitle),
         backgroundColor: Colors.transparent,
         elevation: 0,
       ),
@@ -100,6 +80,7 @@ class CategorySelectionScreen extends StatelessWidget {
             padding: const EdgeInsets.fromLTRB(18, 14, 18, 22),
             children: [
               _CategoryHeader(
+                texts: texts,
                 locationTitle: locationTitle,
                 locationSubtitle: locationSubtitle,
                 colorScheme: colorScheme,
@@ -113,8 +94,8 @@ class CategorySelectionScreen extends StatelessWidget {
                 return Padding(
                   padding: const EdgeInsets.only(bottom: 10),
                   child: _CategoryCard(
-                    title: category.title,
-                    subtitle: category.subtitle,
+                    title: texts.categoryName(category.id),
+                    subtitle: texts.categorySubtitle(category.id),
                     icon: category.icon,
                     iconColor: iconColor,
                     onTap: () => _openQuiz(context, category.id),
@@ -143,11 +124,13 @@ class CategorySelectionScreen extends StatelessWidget {
 }
 
 class _CategoryHeader extends StatelessWidget {
+  final AppTexts texts;
   final String locationTitle;
   final String locationSubtitle;
   final ColorScheme colorScheme;
 
   const _CategoryHeader({
+    required this.texts,
     required this.locationTitle,
     required this.locationSubtitle,
     required this.colorScheme,
@@ -176,9 +159,9 @@ class _CategoryHeader extends StatelessWidget {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          const Text(
-            'Выберите категорию',
-            style: TextStyle(
+          Text(
+            texts.categorySelectionHeaderTitle,
+            style: const TextStyle(
               color: Colors.white,
               fontSize: 24,
               fontWeight: FontWeight.w800,
@@ -278,14 +261,10 @@ class _CategoryCard extends StatelessWidget {
 
 class _CategoryOption {
   final String id;
-  final String title;
-  final String subtitle;
   final IconData icon;
 
   const _CategoryOption({
     required this.id,
-    required this.title,
-    required this.subtitle,
     required this.icon,
   });
 }

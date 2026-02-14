@@ -1,15 +1,18 @@
 import 'package:flutter/material.dart';
 
+import '../models/app_texts.dart';
+
 class AboutScreen extends StatelessWidget {
   const AboutScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
+    final texts = AppTexts.of(context);
     final colorScheme = Theme.of(context).colorScheme;
     final isWide = MediaQuery.of(context).size.width > 700;
 
     return Scaffold(
-      appBar: AppBar(title: const Text('Об игре')),
+      appBar: AppBar(title: Text(texts.aboutTitle)),
       body: Container(
         decoration: BoxDecoration(
           gradient: LinearGradient(
@@ -27,93 +30,80 @@ class AboutScreen extends StatelessWidget {
             constraints: const BoxConstraints(maxWidth: 900),
             child: ListView(
               padding: EdgeInsets.fromLTRB(
-                  isWide ? 30 : 18, 16, isWide ? 30 : 18, 24),
+                isWide ? 30 : 18,
+                16,
+                isWide ? 30 : 18,
+                24,
+              ),
               children: [
-                _AboutHero(colorScheme: colorScheme),
+                _AboutHero(
+                  texts: texts,
+                  colorScheme: colorScheme,
+                ),
                 const SizedBox(height: 16),
-                const _SectionCard(
-                  title: 'Что это за приложение',
+                _SectionCard(
+                  title: texts.aboutSectionWhatTitle,
                   icon: Icons.quiz_rounded,
                   child: Text(
-                    'Quiz Game — это обучающая викторина, где вы отвечаете на вопросы по разным темам: история, музыка, кино и известные личности. '
-                    'Приложение подходит для коротких игровых сессий, тренировки памяти и проверки эрудиции.',
-                    style: TextStyle(height: 1.5),
+                    texts.aboutSectionWhatBody,
+                    style: const TextStyle(height: 1.5),
                   ),
                 ),
                 const SizedBox(height: 12),
-                const _SectionCard(
-                  title: 'Как играть',
+                _SectionCard(
+                  title: texts.aboutSectionHowTitle,
                   icon: Icons.flag_rounded,
                   child: Column(
                     children: [
-                      _StepTile(
-                        step: '1',
-                        text: 'Выберите страну и при необходимости регион.',
-                      ),
-                      SizedBox(height: 10),
-                      _StepTile(
-                        step: '2',
-                        text: 'Откройте категорию и начните раунд.',
-                      ),
-                      SizedBox(height: 10),
-                      _StepTile(
-                        step: '3',
-                        text: 'Отвечайте на вопросы и следите за прогрессом.',
-                      ),
-                      SizedBox(height: 10),
-                      _StepTile(
-                        step: '4',
-                        text:
-                            'В конце получите итог, процент правильных ответов и обратную связь.',
-                      ),
+                      _StepTile(step: '1', text: texts.aboutStep1),
+                      const SizedBox(height: 10),
+                      _StepTile(step: '2', text: texts.aboutStep2),
+                      const SizedBox(height: 10),
+                      _StepTile(step: '3', text: texts.aboutStep3),
+                      const SizedBox(height: 10),
+                      _StepTile(step: '4', text: texts.aboutStep4),
                     ],
                   ),
                 ),
                 const SizedBox(height: 12),
-                const _SectionCard(
-                  title: 'Возможности',
+                _SectionCard(
+                  title: texts.aboutSectionFeaturesTitle,
                   icon: Icons.auto_awesome_rounded,
                   child: Column(
                     children: [
                       _FeatureTile(
                         icon: Icons.shuffle_rounded,
-                        text: 'Перемешивание вопросов и вариантов ответов',
+                        text: texts.aboutFeature1,
                       ),
-                      SizedBox(height: 8),
+                      const SizedBox(height: 8),
                       _FeatureTile(
                         icon: Icons.palette_rounded,
-                        text: 'Светлая и тёмная тема',
+                        text: texts.aboutFeature2,
                       ),
-                      SizedBox(height: 8),
+                      const SizedBox(height: 8),
                       _FeatureTile(
                         icon: Icons.tune_rounded,
-                        text: 'Настройка количества вопросов в раунде',
+                        text: texts.aboutFeature3,
                       ),
-                      SizedBox(height: 8),
+                      const SizedBox(height: 8),
                       _FeatureTile(
                         icon: Icons.insights_rounded,
-                        text: 'Экран результата с процентом и комментариями',
+                        text: texts.aboutFeature4,
                       ),
                     ],
                   ),
                 ),
                 const SizedBox(height: 12),
-                const _SectionCard(
-                  title: 'Советы для лучшего результата',
+                _SectionCard(
+                  title: texts.aboutSectionTipsTitle,
                   icon: Icons.lightbulb_rounded,
                   child: Column(
                     children: [
-                      _TipTile(
-                          text:
-                              'Запускайте разные категории — так знания закрепляются лучше.'),
-                      SizedBox(height: 8),
-                      _TipTile(
-                          text:
-                              'Попробуйте уменьшить время на ответ для дополнительной сложности.'),
-                      SizedBox(height: 8),
-                      _TipTile(
-                          text:
-                              'Повторяйте раунды и сравнивайте свой прогресс.'),
+                      _TipTile(text: texts.aboutTip1),
+                      const SizedBox(height: 8),
+                      _TipTile(text: texts.aboutTip2),
+                      const SizedBox(height: 8),
+                      _TipTile(text: texts.aboutTip3),
                     ],
                   ),
                 ),
@@ -129,11 +119,13 @@ class AboutScreen extends StatelessWidget {
                   ),
                   child: Row(
                     children: [
-                      Icon(Icons.info_outline_rounded,
-                          color: colorScheme.primary),
+                      Icon(
+                        Icons.info_outline_rounded,
+                        color: colorScheme.primary,
+                      ),
                       const SizedBox(width: 10),
                       Text(
-                        'Версия приложения: 1.1',
+                        texts.appVersionLabel('1.1'),
                         style: TextStyle(
                           color: colorScheme.onSurfaceVariant,
                           fontWeight: FontWeight.w600,
@@ -152,9 +144,13 @@ class AboutScreen extends StatelessWidget {
 }
 
 class _AboutHero extends StatelessWidget {
+  final AppTexts texts;
   final ColorScheme colorScheme;
 
-  const _AboutHero({required this.colorScheme});
+  const _AboutHero({
+    required this.texts,
+    required this.colorScheme,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -176,27 +172,27 @@ class _AboutHero extends StatelessWidget {
           ),
         ],
       ),
-      child: const Row(
+      child: Row(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Icon(Icons.school_rounded, color: Colors.white, size: 36),
-          SizedBox(width: 14),
+          const Icon(Icons.school_rounded, color: Colors.white, size: 36),
+          const SizedBox(width: 14),
           Expanded(
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(
-                  'О проекте Quiz Game',
-                  style: TextStyle(
+                  texts.aboutHeroTitle,
+                  style: const TextStyle(
                     color: Colors.white,
                     fontSize: 24,
                     fontWeight: FontWeight.w800,
                   ),
                 ),
-                SizedBox(height: 8),
+                const SizedBox(height: 8),
                 Text(
-                  'Простая и увлекательная викторина для тренировки кругозора, внимания и скорости мышления.',
-                  style: TextStyle(
+                  texts.aboutHeroDescription,
+                  style: const TextStyle(
                     color: Colors.white,
                     height: 1.45,
                   ),
