@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Как называется государственный гимн Франции?",
+    "answers": [
+      {"text": "Марсельеза", "score": 1},
+      {"text": "Ода к радости", "score": 0},
+      {"text": "Боже, храни короля", "score": 0},
+      {"text": "Интернационал", "score": 0}
+    ]
+  },
+  {
+    "question": "Какая французская певица исполнила знаменитую песню «La Vie en rose»?",
+    "answers": [
+      {"text": "Эдит Пиаф", "score": 1},
+      {"text": "Мирей Матье", "score": 0},
+      {"text": "Заз", "score": 0},
+      {"text": "Франсуаза Арди", "score": 0}
+    ]
+  },
+  {
+    "question": "Какой французский электронный дуэт известен альбомом «Random Access Memories»?",
+    "answers": [
+      {"text": "Daft Punk", "score": 1},
+      {"text": "Justice", "score": 0},
+      {"text": "Air", "score": 0},
+      {"text": "Phoenix", "score": 0}
+    ]
+  },
+  {
+    "question": "Как называется ежегодный французский музыкальный праздник, проходящий 21 июня?",
+    "answers": [
+      {"text": "Fete de la Musique", "score": 1},
+      {"text": "Cannes Musique", "score": 0},
+      {"text": "Bastille Sounds", "score": 0},
+      {"text": "Paris Chanson Day", "score": 0}
+    ]
+  },
+  {
+    "question": "Какого гитариста, родившегося во Франции, считают одним из символов джаза-мануш?",
+    "answers": [
+      {"text": "Джанго Рейнхардт", "score": 1},
+      {"text": "Пако де Лусия", "score": 0},
+      {"text": "Карлос Сантана", "score": 0},
+      {"text": "Б.Б. Кинг", "score": 0}
+    ]
+  }
+]

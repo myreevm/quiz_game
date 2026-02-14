@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Какой известный американский комик и публицист родился в Оклахоме?",
+    "answers": [
+      {"text": "Уилл Роджерс", "score": 1},
+      {"text": "Чарли Чаплин", "score": 0},
+      {"text": "Робин Уильямс", "score": 0},
+      {"text": "Эдди Мерфи", "score": 0}
+    ]
+  },
+  {
+    "question": "Какая кантри-певица, победившая в American Idol, родом из Оклахомы?",
+    "answers": [
+      {"text": "Кэрри Андервуд", "score": 1},
+      {"text": "Долли Партон", "score": 0},
+      {"text": "Шанайя Твейн", "score": 0},
+      {"text": "Миранда Ламберт", "score": 0}
+    ]
+  },
+  {
+    "question": "В каком штате родился актер Брэд Питт?",
+    "answers": [
+      {"text": "Оклахома", "score": 1},
+      {"text": "Техас", "score": 0},
+      {"text": "Калифорния", "score": 0},
+      {"text": "Флорида", "score": 0}
+    ]
+  },
+  {
+    "question": "Кто из этих музыкантов родился в Океме (Оклахома) и написал «This Land Is Your Land»?",
+    "answers": [
+      {"text": "Вуди Гатри", "score": 1},
+      {"text": "Боб Марли", "score": 0},
+      {"text": "Брюс Спрингстин", "score": 0},
+      {"text": "Джонни Кэш", "score": 0}
+    ]
+  },
+  {
+    "question": "Какая рок-группа из Оклахомы известна альбомом «Yoshimi Battles the Pink Robots»?",
+    "answers": [
+      {"text": "The Flaming Lips", "score": 1},
+      {"text": "Nirvana", "score": 0},
+      {"text": "Pearl Jam", "score": 0},
+      {"text": "Aerosmith", "score": 0}
+    ]
+  }
+]

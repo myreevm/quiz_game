@@ -1,20 +1,47 @@
 [
   {
-    "question": "В каком году был снят фильм 'Тучи покидают небо'?",
+    "question": "Какой фолк-музыкант из Оклахомы написал песню «This Land Is Your Land»?",
     "answers": [
-      {"text": "1956", "score": 0},
-      {"text": "1959", "score": 1},
-      {"text": "1964", "score": 0},
-      {"text": "1953", "score": 0}
+      {"text": "Вуди Гатри", "score": 1},
+      {"text": "Боб Дилан", "score": 0},
+      {"text": "Пол Саймон", "score": 0},
+      {"text": "Рой Орбисон", "score": 0}
     ]
   },
   {
-    "question": "В каком году был снят фильм 'Ожерелье для моей любимой'?",
+    "question": "Какая кантри-певица из Оклахомы известна хитом «Fancy»?",
     "answers": [
-      {"text": "1971", "score": 1},
-      {"text": "1974", "score": 0},
-      {"text": "1968", "score": 0},
-      {"text": "1965", "score": 0}
+      {"text": "Риба Макинтайр", "score": 1},
+      {"text": "Долли Партон", "score": 0},
+      {"text": "Фейт Хилл", "score": 0},
+      {"text": "Кэрри Андервуд", "score": 0}
+    ]
+  },
+  {
+    "question": "Как называется мюзикл, ставший официальной песней штата Оклахома?",
+    "answers": [
+      {"text": "Oklahoma!", "score": 1},
+      {"text": "Cats", "score": 0},
+      {"text": "Chicago", "score": 0},
+      {"text": "Hamilton", "score": 0}
+    ]
+  },
+  {
+    "question": "Какая альтернативная рок-группа была основана в Оклахома-Сити?",
+    "answers": [
+      {"text": "The Flaming Lips", "score": 1},
+      {"text": "The Strokes", "score": 0},
+      {"text": "Green Day", "score": 0},
+      {"text": "U2", "score": 0}
+    ]
+  },
+  {
+    "question": "Какой певец и автор песен, обладатель многих Grammy, родился в Нормане (Оклахома)?",
+    "answers": [
+      {"text": "Винс Гилл", "score": 1},
+      {"text": "Гарт Брукс", "score": 0},
+      {"text": "Тим Макгро", "score": 0},
+      {"text": "Кит Урбан", "score": 0}
     ]
   }
 ]
