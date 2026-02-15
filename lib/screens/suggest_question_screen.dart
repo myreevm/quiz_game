@@ -68,7 +68,7 @@ class SuggestQuestionScreen extends StatelessWidget {
             ),
             const SizedBox(height: 14),
             _ContactCard(
-              title: 'Instagram',
+              title: texts.suggestInstagramTitle,
               subtitle: '@quiz_game_app',
               icon: Icons.camera_alt_rounded,
               color: colorScheme.secondary,
@@ -76,7 +76,7 @@ class SuggestQuestionScreen extends StatelessWidget {
             ),
             const SizedBox(height: 10),
             _ContactCard(
-              title: 'Telegram',
+              title: texts.suggestTelegramTitle,
               subtitle: '@myreev1',
               icon: Icons.send_rounded,
               color: colorScheme.primary,
@@ -84,7 +84,7 @@ class SuggestQuestionScreen extends StatelessWidget {
             ),
             const SizedBox(height: 10),
             _ContactCard(
-              title: 'Gmail',
+              title: texts.suggestGmailTitle,
               subtitle: 'myreevmark06@gmail.com',
               icon: Icons.mail_rounded,
               color: colorScheme.tertiary,

@@ -2,6 +2,7 @@ import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
 
+import '../models/app_texts.dart';
 import 'flag_badge.dart';
 
 const _worldMapAssetPath = 'output/imagegen/world_map_no_labels_8k.png';
@@ -116,6 +117,8 @@ class _SelectionMapCardState extends State<_SelectionMapCard> {
 
   @override
   Widget build(BuildContext context) {
+    final texts = AppTexts.of(context);
+
     return Card(
       elevation: 0,
       margin: EdgeInsets.zero,
@@ -143,7 +146,7 @@ class _SelectionMapCardState extends State<_SelectionMapCard> {
               right: 10,
               child: _MapOverlayIconButton(
                 icon: Icons.open_in_full_rounded,
-                tooltip: 'Open fullscreen map',
+                tooltip: texts.mapOpenFullscreenTooltip,
                 onPressed: _openFullscreenMap,
               ),
             ),
@@ -281,6 +284,8 @@ class _FullscreenMapScreenState extends State<_FullscreenMapScreen> {
 
   @override
   Widget build(BuildContext context) {
+    final texts = AppTexts.of(context);
+
     return Scaffold(
       backgroundColor: const Color(0xFF0F172A),
       body: SafeArea(
@@ -324,7 +329,7 @@ class _FullscreenMapScreenState extends State<_FullscreenMapScreen> {
                 children: [
                   _MapOverlayIconButton(
                     icon: Icons.close_rounded,
-                    tooltip: 'Close fullscreen map',
+                    tooltip: texts.mapCloseFullscreenTooltip,
                     onPressed: () => Navigator.of(context).pop(),
                   ),
                   const SizedBox(width: 8),
@@ -334,19 +339,19 @@ class _FullscreenMapScreenState extends State<_FullscreenMapScreen> {
                   const SizedBox(width: 8),
                   _MapOverlayIconButton(
                     icon: Icons.remove_rounded,
-                    tooltip: 'Zoom out',
+                    tooltip: texts.mapZoomOutTooltip,
                     onPressed: () => _zoomBy(1 / _mapZoomStep),
                   ),
                   const SizedBox(width: 6),
                   _MapOverlayIconButton(
                     icon: Icons.center_focus_strong_rounded,
-                    tooltip: 'Reset zoom',
+                    tooltip: texts.mapResetZoomTooltip,
                     onPressed: _resetZoom,
                   ),
                   const SizedBox(width: 6),
                   _MapOverlayIconButton(
                     icon: Icons.add_rounded,
-                    tooltip: 'Zoom in',
+                    tooltip: texts.mapZoomInTooltip,
                     onPressed: () => _zoomBy(_mapZoomStep),
                   ),
                 ],

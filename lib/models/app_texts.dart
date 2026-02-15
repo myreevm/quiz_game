@@ -309,6 +309,41 @@ class AppTexts {
         yakut: '\u041a\u044d\u044d\u043c\u044d\u0439\u0438\u043d\u044d\u043d',
       );
 
+  String get mapOpenFullscreenTooltip => _select(
+        en: 'Open fullscreen map',
+        ru: '\u041e\u0442\u043a\u0440\u044b\u0442\u044c \u043a\u0430\u0440\u0442\u0443 \u043d\u0430 \u0432\u0435\u0441\u044c \u044d\u043a\u0440\u0430\u043d',
+        yakut:
+            '\u041a\u0430\u0440\u0442\u0430\u043d\u044b \u0431\u04af\u0442\u04af\u04a5 \u044d\u043a\u0440\u0430\u043d\u043d\u0430 \u0430\u0440\u044b\u0439',
+      );
+
+  String get mapCloseFullscreenTooltip => _select(
+        en: 'Close fullscreen map',
+        ru: '\u0417\u0430\u043a\u0440\u044b\u0442\u044c \u043f\u043e\u043b\u043d\u043e\u044d\u043a\u0440\u0430\u043d\u043d\u0443\u044e \u043a\u0430\u0440\u0442\u0443',
+        yakut:
+            '\u0411\u04af\u0442\u04af\u04a5 \u044d\u043a\u0440\u0430\u043d \u043a\u0430\u0440\u0442\u0430\u0442\u044b\u043d \u0441\u0430\u043f',
+      );
+
+  String get mapZoomOutTooltip => _select(
+        en: 'Zoom out',
+        ru: '\u0423\u043c\u0435\u043d\u044c\u0448\u0438\u0442\u044c \u043c\u0430\u0441\u0448\u0442\u0430\u0431',
+        yakut:
+            '\u041c\u0430\u0441\u0448\u0442\u0430\u0431\u044b \u043a\u044b\u0447\u0447\u0430\u0442\u044b\u044b',
+      );
+
+  String get mapResetZoomTooltip => _select(
+        en: 'Reset zoom',
+        ru: '\u0421\u0431\u0440\u043e\u0441\u0438\u0442\u044c \u043c\u0430\u0441\u0448\u0442\u0430\u0431',
+        yakut:
+            '\u041c\u0430\u0441\u0448\u0442\u0430\u0431\u044b \u0441\u0430\u04a5\u0430\u0442\u0430\u0430\u0440\u044b\u044b',
+      );
+
+  String get mapZoomInTooltip => _select(
+        en: 'Zoom in',
+        ru: '\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0442\u044c \u043c\u0430\u0441\u0448\u0442\u0430\u0431',
+        yakut:
+            '\u041c\u0430\u0441\u0448\u0442\u0430\u0431\u044b \u0443\u043b\u0430\u04bb\u0430\u043d\u043d\u044b\u0442\u0430\u0440',
+      );
+
   String countryName(String code) {
     switch (code) {
       case 'russia':
@@ -861,6 +896,24 @@ class AppTexts {
         en: 'You can send a question, 4 options, and the correct answer.',
         ru: 'Можно прислать вопрос, 4 варианта ответа и указать правильный вариант.',
         yakut: 'Ыйытыыны, 4 эппиэт тардыытын уонна сөп эппиэти ыыта сылдь.',
+      );
+
+  String get suggestInstagramTitle => _select(
+        en: 'Instagram',
+        ru: '\u0418\u043d\u0441\u0442\u0430\u0433\u0440\u0430\u043c',
+        yakut: '\u0418\u043d\u0441\u0442\u0430\u0433\u0440\u0430\u043c',
+      );
+
+  String get suggestTelegramTitle => _select(
+        en: 'Telegram',
+        ru: '\u0422\u0435\u043b\u0435\u0433\u0440\u0430\u043c',
+        yakut: '\u0422\u0435\u043b\u0435\u0433\u0440\u0430\u043c',
+      );
+
+  String get suggestGmailTitle => _select(
+        en: 'Gmail',
+        ru: 'Gmail',
+        yakut: 'Gmail',
       );
 
   String get suggestOpenLinkFailed => _select(
