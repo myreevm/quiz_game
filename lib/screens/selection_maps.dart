@@ -3,6 +3,10 @@ import 'package:flutter/material.dart';
 import 'flag_badge.dart';
 
 const _worldMapAssetPath = 'assets/world-map-clickable.gif';
+const _mapAspectRatio = 1.62;
+const _mapMinScale = 1.0;
+const _mapMaxScale = 6.0;
+const _mapZoomStep = 1.25;
 
 class MapPinData {
   final String code;
@@ -68,7 +72,7 @@ class RegionSelectionMap extends StatelessWidget {
   }
 }
 
-class _SelectionMapCard extends StatelessWidget {
+class _SelectionMapCard extends StatefulWidget {
   final String hint;
   final List<MapPinData> pins;
   final String Function(String code) labelBuilder;
@@ -84,6 +88,31 @@ class _SelectionMapCard extends StatelessWidget {
   });
 
   @override
+  State<_SelectionMapCard> createState() => _SelectionMapCardState();
+}
+
+class _SelectionMapCardState extends State<_SelectionMapCard> {
+  Future<void> _openFullscreenMap() async {
+    final selectedCode = await Navigator.of(context).push<String>(
+      MaterialPageRoute(
+        fullscreenDialog: true,
+        builder: (_) => _FullscreenMapScreen(
+          hint: widget.hint,
+          pins: widget.pins,
+          labelBuilder: widget.labelBuilder,
+          backgroundBuilder: widget.backgroundBuilder,
+        ),
+      ),
+    );
+
+    if (!mounted || selectedCode == null) {
+      return;
+    }
+
+    widget.onTap(selectedCode);
+  }
+
+  @override
   Widget build(BuildContext context) {
     return Card(
       elevation: 0,
@@ -91,49 +120,269 @@ class _SelectionMapCard extends StatelessWidget {
       clipBehavior: Clip.antiAlias,
       shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(22)),
       child: AspectRatio(
-        aspectRatio: 1.62,
-        child: LayoutBuilder(
-          builder: (context, constraints) {
-            return Stack(
-              children: [
-                Positioned.fill(child: backgroundBuilder(context)),
-                Positioned(
-                  top: 10,
-                  left: 10,
-                  child: Container(
-                    padding:
-                        const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
-                    decoration: BoxDecoration(
-                      color: Colors.black.withValues(alpha: 0.62),
-                      borderRadius: BorderRadius.circular(999),
-                    ),
-                    child: Text(
-                      hint,
-                      style: const TextStyle(
-                        color: Colors.white,
-                        fontSize: 12,
-                        fontWeight: FontWeight.w600,
-                      ),
-                    ),
+        aspectRatio: _mapAspectRatio,
+        child: Stack(
+          children: [
+            Positioned.fill(
+              child: _MapCanvas(
+                pins: widget.pins,
+                labelBuilder: widget.labelBuilder,
+                onTap: widget.onTap,
+                backgroundBuilder: widget.backgroundBuilder,
+              ),
+            ),
+            Positioned(
+              top: 10,
+              left: 10,
+              child: _MapHintBadge(hint: widget.hint),
+            ),
+            Positioned(
+              top: 10,
+              right: 10,
+              child: _MapOverlayIconButton(
+                icon: Icons.open_in_full_rounded,
+                tooltip: 'Open fullscreen map',
+                onPressed: _openFullscreenMap,
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}
+
+class _MapCanvas extends StatelessWidget {
+  final List<MapPinData> pins;
+  final String Function(String code) labelBuilder;
+  final ValueChanged<String> onTap;
+  final WidgetBuilder backgroundBuilder;
+
+  const _MapCanvas({
+    required this.pins,
+    required this.labelBuilder,
+    required this.onTap,
+    required this.backgroundBuilder,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return LayoutBuilder(
+      builder: (context, constraints) {
+        return Stack(
+          children: [
+            Positioned.fill(child: backgroundBuilder(context)),
+            ...pins.map(
+              (pin) => Positioned(
+                left: constraints.maxWidth * pin.position.dx,
+                top: constraints.maxHeight * pin.position.dy,
+                child: Transform.translate(
+                  offset: const Offset(-24, -20),
+                  child: _MapPin(
+                    code: pin.code,
+                    label: labelBuilder(pin.code),
+                    onTap: () => onTap(pin.code),
                   ),
                 ),
-                ...pins.map(
-                  (pin) => Positioned(
-                    left: constraints.maxWidth * pin.position.dx,
-                    top: constraints.maxHeight * pin.position.dy,
-                    child: Transform.translate(
-                      offset: const Offset(-24, -20),
-                      child: _MapPin(
-                        code: pin.code,
-                        label: labelBuilder(pin.code),
-                        onTap: () => onTap(pin.code),
+              ),
+            ),
+          ],
+        );
+      },
+    );
+  }
+}
+
+class _FullscreenMapScreen extends StatefulWidget {
+  final String hint;
+  final List<MapPinData> pins;
+  final String Function(String code) labelBuilder;
+  final WidgetBuilder backgroundBuilder;
+
+  const _FullscreenMapScreen({
+    required this.hint,
+    required this.pins,
+    required this.labelBuilder,
+    required this.backgroundBuilder,
+  });
+
+  @override
+  State<_FullscreenMapScreen> createState() => _FullscreenMapScreenState();
+}
+
+class _FullscreenMapScreenState extends State<_FullscreenMapScreen> {
+  final TransformationController _transformController =
+      TransformationController();
+
+  double get _currentScale => _transformController.value.getMaxScaleOnAxis();
+
+  void _zoomBy(double factor) {
+    final currentScale = _currentScale;
+    final targetScale =
+        (currentScale * factor).clamp(_mapMinScale, _mapMaxScale);
+    if (targetScale == currentScale) {
+      return;
+    }
+
+    final scaleDelta = targetScale / currentScale;
+    _transformController.value = _transformController.value.clone()
+      ..scaleByDouble(scaleDelta, scaleDelta, scaleDelta, 1);
+
+    setState(() {});
+  }
+
+  void _resetZoom() {
+    _transformController.value = Matrix4.identity();
+    setState(() {});
+  }
+
+  Size _fitMap(Size availableSpace) {
+    var width = availableSpace.width;
+    var height = width / _mapAspectRatio;
+
+    if (height > availableSpace.height) {
+      height = availableSpace.height;
+      width = height * _mapAspectRatio;
+    }
+
+    return Size(width, height);
+  }
+
+  @override
+  void dispose() {
+    _transformController.dispose();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      backgroundColor: const Color(0xFF0F172A),
+      body: SafeArea(
+        child: Stack(
+          children: [
+            Positioned.fill(
+              child: Padding(
+                padding: const EdgeInsets.fromLTRB(12, 66, 12, 12),
+                child: LayoutBuilder(
+                  builder: (context, constraints) {
+                    final mapSize = _fitMap(constraints.biggest);
+
+                    return InteractiveViewer(
+                      transformationController: _transformController,
+                      minScale: _mapMinScale,
+                      maxScale: _mapMaxScale,
+                      boundaryMargin: const EdgeInsets.all(260),
+                      child: Center(
+                        child: SizedBox(
+                          width: mapSize.width,
+                          height: mapSize.height,
+                          child: _MapCanvas(
+                            pins: widget.pins,
+                            labelBuilder: widget.labelBuilder,
+                            onTap: (code) => Navigator.of(context).pop(code),
+                            backgroundBuilder: widget.backgroundBuilder,
+                          ),
+                        ),
                       ),
-                    ),
-                  ),
+                    );
+                  },
                 ),
-              ],
-            );
-          },
+              ),
+            ),
+            Positioned(
+              top: 10,
+              left: 12,
+              right: 12,
+              child: Row(
+                children: [
+                  _MapOverlayIconButton(
+                    icon: Icons.close_rounded,
+                    tooltip: 'Close fullscreen map',
+                    onPressed: () => Navigator.of(context).pop(),
+                  ),
+                  const SizedBox(width: 8),
+                  Expanded(
+                    child: _MapHintBadge(hint: widget.hint),
+                  ),
+                  const SizedBox(width: 8),
+                  _MapOverlayIconButton(
+                    icon: Icons.remove_rounded,
+                    tooltip: 'Zoom out',
+                    onPressed: () => _zoomBy(1 / _mapZoomStep),
+                  ),
+                  const SizedBox(width: 6),
+                  _MapOverlayIconButton(
+                    icon: Icons.center_focus_strong_rounded,
+                    tooltip: 'Reset zoom',
+                    onPressed: _resetZoom,
+                  ),
+                  const SizedBox(width: 6),
+                  _MapOverlayIconButton(
+                    icon: Icons.add_rounded,
+                    tooltip: 'Zoom in',
+                    onPressed: () => _zoomBy(_mapZoomStep),
+                  ),
+                ],
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}
+
+class _MapHintBadge extends StatelessWidget {
+  final String hint;
+
+  const _MapHintBadge({required this.hint});
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+      decoration: BoxDecoration(
+        color: Colors.black.withValues(alpha: 0.62),
+        borderRadius: BorderRadius.circular(999),
+      ),
+      child: Text(
+        hint,
+        maxLines: 1,
+        overflow: TextOverflow.ellipsis,
+        style: const TextStyle(
+          color: Colors.white,
+          fontSize: 12,
+          fontWeight: FontWeight.w600,
+        ),
+      ),
+    );
+  }
+}
+
+class _MapOverlayIconButton extends StatelessWidget {
+  final IconData icon;
+  final String tooltip;
+  final VoidCallback onPressed;
+
+  const _MapOverlayIconButton({
+    required this.icon,
+    required this.tooltip,
+    required this.onPressed,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return Material(
+      color: Colors.black.withValues(alpha: 0.62),
+      borderRadius: BorderRadius.circular(999),
+      child: IconButton(
+        tooltip: tooltip,
+        onPressed: onPressed,
+        icon: Icon(
+          icon,
+          color: Colors.white,
+          size: 20,
         ),
       ),
     );
