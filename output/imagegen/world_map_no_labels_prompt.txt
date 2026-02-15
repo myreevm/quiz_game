@@ -1,0 +1,11 @@
+﻿Use case: infographic-diagram
+Asset type: political world map illustration
+Primary request: high-quality world political map with country boundaries and no labels
+Scene/background: flat blue ocean background
+Subject: all countries with distinct pastel fills and thin border outlines
+Style/medium: clean vector-like cartographic illustration
+Composition/framing: full world map in equirectangular projection, edge-to-edge with balanced margins
+Color palette: bright ocean blue with varied pastel land colors
+Quality: high
+Constraints: no country names; no city names; no ocean names; no text; no watermark; no legends; no compass; no scale bar
+Avoid: typography; icons; logos; texture noise; heavy shadows

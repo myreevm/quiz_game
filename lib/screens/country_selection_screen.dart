@@ -16,7 +16,11 @@ class CountrySelectionScreen extends StatefulWidget {
   static const countries = [
     _CountryOption(code: 'russia'),
     _CountryOption(code: 'usa'),
+    _CountryOption(code: 'canada'),
+    _CountryOption(code: 'mexico'),
     _CountryOption(code: 'china'),
+    _CountryOption(code: 'japan'),
+    _CountryOption(code: 'vietnam'),
     _CountryOption(code: 'poland'),
     _CountryOption(code: 'france'),
     _CountryOption(code: 'australia'),
@@ -26,15 +30,19 @@ class CountrySelectionScreen extends StatefulWidget {
   ];
 
   static const mapPins = [
-    MapPinData(code: 'usa', position: Offset(0.19, 0.38)),
-    MapPinData(code: 'brazil', position: Offset(0.31, 0.65)),
-    MapPinData(code: 'uk', position: Offset(0.47, 0.32)),
-    MapPinData(code: 'france', position: Offset(0.48, 0.40)),
-    MapPinData(code: 'poland', position: Offset(0.54, 0.34)),
-    MapPinData(code: 'egypt', position: Offset(0.57, 0.49)),
-    MapPinData(code: 'russia', position: Offset(0.66, 0.25)),
-    MapPinData(code: 'china', position: Offset(0.70, 0.44)),
-    MapPinData(code: 'australia', position: Offset(0.86, 0.74)),
+    MapPinData(code: 'canada', position: Offset(0.23, 0.18)),
+    MapPinData(code: 'usa', position: Offset(0.24, 0.29)),
+    MapPinData(code: 'mexico', position: Offset(0.22, 0.38)),
+    MapPinData(code: 'brazil', position: Offset(0.36, 0.55)),
+    MapPinData(code: 'uk', position: Offset(0.47, 0.20)),
+    MapPinData(code: 'france', position: Offset(0.51, 0.24)),
+    MapPinData(code: 'poland', position: Offset(0.55, 0.21)),
+    MapPinData(code: 'egypt', position: Offset(0.58, 0.34)),
+    MapPinData(code: 'russia', position: Offset(0.75, 0.15)),
+    MapPinData(code: 'china', position: Offset(0.79, 0.32)),
+    MapPinData(code: 'vietnam', position: Offset(0.79, 0.42)),
+    MapPinData(code: 'japan', position: Offset(0.88, 0.30)),
+    MapPinData(code: 'australia', position: Offset(0.86, 0.64)),
   ];
 
   @override
@@ -42,10 +50,30 @@ class CountrySelectionScreen extends StatefulWidget {
 }
 
 class _CountrySelectionScreenState extends State<CountrySelectionScreen> {
+  static const Map<String, double> _countryAreaKm2 = {
+    'russia': 17098246,
+    'canada': 9984670,
+    'usa': 9833517,
+    'china': 9596961,
+    'brazil': 8515767,
+    'australia': 7692024,
+    'mexico': 1964375,
+    'egypt': 1002450,
+    'france': 551695,
+    'japan': 377975,
+    'vietnam': 331212,
+    'poland': 312696,
+    'uk': 243610,
+  };
+
   static const Map<String, List<String>> _regionsByCountry = {
     'russia': <String>['yakutia', 'dagestan'],
     'usa': <String>['texas', 'oklahoma'],
+    'canada': <String>['all'],
+    'mexico': <String>['all'],
     'china': <String>['all'],
+    'japan': <String>['all'],
+    'vietnam': <String>['all'],
     'poland': <String>['all'],
     'france': <String>['all'],
     'australia': <String>['all'],
@@ -63,6 +91,7 @@ class _CountrySelectionScreenState extends State<CountrySelectionScreen> {
 
   bool _isQuickGameLoading = false;
   List<_QuickGameRoute>? _cachedQuickGameRoutes;
+  _CountrySortMode _sortMode = _CountrySortMode.alphabet;
 
   void _openRegions(BuildContext context, String country) {
     Navigator.push(
@@ -143,6 +172,7 @@ class _CountrySelectionScreenState extends State<CountrySelectionScreen> {
       return cached;
     }
 
+    final language = AppSettingsScope.of(context).settings.appLanguage;
     final validRoutes = <_QuickGameRoute>[];
 
     for (final country in CountrySelectionScreen.countries) {
@@ -156,6 +186,7 @@ class _CountrySelectionScreenState extends State<CountrySelectionScreen> {
             country: country.code,
             region: selectedRegion,
             category: category,
+            language: language,
           );
 
           if (questions.isEmpty) {
@@ -177,15 +208,23 @@ class _CountrySelectionScreenState extends State<CountrySelectionScreen> {
     return validRoutes;
   }
 
-  String _mapHint(AppLanguage language) {
-    switch (language) {
-      case AppLanguage.english:
-        return 'Tap a country on the map';
-      case AppLanguage.russian:
-        return 'Нажмите на страну на карте';
-      case AppLanguage.yakut:
-        return 'Картаҕа дойдуну баттаа';
+  List<_CountryOption> _sortedCountries(AppTexts texts) {
+    final countries = [...CountrySelectionScreen.countries];
+
+    if (_sortMode == _CountrySortMode.alphabet) {
+      countries.sort(
+        (a, b) =>
+            texts.countryName(a.code).compareTo(texts.countryName(b.code)),
+      );
+    } else {
+      countries.sort((a, b) {
+        final aArea = _countryAreaKm2[a.code] ?? 0;
+        final bArea = _countryAreaKm2[b.code] ?? 0;
+        return bArea.compareTo(aArea);
+      });
     }
+
+    return countries;
   }
 
   @override
@@ -228,13 +267,26 @@ class _CountrySelectionScreenState extends State<CountrySelectionScreen> {
               ),
               const SizedBox(height: 14),
               WorldSelectionMap(
-                hint: _mapHint(texts.language),
+                hint: texts.countryMapHint,
                 countries: CountrySelectionScreen.mapPins,
                 labelBuilder: texts.countryName,
                 onTap: (code) => _openRegions(context, code),
               ),
               const SizedBox(height: 14),
-              ...CountrySelectionScreen.countries.map(
+              _CountrySortControls(
+                texts: texts,
+                mode: _sortMode,
+                onChanged: (mode) {
+                  if (mode == null) {
+                    return;
+                  }
+                  setState(() {
+                    _sortMode = mode;
+                  });
+                },
+              ),
+              const SizedBox(height: 12),
+              ..._sortedCountries(texts).map(
                 (country) => Padding(
                   padding: const EdgeInsets.only(bottom: 10),
                   child: _CountryCard(
@@ -340,6 +392,56 @@ class _HeaderCard extends StatelessWidget {
   }
 }
 
+class _CountrySortControls extends StatelessWidget {
+  final AppTexts texts;
+  final _CountrySortMode mode;
+  final ValueChanged<_CountrySortMode?> onChanged;
+
+  const _CountrySortControls({
+    required this.texts,
+    required this.mode,
+    required this.onChanged,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 4),
+          child: Text(
+            texts.countrySortLabel,
+            style: Theme.of(context).textTheme.titleSmall?.copyWith(
+                  fontWeight: FontWeight.w700,
+                ),
+          ),
+        ),
+        const SizedBox(height: 8),
+        SegmentedButton<_CountrySortMode>(
+          showSelectedIcon: false,
+          segments: [
+            ButtonSegment<_CountrySortMode>(
+              value: _CountrySortMode.alphabet,
+              icon: const Icon(Icons.sort_by_alpha_rounded),
+              label: Text(texts.countrySortAlphabet),
+            ),
+            ButtonSegment<_CountrySortMode>(
+              value: _CountrySortMode.area,
+              icon: const Icon(Icons.public_rounded),
+              label: Text(texts.countrySortArea),
+            ),
+          ],
+          selected: {mode},
+          onSelectionChanged: (selected) {
+            onChanged(selected.isEmpty ? null : selected.first);
+          },
+        ),
+      ],
+    );
+  }
+}
+
 class _CountryCard extends StatelessWidget {
   final String flagCode;
   final String title;
@@ -418,4 +520,9 @@ class _QuickGameRoute {
     required this.region,
     required this.category,
   });
+}
+
+enum _CountrySortMode {
+  alphabet,
+  area,
 }

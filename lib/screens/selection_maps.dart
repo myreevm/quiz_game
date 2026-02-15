@@ -1,9 +1,11 @@
+import 'dart:math' as math;
+
 import 'package:flutter/material.dart';
 
 import 'flag_badge.dart';
 
-const _worldMapAssetPath = 'assets/world-map-clickable.gif';
-const _mapAspectRatio = 1.62;
+const _worldMapAssetPath = 'output/imagegen/world_map_no_labels_8k.png';
+const _mapAspectRatio = 2.0;
 const _mapMinScale = 1.0;
 const _mapMaxScale = 6.0;
 const _mapZoomStep = 1.25;
@@ -157,12 +159,14 @@ class _MapCanvas extends StatelessWidget {
   final String Function(String code) labelBuilder;
   final ValueChanged<String> onTap;
   final WidgetBuilder backgroundBuilder;
+  final double pinScale;
 
   const _MapCanvas({
     required this.pins,
     required this.labelBuilder,
     required this.onTap,
     required this.backgroundBuilder,
+    this.pinScale = 1.0,
   });
 
   @override
@@ -178,10 +182,13 @@ class _MapCanvas extends StatelessWidget {
                 top: constraints.maxHeight * pin.position.dy,
                 child: Transform.translate(
                   offset: const Offset(-24, -20),
-                  child: _MapPin(
-                    code: pin.code,
-                    label: labelBuilder(pin.code),
-                    onTap: () => onTap(pin.code),
+                  child: Transform.scale(
+                    scale: pinScale,
+                    child: _MapPin(
+                      code: pin.code,
+                      label: labelBuilder(pin.code),
+                      onTap: () => onTap(pin.code),
+                    ),
                   ),
                 ),
               ),
@@ -213,8 +220,28 @@ class _FullscreenMapScreen extends StatefulWidget {
 class _FullscreenMapScreenState extends State<_FullscreenMapScreen> {
   final TransformationController _transformController =
       TransformationController();
+  double _currentScale = 1.0;
 
-  double get _currentScale => _transformController.value.getMaxScaleOnAxis();
+  double get _pinScale {
+    final scaled = math.pow(_currentScale, -1.2).toDouble();
+    return scaled.clamp(0.14, 1.0);
+  }
+
+  @override
+  void initState() {
+    super.initState();
+    _transformController.addListener(_handleTransformChanged);
+  }
+
+  void _handleTransformChanged() {
+    final nextScale = _transformController.value.getMaxScaleOnAxis();
+    if ((nextScale - _currentScale).abs() < 0.001) {
+      return;
+    }
+    setState(() {
+      _currentScale = nextScale;
+    });
+  }
 
   void _zoomBy(double factor) {
     final currentScale = _currentScale;
@@ -227,13 +254,10 @@ class _FullscreenMapScreenState extends State<_FullscreenMapScreen> {
     final scaleDelta = targetScale / currentScale;
     _transformController.value = _transformController.value.clone()
       ..scaleByDouble(scaleDelta, scaleDelta, scaleDelta, 1);
-
-    setState(() {});
   }
 
   void _resetZoom() {
     _transformController.value = Matrix4.identity();
-    setState(() {});
   }
 
   Size _fitMap(Size availableSpace) {
@@ -250,6 +274,7 @@ class _FullscreenMapScreenState extends State<_FullscreenMapScreen> {
 
   @override
   void dispose() {
+    _transformController.removeListener(_handleTransformChanged);
     _transformController.dispose();
     super.dispose();
   }
@@ -282,6 +307,7 @@ class _FullscreenMapScreenState extends State<_FullscreenMapScreen> {
                             labelBuilder: widget.labelBuilder,
                             onTap: (code) => Navigator.of(context).pop(code),
                             backgroundBuilder: widget.backgroundBuilder,
+                            pinScale: _pinScale,
                           ),
                         ),
                       ),
@@ -448,10 +474,30 @@ class _CountryMapViewport {
           alignment: Alignment(-0.82, -0.18),
           scale: 2.9,
         );
+      case 'canada':
+        return const _CountryMapViewport(
+          alignment: Alignment(-0.82, -0.52),
+          scale: 2.7,
+        );
+      case 'mexico':
+        return const _CountryMapViewport(
+          alignment: Alignment(-0.76, 0.08),
+          scale: 3.6,
+        );
       case 'china':
         return const _CountryMapViewport(
           alignment: Alignment(0.74, -0.08),
           scale: 3.3,
+        );
+      case 'japan':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.92, -0.08),
+          scale: 5.1,
+        );
+      case 'vietnam':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.72, 0.20),
+          scale: 5.0,
         );
       case 'poland':
         return const _CountryMapViewport(

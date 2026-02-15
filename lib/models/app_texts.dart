@@ -275,14 +275,72 @@ class AppTexts {
     );
   }
 
+  String get countryMapHint => _select(
+        en: 'Tap a country on the map',
+        ru: '\u041d\u0430\u0436\u043c\u0438\u0442\u0435 \u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0443 \u043d\u0430 \u043a\u0430\u0440\u0442\u0435',
+        yakut:
+            '\u041a\u0430\u0440\u0442\u0430\u0495\u0430 \u0434\u043e\u0439\u0434\u0443\u043d\u0443 \u0431\u0430\u0442\u0442\u0430\u0430',
+      );
+
+  String get regionMapHint => _select(
+        en: 'Tap a region on the map',
+        ru: '\u041d\u0430\u0436\u043c\u0438\u0442\u0435 \u043d\u0430 \u0440\u0435\u0433\u0438\u043e\u043d \u043d\u0430 \u043a\u0430\u0440\u0442\u0435',
+        yakut:
+            '\u041a\u0430\u0440\u0442\u0430\u0495\u0430 \u0440\u0435\u0433\u0438\u043e\u043d\u0443 \u0431\u0430\u0442\u0442\u0430\u0430',
+      );
+
+  String get countrySortLabel => _select(
+        en: 'Sort countries',
+        ru: '\u0421\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u043a\u0430 \u0441\u0442\u0440\u0430\u043d',
+        yakut:
+            '\u0414\u043e\u0439\u0434\u0443\u043b\u0430\u0440 \u043d\u0430\u0430\u0440\u0434\u0430\u0430\u04bb\u044b\u043d\u0430',
+      );
+
+  String get countrySortAlphabet => _select(
+        en: 'Alphabetical',
+        ru: '\u041f\u043e \u0430\u043b\u0444\u0430\u0432\u0438\u0442\u0443',
+        yakut:
+            '\u0410\u043b\u043f\u0430\u0430\u0432\u044b\u0442\u044b\u043d\u0430\u043d',
+      );
+
+  String get countrySortArea => _select(
+        en: 'By area',
+        ru: '\u041f\u043e \u0440\u0430\u0437\u043c\u0435\u0440\u0443',
+        yakut: '\u041a\u044d\u044d\u043c\u044d\u0439\u0438\u043d\u044d\u043d',
+      );
+
   String countryName(String code) {
     switch (code) {
       case 'russia':
         return _select(en: 'Russia', ru: 'Russia', yakut: 'Russia');
       case 'usa':
         return _select(en: 'USA', ru: 'USA', yakut: 'USA');
+      case 'canada':
+        return _select(
+          en: 'Canada',
+          ru: '\u041a\u0430\u043d\u0430\u0434\u0430',
+          yakut: '\u041a\u0430\u043d\u0430\u0434\u0430',
+        );
+      case 'mexico':
+        return _select(
+          en: 'Mexico',
+          ru: '\u041c\u0435\u043a\u0441\u0438\u043a\u0430',
+          yakut: '\u041c\u0435\u043a\u0441\u0438\u043a\u0430',
+        );
       case 'china':
         return _select(en: 'China', ru: 'China', yakut: 'China');
+      case 'japan':
+        return _select(
+          en: 'Japan',
+          ru: '\u042f\u043f\u043e\u043d\u0438\u044f',
+          yakut: '\u042f\u043f\u043e\u043d\u0438\u044f',
+        );
+      case 'vietnam':
+        return _select(
+          en: 'Vietnam',
+          ru: '\u0412\u044c\u0435\u0442\u043d\u0430\u043c',
+          yakut: '\u0412\u044c\u0435\u0442\u043d\u0430\u043c',
+        );
       case 'poland':
         return _select(en: 'Poland', ru: 'Poland', yakut: 'Poland');
       case 'france':
@@ -318,11 +376,39 @@ class AppTexts {
           ru: 'Categories about USA and states',
           yakut: 'Categories about USA and states',
         );
+      case 'canada':
+        return _select(
+          en: 'Canada: history, cinema, music, and notable people',
+          ru: '\u041a\u0430\u043d\u0430\u0434\u0430: \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u043a\u0438\u043d\u043e, \u043c\u0443\u0437\u044b\u043a\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0435 \u043b\u044e\u0434\u0438',
+          yakut:
+              '\u041a\u0430\u043d\u0430\u0434\u0430: \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u043a\u0438\u043d\u043e, \u043c\u0443\u0437\u044b\u043a\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0435 \u043b\u044e\u0434\u0438',
+        );
+      case 'mexico':
+        return _select(
+          en: 'Mexico: history, culture, movies, and music',
+          ru: '\u041c\u0435\u043a\u0441\u0438\u043a\u0430: \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430, \u043a\u0438\u043d\u043e \u0438 \u043c\u0443\u0437\u044b\u043a\u0430',
+          yakut:
+              '\u041c\u0435\u043a\u0441\u0438\u043a\u0430: \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430, \u043a\u0438\u043d\u043e \u0438 \u043c\u0443\u0437\u044b\u043a\u0430',
+        );
       case 'china':
         return _select(
           en: 'History, culture, and modern facts',
           ru: 'History, culture, and modern facts',
           yakut: 'History, culture, and modern facts',
+        );
+      case 'japan':
+        return _select(
+          en: 'Japan: history, cinema, anime, and music',
+          ru: '\u042f\u043f\u043e\u043d\u0438\u044f: \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u043a\u0438\u043d\u043e, \u0430\u043d\u0438\u043c\u0435 \u0438 \u043c\u0443\u0437\u044b\u043a\u0430',
+          yakut:
+              '\u042f\u043f\u043e\u043d\u0438\u044f: \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u043a\u0438\u043d\u043e, \u0430\u043d\u0438\u043c\u0435 \u0438 \u043c\u0443\u0437\u044b\u043a\u0430',
+        );
+      case 'vietnam':
+        return _select(
+          en: 'Vietnam: history, culture, movies, and music',
+          ru: '\u0412\u044c\u0435\u0442\u043d\u0430\u043c: \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430, \u043a\u0438\u043d\u043e \u0438 \u043c\u0443\u0437\u044b\u043a\u0430',
+          yakut:
+              '\u0412\u044c\u0435\u0442\u043d\u0430\u043c: \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430, \u043a\u0438\u043d\u043e \u0438 \u043c\u0443\u0437\u044b\u043a\u0430',
         );
       case 'poland':
         return _select(

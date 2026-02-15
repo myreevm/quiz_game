@@ -49,6 +49,7 @@ class _QuizScreenState extends State<QuizScreen> {
       country: widget.country,
       region: widget.region,
       category: widget.category,
+      language: appSettings.appLanguage,
     );
 
     final random = Random();

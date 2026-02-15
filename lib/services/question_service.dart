@@ -3,6 +3,7 @@ import 'dart:convert';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 
+import '../models/app_settings.dart';
 import '../models/question.dart';
 
 class QuestionService {
@@ -14,6 +15,7 @@ class QuestionService {
     required String country,
     String? region,
     required String category,
+    AppLanguage language = AppLanguage.russian,
   }) async {
     final normalizedCountry = _normalizeSegment(country);
     final normalizedRegion = _normalizeOptionalSegment(region);
@@ -30,6 +32,7 @@ class QuestionService {
           region: normalizedRegion,
           category: normalizedCategory,
         ),
+        language: language,
       );
 
       if (fromRegion.isNotEmpty) {
@@ -41,7 +44,10 @@ class QuestionService {
       country: normalizedCountry,
       category: normalizedCategory,
     );
-    final fromCountry = await _loadQuestionsFromPath(countryPath);
+    final fromCountry = await _loadQuestionsFromPath(
+      countryPath,
+      language: language,
+    );
     if (fromCountry.isNotEmpty) {
       return fromCountry;
     }
@@ -56,7 +62,10 @@ class QuestionService {
 
     final collected = <Question>[];
     for (final path in regionalPaths) {
-      final fromRegionPath = await _loadQuestionsFromPath(path);
+      final fromRegionPath = await _loadQuestionsFromPath(
+        path,
+        language: language,
+      );
       if (fromRegionPath.isNotEmpty) {
         collected.addAll(fromRegionPath);
       }
@@ -65,16 +74,23 @@ class QuestionService {
     return _deduplicateQuestions(collected);
   }
 
-  static Future<List<Question>> _loadQuestionsFromPath(String path) async {
+  static Future<List<Question>> _loadQuestionsFromPath(
+    String path, {
+    required AppLanguage language,
+  }) async {
     try {
       final jsonString = await rootBundle.loadString(path);
-      return _parseQuestions(jsonString, path);
+      return _parseQuestions(jsonString, path, language);
     } catch (_) {
       return const [];
     }
   }
 
-  static List<Question> _parseQuestions(String jsonString, String path) {
+  static List<Question> _parseQuestions(
+    String jsonString,
+    String path,
+    AppLanguage language,
+  ) {
     final dynamic decoded;
     try {
       decoded = json.decode(jsonString);
@@ -95,7 +111,7 @@ class QuestionService {
         continue;
       }
 
-      final questionText = _readText(map['question']);
+      final questionText = _readLocalizedText(map['question'], language);
       final answersData = map['answers'];
       if (questionText == null || answersData is! List) {
         continue;
@@ -108,7 +124,7 @@ class QuestionService {
           continue;
         }
 
-        final answerText = _readText(answerMap['text']);
+        final answerText = _readLocalizedText(answerMap['text'], language);
         final score = _parseScore(answerMap['score']);
         if (answerText == null || score == null) {
           continue;
@@ -243,6 +259,51 @@ class QuestionService {
   static String? _readText(dynamic value) {
     final text = value?.toString().trim() ?? '';
     return text.isEmpty ? null : text;
+  }
+
+  static String? _readLocalizedText(dynamic value, AppLanguage language) {
+    if (value is! Map) {
+      return _readText(value);
+    }
+
+    final map = value.map(
+      (key, entryValue) =>
+          MapEntry(key.toString().trim().toLowerCase(), entryValue),
+    );
+
+    final orderedAliases = <String>[
+      ..._languageAliases(language),
+      ..._languageAliases(AppLanguage.russian),
+      ..._languageAliases(AppLanguage.english),
+      ..._languageAliases(AppLanguage.yakut),
+    ];
+
+    for (final alias in orderedAliases) {
+      final text = _readText(map[alias]);
+      if (text != null) {
+        return text;
+      }
+    }
+
+    for (final fallback in map.values) {
+      final text = _readText(fallback);
+      if (text != null) {
+        return text;
+      }
+    }
+
+    return null;
+  }
+
+  static List<String> _languageAliases(AppLanguage language) {
+    switch (language) {
+      case AppLanguage.english:
+        return const <String>['en', 'english'];
+      case AppLanguage.russian:
+        return const <String>['ru', 'russian'];
+      case AppLanguage.yakut:
+        return const <String>['yakut', 'sakha', 'saha'];
+    }
   }
 
   static int? _parseScore(dynamic value) {

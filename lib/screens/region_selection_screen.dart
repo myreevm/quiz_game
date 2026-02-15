@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-import '../models/app_settings.dart';
 import '../models/app_texts.dart';
 import 'category_selection_screen.dart';
 import 'flag_badge.dart';
@@ -32,17 +31,6 @@ class RegionSelectionScreen extends StatelessWidget {
         ),
       ),
     );
-  }
-
-  String _mapHint(AppLanguage language) {
-    switch (language) {
-      case AppLanguage.english:
-        return 'Tap a region on the map';
-      case AppLanguage.russian:
-        return 'Нажмите на регион на карте';
-      case AppLanguage.yakut:
-        return 'Картаҕа региону баттаа';
-    }
   }
 
   List<MapPinData> _mapPinsForCountry() {
@@ -104,7 +92,7 @@ class RegionSelectionScreen extends StatelessWidget {
               const SizedBox(height: 14),
               RegionSelectionMap(
                 country: country,
-                hint: _mapHint(texts.language),
+                hint: texts.regionMapHint,
                 regions: _mapPinsForCountry(),
                 labelBuilder: texts.regionName,
                 onTap: (code) =>

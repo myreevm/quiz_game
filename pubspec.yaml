@@ -12,6 +12,7 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.6
+  flutter_svg: ^2.0.10
   url_launcher: ^6.3.1
 
 dev_dependencies:
@@ -25,7 +26,7 @@ flutter:
 
   assets:
     - assets/flags/
-    - assets/world-map-clickable.gif
+    - output/imagegen/world_map_no_labels_8k.png
     - assets/data/russia/
     - assets/data/russia/yakutia/
     - assets/data/russia/dagestan/
@@ -33,6 +34,10 @@ flutter:
     - assets/data/usa/oklahoma/
     - assets/data/usa/texas/
     - assets/data/china/
+    - assets/data/vietnam/
+    - assets/data/japan/
+    - assets/data/mexico/
+    - assets/data/canada/
     - assets/data/poland/
     - assets/data/france/
     - assets/data/australia/

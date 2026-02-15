@@ -16,6 +16,14 @@ class FlagBadge extends StatelessWidget {
     'russia': 'assets/flags/russia.png',
     'china': 'assets/flags/china.png',
     'usa': 'assets/flags/usa.png',
+    'canada': 'assets/flags/canada.png',
+    'mexico': 'assets/flags/mexico.png',
+    'japan': 'assets/flags/japan.png',
+    'vietnam': 'assets/flags/vietnam.png',
+    'texas': 'assets/flags/texas.png',
+    'oklahoma': 'assets/flags/oklahoma.png',
+    'dagestan': 'assets/flags/dagestan.png',
+    'yakutia': 'assets/flags/yakutia.png',
     'france': 'assets/flags/france.png',
     'poland': 'assets/flags/poland.png',
     'australia': 'assets/flags/australia.png',
@@ -62,6 +70,14 @@ class FlagBadge extends StatelessWidget {
     switch (code) {
       case 'yakutia':
         return _yakutiaFlag();
+      case 'vietnam':
+        return _vietnamFlag();
+      case 'japan':
+        return _japanFlag();
+      case 'mexico':
+        return _mexicoFlag();
+      case 'canada':
+        return _canadaFlag();
       case 'dagestan':
         return _horizontalStripes(
           const [
@@ -151,6 +167,77 @@ class FlagBadge extends StatelessWidget {
             ],
           ),
         ),
+      ],
+    );
+  }
+
+  Widget _vietnamFlag() {
+    return Container(
+      color: const Color(0xFFDA251D),
+      alignment: Alignment.center,
+      child: const Icon(
+        Icons.star_rounded,
+        color: Color(0xFFFFE000),
+        size: 19,
+      ),
+    );
+  }
+
+  Widget _japanFlag() {
+    return Container(
+      color: Colors.white,
+      alignment: Alignment.center,
+      child: Container(
+        width: 14,
+        height: 14,
+        decoration: const BoxDecoration(
+          color: Color(0xFFBC002D),
+          shape: BoxShape.circle,
+        ),
+      ),
+    );
+  }
+
+  Widget _mexicoFlag() {
+    return Row(
+      children: [
+        const Expanded(child: ColoredBox(color: Color(0xFF006847))),
+        Expanded(
+          child: Container(
+            color: Colors.white,
+            alignment: Alignment.center,
+            child: Container(
+              width: 5,
+              height: 5,
+              decoration: BoxDecoration(
+                color: const Color(0xFFC0932B),
+                borderRadius: BorderRadius.circular(999),
+              ),
+            ),
+          ),
+        ),
+        const Expanded(child: ColoredBox(color: Color(0xFFCE1126))),
+      ],
+    );
+  }
+
+  Widget _canadaFlag() {
+    return Row(
+      children: [
+        const Expanded(child: ColoredBox(color: Color(0xFFD80621))),
+        Expanded(
+          flex: 2,
+          child: Container(
+            color: Colors.white,
+            alignment: Alignment.center,
+            child: const Icon(
+              Icons.eco,
+              color: Color(0xFFD80621),
+              size: 14,
+            ),
+          ),
+        ),
+        const Expanded(child: ColoredBox(color: Color(0xFFD80621))),
       ],
     );
   }
