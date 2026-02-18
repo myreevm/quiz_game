@@ -1,11 +1,11 @@
 {
-    "name": "myfirstapp",
-    "short_name": "myfirstapp",
+    "name": "Worldwide quiz",
+    "short_name": "Worldwide quiz",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#101010",
+    "theme_color": "#101010",
+    "description": "A Flutter quiz app about countries and regions.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
