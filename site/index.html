@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz Game | GitHub Pages</title>
+    <meta
+      name="description"
+      content="Quiz Game: a Flutter quiz app about countries, regions, and culture."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&family=Unbounded:wght@500;700&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              body: ["Manrope", "sans-serif"],
+              display: ["Unbounded", "sans-serif"],
+            },
+            colors: {
+              dune: "#efe5d4",
+              ember: "#f4643c",
+              lagoon: "#005f73",
+              ink: "#0f172a",
+            },
+            boxShadow: {
+              card: "0 12px 30px rgba(15, 23, 42, 0.12)",
+            },
+          },
+        },
+      };
+    </script>
+  </head>
+  <body
+    class="min-h-screen bg-[radial-gradient(circle_at_top_left,#ffe3c6_0%,#f6f0e2_45%,#dbe9ee_100%)] text-ink font-body"
+  >
+    <div class="relative isolate overflow-hidden">
+      <div
+        class="pointer-events-none absolute -right-20 -top-24 h-64 w-64 rounded-full bg-ember/30 blur-3xl"
+      ></div>
+      <div
+        class="pointer-events-none absolute -left-24 top-60 h-72 w-72 rounded-full bg-lagoon/25 blur-3xl"
+      ></div>
+
+      <header class="mx-auto flex w-full max-w-6xl items-center justify-between px-6 py-6">
+        <span class="font-display text-lg tracking-wide">QUIZ GAME</span>
+        <a
+          href="https://github.com/myreevm/quiz_game"
+          class="rounded-full border border-ink/20 bg-white/70 px-4 py-2 text-sm font-semibold transition hover:-translate-y-0.5 hover:bg-white"
+          >GitHub Repo</a
+        >
+      </header>
+
+      <main class="mx-auto w-full max-w-6xl px-6 pb-20 pt-8">
+        <section class="grid gap-8 md:grid-cols-[1.2fr_1fr] md:items-center">
+          <div>
+            <p class="mb-4 inline-flex items-center rounded-full bg-white/70 px-3 py-1 text-xs font-semibold uppercase tracking-widest text-lagoon">
+              Flutter + GitHub Pages
+            </p>
+            <h1 class="font-display text-4xl leading-tight sm:text-5xl">
+              Country quiz app with automated releases and CI/CD
+            </h1>
+            <p class="mt-5 max-w-2xl text-base text-ink/80 sm:text-lg">
+              This project ships as an Android app and now includes a dedicated
+              GitHub Pages landing site built with Tailwind CSS. It highlights
+              app features, release links, and workflow status.
+            </p>
+            <div class="mt-8 flex flex-wrap gap-3">
+              <a
+                href="https://github.com/myreevm/quiz_game/releases"
+                class="rounded-xl bg-ink px-5 py-3 text-sm font-bold text-dune transition hover:-translate-y-0.5 hover:bg-black"
+                >Download release</a
+              >
+              <a
+                href="https://github.com/myreevm/quiz_game/actions"
+                class="rounded-xl border border-ink/20 bg-white/70 px-5 py-3 text-sm font-bold transition hover:-translate-y-0.5 hover:bg-white"
+                >Open Actions</a
+              >
+            </div>
+          </div>
+
+          <div class="rounded-3xl border border-white/60 bg-white/70 p-6 shadow-card backdrop-blur">
+            <h2 class="font-display text-xl">What is included</h2>
+            <ul class="mt-4 space-y-3 text-sm text-ink/85">
+              <li class="rounded-xl bg-dune/60 px-4 py-3">
+                Quiz categories: history, music, movies, and famous people
+              </li>
+              <li class="rounded-xl bg-dune/60 px-4 py-3">
+                Country and region packs for multiple locations
+              </li>
+              <li class="rounded-xl bg-dune/60 px-4 py-3">
+                Android release workflow and automatic GitHub Pages deploy
+              </li>
+            </ul>
+          </div>
+        </section>
+
+        <section class="mt-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          <article class="rounded-2xl border border-white/60 bg-white/75 p-5 shadow-card backdrop-blur">
+            <p class="text-xs font-bold uppercase tracking-widest text-lagoon">01</p>
+            <h3 class="mt-2 font-display text-lg">Idea</h3>
+            <p class="mt-2 text-sm text-ink/80">
+              Fast educational gameplay with short country and region questions.
+            </p>
+          </article>
+          <article class="rounded-2xl border border-white/60 bg-white/75 p-5 shadow-card backdrop-blur">
+            <p class="text-xs font-bold uppercase tracking-widest text-lagoon">02</p>
+            <h3 class="mt-2 font-display text-lg">Stack</h3>
+            <p class="mt-2 text-sm text-ink/80">
+              Flutter app, Tailwind CSS landing page, GitHub Actions CI/CD.
+            </p>
+          </article>
+          <article class="rounded-2xl border border-white/60 bg-white/75 p-5 shadow-card backdrop-blur sm:col-span-2 lg:col-span-1">
+            <p class="text-xs font-bold uppercase tracking-widest text-lagoon">03</p>
+            <h3 class="mt-2 font-display text-lg">Publishing</h3>
+            <p class="mt-2 text-sm text-ink/80">
+              Push to main updates the site, push tag v* publishes Android builds.
+            </p>
+          </article>
+        </section>
+      </main>
+
+      <footer class="mx-auto w-full max-w-6xl px-6 pb-10 text-sm text-ink/70">
+        <p>
+          (c) <span id="year"></span> Quiz Game. Built with Tailwind CSS and hosted on GitHub Pages.
+        </p>
+      </footer>
+    </div>
+
+    <script>
+      const yearEl = document.getElementById("year");
+      if (yearEl) {
+        yearEl.textContent = new Date().getFullYear();
+      }
+    </script>
+  </body>
+</html>

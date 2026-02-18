@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+## GitHub Pages
+
+This repository includes a static Tailwind CSS site in `site/`.
+
+- Expected URL: `https://myreevm.github.io/quiz_game/`
+- Deployment: GitHub Actions workflow `.github/workflows/pages.yml`
+- Trigger: push to `main` with changes in `site/**` (or manual run)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
