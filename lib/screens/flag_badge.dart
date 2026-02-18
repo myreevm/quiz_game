@@ -36,6 +36,11 @@ class FlagBadge extends StatelessWidget {
     'turkey': 'assets/flags/turkey.png',
     'south_africa': 'assets/flags/south_africa.png',
     'italy': 'assets/flags/italy.png',
+    'germany': 'assets/flags/germany.svg',
+    'switzerland': 'assets/flags/switzerland.svg',
+    'spain': 'assets/flags/spain.svg',
+    'south_korea': 'assets/flags/south_korea.svg',
+    'new_zealand': 'assets/flags/new_zealand.svg',
   };
 
   @override

@@ -32,6 +32,11 @@ class CountrySelectionScreen extends StatefulWidget {
     _CountryOption(code: 'turkey'),
     _CountryOption(code: 'south_africa'),
     _CountryOption(code: 'italy'),
+    _CountryOption(code: 'germany'),
+    _CountryOption(code: 'switzerland'),
+    _CountryOption(code: 'spain'),
+    _CountryOption(code: 'south_korea'),
+    _CountryOption(code: 'new_zealand'),
   ];
 
   static const mapPins = [
@@ -42,6 +47,9 @@ class CountrySelectionScreen extends StatefulWidget {
     MapPinData(code: 'uk', position: Offset(0.47, 0.20)),
     MapPinData(code: 'france', position: Offset(0.51, 0.24)),
     MapPinData(code: 'italy', position: Offset(0.53, 0.28)),
+    MapPinData(code: 'spain', position: Offset(0.45, 0.29)),
+    MapPinData(code: 'germany', position: Offset(0.54, 0.22)),
+    MapPinData(code: 'switzerland', position: Offset(0.53, 0.25)),
     MapPinData(code: 'poland', position: Offset(0.55, 0.21)),
     MapPinData(code: 'belarus', position: Offset(0.58, 0.20)),
     MapPinData(code: 'turkey', position: Offset(0.60, 0.30)),
@@ -49,10 +57,12 @@ class CountrySelectionScreen extends StatefulWidget {
     MapPinData(code: 'russia', position: Offset(0.75, 0.15)),
     MapPinData(code: 'china', position: Offset(0.79, 0.32)),
     MapPinData(code: 'vietnam', position: Offset(0.79, 0.42)),
+    MapPinData(code: 'south_korea', position: Offset(0.86, 0.29)),
     MapPinData(code: 'japan', position: Offset(0.88, 0.30)),
     MapPinData(code: 'australia', position: Offset(0.86, 0.64)),
     MapPinData(code: 'argentina', position: Offset(0.34, 0.75)),
     MapPinData(code: 'south_africa', position: Offset(0.58, 0.68)),
+    MapPinData(code: 'new_zealand', position: Offset(0.92, 0.77)),
   ];
 
   @override
@@ -72,13 +82,18 @@ class _CountrySelectionScreenState extends State<CountrySelectionScreen> {
     'south_africa': 1221037,
     'egypt': 1002450,
     'turkey': 783562,
+    'germany': 357588,
     'france': 551695,
+    'spain': 505990,
     'japan': 377975,
     'vietnam': 331212,
     'poland': 312696,
     'italy': 301340,
+    'new_zealand': 268838,
     'uk': 243610,
     'belarus': 207600,
+    'south_korea': 100210,
+    'switzerland': 41285,
   };
 
   static const Map<String, List<String>> _regionsByCountry = {
@@ -100,6 +115,11 @@ class _CountrySelectionScreenState extends State<CountrySelectionScreen> {
     'turkey': <String>['all'],
     'south_africa': <String>['all'],
     'italy': <String>['all'],
+    'germany': <String>['all'],
+    'switzerland': <String>['all'],
+    'spain': <String>['all'],
+    'south_korea': <String>['all'],
+    'new_zealand': <String>['all'],
   };
 
   static const List<String> _categories = [

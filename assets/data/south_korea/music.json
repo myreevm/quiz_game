@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "Which genre made South Korea globally famous in pop culture?",
+                         "ru":  "Which genre made South Korea globally famous in pop culture?",
+                         "yakut":  "Which genre made South Korea globally famous in pop culture?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "K-pop",
+                                         "ru":  "K-pop",
+                                         "yakut":  "K-pop"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Reggaeton",
+                                         "ru":  "Reggaeton",
+                                         "yakut":  "Reggaeton"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Fado",
+                                         "ru":  "Fado",
+                                         "yakut":  "Fado"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Samba",
+                                         "ru":  "Samba",
+                                         "yakut":  "Samba"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which South Korean group released global hits like \u0027Dynamite\u0027 and \u0027Butter\u0027?",
+                         "ru":  "Which South Korean group released global hits like \u0027Dynamite\u0027 and \u0027Butter\u0027?",
+                         "yakut":  "Which South Korean group released global hits like \u0027Dynamite\u0027 and \u0027Butter\u0027?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "BTS",
+                                         "ru":  "BTS",
+                                         "yakut":  "BTS"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "EXO",
+                                         "ru":  "EXO",
+                                         "yakut":  "EXO"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "BIGBANG",
+                                         "ru":  "BIGBANG",
+                                         "yakut":  "BIGBANG"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "SHINee",
+                                         "ru":  "SHINee",
+                                         "yakut":  "SHINee"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which singer performed the viral hit \u0027Gangnam Style\u0027?",
+                         "ru":  "Which singer performed the viral hit \u0027Gangnam Style\u0027?",
+                         "yakut":  "Which singer performed the viral hit \u0027Gangnam Style\u0027?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "PSY",
+                                         "ru":  "PSY",
+                                         "yakut":  "PSY"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Rain",
+                                         "ru":  "Rain",
+                                         "yakut":  "Rain"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "G-Dragon",
+                                         "ru":  "G-Dragon",
+                                         "yakut":  "G-Dragon"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "IU",
+                                         "ru":  "IU",
+                                         "yakut":  "IU"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which traditional Korean string instrument is often used in Korean music?",
+                         "ru":  "Which traditional Korean string instrument is often used in Korean music?",
+                         "yakut":  "Which traditional Korean string instrument is often used in Korean music?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Gayageum",
+                                         "ru":  "Gayageum",
+                                         "yakut":  "Gayageum"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Sitar",
+                                         "ru":  "Sitar",
+                                         "yakut":  "Sitar"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Balalaika",
+                                         "ru":  "Balalaika",
+                                         "yakut":  "Balalaika"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Lute",
+                                         "ru":  "Lute",
+                                         "yakut":  "Lute"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

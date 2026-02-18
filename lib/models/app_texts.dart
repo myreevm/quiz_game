@@ -422,6 +422,36 @@ class AppTexts {
           ru: 'Italy',
           yakut: 'Italy',
         );
+      case 'germany':
+        return _select(
+          en: 'Germany',
+          ru: 'Germany',
+          yakut: 'Germany',
+        );
+      case 'switzerland':
+        return _select(
+          en: 'Switzerland',
+          ru: 'Switzerland',
+          yakut: 'Switzerland',
+        );
+      case 'spain':
+        return _select(
+          en: 'Spain',
+          ru: 'Spain',
+          yakut: 'Spain',
+        );
+      case 'south_korea':
+        return _select(
+          en: 'South Korea',
+          ru: 'South Korea',
+          yakut: 'South Korea',
+        );
+      case 'new_zealand':
+        return _select(
+          en: 'New Zealand',
+          ru: 'New Zealand',
+          yakut: 'New Zealand',
+        );
       default:
         return code.toUpperCase();
     }
@@ -541,6 +571,39 @@ class AppTexts {
           en: 'Italy: ancient heritage, art, cinema, and music',
           ru: 'Italy: ancient heritage, art, cinema, and music',
           yakut: 'Italy: ancient heritage, art, cinema, and music',
+        );
+      case 'germany':
+        return _select(
+          en: 'Germany: history, science, cinema, and music',
+          ru: 'Germany: history, science, cinema, and music',
+          yakut: 'Germany: history, science, cinema, and music',
+        );
+      case 'switzerland':
+        return _select(
+          en: 'Switzerland: alpine culture, history, films, and famous people',
+          ru: 'Switzerland: alpine culture, history, films, and famous people',
+          yakut:
+              'Switzerland: alpine culture, history, films, and famous people',
+        );
+      case 'spain':
+        return _select(
+          en: 'Spain: history, art, cinema, and music',
+          ru: 'Spain: history, art, cinema, and music',
+          yakut: 'Spain: history, art, cinema, and music',
+        );
+      case 'south_korea':
+        return _select(
+          en: 'South Korea: modern history, cinema, K-pop, and notable people',
+          ru: 'South Korea: modern history, cinema, K-pop, and notable people',
+          yakut:
+              'South Korea: modern history, cinema, K-pop, and notable people',
+        );
+      case 'new_zealand':
+        return _select(
+          en: 'New Zealand: history, cinema, music, and famous personalities',
+          ru: 'New Zealand: history, cinema, music, and famous personalities',
+          yakut:
+              'New Zealand: history, cinema, music, and famous personalities',
         );
       default:
         return code;

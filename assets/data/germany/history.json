@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "What is the capital of Germany?",
+                         "ru":  "What is the capital of Germany?",
+                         "yakut":  "What is the capital of Germany?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Berlin",
+                                         "ru":  "Berlin",
+                                         "yakut":  "Berlin"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Munich",
+                                         "ru":  "Munich",
+                                         "yakut":  "Munich"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Hamburg",
+                                         "ru":  "Hamburg",
+                                         "yakut":  "Hamburg"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Frankfurt",
+                                         "ru":  "Frankfurt",
+                                         "yakut":  "Frankfurt"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "In which year was Germany officially reunified?",
+                         "ru":  "In which year was Germany officially reunified?",
+                         "yakut":  "In which year was Germany officially reunified?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "1990",
+                                         "ru":  "1990",
+                                         "yakut":  "1990"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "1989",
+                                         "ru":  "1989",
+                                         "yakut":  "1989"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "1991",
+                                         "ru":  "1991",
+                                         "yakut":  "1991"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "1987",
+                                         "ru":  "1987",
+                                         "yakut":  "1987"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which structure fell in 1989 and became a symbol of the Cold War\u0027s end?",
+                         "ru":  "Which structure fell in 1989 and became a symbol of the Cold War\u0027s end?",
+                         "yakut":  "Which structure fell in 1989 and became a symbol of the Cold War\u0027s end?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Berlin Wall",
+                                         "ru":  "Berlin Wall",
+                                         "yakut":  "Berlin Wall"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Iron Curtain",
+                                         "ru":  "Iron Curtain",
+                                         "yakut":  "Iron Curtain"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Cologne Cathedral",
+                                         "ru":  "Cologne Cathedral",
+                                         "yakut":  "Cologne Cathedral"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Brandenburg Gate",
+                                         "ru":  "Brandenburg Gate",
+                                         "yakut":  "Brandenburg Gate"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "What currency does Germany use today?",
+                         "ru":  "What currency does Germany use today?",
+                         "yakut":  "What currency does Germany use today?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Euro",
+                                         "ru":  "Euro",
+                                         "yakut":  "Euro"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "German mark",
+                                         "ru":  "German mark",
+                                         "yakut":  "German mark"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Swiss franc",
+                                         "ru":  "Swiss franc",
+                                         "yakut":  "Swiss franc"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Pound sterling",
+                                         "ru":  "Pound sterling",
+                                         "yakut":  "Pound sterling"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

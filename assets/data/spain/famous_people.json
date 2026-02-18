@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "Which Spanish artist co-founded Cubism?",
+                         "ru":  "Which Spanish artist co-founded Cubism?",
+                         "yakut":  "Which Spanish artist co-founded Cubism?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Pablo Picasso",
+                                         "ru":  "Pablo Picasso",
+                                         "yakut":  "Pablo Picasso"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Joan Miro",
+                                         "ru":  "Joan Miro",
+                                         "yakut":  "Joan Miro"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Francisco Goya",
+                                         "ru":  "Francisco Goya",
+                                         "yakut":  "Francisco Goya"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "El Greco",
+                                         "ru":  "El Greco",
+                                         "yakut":  "El Greco"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which Spanish surrealist painter created \u0027The Persistence of Memory\u0027?",
+                         "ru":  "Which Spanish surrealist painter created \u0027The Persistence of Memory\u0027?",
+                         "yakut":  "Which Spanish surrealist painter created \u0027The Persistence of Memory\u0027?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Salvador Dali",
+                                         "ru":  "Salvador Dali",
+                                         "yakut":  "Salvador Dali"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Diego Velazquez",
+                                         "ru":  "Diego Velazquez",
+                                         "yakut":  "Diego Velazquez"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Pablo Picasso",
+                                         "ru":  "Pablo Picasso",
+                                         "yakut":  "Pablo Picasso"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Antoni Tapies",
+                                         "ru":  "Antoni Tapies",
+                                         "yakut":  "Antoni Tapies"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which Spanish tennis player won multiple Roland Garros titles?",
+                         "ru":  "Which Spanish tennis player won multiple Roland Garros titles?",
+                         "yakut":  "Which Spanish tennis player won multiple Roland Garros titles?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Rafael Nadal",
+                                         "ru":  "Rafael Nadal",
+                                         "yakut":  "Rafael Nadal"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Carlos Alcaraz",
+                                         "ru":  "Carlos Alcaraz",
+                                         "yakut":  "Carlos Alcaraz"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "David Ferrer",
+                                         "ru":  "David Ferrer",
+                                         "yakut":  "David Ferrer"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Juan Carlos Ferrero",
+                                         "ru":  "Juan Carlos Ferrero",
+                                         "yakut":  "Juan Carlos Ferrero"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which Spanish writer created Don Quixote?",
+                         "ru":  "Which Spanish writer created Don Quixote?",
+                         "yakut":  "Which Spanish writer created Don Quixote?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Miguel de Cervantes",
+                                         "ru":  "Miguel de Cervantes",
+                                         "yakut":  "Miguel de Cervantes"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Lope de Vega",
+                                         "ru":  "Lope de Vega",
+                                         "yakut":  "Lope de Vega"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Federico Garcia Lorca",
+                                         "ru":  "Federico Garcia Lorca",
+                                         "yakut":  "Federico Garcia Lorca"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Benito Perez Galdos",
+                                         "ru":  "Benito Perez Galdos",
+                                         "yakut":  "Benito Perez Galdos"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

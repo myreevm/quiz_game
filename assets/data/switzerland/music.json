@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "Which world-famous music event takes place in Montreux?",
+                         "ru":  "Which world-famous music event takes place in Montreux?",
+                         "yakut":  "Which world-famous music event takes place in Montreux?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Montreux Jazz Festival",
+                                         "ru":  "Montreux Jazz Festival",
+                                         "yakut":  "Montreux Jazz Festival"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Eurovision Final",
+                                         "ru":  "Eurovision Final",
+                                         "yakut":  "Eurovision Final"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Sion Rock Cup",
+                                         "ru":  "Sion Rock Cup",
+                                         "yakut":  "Sion Rock Cup"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Swiss Open Air Opera",
+                                         "ru":  "Swiss Open Air Opera",
+                                         "yakut":  "Swiss Open Air Opera"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which traditional Alpine vocal style is associated with Switzerland?",
+                         "ru":  "Which traditional Alpine vocal style is associated with Switzerland?",
+                         "yakut":  "Which traditional Alpine vocal style is associated with Switzerland?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Yodeling",
+                                         "ru":  "Yodeling",
+                                         "yakut":  "Yodeling"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Beatboxing",
+                                         "ru":  "Beatboxing",
+                                         "yakut":  "Beatboxing"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Throat singing",
+                                         "ru":  "Throat singing",
+                                         "yakut":  "Throat singing"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Scat singing",
+                                         "ru":  "Scat singing",
+                                         "yakut":  "Scat singing"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which long wooden instrument is linked to Swiss Alpine folk music?",
+                         "ru":  "Which long wooden instrument is linked to Swiss Alpine folk music?",
+                         "yakut":  "Which long wooden instrument is linked to Swiss Alpine folk music?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Alphorn",
+                                         "ru":  "Alphorn",
+                                         "yakut":  "Alphorn"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Clarinet",
+                                         "ru":  "Clarinet",
+                                         "yakut":  "Clarinet"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Saxophone",
+                                         "ru":  "Saxophone",
+                                         "yakut":  "Saxophone"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Mandolin",
+                                         "ru":  "Mandolin",
+                                         "yakut":  "Mandolin"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which city is home to the Tonhalle Orchestra?",
+                         "ru":  "Which city is home to the Tonhalle Orchestra?",
+                         "yakut":  "Which city is home to the Tonhalle Orchestra?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Zurich",
+                                         "ru":  "Zurich",
+                                         "yakut":  "Zurich"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Bern",
+                                         "ru":  "Bern",
+                                         "yakut":  "Bern"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Lugano",
+                                         "ru":  "Lugano",
+                                         "yakut":  "Lugano"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Fribourg",
+                                         "ru":  "Fribourg",
+                                         "yakut":  "Fribourg"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

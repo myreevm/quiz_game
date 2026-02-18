@@ -559,6 +559,31 @@ class _CountryMapViewport {
           alignment: Alignment(0.10, -0.24),
           scale: 6.0,
         );
+      case 'germany':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.08, -0.34),
+          scale: 5.7,
+        );
+      case 'switzerland':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.04, -0.24),
+          scale: 6.0,
+        );
+      case 'spain':
+        return const _CountryMapViewport(
+          alignment: Alignment(-0.18, -0.20),
+          scale: 4.9,
+        );
+      case 'south_korea':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.88, -0.10),
+          scale: 6.0,
+        );
+      case 'new_zealand':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.90, 0.76),
+          scale: 6.0,
+        );
       default:
         return const _CountryMapViewport(
           alignment: Alignment.center,

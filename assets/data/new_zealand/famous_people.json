@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "Which New Zealander first reached the summit of Mount Everest in 1953 with Tenzing Norgay?",
+                         "ru":  "Which New Zealander first reached the summit of Mount Everest in 1953 with Tenzing Norgay?",
+                         "yakut":  "Which New Zealander first reached the summit of Mount Everest in 1953 with Tenzing Norgay?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Edmund Hillary",
+                                         "ru":  "Edmund Hillary",
+                                         "yakut":  "Edmund Hillary"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Reinhold Messner",
+                                         "ru":  "Reinhold Messner",
+                                         "yakut":  "Reinhold Messner"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Chris Bonington",
+                                         "ru":  "Chris Bonington",
+                                         "yakut":  "Chris Bonington"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Peter Hillary",
+                                         "ru":  "Peter Hillary",
+                                         "yakut":  "Peter Hillary"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which New Zealand prime minister served from 2017 to 2023?",
+                         "ru":  "Which New Zealand prime minister served from 2017 to 2023?",
+                         "yakut":  "Which New Zealand prime minister served from 2017 to 2023?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Jacinda Ardern",
+                                         "ru":  "Jacinda Ardern",
+                                         "yakut":  "Jacinda Ardern"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Helen Clark",
+                                         "ru":  "Helen Clark",
+                                         "yakut":  "Helen Clark"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "John Key",
+                                         "ru":  "John Key",
+                                         "yakut":  "John Key"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Christopher Luxon",
+                                         "ru":  "Christopher Luxon",
+                                         "yakut":  "Christopher Luxon"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which scientist born in New Zealand is known as a pioneer of nuclear physics?",
+                         "ru":  "Which scientist born in New Zealand is known as a pioneer of nuclear physics?",
+                         "yakut":  "Which scientist born in New Zealand is known as a pioneer of nuclear physics?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Ernest Rutherford",
+                                         "ru":  "Ernest Rutherford",
+                                         "yakut":  "Ernest Rutherford"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Niels Bohr",
+                                         "ru":  "Niels Bohr",
+                                         "yakut":  "Niels Bohr"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Max Born",
+                                         "ru":  "Max Born",
+                                         "yakut":  "Max Born"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Werner Heisenberg",
+                                         "ru":  "Werner Heisenberg",
+                                         "yakut":  "Werner Heisenberg"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which New Zealand writer is known for modernist short stories such as \u0027The Garden Party\u0027?",
+                         "ru":  "Which New Zealand writer is known for modernist short stories such as \u0027The Garden Party\u0027?",
+                         "yakut":  "Which New Zealand writer is known for modernist short stories such as \u0027The Garden Party\u0027?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Katherine Mansfield",
+                                         "ru":  "Katherine Mansfield",
+                                         "yakut":  "Katherine Mansfield"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Janet Frame",
+                                         "ru":  "Janet Frame",
+                                         "yakut":  "Janet Frame"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Witi Ihimaera",
+                                         "ru":  "Witi Ihimaera",
+                                         "yakut":  "Witi Ihimaera"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Patricia Grace",
+                                         "ru":  "Patricia Grace",
+                                         "yakut":  "Patricia Grace"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

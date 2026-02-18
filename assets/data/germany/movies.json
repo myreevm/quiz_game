@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "Which city hosts the Berlin International Film Festival?",
+                         "ru":  "Which city hosts the Berlin International Film Festival?",
+                         "yakut":  "Which city hosts the Berlin International Film Festival?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Berlin",
+                                         "ru":  "Berlin",
+                                         "yakut":  "Berlin"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Leipzig",
+                                         "ru":  "Leipzig",
+                                         "yakut":  "Leipzig"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Dresden",
+                                         "ru":  "Dresden",
+                                         "yakut":  "Dresden"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Stuttgart",
+                                         "ru":  "Stuttgart",
+                                         "yakut":  "Stuttgart"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which German anti-war film won multiple Oscars in 2023?",
+                         "ru":  "Which German anti-war film won multiple Oscars in 2023?",
+                         "yakut":  "Which German anti-war film won multiple Oscars in 2023?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "All Quiet on the Western Front",
+                                         "ru":  "All Quiet on the Western Front",
+                                         "yakut":  "All Quiet on the Western Front"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Run Lola Run",
+                                         "ru":  "Run Lola Run",
+                                         "yakut":  "Run Lola Run"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Downfall",
+                                         "ru":  "Downfall",
+                                         "yakut":  "Downfall"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "The Lives of Others",
+                                         "ru":  "The Lives of Others",
+                                         "yakut":  "The Lives of Others"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which classic 1927 German science-fiction film was directed by Fritz Lang?",
+                         "ru":  "Which classic 1927 German science-fiction film was directed by Fritz Lang?",
+                         "yakut":  "Which classic 1927 German science-fiction film was directed by Fritz Lang?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Metropolis",
+                                         "ru":  "Metropolis",
+                                         "yakut":  "Metropolis"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "M",
+                                         "ru":  "M",
+                                         "yakut":  "M"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Nosferatu",
+                                         "ru":  "Nosferatu",
+                                         "yakut":  "Nosferatu"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Wings of Desire",
+                                         "ru":  "Wings of Desire",
+                                         "yakut":  "Wings of Desire"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which area near Berlin is famous for historic film studios?",
+                         "ru":  "Which area near Berlin is famous for historic film studios?",
+                         "yakut":  "Which area near Berlin is famous for historic film studios?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Babelsberg",
+                                         "ru":  "Babelsberg",
+                                         "yakut":  "Babelsberg"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Charlottenburg",
+                                         "ru":  "Charlottenburg",
+                                         "yakut":  "Charlottenburg"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Prenzlauer Berg",
+                                         "ru":  "Prenzlauer Berg",
+                                         "yakut":  "Prenzlauer Berg"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Kreuzberg",
+                                         "ru":  "Kreuzberg",
+                                         "yakut":  "Kreuzberg"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

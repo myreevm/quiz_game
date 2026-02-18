@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "What is the federal city (de facto capital) of Switzerland?",
+                         "ru":  "What is the federal city (de facto capital) of Switzerland?",
+                         "yakut":  "What is the federal city (de facto capital) of Switzerland?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Bern",
+                                         "ru":  "Bern",
+                                         "yakut":  "Bern"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Zurich",
+                                         "ru":  "Zurich",
+                                         "yakut":  "Zurich"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Geneva",
+                                         "ru":  "Geneva",
+                                         "yakut":  "Geneva"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Basel",
+                                         "ru":  "Basel",
+                                         "yakut":  "Basel"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "What currency is used in Switzerland?",
+                         "ru":  "What currency is used in Switzerland?",
+                         "yakut":  "What currency is used in Switzerland?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Swiss franc",
+                                         "ru":  "Swiss franc",
+                                         "yakut":  "Swiss franc"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Euro",
+                                         "ru":  "Euro",
+                                         "yakut":  "Euro"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Swiss mark",
+                                         "ru":  "Swiss mark",
+                                         "yakut":  "Swiss mark"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Pound",
+                                         "ru":  "Pound",
+                                         "yakut":  "Pound"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "In which year is the Old Swiss Confederacy traditionally founded?",
+                         "ru":  "In which year is the Old Swiss Confederacy traditionally founded?",
+                         "yakut":  "In which year is the Old Swiss Confederacy traditionally founded?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "1291",
+                                         "ru":  "1291",
+                                         "yakut":  "1291"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "1492",
+                                         "ru":  "1492",
+                                         "yakut":  "1492"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "1648",
+                                         "ru":  "1648",
+                                         "yakut":  "1648"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "1815",
+                                         "ru":  "1815",
+                                         "yakut":  "1815"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Is Switzerland a member of the European Union?",
+                         "ru":  "Is Switzerland a member of the European Union?",
+                         "yakut":  "Is Switzerland a member of the European Union?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "No",
+                                         "ru":  "No",
+                                         "yakut":  "No"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Yes",
+                                         "ru":  "Yes",
+                                         "yakut":  "Yes"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Only in winter",
+                                         "ru":  "Only in winter",
+                                         "yakut":  "Only in winter"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Only for trade",
+                                         "ru":  "Only for trade",
+                                         "yakut":  "Only for trade"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

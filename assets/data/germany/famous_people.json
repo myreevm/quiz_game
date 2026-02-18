@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "Which physicist born in Germany developed the theory of relativity?",
+                         "ru":  "Which physicist born in Germany developed the theory of relativity?",
+                         "yakut":  "Which physicist born in Germany developed the theory of relativity?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Albert Einstein",
+                                         "ru":  "Albert Einstein",
+                                         "yakut":  "Albert Einstein"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Max Planck",
+                                         "ru":  "Max Planck",
+                                         "yakut":  "Max Planck"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Werner Heisenberg",
+                                         "ru":  "Werner Heisenberg",
+                                         "yakut":  "Werner Heisenberg"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Niels Bohr",
+                                         "ru":  "Niels Bohr",
+                                         "yakut":  "Niels Bohr"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which German chancellor led the country from 2005 to 2021?",
+                         "ru":  "Which German chancellor led the country from 2005 to 2021?",
+                         "yakut":  "Which German chancellor led the country from 2005 to 2021?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Angela Merkel",
+                                         "ru":  "Angela Merkel",
+                                         "yakut":  "Angela Merkel"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Gerhard Schroder",
+                                         "ru":  "Gerhard Schroder",
+                                         "yakut":  "Gerhard Schroder"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Helmut Kohl",
+                                         "ru":  "Helmut Kohl",
+                                         "yakut":  "Helmut Kohl"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Olaf Scholz",
+                                         "ru":  "Olaf Scholz",
+                                         "yakut":  "Olaf Scholz"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which writer created the tragedy \u0027Faust\u0027?",
+                         "ru":  "Which writer created the tragedy \u0027Faust\u0027?",
+                         "yakut":  "Which writer created the tragedy \u0027Faust\u0027?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Johann Wolfgang von Goethe",
+                                         "ru":  "Johann Wolfgang von Goethe",
+                                         "yakut":  "Johann Wolfgang von Goethe"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Friedrich Schiller",
+                                         "ru":  "Friedrich Schiller",
+                                         "yakut":  "Friedrich Schiller"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Thomas Mann",
+                                         "ru":  "Thomas Mann",
+                                         "yakut":  "Thomas Mann"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Hermann Hesse",
+                                         "ru":  "Hermann Hesse",
+                                         "yakut":  "Hermann Hesse"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which German racing driver won seven Formula One world titles?",
+                         "ru":  "Which German racing driver won seven Formula One world titles?",
+                         "yakut":  "Which German racing driver won seven Formula One world titles?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Michael Schumacher",
+                                         "ru":  "Michael Schumacher",
+                                         "yakut":  "Michael Schumacher"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Sebastian Vettel",
+                                         "ru":  "Sebastian Vettel",
+                                         "yakut":  "Sebastian Vettel"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Nico Rosberg",
+                                         "ru":  "Nico Rosberg",
+                                         "yakut":  "Nico Rosberg"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Mika Hakkinen",
+                                         "ru":  "Mika Hakkinen",
+                                         "yakut":  "Mika Hakkinen"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

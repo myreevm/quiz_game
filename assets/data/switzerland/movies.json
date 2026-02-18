@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "Which Swiss city hosts the Locarno Film Festival?",
+                         "ru":  "Which Swiss city hosts the Locarno Film Festival?",
+                         "yakut":  "Which Swiss city hosts the Locarno Film Festival?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Locarno",
+                                         "ru":  "Locarno",
+                                         "yakut":  "Locarno"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Bern",
+                                         "ru":  "Bern",
+                                         "yakut":  "Bern"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Lausanne",
+                                         "ru":  "Lausanne",
+                                         "yakut":  "Lausanne"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Lugano",
+                                         "ru":  "Lugano",
+                                         "yakut":  "Lugano"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which Swiss actor played Adolf Hitler in the film \u0027Downfall\u0027?",
+                         "ru":  "Which Swiss actor played Adolf Hitler in the film \u0027Downfall\u0027?",
+                         "yakut":  "Which Swiss actor played Adolf Hitler in the film \u0027Downfall\u0027?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Bruno Ganz",
+                                         "ru":  "Bruno Ganz",
+                                         "yakut":  "Bruno Ganz"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Daniel Bruhl",
+                                         "ru":  "Daniel Bruhl",
+                                         "yakut":  "Daniel Bruhl"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Christoph Waltz",
+                                         "ru":  "Christoph Waltz",
+                                         "yakut":  "Christoph Waltz"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Max von Sydow",
+                                         "ru":  "Max von Sydow",
+                                         "yakut":  "Max von Sydow"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which classic character from Swiss literature has many film adaptations?",
+                         "ru":  "Which classic character from Swiss literature has many film adaptations?",
+                         "yakut":  "Which classic character from Swiss literature has many film adaptations?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Heidi",
+                                         "ru":  "Heidi",
+                                         "yakut":  "Heidi"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Pinocchio",
+                                         "ru":  "Pinocchio",
+                                         "yakut":  "Pinocchio"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Oliver Twist",
+                                         "ru":  "Oliver Twist",
+                                         "yakut":  "Oliver Twist"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Don Quixote",
+                                         "ru":  "Don Quixote",
+                                         "yakut":  "Don Quixote"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "In which Swiss city is the Cinematheque suisse based?",
+                         "ru":  "In which Swiss city is the Cinematheque suisse based?",
+                         "yakut":  "In which Swiss city is the Cinematheque suisse based?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Lausanne",
+                                         "ru":  "Lausanne",
+                                         "yakut":  "Lausanne"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Zurich",
+                                         "ru":  "Zurich",
+                                         "yakut":  "Zurich"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Geneva",
+                                         "ru":  "Geneva",
+                                         "yakut":  "Geneva"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Lucerne",
+                                         "ru":  "Lucerne",
+                                         "yakut":  "Lucerne"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "What is the capital of South Korea?",
+                         "ru":  "What is the capital of South Korea?",
+                         "yakut":  "What is the capital of South Korea?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Seoul",
+                                         "ru":  "Seoul",
+                                         "yakut":  "Seoul"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Busan",
+                                         "ru":  "Busan",
+                                         "yakut":  "Busan"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Incheon",
+                                         "ru":  "Incheon",
+                                         "yakut":  "Incheon"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Daegu",
+                                         "ru":  "Daegu",
+                                         "yakut":  "Daegu"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "In which year was the Korean War armistice signed?",
+                         "ru":  "In which year was the Korean War armistice signed?",
+                         "yakut":  "In which year was the Korean War armistice signed?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "1953",
+                                         "ru":  "1953",
+                                         "yakut":  "1953"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "1945",
+                                         "ru":  "1945",
+                                         "yakut":  "1945"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "1961",
+                                         "ru":  "1961",
+                                         "yakut":  "1961"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "1972",
+                                         "ru":  "1972",
+                                         "yakut":  "1972"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which parallel is commonly linked to the division of the Korean Peninsula?",
+                         "ru":  "Which parallel is commonly linked to the division of the Korean Peninsula?",
+                         "yakut":  "Which parallel is commonly linked to the division of the Korean Peninsula?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "38th parallel",
+                                         "ru":  "38th parallel",
+                                         "yakut":  "38th parallel"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "17th parallel",
+                                         "ru":  "17th parallel",
+                                         "yakut":  "17th parallel"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "49th parallel",
+                                         "ru":  "49th parallel",
+                                         "yakut":  "49th parallel"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "23rd parallel",
+                                         "ru":  "23rd parallel",
+                                         "yakut":  "23rd parallel"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "What currency is used in South Korea?",
+                         "ru":  "What currency is used in South Korea?",
+                         "yakut":  "What currency is used in South Korea?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "South Korean won",
+                                         "ru":  "South Korean won",
+                                         "yakut":  "South Korean won"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Yen",
+                                         "ru":  "Yen",
+                                         "yakut":  "Yen"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Yuan",
+                                         "ru":  "Yuan",
+                                         "yakut":  "Yuan"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Baht",
+                                         "ru":  "Baht",
+                                         "yakut":  "Baht"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

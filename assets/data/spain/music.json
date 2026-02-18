@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "Which music and dance tradition is strongly associated with southern Spain?",
+                         "ru":  "Which music and dance tradition is strongly associated with southern Spain?",
+                         "yakut":  "Which music and dance tradition is strongly associated with southern Spain?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Flamenco",
+                                         "ru":  "Flamenco",
+                                         "yakut":  "Flamenco"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Tango",
+                                         "ru":  "Tango",
+                                         "yakut":  "Tango"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Samba",
+                                         "ru":  "Samba",
+                                         "yakut":  "Samba"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Fado",
+                                         "ru":  "Fado",
+                                         "yakut":  "Fado"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which instrument is central to many flamenco performances?",
+                         "ru":  "Which instrument is central to many flamenco performances?",
+                         "yakut":  "Which instrument is central to many flamenco performances?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Spanish guitar",
+                                         "ru":  "Spanish guitar",
+                                         "yakut":  "Spanish guitar"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Banjo",
+                                         "ru":  "Banjo",
+                                         "yakut":  "Banjo"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Harp",
+                                         "ru":  "Harp",
+                                         "yakut":  "Harp"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Balalaika",
+                                         "ru":  "Balalaika",
+                                         "yakut":  "Balalaika"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which famous Spanish tenor was part of \u0027The Three Tenors\u0027?",
+                         "ru":  "Which famous Spanish tenor was part of \u0027The Three Tenors\u0027?",
+                         "yakut":  "Which famous Spanish tenor was part of \u0027The Three Tenors\u0027?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Placido Domingo",
+                                         "ru":  "Placido Domingo",
+                                         "yakut":  "Placido Domingo"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Jose Carreras",
+                                         "ru":  "Jose Carreras",
+                                         "yakut":  "Jose Carreras"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Luciano Pavarotti",
+                                         "ru":  "Luciano Pavarotti",
+                                         "yakut":  "Luciano Pavarotti"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Andrea Bocelli",
+                                         "ru":  "Andrea Bocelli",
+                                         "yakut":  "Andrea Bocelli"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which Spanish guitarist is considered a legend of flamenco?",
+                         "ru":  "Which Spanish guitarist is considered a legend of flamenco?",
+                         "yakut":  "Which Spanish guitarist is considered a legend of flamenco?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Paco de Lucia",
+                                         "ru":  "Paco de Lucia",
+                                         "yakut":  "Paco de Lucia"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Carlos Santana",
+                                         "ru":  "Carlos Santana",
+                                         "yakut":  "Carlos Santana"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Mark Knopfler",
+                                         "ru":  "Mark Knopfler",
+                                         "yakut":  "Mark Knopfler"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Tomatito",
+                                         "ru":  "Tomatito",
+                                         "yakut":  "Tomatito"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

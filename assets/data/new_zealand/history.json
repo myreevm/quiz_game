@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "What is the capital of New Zealand?",
+                         "ru":  "What is the capital of New Zealand?",
+                         "yakut":  "What is the capital of New Zealand?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Wellington",
+                                         "ru":  "Wellington",
+                                         "yakut":  "Wellington"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Auckland",
+                                         "ru":  "Auckland",
+                                         "yakut":  "Auckland"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Christchurch",
+                                         "ru":  "Christchurch",
+                                         "yakut":  "Christchurch"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Hamilton",
+                                         "ru":  "Hamilton",
+                                         "yakut":  "Hamilton"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "In which year was the Treaty of Waitangi signed?",
+                         "ru":  "In which year was the Treaty of Waitangi signed?",
+                         "yakut":  "In which year was the Treaty of Waitangi signed?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "1840",
+                                         "ru":  "1840",
+                                         "yakut":  "1840"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "1776",
+                                         "ru":  "1776",
+                                         "yakut":  "1776"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "1867",
+                                         "ru":  "1867",
+                                         "yakut":  "1867"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "1901",
+                                         "ru":  "1901",
+                                         "yakut":  "1901"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which country was the first to grant women nationwide voting rights in 1893?",
+                         "ru":  "Which country was the first to grant women nationwide voting rights in 1893?",
+                         "yakut":  "Which country was the first to grant women nationwide voting rights in 1893?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "New Zealand",
+                                         "ru":  "New Zealand",
+                                         "yakut":  "New Zealand"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Australia",
+                                         "ru":  "Australia",
+                                         "yakut":  "Australia"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Canada",
+                                         "ru":  "Canada",
+                                         "yakut":  "Canada"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "United Kingdom",
+                                         "ru":  "United Kingdom",
+                                         "yakut":  "United Kingdom"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "What is the currency of New Zealand?",
+                         "ru":  "What is the currency of New Zealand?",
+                         "yakut":  "What is the currency of New Zealand?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "New Zealand dollar",
+                                         "ru":  "New Zealand dollar",
+                                         "yakut":  "New Zealand dollar"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Australian dollar",
+                                         "ru":  "Australian dollar",
+                                         "yakut":  "Australian dollar"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "US dollar",
+                                         "ru":  "US dollar",
+                                         "yakut":  "US dollar"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Pound sterling",
+                                         "ru":  "Pound sterling",
+                                         "yakut":  "Pound sterling"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

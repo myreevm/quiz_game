@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "What is the capital of Spain?",
+                         "ru":  "What is the capital of Spain?",
+                         "yakut":  "What is the capital of Spain?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Madrid",
+                                         "ru":  "Madrid",
+                                         "yakut":  "Madrid"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Barcelona",
+                                         "ru":  "Barcelona",
+                                         "yakut":  "Barcelona"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Valencia",
+                                         "ru":  "Valencia",
+                                         "yakut":  "Valencia"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Seville",
+                                         "ru":  "Seville",
+                                         "yakut":  "Seville"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "In what year did the Reconquista end with the fall of Granada?",
+                         "ru":  "In what year did the Reconquista end with the fall of Granada?",
+                         "yakut":  "In what year did the Reconquista end with the fall of Granada?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "1492",
+                                         "ru":  "1492",
+                                         "yakut":  "1492"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "1517",
+                                         "ru":  "1517",
+                                         "yakut":  "1517"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "1588",
+                                         "ru":  "1588",
+                                         "yakut":  "1588"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "1453",
+                                         "ru":  "1453",
+                                         "yakut":  "1453"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "What currency is used in Spain?",
+                         "ru":  "What currency is used in Spain?",
+                         "yakut":  "What currency is used in Spain?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Euro",
+                                         "ru":  "Euro",
+                                         "yakut":  "Euro"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Peseta",
+                                         "ru":  "Peseta",
+                                         "yakut":  "Peseta"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Swiss franc",
+                                         "ru":  "Swiss franc",
+                                         "yakut":  "Swiss franc"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "US dollar",
+                                         "ru":  "US dollar",
+                                         "yakut":  "US dollar"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which famous route to Santiago de Compostela is an old pilgrimage path in Spain?",
+                         "ru":  "Which famous route to Santiago de Compostela is an old pilgrimage path in Spain?",
+                         "yakut":  "Which famous route to Santiago de Compostela is an old pilgrimage path in Spain?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Camino de Santiago",
+                                         "ru":  "Camino de Santiago",
+                                         "yakut":  "Camino de Santiago"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Silk Road",
+                                         "ru":  "Silk Road",
+                                         "yakut":  "Silk Road"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Appian Way",
+                                         "ru":  "Appian Way",
+                                         "yakut":  "Appian Way"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Inca Trail",
+                                         "ru":  "Inca Trail",
+                                         "yakut":  "Inca Trail"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

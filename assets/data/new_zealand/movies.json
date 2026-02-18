@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "Which New Zealand director made \u0027The Lord of the Rings\u0027 film trilogy?",
+                         "ru":  "Which New Zealand director made \u0027The Lord of the Rings\u0027 film trilogy?",
+                         "yakut":  "Which New Zealand director made \u0027The Lord of the Rings\u0027 film trilogy?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Peter Jackson",
+                                         "ru":  "Peter Jackson",
+                                         "yakut":  "Peter Jackson"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Taika Waititi",
+                                         "ru":  "Taika Waititi",
+                                         "yakut":  "Taika Waititi"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "James Cameron",
+                                         "ru":  "James Cameron",
+                                         "yakut":  "James Cameron"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Andrew Adamson",
+                                         "ru":  "Andrew Adamson",
+                                         "yakut":  "Andrew Adamson"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "In which country were many scenes of \u0027The Lord of the Rings\u0027 filmed?",
+                         "ru":  "In which country were many scenes of \u0027The Lord of the Rings\u0027 filmed?",
+                         "yakut":  "In which country were many scenes of \u0027The Lord of the Rings\u0027 filmed?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "New Zealand",
+                                         "ru":  "New Zealand",
+                                         "yakut":  "New Zealand"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Ireland",
+                                         "ru":  "Ireland",
+                                         "yakut":  "Ireland"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Iceland",
+                                         "ru":  "Iceland",
+                                         "yakut":  "Iceland"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Canada",
+                                         "ru":  "Canada",
+                                         "yakut":  "Canada"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which city is home to Weta Workshop and Weta FX?",
+                         "ru":  "Which city is home to Weta Workshop and Weta FX?",
+                         "yakut":  "Which city is home to Weta Workshop and Weta FX?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Wellington",
+                                         "ru":  "Wellington",
+                                         "yakut":  "Wellington"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Dunedin",
+                                         "ru":  "Dunedin",
+                                         "yakut":  "Dunedin"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Auckland",
+                                         "ru":  "Auckland",
+                                         "yakut":  "Auckland"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Napier",
+                                         "ru":  "Napier",
+                                         "yakut":  "Napier"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which acclaimed 2002 New Zealand film follows a Maori girl\u0027s leadership journey?",
+                         "ru":  "Which acclaimed 2002 New Zealand film follows a Maori girl\u0027s leadership journey?",
+                         "yakut":  "Which acclaimed 2002 New Zealand film follows a Maori girl\u0027s leadership journey?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Whale Rider",
+                                         "ru":  "Whale Rider",
+                                         "yakut":  "Whale Rider"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Boy",
+                                         "ru":  "Boy",
+                                         "yakut":  "Boy"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Hunt for the Wilderpeople",
+                                         "ru":  "Hunt for the Wilderpeople",
+                                         "yakut":  "Hunt for the Wilderpeople"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Once Were Warriors",
+                                         "ru":  "Once Were Warriors",
+                                         "yakut":  "Once Were Warriors"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "Which South Korean film won the Academy Award for Best Picture in 2020?",
+                         "ru":  "Which South Korean film won the Academy Award for Best Picture in 2020?",
+                         "yakut":  "Which South Korean film won the Academy Award for Best Picture in 2020?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Parasite",
+                                         "ru":  "Parasite",
+                                         "yakut":  "Parasite"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Oldboy",
+                                         "ru":  "Oldboy",
+                                         "yakut":  "Oldboy"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Train to Busan",
+                                         "ru":  "Train to Busan",
+                                         "yakut":  "Train to Busan"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Burning",
+                                         "ru":  "Burning",
+                                         "yakut":  "Burning"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Who directed the film \u0027Parasite\u0027?",
+                         "ru":  "Who directed the film \u0027Parasite\u0027?",
+                         "yakut":  "Who directed the film \u0027Parasite\u0027?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Bong Joon-ho",
+                                         "ru":  "Bong Joon-ho",
+                                         "yakut":  "Bong Joon-ho"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Park Chan-wook",
+                                         "ru":  "Park Chan-wook",
+                                         "yakut":  "Park Chan-wook"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Kim Ki-duk",
+                                         "ru":  "Kim Ki-duk",
+                                         "yakut":  "Kim Ki-duk"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Lee Chang-dong",
+                                         "ru":  "Lee Chang-dong",
+                                         "yakut":  "Lee Chang-dong"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which city hosts the Busan International Film Festival?",
+                         "ru":  "Which city hosts the Busan International Film Festival?",
+                         "yakut":  "Which city hosts the Busan International Film Festival?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Busan",
+                                         "ru":  "Busan",
+                                         "yakut":  "Busan"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Seoul",
+                                         "ru":  "Seoul",
+                                         "yakut":  "Seoul"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Daejeon",
+                                         "ru":  "Daejeon",
+                                         "yakut":  "Daejeon"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Ulsan",
+                                         "ru":  "Ulsan",
+                                         "yakut":  "Ulsan"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which director made the South Korean film \u0027Oldboy\u0027?",
+                         "ru":  "Which director made the South Korean film \u0027Oldboy\u0027?",
+                         "yakut":  "Which director made the South Korean film \u0027Oldboy\u0027?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Park Chan-wook",
+                                         "ru":  "Park Chan-wook",
+                                         "yakut":  "Park Chan-wook"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Bong Joon-ho",
+                                         "ru":  "Bong Joon-ho",
+                                         "yakut":  "Bong Joon-ho"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Hong Sang-soo",
+                                         "ru":  "Hong Sang-soo",
+                                         "yakut":  "Hong Sang-soo"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Kim Jee-woon",
+                                         "ru":  "Kim Jee-woon",
+                                         "yakut":  "Kim Jee-woon"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

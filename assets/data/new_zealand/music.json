@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "Which New Zealand singer released the hit song \u0027Royals\u0027?",
+                         "ru":  "Which New Zealand singer released the hit song \u0027Royals\u0027?",
+                         "yakut":  "Which New Zealand singer released the hit song \u0027Royals\u0027?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Lorde",
+                                         "ru":  "Lorde",
+                                         "yakut":  "Lorde"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Sia",
+                                         "ru":  "Sia",
+                                         "yakut":  "Sia"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Kylie Minogue",
+                                         "ru":  "Kylie Minogue",
+                                         "yakut":  "Kylie Minogue"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Dido",
+                                         "ru":  "Dido",
+                                         "yakut":  "Dido"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which comedy music duo from New Zealand created songs for a TV series?",
+                         "ru":  "Which comedy music duo from New Zealand created songs for a TV series?",
+                         "yakut":  "Which comedy music duo from New Zealand created songs for a TV series?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Flight of the Conchords",
+                                         "ru":  "Flight of the Conchords",
+                                         "yakut":  "Flight of the Conchords"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "The Lonely Island",
+                                         "ru":  "The Lonely Island",
+                                         "yakut":  "The Lonely Island"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Tenacious D",
+                                         "ru":  "Tenacious D",
+                                         "yakut":  "Tenacious D"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "The Whitlams",
+                                         "ru":  "The Whitlams",
+                                         "yakut":  "The Whitlams"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which indigenous people of New Zealand have rich traditional music and chant heritage?",
+                         "ru":  "Which indigenous people of New Zealand have rich traditional music and chant heritage?",
+                         "yakut":  "Which indigenous people of New Zealand have rich traditional music and chant heritage?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Maori",
+                                         "ru":  "Maori",
+                                         "yakut":  "Maori"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Inuit",
+                                         "ru":  "Inuit",
+                                         "yakut":  "Inuit"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Sami",
+                                         "ru":  "Sami",
+                                         "yakut":  "Sami"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Ainu",
+                                         "ru":  "Ainu",
+                                         "yakut":  "Ainu"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "In which city is WOMAD New Zealand typically held?",
+                         "ru":  "In which city is WOMAD New Zealand typically held?",
+                         "yakut":  "In which city is WOMAD New Zealand typically held?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "New Plymouth",
+                                         "ru":  "New Plymouth",
+                                         "yakut":  "New Plymouth"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Wellington",
+                                         "ru":  "Wellington",
+                                         "yakut":  "Wellington"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Auckland",
+                                         "ru":  "Auckland",
+                                         "yakut":  "Auckland"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Queenstown",
+                                         "ru":  "Queenstown",
+                                         "yakut":  "Queenstown"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

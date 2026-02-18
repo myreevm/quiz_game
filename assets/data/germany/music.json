@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "Which city is associated with the electronic band Kraftwerk?",
+                         "ru":  "Which city is associated with the electronic band Kraftwerk?",
+                         "yakut":  "Which city is associated with the electronic band Kraftwerk?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Dusseldorf",
+                                         "ru":  "Dusseldorf",
+                                         "yakut":  "Dusseldorf"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Berlin",
+                                         "ru":  "Berlin",
+                                         "yakut":  "Berlin"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Bonn",
+                                         "ru":  "Bonn",
+                                         "yakut":  "Bonn"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Cologne",
+                                         "ru":  "Cologne",
+                                         "yakut":  "Cologne"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which German composer wrote the Ninth Symphony?",
+                         "ru":  "Which German composer wrote the Ninth Symphony?",
+                         "yakut":  "Which German composer wrote the Ninth Symphony?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Ludwig van Beethoven",
+                                         "ru":  "Ludwig van Beethoven",
+                                         "yakut":  "Ludwig van Beethoven"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Johann Strauss II",
+                                         "ru":  "Johann Strauss II",
+                                         "yakut":  "Johann Strauss II"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Franz Schubert",
+                                         "ru":  "Franz Schubert",
+                                         "yakut":  "Franz Schubert"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Wolfgang Amadeus Mozart",
+                                         "ru":  "Wolfgang Amadeus Mozart",
+                                         "yakut":  "Wolfgang Amadeus Mozart"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which German composer is known for the Brandenburg Concertos?",
+                         "ru":  "Which German composer is known for the Brandenburg Concertos?",
+                         "yakut":  "Which German composer is known for the Brandenburg Concertos?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Johann Sebastian Bach",
+                                         "ru":  "Johann Sebastian Bach",
+                                         "yakut":  "Johann Sebastian Bach"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Richard Wagner",
+                                         "ru":  "Richard Wagner",
+                                         "yakut":  "Richard Wagner"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Johannes Brahms",
+                                         "ru":  "Johannes Brahms",
+                                         "yakut":  "Johannes Brahms"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Clara Schumann",
+                                         "ru":  "Clara Schumann",
+                                         "yakut":  "Clara Schumann"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which city is famous for annual Oktoberfest celebrations with music and folk bands?",
+                         "ru":  "Which city is famous for annual Oktoberfest celebrations with music and folk bands?",
+                         "yakut":  "Which city is famous for annual Oktoberfest celebrations with music and folk bands?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Munich",
+                                         "ru":  "Munich",
+                                         "yakut":  "Munich"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Bremen",
+                                         "ru":  "Bremen",
+                                         "yakut":  "Bremen"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Dortmund",
+                                         "ru":  "Dortmund",
+                                         "yakut":  "Dortmund"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Hanover",
+                                         "ru":  "Hanover",
+                                         "yakut":  "Hanover"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

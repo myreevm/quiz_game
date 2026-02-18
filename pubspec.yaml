@@ -50,6 +50,11 @@ flutter:
     - assets/data/turkey/
     - assets/data/south_africa/
     - assets/data/italy/
+    - assets/data/germany/
+    - assets/data/switzerland/
+    - assets/data/spain/
+    - assets/data/south_korea/
+    - assets/data/new_zealand/
 
 flutter_launcher_icons:
   android: true

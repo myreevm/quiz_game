@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "Which Korean king is credited with creating Hangul?",
+                         "ru":  "Which Korean king is credited with creating Hangul?",
+                         "yakut":  "Which Korean king is credited with creating Hangul?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "King Sejong",
+                                         "ru":  "King Sejong",
+                                         "yakut":  "King Sejong"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "King Taejo",
+                                         "ru":  "King Taejo",
+                                         "yakut":  "King Taejo"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "King Gojong",
+                                         "ru":  "King Gojong",
+                                         "yakut":  "King Gojong"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "King Yeongjo",
+                                         "ru":  "King Yeongjo",
+                                         "yakut":  "King Yeongjo"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which South Korean footballer became a Premier League star at Tottenham?",
+                         "ru":  "Which South Korean footballer became a Premier League star at Tottenham?",
+                         "yakut":  "Which South Korean footballer became a Premier League star at Tottenham?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Son Heung-min",
+                                         "ru":  "Son Heung-min",
+                                         "yakut":  "Son Heung-min"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Park Ji-sung",
+                                         "ru":  "Park Ji-sung",
+                                         "yakut":  "Park Ji-sung"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Lee Kang-in",
+                                         "ru":  "Lee Kang-in",
+                                         "yakut":  "Lee Kang-in"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Hwang Hee-chan",
+                                         "ru":  "Hwang Hee-chan",
+                                         "yakut":  "Hwang Hee-chan"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which South Korean diplomat served as UN Secretary-General from 2007 to 2016?",
+                         "ru":  "Which South Korean diplomat served as UN Secretary-General from 2007 to 2016?",
+                         "yakut":  "Which South Korean diplomat served as UN Secretary-General from 2007 to 2016?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Ban Ki-moon",
+                                         "ru":  "Ban Ki-moon",
+                                         "yakut":  "Ban Ki-moon"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Kofi Annan",
+                                         "ru":  "Kofi Annan",
+                                         "yakut":  "Kofi Annan"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Antonio Guterres",
+                                         "ru":  "Antonio Guterres",
+                                         "yakut":  "Antonio Guterres"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Boutros Boutros-Ghali",
+                                         "ru":  "Boutros Boutros-Ghali",
+                                         "yakut":  "Boutros Boutros-Ghali"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which South Korean figure skater won Olympic gold in 2010?",
+                         "ru":  "Which South Korean figure skater won Olympic gold in 2010?",
+                         "yakut":  "Which South Korean figure skater won Olympic gold in 2010?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Kim Yuna",
+                                         "ru":  "Kim Yuna",
+                                         "yakut":  "Kim Yuna"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Mao Asada",
+                                         "ru":  "Mao Asada",
+                                         "yakut":  "Mao Asada"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Yelim Kim",
+                                         "ru":  "Yelim Kim",
+                                         "yakut":  "Yelim Kim"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Alexandra Trusova",
+                                         "ru":  "Alexandra Trusova",
+                                         "yakut":  "Alexandra Trusova"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

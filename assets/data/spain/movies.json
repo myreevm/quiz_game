@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "Which Spanish director made films like \u0027Volver\u0027 and \u0027Pain and Glory\u0027?",
+                         "ru":  "Which Spanish director made films like \u0027Volver\u0027 and \u0027Pain and Glory\u0027?",
+                         "yakut":  "Which Spanish director made films like \u0027Volver\u0027 and \u0027Pain and Glory\u0027?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Pedro Almodovar",
+                                         "ru":  "Pedro Almodovar",
+                                         "yakut":  "Pedro Almodovar"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Alejandro Amenabar",
+                                         "ru":  "Alejandro Amenabar",
+                                         "yakut":  "Alejandro Amenabar"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Luis Bunuel",
+                                         "ru":  "Luis Bunuel",
+                                         "yakut":  "Luis Bunuel"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Julio Medem",
+                                         "ru":  "Julio Medem",
+                                         "yakut":  "Julio Medem"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which city hosts the San Sebastian International Film Festival?",
+                         "ru":  "Which city hosts the San Sebastian International Film Festival?",
+                         "yakut":  "Which city hosts the San Sebastian International Film Festival?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "San Sebastian",
+                                         "ru":  "San Sebastian",
+                                         "yakut":  "San Sebastian"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Madrid",
+                                         "ru":  "Madrid",
+                                         "yakut":  "Madrid"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Bilbao",
+                                         "ru":  "Bilbao",
+                                         "yakut":  "Bilbao"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Malaga",
+                                         "ru":  "Malaga",
+                                         "yakut":  "Malaga"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which Spanish film won the Oscar for Best Foreign Language Film in 2005?",
+                         "ru":  "Which Spanish film won the Oscar for Best Foreign Language Film in 2005?",
+                         "yakut":  "Which Spanish film won the Oscar for Best Foreign Language Film in 2005?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "The Sea Inside",
+                                         "ru":  "The Sea Inside",
+                                         "yakut":  "The Sea Inside"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Talk to Her",
+                                         "ru":  "Talk to Her",
+                                         "yakut":  "Talk to Her"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Open Your Eyes",
+                                         "ru":  "Open Your Eyes",
+                                         "yakut":  "Open Your Eyes"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "The Others",
+                                         "ru":  "The Others",
+                                         "yakut":  "The Others"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which Spanish actress won an Oscar for acting in \u0027Vicky Cristina Barcelona\u0027?",
+                         "ru":  "Which Spanish actress won an Oscar for acting in \u0027Vicky Cristina Barcelona\u0027?",
+                         "yakut":  "Which Spanish actress won an Oscar for acting in \u0027Vicky Cristina Barcelona\u0027?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Penelope Cruz",
+                                         "ru":  "Penelope Cruz",
+                                         "yakut":  "Penelope Cruz"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Paz Vega",
+                                         "ru":  "Paz Vega",
+                                         "yakut":  "Paz Vega"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Elsa Pataky",
+                                         "ru":  "Elsa Pataky",
+                                         "yakut":  "Elsa Pataky"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Victoria Abril",
+                                         "ru":  "Victoria Abril",
+                                         "yakut":  "Victoria Abril"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

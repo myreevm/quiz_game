@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "Which Swiss tennis player won 20 Grand Slam singles titles?",
+                         "ru":  "Which Swiss tennis player won 20 Grand Slam singles titles?",
+                         "yakut":  "Which Swiss tennis player won 20 Grand Slam singles titles?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Roger Federer",
+                                         "ru":  "Roger Federer",
+                                         "yakut":  "Roger Federer"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Stan Wawrinka",
+                                         "ru":  "Stan Wawrinka",
+                                         "yakut":  "Stan Wawrinka"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Bjorn Borg",
+                                         "ru":  "Bjorn Borg",
+                                         "yakut":  "Bjorn Borg"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Rafael Nadal",
+                                         "ru":  "Rafael Nadal",
+                                         "yakut":  "Rafael Nadal"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which Swiss humanitarian founded the Red Cross?",
+                         "ru":  "Which Swiss humanitarian founded the Red Cross?",
+                         "yakut":  "Which Swiss humanitarian founded the Red Cross?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Henry Dunant",
+                                         "ru":  "Henry Dunant",
+                                         "yakut":  "Henry Dunant"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Albert Schweitzer",
+                                         "ru":  "Albert Schweitzer",
+                                         "yakut":  "Albert Schweitzer"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Jean Piaget",
+                                         "ru":  "Jean Piaget",
+                                         "yakut":  "Jean Piaget"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Carl Jung",
+                                         "ru":  "Carl Jung",
+                                         "yakut":  "Carl Jung"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which Swiss psychiatrist developed analytical psychology?",
+                         "ru":  "Which Swiss psychiatrist developed analytical psychology?",
+                         "yakut":  "Which Swiss psychiatrist developed analytical psychology?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Carl Jung",
+                                         "ru":  "Carl Jung",
+                                         "yakut":  "Carl Jung"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Sigmund Freud",
+                                         "ru":  "Sigmund Freud",
+                                         "yakut":  "Sigmund Freud"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Viktor Frankl",
+                                         "ru":  "Viktor Frankl",
+                                         "yakut":  "Viktor Frankl"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Alfred Adler",
+                                         "ru":  "Alfred Adler",
+                                         "yakut":  "Alfred Adler"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which Swiss-French architect is known as Le Corbusier?",
+                         "ru":  "Which Swiss-French architect is known as Le Corbusier?",
+                         "yakut":  "Which Swiss-French architect is known as Le Corbusier?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Charles-Edouard Jeanneret",
+                                         "ru":  "Charles-Edouard Jeanneret",
+                                         "yakut":  "Charles-Edouard Jeanneret"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Ludwig Mies van der Rohe",
+                                         "ru":  "Ludwig Mies van der Rohe",
+                                         "yakut":  "Ludwig Mies van der Rohe"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Walter Gropius",
+                                         "ru":  "Walter Gropius",
+                                         "yakut":  "Walter Gropius"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Frank Gehry",
+                                         "ru":  "Frank Gehry",
+                                         "yakut":  "Frank Gehry"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]
