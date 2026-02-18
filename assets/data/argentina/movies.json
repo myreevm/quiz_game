@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "Which Argentine film won the Academy Award for Best Foreign Language Film in 2010?",
+                         "ru":  "Which Argentine film won the Academy Award for Best Foreign Language Film in 2010?",
+                         "yakut":  "Which Argentine film won the Academy Award for Best Foreign Language Film in 2010?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "The Secret in Their Eyes",
+                                         "ru":  "The Secret in Their Eyes",
+                                         "yakut":  "The Secret in Their Eyes"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Wild Tales",
+                                         "ru":  "Wild Tales",
+                                         "yakut":  "Wild Tales"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Argentina, 1985",
+                                         "ru":  "Argentina, 1985",
+                                         "yakut":  "Argentina, 1985"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Nine Queens",
+                                         "ru":  "Nine Queens",
+                                         "yakut":  "Nine Queens"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Who directed the Argentine anthology film \u0027Wild Tales\u0027?",
+                         "ru":  "Who directed the Argentine anthology film \u0027Wild Tales\u0027?",
+                         "yakut":  "Who directed the Argentine anthology film \u0027Wild Tales\u0027?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Damian Szifron",
+                                         "ru":  "Damian Szifron",
+                                         "yakut":  "Damian Szifron"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Pedro Almodovar",
+                                         "ru":  "Pedro Almodovar",
+                                         "yakut":  "Pedro Almodovar"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Alejandro Amenabar",
+                                         "ru":  "Alejandro Amenabar",
+                                         "yakut":  "Alejandro Amenabar"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Guillermo del Toro",
+                                         "ru":  "Guillermo del Toro",
+                                         "yakut":  "Guillermo del Toro"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "In which city is the BAFICI independent film festival held?",
+                         "ru":  "In which city is the BAFICI independent film festival held?",
+                         "yakut":  "In which city is the BAFICI independent film festival held?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Buenos Aires",
+                                         "ru":  "Buenos Aires",
+                                         "yakut":  "Buenos Aires"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "La Plata",
+                                         "ru":  "La Plata",
+                                         "yakut":  "La Plata"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Salta",
+                                         "ru":  "Salta",
+                                         "yakut":  "Salta"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Ushuaia",
+                                         "ru":  "Ushuaia",
+                                         "yakut":  "Ushuaia"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which Argentine crime film is known by the Spanish title \u0027Nueve Reinas\u0027?",
+                         "ru":  "Which Argentine crime film is known by the Spanish title \u0027Nueve Reinas\u0027?",
+                         "yakut":  "Which Argentine crime film is known by the Spanish title \u0027Nueve Reinas\u0027?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Nine Queens",
+                                         "ru":  "Nine Queens",
+                                         "yakut":  "Nine Queens"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "City of God",
+                                         "ru":  "City of God",
+                                         "yakut":  "City of God"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Elite Squad",
+                                         "ru":  "Elite Squad",
+                                         "yakut":  "Elite Squad"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Amores Perros",
+                                         "ru":  "Amores Perros",
+                                         "yakut":  "Amores Perros"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

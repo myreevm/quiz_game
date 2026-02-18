@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "Who became South Africa\u0027s first democratically elected president in 1994?",
+                         "ru":  "Who became South Africa\u0027s first democratically elected president in 1994?",
+                         "yakut":  "Who became South Africa\u0027s first democratically elected president in 1994?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Nelson Mandela",
+                                         "ru":  "Nelson Mandela",
+                                         "yakut":  "Nelson Mandela"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "F. W. de Klerk",
+                                         "ru":  "F. W. de Klerk",
+                                         "yakut":  "F. W. de Klerk"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Thabo Mbeki",
+                                         "ru":  "Thabo Mbeki",
+                                         "yakut":  "Thabo Mbeki"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Jacob Zuma",
+                                         "ru":  "Jacob Zuma",
+                                         "yakut":  "Jacob Zuma"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which South African archbishop won the Nobel Peace Prize in 1984?",
+                         "ru":  "Which South African archbishop won the Nobel Peace Prize in 1984?",
+                         "yakut":  "Which South African archbishop won the Nobel Peace Prize in 1984?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Desmond Tutu",
+                                         "ru":  "Desmond Tutu",
+                                         "yakut":  "Desmond Tutu"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Trevor Huddleston",
+                                         "ru":  "Trevor Huddleston",
+                                         "yakut":  "Trevor Huddleston"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Allan Boesak",
+                                         "ru":  "Allan Boesak",
+                                         "yakut":  "Allan Boesak"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Beyers Naude",
+                                         "ru":  "Beyers Naude",
+                                         "yakut":  "Beyers Naude"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which Oscar-winning actress was born in South Africa?",
+                         "ru":  "Which Oscar-winning actress was born in South Africa?",
+                         "yakut":  "Which Oscar-winning actress was born in South Africa?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Charlize Theron",
+                                         "ru":  "Charlize Theron",
+                                         "yakut":  "Charlize Theron"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Nicole Kidman",
+                                         "ru":  "Nicole Kidman",
+                                         "yakut":  "Nicole Kidman"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Cate Blanchett",
+                                         "ru":  "Cate Blanchett",
+                                         "yakut":  "Cate Blanchett"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Emma Stone",
+                                         "ru":  "Emma Stone",
+                                         "yakut":  "Emma Stone"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which technology entrepreneur was born in Pretoria?",
+                         "ru":  "Which technology entrepreneur was born in Pretoria?",
+                         "yakut":  "Which technology entrepreneur was born in Pretoria?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Elon Musk",
+                                         "ru":  "Elon Musk",
+                                         "yakut":  "Elon Musk"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Bill Gates",
+                                         "ru":  "Bill Gates",
+                                         "yakut":  "Bill Gates"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Larry Page",
+                                         "ru":  "Larry Page",
+                                         "yakut":  "Larry Page"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Jeff Bezos",
+                                         "ru":  "Jeff Bezos",
+                                         "yakut":  "Jeff Bezos"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

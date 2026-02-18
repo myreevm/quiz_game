@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "Which vocal art form originated in Italy around the late Renaissance?",
+                         "ru":  "Which vocal art form originated in Italy around the late Renaissance?",
+                         "yakut":  "Which vocal art form originated in Italy around the late Renaissance?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Opera",
+                                         "ru":  "Opera",
+                                         "yakut":  "Opera"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Jazz",
+                                         "ru":  "Jazz",
+                                         "yakut":  "Jazz"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Blues",
+                                         "ru":  "Blues",
+                                         "yakut":  "Blues"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Reggae",
+                                         "ru":  "Reggae",
+                                         "yakut":  "Reggae"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which Italian composer wrote the opera \u0027La Traviata\u0027?",
+                         "ru":  "Which Italian composer wrote the opera \u0027La Traviata\u0027?",
+                         "yakut":  "Which Italian composer wrote the opera \u0027La Traviata\u0027?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Giuseppe Verdi",
+                                         "ru":  "Giuseppe Verdi",
+                                         "yakut":  "Giuseppe Verdi"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Giacomo Puccini",
+                                         "ru":  "Giacomo Puccini",
+                                         "yakut":  "Giacomo Puccini"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Antonio Vivaldi",
+                                         "ru":  "Antonio Vivaldi",
+                                         "yakut":  "Antonio Vivaldi"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Gioachino Rossini",
+                                         "ru":  "Gioachino Rossini",
+                                         "yakut":  "Gioachino Rossini"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which annual Italian song contest helped launch many pop careers?",
+                         "ru":  "Which annual Italian song contest helped launch many pop careers?",
+                         "yakut":  "Which annual Italian song contest helped launch many pop careers?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Sanremo Music Festival",
+                                         "ru":  "Sanremo Music Festival",
+                                         "yakut":  "Sanremo Music Festival"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Eurovision Final",
+                                         "ru":  "Eurovision Final",
+                                         "yakut":  "Eurovision Final"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Venice Biennale",
+                                         "ru":  "Venice Biennale",
+                                         "yakut":  "Venice Biennale"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Umbria Jazz Week",
+                                         "ru":  "Umbria Jazz Week",
+                                         "yakut":  "Umbria Jazz Week"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which Italian tenor is known worldwide for crossover classical-pop songs?",
+                         "ru":  "Which Italian tenor is known worldwide for crossover classical-pop songs?",
+                         "yakut":  "Which Italian tenor is known worldwide for crossover classical-pop songs?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Andrea Bocelli",
+                                         "ru":  "Andrea Bocelli",
+                                         "yakut":  "Andrea Bocelli"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Placido Domingo",
+                                         "ru":  "Placido Domingo",
+                                         "yakut":  "Placido Domingo"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Jose Carreras",
+                                         "ru":  "Jose Carreras",
+                                         "yakut":  "Jose Carreras"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Luciano Pavarotti",
+                                         "ru":  "Luciano Pavarotti",
+                                         "yakut":  "Luciano Pavarotti"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

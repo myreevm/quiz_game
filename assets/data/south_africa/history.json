@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "In which year did South Africa hold its first democratic national elections?",
+                         "ru":  "In which year did South Africa hold its first democratic national elections?",
+                         "yakut":  "In which year did South Africa hold its first democratic national elections?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "1994",
+                                         "ru":  "1994",
+                                         "yakut":  "1994"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "1984",
+                                         "ru":  "1984",
+                                         "yakut":  "1984"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "1976",
+                                         "ru":  "1976",
+                                         "yakut":  "1976"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "2001",
+                                         "ru":  "2001",
+                                         "yakut":  "2001"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "What is the administrative capital of South Africa?",
+                         "ru":  "What is the administrative capital of South Africa?",
+                         "yakut":  "What is the administrative capital of South Africa?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Pretoria",
+                                         "ru":  "Pretoria",
+                                         "yakut":  "Pretoria"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Cape Town",
+                                         "ru":  "Cape Town",
+                                         "yakut":  "Cape Town"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Bloemfontein",
+                                         "ru":  "Bloemfontein",
+                                         "yakut":  "Bloemfontein"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Durban",
+                                         "ru":  "Durban",
+                                         "yakut":  "Durban"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "What is the currency of South Africa?",
+                         "ru":  "What is the currency of South Africa?",
+                         "yakut":  "What is the currency of South Africa?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "South African rand",
+                                         "ru":  "South African rand",
+                                         "yakut":  "South African rand"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Kenyan shilling",
+                                         "ru":  "Kenyan shilling",
+                                         "yakut":  "Kenyan shilling"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "US dollar",
+                                         "ru":  "US dollar",
+                                         "yakut":  "US dollar"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Euro",
+                                         "ru":  "Euro",
+                                         "yakut":  "Euro"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which system of racial segregation ended in South Africa in the early 1990s?",
+                         "ru":  "Which system of racial segregation ended in South Africa in the early 1990s?",
+                         "yakut":  "Which system of racial segregation ended in South Africa in the early 1990s?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Apartheid",
+                                         "ru":  "Apartheid",
+                                         "yakut":  "Apartheid"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Segregation Act",
+                                         "ru":  "Segregation Act",
+                                         "yakut":  "Segregation Act"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Jim Crow",
+                                         "ru":  "Jim Crow",
+                                         "yakut":  "Jim Crow"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Colonial Mandate",
+                                         "ru":  "Colonial Mandate",
+                                         "yakut":  "Colonial Mandate"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

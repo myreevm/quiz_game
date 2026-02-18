@@ -534,6 +534,31 @@ class _CountryMapViewport {
           alignment: Alignment(-0.05, -0.36),
           scale: 6.0,
         );
+      case 'belarus':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.12, -0.36),
+          scale: 5.8,
+        );
+      case 'argentina':
+        return const _CountryMapViewport(
+          alignment: Alignment(-0.30, 0.72),
+          scale: 4.5,
+        );
+      case 'turkey':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.24, -0.18),
+          scale: 5.2,
+        );
+      case 'south_africa':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.34, 0.62),
+          scale: 5.0,
+        );
+      case 'italy':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.10, -0.24),
+          scale: 6.0,
+        );
       default:
         return const _CountryMapViewport(
           alignment: Alignment.center,

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_svg/flutter_svg.dart';
 
 class FlagBadge extends StatelessWidget {
   final String code;
@@ -30,6 +31,11 @@ class FlagBadge extends StatelessWidget {
     'egypt': 'assets/flags/egypt.png',
     'brazil': 'assets/flags/brazil.png',
     'uk': 'assets/flags/uk.png',
+    'belarus': 'assets/flags/belarus.svg',
+    'argentina': 'assets/flags/argentina.png',
+    'turkey': 'assets/flags/turkey.png',
+    'south_africa': 'assets/flags/south_africa.png',
+    'italy': 'assets/flags/italy.png',
   };
 
   @override
@@ -56,6 +62,14 @@ class FlagBadge extends StatelessWidget {
   Widget _buildFlag(BuildContext context) {
     final assetPath = _countryFlagAssets[code];
     if (assetPath != null) {
+      if (assetPath.endsWith('.svg')) {
+        return SvgPicture.asset(
+          assetPath,
+          fit: BoxFit.cover,
+          placeholderBuilder: (_) => _buildFallbackFlag(context),
+        );
+      }
+
       return Image.asset(
         assetPath,
         fit: BoxFit.cover,

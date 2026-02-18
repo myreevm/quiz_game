@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "What is the capital of Argentina?",
+                         "ru":  "What is the capital of Argentina?",
+                         "yakut":  "What is the capital of Argentina?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Buenos Aires",
+                                         "ru":  "Buenos Aires",
+                                         "yakut":  "Buenos Aires"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Cordoba",
+                                         "ru":  "Cordoba",
+                                         "yakut":  "Cordoba"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Rosario",
+                                         "ru":  "Rosario",
+                                         "yakut":  "Rosario"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Mendoza",
+                                         "ru":  "Mendoza",
+                                         "yakut":  "Mendoza"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "In which year did Argentina declare independence?",
+                         "ru":  "In which year did Argentina declare independence?",
+                         "yakut":  "In which year did Argentina declare independence?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "1816",
+                                         "ru":  "1816",
+                                         "yakut":  "1816"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "1789",
+                                         "ru":  "1789",
+                                         "yakut":  "1789"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "1848",
+                                         "ru":  "1848",
+                                         "yakut":  "1848"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "1910",
+                                         "ru":  "1910",
+                                         "yakut":  "1910"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "What is the highest mountain in Argentina?",
+                         "ru":  "What is the highest mountain in Argentina?",
+                         "yakut":  "What is the highest mountain in Argentina?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Aconcagua",
+                                         "ru":  "Aconcagua",
+                                         "yakut":  "Aconcagua"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Mont Blanc",
+                                         "ru":  "Mont Blanc",
+                                         "yakut":  "Mont Blanc"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Kilimanjaro",
+                                         "ru":  "Kilimanjaro",
+                                         "yakut":  "Kilimanjaro"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Denali",
+                                         "ru":  "Denali",
+                                         "yakut":  "Denali"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "What is the official currency of Argentina?",
+                         "ru":  "What is the official currency of Argentina?",
+                         "yakut":  "What is the official currency of Argentina?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Argentine peso",
+                                         "ru":  "Argentine peso",
+                                         "yakut":  "Argentine peso"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Brazilian real",
+                                         "ru":  "Brazilian real",
+                                         "yakut":  "Brazilian real"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "US dollar",
+                                         "ru":  "US dollar",
+                                         "yakut":  "US dollar"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Euro",
+                                         "ru":  "Euro",
+                                         "yakut":  "Euro"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

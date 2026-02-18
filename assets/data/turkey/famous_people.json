@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "Who is the founder of modern Turkey?",
+                         "ru":  "Who is the founder of modern Turkey?",
+                         "yakut":  "Who is the founder of modern Turkey?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Mustafa Kemal Ataturk",
+                                         "ru":  "Mustafa Kemal Ataturk",
+                                         "yakut":  "Mustafa Kemal Ataturk"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Suleiman the Magnificent",
+                                         "ru":  "Suleiman the Magnificent",
+                                         "yakut":  "Suleiman the Magnificent"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Mehmed II",
+                                         "ru":  "Mehmed II",
+                                         "yakut":  "Mehmed II"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Turgut Ozal",
+                                         "ru":  "Turgut Ozal",
+                                         "yakut":  "Turgut Ozal"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which Turkish novelist won the Nobel Prize in Literature in 2006?",
+                         "ru":  "Which Turkish novelist won the Nobel Prize in Literature in 2006?",
+                         "yakut":  "Which Turkish novelist won the Nobel Prize in Literature in 2006?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Orhan Pamuk",
+                                         "ru":  "Orhan Pamuk",
+                                         "yakut":  "Orhan Pamuk"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Elif Shafak",
+                                         "ru":  "Elif Shafak",
+                                         "yakut":  "Elif Shafak"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Yasar Kemal",
+                                         "ru":  "Yasar Kemal",
+                                         "yakut":  "Yasar Kemal"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Nazim Hikmet",
+                                         "ru":  "Nazim Hikmet",
+                                         "yakut":  "Nazim Hikmet"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which Ottoman architect designed many famous mosques, including Selimiye Mosque?",
+                         "ru":  "Which Ottoman architect designed many famous mosques, including Selimiye Mosque?",
+                         "yakut":  "Which Ottoman architect designed many famous mosques, including Selimiye Mosque?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Mimar Sinan",
+                                         "ru":  "Mimar Sinan",
+                                         "yakut":  "Mimar Sinan"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Le Corbusier",
+                                         "ru":  "Le Corbusier",
+                                         "yakut":  "Le Corbusier"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Antoni Gaudi",
+                                         "ru":  "Antoni Gaudi",
+                                         "yakut":  "Antoni Gaudi"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Frank Lloyd Wright",
+                                         "ru":  "Frank Lloyd Wright",
+                                         "yakut":  "Frank Lloyd Wright"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Who is recognized as one of the first female fighter pilots and was from Turkey?",
+                         "ru":  "Who is recognized as one of the first female fighter pilots and was from Turkey?",
+                         "yakut":  "Who is recognized as one of the first female fighter pilots and was from Turkey?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Sabiha Gokcen",
+                                         "ru":  "Sabiha Gokcen",
+                                         "yakut":  "Sabiha Gokcen"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Amelia Earhart",
+                                         "ru":  "Amelia Earhart",
+                                         "yakut":  "Amelia Earhart"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Valentina Tereshkova",
+                                         "ru":  "Valentina Tereshkova",
+                                         "yakut":  "Valentina Tereshkova"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Bessie Coleman",
+                                         "ru":  "Bessie Coleman",
+                                         "yakut":  "Bessie Coleman"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

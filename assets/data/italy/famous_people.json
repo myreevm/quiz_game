@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "Which Italian polymath painted the Mona Lisa?",
+                         "ru":  "Which Italian polymath painted the Mona Lisa?",
+                         "yakut":  "Which Italian polymath painted the Mona Lisa?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Leonardo da Vinci",
+                                         "ru":  "Leonardo da Vinci",
+                                         "yakut":  "Leonardo da Vinci"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Raphael",
+                                         "ru":  "Raphael",
+                                         "yakut":  "Raphael"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Titian",
+                                         "ru":  "Titian",
+                                         "yakut":  "Titian"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Caravaggio",
+                                         "ru":  "Caravaggio",
+                                         "yakut":  "Caravaggio"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which Italian sculptor and painter created parts of the Sistine Chapel ceiling?",
+                         "ru":  "Which Italian sculptor and painter created parts of the Sistine Chapel ceiling?",
+                         "yakut":  "Which Italian sculptor and painter created parts of the Sistine Chapel ceiling?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Michelangelo",
+                                         "ru":  "Michelangelo",
+                                         "yakut":  "Michelangelo"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Donatello",
+                                         "ru":  "Donatello",
+                                         "yakut":  "Donatello"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Bernini",
+                                         "ru":  "Bernini",
+                                         "yakut":  "Bernini"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Botticelli",
+                                         "ru":  "Botticelli",
+                                         "yakut":  "Botticelli"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which Italian scientist improved the telescope and supported heliocentrism?",
+                         "ru":  "Which Italian scientist improved the telescope and supported heliocentrism?",
+                         "yakut":  "Which Italian scientist improved the telescope and supported heliocentrism?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Galileo Galilei",
+                                         "ru":  "Galileo Galilei",
+                                         "yakut":  "Galileo Galilei"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Nicolaus Copernicus",
+                                         "ru":  "Nicolaus Copernicus",
+                                         "yakut":  "Nicolaus Copernicus"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Tycho Brahe",
+                                         "ru":  "Tycho Brahe",
+                                         "yakut":  "Tycho Brahe"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Johannes Kepler",
+                                         "ru":  "Johannes Kepler",
+                                         "yakut":  "Johannes Kepler"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which Italian actress won the Academy Award for Best Actress for \u0027Two Women\u0027?",
+                         "ru":  "Which Italian actress won the Academy Award for Best Actress for \u0027Two Women\u0027?",
+                         "yakut":  "Which Italian actress won the Academy Award for Best Actress for \u0027Two Women\u0027?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Sophia Loren",
+                                         "ru":  "Sophia Loren",
+                                         "yakut":  "Sophia Loren"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Monica Bellucci",
+                                         "ru":  "Monica Bellucci",
+                                         "yakut":  "Monica Bellucci"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Anna Magnani",
+                                         "ru":  "Anna Magnani",
+                                         "yakut":  "Anna Magnani"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Gina Lollobrigida",
+                                         "ru":  "Gina Lollobrigida",
+                                         "yakut":  "Gina Lollobrigida"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

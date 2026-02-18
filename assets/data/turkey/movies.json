@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "Which Turkish director won the Palme d\u0027Or for \u0027Winter Sleep\u0027 in 2014?",
+                         "ru":  "Which Turkish director won the Palme d\u0027Or for \u0027Winter Sleep\u0027 in 2014?",
+                         "yakut":  "Which Turkish director won the Palme d\u0027Or for \u0027Winter Sleep\u0027 in 2014?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Nuri Bilge Ceylan",
+                                         "ru":  "Nuri Bilge Ceylan",
+                                         "yakut":  "Nuri Bilge Ceylan"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Fatih Akin",
+                                         "ru":  "Fatih Akin",
+                                         "yakut":  "Fatih Akin"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Yilmaz Guney",
+                                         "ru":  "Yilmaz Guney",
+                                         "yakut":  "Yilmaz Guney"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Semih Kaplanoglu",
+                                         "ru":  "Semih Kaplanoglu",
+                                         "yakut":  "Semih Kaplanoglu"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which Turkish city hosts the Antalya Golden Orange Film Festival?",
+                         "ru":  "Which Turkish city hosts the Antalya Golden Orange Film Festival?",
+                         "yakut":  "Which Turkish city hosts the Antalya Golden Orange Film Festival?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Antalya",
+                                         "ru":  "Antalya",
+                                         "yakut":  "Antalya"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Ankara",
+                                         "ru":  "Ankara",
+                                         "yakut":  "Ankara"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Trabzon",
+                                         "ru":  "Trabzon",
+                                         "yakut":  "Trabzon"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Eskisehir",
+                                         "ru":  "Eskisehir",
+                                         "yakut":  "Eskisehir"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "What is the nickname of Turkey\u0027s classic film industry centered in Istanbul?",
+                         "ru":  "What is the nickname of Turkey\u0027s classic film industry centered in Istanbul?",
+                         "yakut":  "What is the nickname of Turkey\u0027s classic film industry centered in Istanbul?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Yesilcam",
+                                         "ru":  "Yesilcam",
+                                         "yakut":  "Yesilcam"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Anadolucam",
+                                         "ru":  "Anadolucam",
+                                         "yakut":  "Anadolucam"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Bosporus Studio",
+                                         "ru":  "Bosporus Studio",
+                                         "yakut":  "Bosporus Studio"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Turkflix",
+                                         "ru":  "Turkflix",
+                                         "yakut":  "Turkflix"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which 1982 film by Yilmaz Guney won the Palme d\u0027Or at Cannes?",
+                         "ru":  "Which 1982 film by Yilmaz Guney won the Palme d\u0027Or at Cannes?",
+                         "yakut":  "Which 1982 film by Yilmaz Guney won the Palme d\u0027Or at Cannes?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Yol",
+                                         "ru":  "Yol",
+                                         "yakut":  "Yol"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Once Upon a Time in Anatolia",
+                                         "ru":  "Once Upon a Time in Anatolia",
+                                         "yakut":  "Once Upon a Time in Anatolia"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Winter Sleep",
+                                         "ru":  "Winter Sleep",
+                                         "yakut":  "Winter Sleep"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Distant",
+                                         "ru":  "Distant",
+                                         "yakut":  "Distant"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

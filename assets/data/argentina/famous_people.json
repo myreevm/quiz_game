@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "Which Argentine footballer won the 2022 FIFA World Cup as team captain?",
+                         "ru":  "Which Argentine footballer won the 2022 FIFA World Cup as team captain?",
+                         "yakut":  "Which Argentine footballer won the 2022 FIFA World Cup as team captain?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Lionel Messi",
+                                         "ru":  "Lionel Messi",
+                                         "yakut":  "Lionel Messi"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Neymar",
+                                         "ru":  "Neymar",
+                                         "yakut":  "Neymar"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Luis Suarez",
+                                         "ru":  "Luis Suarez",
+                                         "yakut":  "Luis Suarez"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Kylian Mbappe",
+                                         "ru":  "Kylian Mbappe",
+                                         "yakut":  "Kylian Mbappe"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which Argentine football legend scored the \u0027Hand of God\u0027 goal?",
+                         "ru":  "Which Argentine football legend scored the \u0027Hand of God\u0027 goal?",
+                         "yakut":  "Which Argentine football legend scored the \u0027Hand of God\u0027 goal?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Diego Maradona",
+                                         "ru":  "Diego Maradona",
+                                         "yakut":  "Diego Maradona"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Gabriel Batistuta",
+                                         "ru":  "Gabriel Batistuta",
+                                         "yakut":  "Gabriel Batistuta"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Javier Zanetti",
+                                         "ru":  "Javier Zanetti",
+                                         "yakut":  "Javier Zanetti"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Mario Kempes",
+                                         "ru":  "Mario Kempes",
+                                         "yakut":  "Mario Kempes"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which pope was born in Buenos Aires?",
+                         "ru":  "Which pope was born in Buenos Aires?",
+                         "yakut":  "Which pope was born in Buenos Aires?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Pope Francis",
+                                         "ru":  "Pope Francis",
+                                         "yakut":  "Pope Francis"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Pope Benedict XVI",
+                                         "ru":  "Pope Benedict XVI",
+                                         "yakut":  "Pope Benedict XVI"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Pope John Paul II",
+                                         "ru":  "Pope John Paul II",
+                                         "yakut":  "Pope John Paul II"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Pope Paul VI",
+                                         "ru":  "Pope Paul VI",
+                                         "yakut":  "Pope Paul VI"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which Argentine political figure became famous as Eva Peron?",
+                         "ru":  "Which Argentine political figure became famous as Eva Peron?",
+                         "yakut":  "Which Argentine political figure became famous as Eva Peron?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Maria Eva Duarte",
+                                         "ru":  "Maria Eva Duarte",
+                                         "yakut":  "Maria Eva Duarte"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Cristina Fernandez",
+                                         "ru":  "Cristina Fernandez",
+                                         "yakut":  "Cristina Fernandez"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Isabel Peron",
+                                         "ru":  "Isabel Peron",
+                                         "yakut":  "Isabel Peron"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Alicia Moreau",
+                                         "ru":  "Alicia Moreau",
+                                         "yakut":  "Alicia Moreau"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

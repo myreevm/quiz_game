@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "Which painter was born in Vitebsk and became a world-famous artist?",
+                         "ru":  "Which painter was born in Vitebsk and became a world-famous artist?",
+                         "yakut":  "Which painter was born in Vitebsk and became a world-famous artist?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Marc Chagall",
+                                         "ru":  "Marc Chagall",
+                                         "yakut":  "Marc Chagall"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Pablo Picasso",
+                                         "ru":  "Pablo Picasso",
+                                         "yakut":  "Pablo Picasso"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Claude Monet",
+                                         "ru":  "Claude Monet",
+                                         "yakut":  "Claude Monet"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Edvard Munch",
+                                         "ru":  "Edvard Munch",
+                                         "yakut":  "Edvard Munch"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which Belarusian writer won the Nobel Prize in Literature in 2015?",
+                         "ru":  "Which Belarusian writer won the Nobel Prize in Literature in 2015?",
+                         "yakut":  "Which Belarusian writer won the Nobel Prize in Literature in 2015?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Svetlana Alexievich",
+                                         "ru":  "Svetlana Alexievich",
+                                         "yakut":  "Svetlana Alexievich"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Herta Muller",
+                                         "ru":  "Herta Muller",
+                                         "yakut":  "Herta Muller"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Olga Tokarczuk",
+                                         "ru":  "Olga Tokarczuk",
+                                         "yakut":  "Olga Tokarczuk"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Annie Ernaux",
+                                         "ru":  "Annie Ernaux",
+                                         "yakut":  "Annie Ernaux"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which early printer from Polotsk is an important Belarusian historical figure?",
+                         "ru":  "Which early printer from Polotsk is an important Belarusian historical figure?",
+                         "yakut":  "Which early printer from Polotsk is an important Belarusian historical figure?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Francysk Skaryna",
+                                         "ru":  "Francysk Skaryna",
+                                         "yakut":  "Francysk Skaryna"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Johannes Gutenberg",
+                                         "ru":  "Johannes Gutenberg",
+                                         "yakut":  "Johannes Gutenberg"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Ivan Fedorov",
+                                         "ru":  "Ivan Fedorov",
+                                         "yakut":  "Ivan Fedorov"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Mikhail Lomonosov",
+                                         "ru":  "Mikhail Lomonosov",
+                                         "yakut":  "Mikhail Lomonosov"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which Belarusian athlete is a former world number one in women\u0027s tennis?",
+                         "ru":  "Which Belarusian athlete is a former world number one in women\u0027s tennis?",
+                         "yakut":  "Which Belarusian athlete is a former world number one in women\u0027s tennis?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Victoria Azarenka",
+                                         "ru":  "Victoria Azarenka",
+                                         "yakut":  "Victoria Azarenka"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Simona Halep",
+                                         "ru":  "Simona Halep",
+                                         "yakut":  "Simona Halep"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Naomi Osaka",
+                                         "ru":  "Naomi Osaka",
+                                         "yakut":  "Naomi Osaka"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Ons Jabeur",
+                                         "ru":  "Ons Jabeur",
+                                         "yakut":  "Ons Jabeur"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

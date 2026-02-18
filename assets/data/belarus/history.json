@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "What is the capital of Belarus?",
+                         "ru":  "What is the capital of Belarus?",
+                         "yakut":  "What is the capital of Belarus?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Minsk",
+                                         "ru":  "Minsk",
+                                         "yakut":  "Minsk"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Brest",
+                                         "ru":  "Brest",
+                                         "yakut":  "Brest"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Grodno",
+                                         "ru":  "Grodno",
+                                         "yakut":  "Grodno"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Vitebsk",
+                                         "ru":  "Vitebsk",
+                                         "yakut":  "Vitebsk"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which day is celebrated as Independence Day in Belarus?",
+                         "ru":  "Which day is celebrated as Independence Day in Belarus?",
+                         "yakut":  "Which day is celebrated as Independence Day in Belarus?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "3 July",
+                                         "ru":  "3 July",
+                                         "yakut":  "3 July"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "25 March",
+                                         "ru":  "25 March",
+                                         "yakut":  "25 March"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "9 May",
+                                         "ru":  "9 May",
+                                         "yakut":  "9 May"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "1 January",
+                                         "ru":  "1 January",
+                                         "yakut":  "1 January"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which UNESCO site is located in Belarus?",
+                         "ru":  "Which UNESCO site is located in Belarus?",
+                         "yakut":  "Which UNESCO site is located in Belarus?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Mir Castle Complex",
+                                         "ru":  "Mir Castle Complex",
+                                         "yakut":  "Mir Castle Complex"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Meteora",
+                                         "ru":  "Meteora",
+                                         "yakut":  "Meteora"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Stonehenge",
+                                         "ru":  "Stonehenge",
+                                         "yakut":  "Stonehenge"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Acropolis",
+                                         "ru":  "Acropolis",
+                                         "yakut":  "Acropolis"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which forest in Belarus is famous for European bison?",
+                         "ru":  "Which forest in Belarus is famous for European bison?",
+                         "yakut":  "Which forest in Belarus is famous for European bison?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Belovezhskaya Pushcha",
+                                         "ru":  "Belovezhskaya Pushcha",
+                                         "yakut":  "Belovezhskaya Pushcha"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Black Forest",
+                                         "ru":  "Black Forest",
+                                         "yakut":  "Black Forest"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Sherwood Forest",
+                                         "ru":  "Sherwood Forest",
+                                         "yakut":  "Sherwood Forest"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Arden Forest",
+                                         "ru":  "Arden Forest",
+                                         "yakut":  "Arden Forest"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

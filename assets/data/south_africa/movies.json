@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "In which South African city is the film \u0027District 9\u0027 primarily set?",
+                         "ru":  "In which South African city is the film \u0027District 9\u0027 primarily set?",
+                         "yakut":  "In which South African city is the film \u0027District 9\u0027 primarily set?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Johannesburg",
+                                         "ru":  "Johannesburg",
+                                         "yakut":  "Johannesburg"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Cape Town",
+                                         "ru":  "Cape Town",
+                                         "yakut":  "Cape Town"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Pretoria",
+                                         "ru":  "Pretoria",
+                                         "yakut":  "Pretoria"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Port Elizabeth",
+                                         "ru":  "Port Elizabeth",
+                                         "yakut":  "Port Elizabeth"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which South African film won the Academy Award for Best Foreign Language Film in 2006?",
+                         "ru":  "Which South African film won the Academy Award for Best Foreign Language Film in 2006?",
+                         "yakut":  "Which South African film won the Academy Award for Best Foreign Language Film in 2006?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Tsotsi",
+                                         "ru":  "Tsotsi",
+                                         "yakut":  "Tsotsi"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Invictus",
+                                         "ru":  "Invictus",
+                                         "yakut":  "Invictus"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "District 9",
+                                         "ru":  "District 9",
+                                         "yakut":  "District 9"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Cry Freedom",
+                                         "ru":  "Cry Freedom",
+                                         "yakut":  "Cry Freedom"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Who directed the South African film \u0027Tsotsi\u0027?",
+                         "ru":  "Who directed the South African film \u0027Tsotsi\u0027?",
+                         "yakut":  "Who directed the South African film \u0027Tsotsi\u0027?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Gavin Hood",
+                                         "ru":  "Gavin Hood",
+                                         "yakut":  "Gavin Hood"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Neill Blomkamp",
+                                         "ru":  "Neill Blomkamp",
+                                         "yakut":  "Neill Blomkamp"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Clint Eastwood",
+                                         "ru":  "Clint Eastwood",
+                                         "yakut":  "Clint Eastwood"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Danny Boyle",
+                                         "ru":  "Danny Boyle",
+                                         "yakut":  "Danny Boyle"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which city hosts the Cape Town International Film Market and Festival?",
+                         "ru":  "Which city hosts the Cape Town International Film Market and Festival?",
+                         "yakut":  "Which city hosts the Cape Town International Film Market and Festival?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Cape Town",
+                                         "ru":  "Cape Town",
+                                         "yakut":  "Cape Town"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Durban",
+                                         "ru":  "Durban",
+                                         "yakut":  "Durban"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Johannesburg",
+                                         "ru":  "Johannesburg",
+                                         "yakut":  "Johannesburg"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Bloemfontein",
+                                         "ru":  "Bloemfontein",
+                                         "yakut":  "Bloemfontein"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "What is the name of the national film studio of Belarus?",
+                         "ru":  "What is the name of the national film studio of Belarus?",
+                         "yakut":  "What is the name of the national film studio of Belarus?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Belarusfilm",
+                                         "ru":  "Belarusfilm",
+                                         "yakut":  "Belarusfilm"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Minskwood",
+                                         "ru":  "Minskwood",
+                                         "yakut":  "Minskwood"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "BelCinema House",
+                                         "ru":  "BelCinema House",
+                                         "yakut":  "BelCinema House"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Eastern Pictures",
+                                         "ru":  "Eastern Pictures",
+                                         "yakut":  "Eastern Pictures"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "In which city is the Listapad film festival held?",
+                         "ru":  "In which city is the Listapad film festival held?",
+                         "yakut":  "In which city is the Listapad film festival held?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Minsk",
+                                         "ru":  "Minsk",
+                                         "yakut":  "Minsk"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Gomel",
+                                         "ru":  "Gomel",
+                                         "yakut":  "Gomel"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Brest",
+                                         "ru":  "Brest",
+                                         "yakut":  "Brest"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Mogilev",
+                                         "ru":  "Mogilev",
+                                         "yakut":  "Mogilev"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which classic war film is set in Nazi-occupied Belarus?",
+                         "ru":  "Which classic war film is set in Nazi-occupied Belarus?",
+                         "yakut":  "Which classic war film is set in Nazi-occupied Belarus?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Come and See",
+                                         "ru":  "Come and See",
+                                         "yakut":  "Come and See"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Battleship Potemkin",
+                                         "ru":  "Battleship Potemkin",
+                                         "yakut":  "Battleship Potemkin"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Pan\u0027s Labyrinth",
+                                         "ru":  "Pan\u0027s Labyrinth",
+                                         "yakut":  "Pan\u0027s Labyrinth"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "The Pianist",
+                                         "ru":  "The Pianist",
+                                         "yakut":  "The Pianist"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which city is the center of Belarusian film production?",
+                         "ru":  "Which city is the center of Belarusian film production?",
+                         "yakut":  "Which city is the center of Belarusian film production?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Minsk",
+                                         "ru":  "Minsk",
+                                         "yakut":  "Minsk"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Vitebsk",
+                                         "ru":  "Vitebsk",
+                                         "yakut":  "Vitebsk"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Polotsk",
+                                         "ru":  "Polotsk",
+                                         "yakut":  "Polotsk"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Grodno",
+                                         "ru":  "Grodno",
+                                         "yakut":  "Grodno"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "What is the capital of Italy?",
+                         "ru":  "What is the capital of Italy?",
+                         "yakut":  "What is the capital of Italy?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Rome",
+                                         "ru":  "Rome",
+                                         "yakut":  "Rome"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Milan",
+                                         "ru":  "Milan",
+                                         "yakut":  "Milan"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Naples",
+                                         "ru":  "Naples",
+                                         "yakut":  "Naples"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Venice",
+                                         "ru":  "Venice",
+                                         "yakut":  "Venice"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "In which year was the Kingdom of Italy proclaimed?",
+                         "ru":  "In which year was the Kingdom of Italy proclaimed?",
+                         "yakut":  "In which year was the Kingdom of Italy proclaimed?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "1861",
+                                         "ru":  "1861",
+                                         "yakut":  "1861"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "1789",
+                                         "ru":  "1789",
+                                         "yakut":  "1789"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "1918",
+                                         "ru":  "1918",
+                                         "yakut":  "1918"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "1946",
+                                         "ru":  "1946",
+                                         "yakut":  "1946"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which ancient Roman city was buried by the eruption of Mount Vesuvius in AD 79?",
+                         "ru":  "Which ancient Roman city was buried by the eruption of Mount Vesuvius in AD 79?",
+                         "yakut":  "Which ancient Roman city was buried by the eruption of Mount Vesuvius in AD 79?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Pompeii",
+                                         "ru":  "Pompeii",
+                                         "yakut":  "Pompeii"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Athens",
+                                         "ru":  "Athens",
+                                         "yakut":  "Athens"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Carthage",
+                                         "ru":  "Carthage",
+                                         "yakut":  "Carthage"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Delphi",
+                                         "ru":  "Delphi",
+                                         "yakut":  "Delphi"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "What currency is used in Italy today?",
+                         "ru":  "What currency is used in Italy today?",
+                         "yakut":  "What currency is used in Italy today?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Euro",
+                                         "ru":  "Euro",
+                                         "yakut":  "Euro"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Lira",
+                                         "ru":  "Lira",
+                                         "yakut":  "Lira"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Swiss franc",
+                                         "ru":  "Swiss franc",
+                                         "yakut":  "Swiss franc"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Pound sterling",
+                                         "ru":  "Pound sterling",
+                                         "yakut":  "Pound sterling"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

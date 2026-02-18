@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "Which modern dance music genre became globally popular from South Africa?",
+                         "ru":  "Which modern dance music genre became globally popular from South Africa?",
+                         "yakut":  "Which modern dance music genre became globally popular from South Africa?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Amapiano",
+                                         "ru":  "Amapiano",
+                                         "yakut":  "Amapiano"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Reggaeton",
+                                         "ru":  "Reggaeton",
+                                         "yakut":  "Reggaeton"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "K-pop",
+                                         "ru":  "K-pop",
+                                         "yakut":  "K-pop"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Flamenco pop",
+                                         "ru":  "Flamenco pop",
+                                         "yakut":  "Flamenco pop"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which South African singer was known as \u0027Mama Africa\u0027?",
+                         "ru":  "Which South African singer was known as \u0027Mama Africa\u0027?",
+                         "yakut":  "Which South African singer was known as \u0027Mama Africa\u0027?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Miriam Makeba",
+                                         "ru":  "Miriam Makeba",
+                                         "yakut":  "Miriam Makeba"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Yvonne Chaka Chaka",
+                                         "ru":  "Yvonne Chaka Chaka",
+                                         "yakut":  "Yvonne Chaka Chaka"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Angelique Kidjo",
+                                         "ru":  "Angelique Kidjo",
+                                         "yakut":  "Angelique Kidjo"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Brenda Fassie",
+                                         "ru":  "Brenda Fassie",
+                                         "yakut":  "Brenda Fassie"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which vocal group from South Africa collaborated with Paul Simon?",
+                         "ru":  "Which vocal group from South Africa collaborated with Paul Simon?",
+                         "yakut":  "Which vocal group from South Africa collaborated with Paul Simon?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Ladysmith Black Mambazo",
+                                         "ru":  "Ladysmith Black Mambazo",
+                                         "yakut":  "Ladysmith Black Mambazo"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "The Temptations",
+                                         "ru":  "The Temptations",
+                                         "yakut":  "The Temptations"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "ABBA",
+                                         "ru":  "ABBA",
+                                         "yakut":  "ABBA"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "The Beach Boys",
+                                         "ru":  "The Beach Boys",
+                                         "yakut":  "The Beach Boys"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which urban music style emerged in South African townships in the 1990s?",
+                         "ru":  "Which urban music style emerged in South African townships in the 1990s?",
+                         "yakut":  "Which urban music style emerged in South African townships in the 1990s?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Kwaito",
+                                         "ru":  "Kwaito",
+                                         "yakut":  "Kwaito"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Grunge",
+                                         "ru":  "Grunge",
+                                         "yakut":  "Grunge"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Disco polo",
+                                         "ru":  "Disco polo",
+                                         "yakut":  "Disco polo"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Bossa nova",
+                                         "ru":  "Bossa nova",
+                                         "yakut":  "Bossa nova"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

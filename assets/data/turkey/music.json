@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "Which string instrument is common in Turkish folk music?",
+                         "ru":  "Which string instrument is common in Turkish folk music?",
+                         "yakut":  "Which string instrument is common in Turkish folk music?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Baglama",
+                                         "ru":  "Baglama",
+                                         "yakut":  "Baglama"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Cello",
+                                         "ru":  "Cello",
+                                         "yakut":  "Cello"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Ukulele",
+                                         "ru":  "Ukulele",
+                                         "yakut":  "Ukulele"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Mandolin",
+                                         "ru":  "Mandolin",
+                                         "yakut":  "Mandolin"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which singer won Eurovision 2003 for Turkey?",
+                         "ru":  "Which singer won Eurovision 2003 for Turkey?",
+                         "yakut":  "Which singer won Eurovision 2003 for Turkey?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Sertab Erener",
+                                         "ru":  "Sertab Erener",
+                                         "yakut":  "Sertab Erener"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Hadise",
+                                         "ru":  "Hadise",
+                                         "yakut":  "Hadise"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Ajda Pekkan",
+                                         "ru":  "Ajda Pekkan",
+                                         "yakut":  "Ajda Pekkan"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Sezen Aksu",
+                                         "ru":  "Sezen Aksu",
+                                         "yakut":  "Sezen Aksu"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which Turkish pop singer is known internationally for the song \u0027Simarik\u0027?",
+                         "ru":  "Which Turkish pop singer is known internationally for the song \u0027Simarik\u0027?",
+                         "yakut":  "Which Turkish pop singer is known internationally for the song \u0027Simarik\u0027?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Tarkan",
+                                         "ru":  "Tarkan",
+                                         "yakut":  "Tarkan"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Mabel Matiz",
+                                         "ru":  "Mabel Matiz",
+                                         "yakut":  "Mabel Matiz"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Murat Boz",
+                                         "ru":  "Murat Boz",
+                                         "yakut":  "Murat Boz"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Kenan Dogulu",
+                                         "ru":  "Kenan Dogulu",
+                                         "yakut":  "Kenan Dogulu"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which city is associated with Mevlevi whirling dervish music traditions?",
+                         "ru":  "Which city is associated with Mevlevi whirling dervish music traditions?",
+                         "yakut":  "Which city is associated with Mevlevi whirling dervish music traditions?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Konya",
+                                         "ru":  "Konya",
+                                         "yakut":  "Konya"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Bodrum",
+                                         "ru":  "Bodrum",
+                                         "yakut":  "Bodrum"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Gaziantep",
+                                         "ru":  "Gaziantep",
+                                         "yakut":  "Gaziantep"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Samsun",
+                                         "ru":  "Samsun",
+                                         "yakut":  "Samsun"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

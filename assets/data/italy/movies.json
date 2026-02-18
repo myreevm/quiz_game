@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "Which Italian director made films such as \u0027La Dolce Vita\u0027 and \u00278 1/2\u0027?",
+                         "ru":  "Which Italian director made films such as \u0027La Dolce Vita\u0027 and \u00278 1/2\u0027?",
+                         "yakut":  "Which Italian director made films such as \u0027La Dolce Vita\u0027 and \u00278 1/2\u0027?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Federico Fellini",
+                                         "ru":  "Federico Fellini",
+                                         "yakut":  "Federico Fellini"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Paolo Sorrentino",
+                                         "ru":  "Paolo Sorrentino",
+                                         "yakut":  "Paolo Sorrentino"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Luchino Visconti",
+                                         "ru":  "Luchino Visconti",
+                                         "yakut":  "Luchino Visconti"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Roberto Rossellini",
+                                         "ru":  "Roberto Rossellini",
+                                         "yakut":  "Roberto Rossellini"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which Italian film won the Oscar for Best Foreign Language Film and starred Roberto Benigni?",
+                         "ru":  "Which Italian film won the Oscar for Best Foreign Language Film and starred Roberto Benigni?",
+                         "yakut":  "Which Italian film won the Oscar for Best Foreign Language Film and starred Roberto Benigni?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Life Is Beautiful",
+                                         "ru":  "Life Is Beautiful",
+                                         "yakut":  "Life Is Beautiful"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Cinema Paradiso",
+                                         "ru":  "Cinema Paradiso",
+                                         "yakut":  "Cinema Paradiso"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Bicycle Thieves",
+                                         "ru":  "Bicycle Thieves",
+                                         "yakut":  "Bicycle Thieves"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "The Great Beauty",
+                                         "ru":  "The Great Beauty",
+                                         "yakut":  "The Great Beauty"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "In which city are the famous Cinecitta film studios located?",
+                         "ru":  "In which city are the famous Cinecitta film studios located?",
+                         "yakut":  "In which city are the famous Cinecitta film studios located?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Rome",
+                                         "ru":  "Rome",
+                                         "yakut":  "Rome"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Florence",
+                                         "ru":  "Florence",
+                                         "yakut":  "Florence"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Turin",
+                                         "ru":  "Turin",
+                                         "yakut":  "Turin"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Bologna",
+                                         "ru":  "Bologna",
+                                         "yakut":  "Bologna"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which Italian director is famous for classic spaghetti westerns?",
+                         "ru":  "Which Italian director is famous for classic spaghetti westerns?",
+                         "yakut":  "Which Italian director is famous for classic spaghetti westerns?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Sergio Leone",
+                                         "ru":  "Sergio Leone",
+                                         "yakut":  "Sergio Leone"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Bernardo Bertolucci",
+                                         "ru":  "Bernardo Bertolucci",
+                                         "yakut":  "Bernardo Bertolucci"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Michelangelo Antonioni",
+                                         "ru":  "Michelangelo Antonioni",
+                                         "yakut":  "Michelangelo Antonioni"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Dario Argento",
+                                         "ru":  "Dario Argento",
+                                         "yakut":  "Dario Argento"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

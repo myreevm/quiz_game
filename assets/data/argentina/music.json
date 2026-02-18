@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "Which dance and music style is strongly associated with Argentina?",
+                         "ru":  "Which dance and music style is strongly associated with Argentina?",
+                         "yakut":  "Which dance and music style is strongly associated with Argentina?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Tango",
+                                         "ru":  "Tango",
+                                         "yakut":  "Tango"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Samba",
+                                         "ru":  "Samba",
+                                         "yakut":  "Samba"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Flamenco",
+                                         "ru":  "Flamenco",
+                                         "yakut":  "Flamenco"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Fado",
+                                         "ru":  "Fado",
+                                         "yakut":  "Fado"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which legendary singer is known as a symbol of tango?",
+                         "ru":  "Which legendary singer is known as a symbol of tango?",
+                         "yakut":  "Which legendary singer is known as a symbol of tango?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Carlos Gardel",
+                                         "ru":  "Carlos Gardel",
+                                         "yakut":  "Carlos Gardel"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Placido Domingo",
+                                         "ru":  "Placido Domingo",
+                                         "yakut":  "Placido Domingo"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Julio Iglesias",
+                                         "ru":  "Julio Iglesias",
+                                         "yakut":  "Julio Iglesias"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Jose Carreras",
+                                         "ru":  "Jose Carreras",
+                                         "yakut":  "Jose Carreras"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which instrument is central in traditional tango ensembles?",
+                         "ru":  "Which instrument is central in traditional tango ensembles?",
+                         "yakut":  "Which instrument is central in traditional tango ensembles?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Bandoneon",
+                                         "ru":  "Bandoneon",
+                                         "yakut":  "Bandoneon"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Banjo",
+                                         "ru":  "Banjo",
+                                         "yakut":  "Banjo"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Balalaika",
+                                         "ru":  "Balalaika",
+                                         "yakut":  "Balalaika"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Harp",
+                                         "ru":  "Harp",
+                                         "yakut":  "Harp"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which composer modernized tango with nuevo tango style?",
+                         "ru":  "Which composer modernized tango with nuevo tango style?",
+                         "yakut":  "Which composer modernized tango with nuevo tango style?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Astor Piazzolla",
+                                         "ru":  "Astor Piazzolla",
+                                         "yakut":  "Astor Piazzolla"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Ennio Morricone",
+                                         "ru":  "Ennio Morricone",
+                                         "yakut":  "Ennio Morricone"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Philip Glass",
+                                         "ru":  "Philip Glass",
+                                         "yakut":  "Philip Glass"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Ludovico Einaudi",
+                                         "ru":  "Ludovico Einaudi",
+                                         "yakut":  "Ludovico Einaudi"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

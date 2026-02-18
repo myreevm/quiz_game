@@ -392,6 +392,36 @@ class AppTexts {
           ru: 'United Kingdom',
           yakut: 'United Kingdom',
         );
+      case 'belarus':
+        return _select(
+          en: 'Belarus',
+          ru: 'Belarus',
+          yakut: 'Belarus',
+        );
+      case 'argentina':
+        return _select(
+          en: 'Argentina',
+          ru: 'Argentina',
+          yakut: 'Argentina',
+        );
+      case 'turkey':
+        return _select(
+          en: 'Turkey',
+          ru: 'Turkey',
+          yakut: 'Turkey',
+        );
+      case 'south_africa':
+        return _select(
+          en: 'South Africa',
+          ru: 'South Africa',
+          yakut: 'South Africa',
+        );
+      case 'italy':
+        return _select(
+          en: 'Italy',
+          ru: 'Italy',
+          yakut: 'Italy',
+        );
       default:
         return code.toUpperCase();
     }
@@ -480,6 +510,37 @@ class AppTexts {
           en: 'United Kingdom: history, cinema, music, and famous people',
           ru: 'United Kingdom: history, cinema, music, and famous people',
           yakut: 'United Kingdom: history, cinema, music, and famous people',
+        );
+      case 'belarus':
+        return _select(
+          en: 'Belarus: history, culture, movies, and notable people',
+          ru: 'Belarus: history, culture, movies, and notable people',
+          yakut: 'Belarus: history, culture, movies, and notable people',
+        );
+      case 'argentina':
+        return _select(
+          en: 'Argentina: tango, football, cinema, and key historical facts',
+          ru: 'Argentina: tango, football, cinema, and key historical facts',
+          yakut: 'Argentina: tango, football, cinema, and key historical facts',
+        );
+      case 'turkey':
+        return _select(
+          en: 'Turkey: Ottoman heritage, modern history, cinema, and music',
+          ru: 'Turkey: Ottoman heritage, modern history, cinema, and music',
+          yakut: 'Turkey: Ottoman heritage, modern history, cinema, and music',
+        );
+      case 'south_africa':
+        return _select(
+          en: 'South Africa: history, diversity, films, and famous personalities',
+          ru: 'South Africa: history, diversity, films, and famous personalities',
+          yakut:
+              'South Africa: history, diversity, films, and famous personalities',
+        );
+      case 'italy':
+        return _select(
+          en: 'Italy: ancient heritage, art, cinema, and music',
+          ru: 'Italy: ancient heritage, art, cinema, and music',
+          yakut: 'Italy: ancient heritage, art, cinema, and music',
         );
       default:
         return code;

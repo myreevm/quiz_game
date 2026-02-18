@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "What is the capital of Turkey?",
+                         "ru":  "What is the capital of Turkey?",
+                         "yakut":  "What is the capital of Turkey?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Ankara",
+                                         "ru":  "Ankara",
+                                         "yakut":  "Ankara"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Istanbul",
+                                         "ru":  "Istanbul",
+                                         "yakut":  "Istanbul"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Izmir",
+                                         "ru":  "Izmir",
+                                         "yakut":  "Izmir"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Bursa",
+                                         "ru":  "Bursa",
+                                         "yakut":  "Bursa"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "In which year was the Republic of Turkey proclaimed?",
+                         "ru":  "In which year was the Republic of Turkey proclaimed?",
+                         "yakut":  "In which year was the Republic of Turkey proclaimed?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "1923",
+                                         "ru":  "1923",
+                                         "yakut":  "1923"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "1918",
+                                         "ru":  "1918",
+                                         "yakut":  "1918"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "1938",
+                                         "ru":  "1938",
+                                         "yakut":  "1938"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "1905",
+                                         "ru":  "1905",
+                                         "yakut":  "1905"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "What was the historical name of Istanbul during the Byzantine era?",
+                         "ru":  "What was the historical name of Istanbul during the Byzantine era?",
+                         "yakut":  "What was the historical name of Istanbul during the Byzantine era?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Constantinople",
+                                         "ru":  "Constantinople",
+                                         "yakut":  "Constantinople"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Antioch",
+                                         "ru":  "Antioch",
+                                         "yakut":  "Antioch"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Ephesus",
+                                         "ru":  "Ephesus",
+                                         "yakut":  "Ephesus"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Adrianople",
+                                         "ru":  "Adrianople",
+                                         "yakut":  "Adrianople"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which strait divides Istanbul between Europe and Asia?",
+                         "ru":  "Which strait divides Istanbul between Europe and Asia?",
+                         "yakut":  "Which strait divides Istanbul between Europe and Asia?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Bosporus",
+                                         "ru":  "Bosporus",
+                                         "yakut":  "Bosporus"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Suez Canal",
+                                         "ru":  "Suez Canal",
+                                         "yakut":  "Suez Canal"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Panama Canal",
+                                         "ru":  "Panama Canal",
+                                         "yakut":  "Panama Canal"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Strait of Gibraltar",
+                                         "ru":  "Strait of Gibraltar",
+                                         "yakut":  "Strait of Gibraltar"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

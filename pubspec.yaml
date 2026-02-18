@@ -45,6 +45,11 @@ flutter:
     - assets/data/egypt/
     - assets/data/brazil/
     - assets/data/uk/
+    - assets/data/belarus/
+    - assets/data/argentina/
+    - assets/data/turkey/
+    - assets/data/south_africa/
+    - assets/data/italy/
 
 flutter_launcher_icons:
   android: true

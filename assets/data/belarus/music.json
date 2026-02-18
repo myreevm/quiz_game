@@ -1,0 +1,166 @@
+﻿[
+    {
+        "question":  {
+                         "en":  "In which city is the Slavianski Bazaar music festival held?",
+                         "ru":  "In which city is the Slavianski Bazaar music festival held?",
+                         "yakut":  "In which city is the Slavianski Bazaar music festival held?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Vitebsk",
+                                         "ru":  "Vitebsk",
+                                         "yakut":  "Vitebsk"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Minsk",
+                                         "ru":  "Minsk",
+                                         "yakut":  "Minsk"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Brest",
+                                         "ru":  "Brest",
+                                         "yakut":  "Brest"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Gomel",
+                                         "ru":  "Gomel",
+                                         "yakut":  "Gomel"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Which traditional instrument is common in Belarusian folk music?",
+                         "ru":  "Which traditional instrument is common in Belarusian folk music?",
+                         "yakut":  "Which traditional instrument is common in Belarusian folk music?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Tsymbaly",
+                                         "ru":  "Tsymbaly",
+                                         "yakut":  "Tsymbaly"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Didgeridoo",
+                                         "ru":  "Didgeridoo",
+                                         "yakut":  "Didgeridoo"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Sitar",
+                                         "ru":  "Sitar",
+                                         "yakut":  "Sitar"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Bagpipe",
+                                         "ru":  "Bagpipe",
+                                         "yakut":  "Bagpipe"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Who represented Belarus at Eurovision 2019 with the song \u0027Like It\u0027?",
+                         "ru":  "Who represented Belarus at Eurovision 2019 with the song \u0027Like It\u0027?",
+                         "yakut":  "Who represented Belarus at Eurovision 2019 with the song \u0027Like It\u0027?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "ZENA",
+                                         "ru":  "ZENA",
+                                         "yakut":  "ZENA"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Ruslana",
+                                         "ru":  "Ruslana",
+                                         "yakut":  "Ruslana"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Dima Bilan",
+                                         "ru":  "Dima Bilan",
+                                         "yakut":  "Dima Bilan"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Loreen",
+                                         "ru":  "Loreen",
+                                         "yakut":  "Loreen"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  {
+                         "en":  "Where is the Belarusian State Philharmonic located?",
+                         "ru":  "Where is the Belarusian State Philharmonic located?",
+                         "yakut":  "Where is the Belarusian State Philharmonic located?"
+                     },
+        "answers":  [
+                        {
+                            "text":  {
+                                         "en":  "Minsk",
+                                         "ru":  "Minsk",
+                                         "yakut":  "Minsk"
+                                     },
+                            "score":  1
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Vitebsk",
+                                         "ru":  "Vitebsk",
+                                         "yakut":  "Vitebsk"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Grodno",
+                                         "ru":  "Grodno",
+                                         "yakut":  "Grodno"
+                                     },
+                            "score":  0
+                        },
+                        {
+                            "text":  {
+                                         "en":  "Mogilev",
+                                         "ru":  "Mogilev",
+                                         "yakut":  "Mogilev"
+                                     },
+                            "score":  0
+                        }
+                    ]
+    }
+]

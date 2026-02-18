@@ -27,6 +27,11 @@ class CountrySelectionScreen extends StatefulWidget {
     _CountryOption(code: 'egypt'),
     _CountryOption(code: 'brazil'),
     _CountryOption(code: 'uk'),
+    _CountryOption(code: 'belarus'),
+    _CountryOption(code: 'argentina'),
+    _CountryOption(code: 'turkey'),
+    _CountryOption(code: 'south_africa'),
+    _CountryOption(code: 'italy'),
   ];
 
   static const mapPins = [
@@ -36,13 +41,18 @@ class CountrySelectionScreen extends StatefulWidget {
     MapPinData(code: 'brazil', position: Offset(0.36, 0.55)),
     MapPinData(code: 'uk', position: Offset(0.47, 0.20)),
     MapPinData(code: 'france', position: Offset(0.51, 0.24)),
+    MapPinData(code: 'italy', position: Offset(0.53, 0.28)),
     MapPinData(code: 'poland', position: Offset(0.55, 0.21)),
+    MapPinData(code: 'belarus', position: Offset(0.58, 0.20)),
+    MapPinData(code: 'turkey', position: Offset(0.60, 0.30)),
     MapPinData(code: 'egypt', position: Offset(0.58, 0.34)),
     MapPinData(code: 'russia', position: Offset(0.75, 0.15)),
     MapPinData(code: 'china', position: Offset(0.79, 0.32)),
     MapPinData(code: 'vietnam', position: Offset(0.79, 0.42)),
     MapPinData(code: 'japan', position: Offset(0.88, 0.30)),
     MapPinData(code: 'australia', position: Offset(0.86, 0.64)),
+    MapPinData(code: 'argentina', position: Offset(0.34, 0.75)),
+    MapPinData(code: 'south_africa', position: Offset(0.58, 0.68)),
   ];
 
   @override
@@ -57,13 +67,18 @@ class _CountrySelectionScreenState extends State<CountrySelectionScreen> {
     'china': 9596961,
     'brazil': 8515767,
     'australia': 7692024,
+    'argentina': 2780400,
     'mexico': 1964375,
+    'south_africa': 1221037,
     'egypt': 1002450,
+    'turkey': 783562,
     'france': 551695,
     'japan': 377975,
     'vietnam': 331212,
     'poland': 312696,
+    'italy': 301340,
     'uk': 243610,
+    'belarus': 207600,
   };
 
   static const Map<String, List<String>> _regionsByCountry = {
@@ -80,6 +95,11 @@ class _CountrySelectionScreenState extends State<CountrySelectionScreen> {
     'egypt': <String>['all'],
     'brazil': <String>['all'],
     'uk': <String>['all'],
+    'belarus': <String>['all'],
+    'argentina': <String>['all'],
+    'turkey': <String>['all'],
+    'south_africa': <String>['all'],
+    'italy': <String>['all'],
   };
 
   static const List<String> _categories = [
