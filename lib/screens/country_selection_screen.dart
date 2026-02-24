@@ -131,7 +131,14 @@ class _CountrySelectionScreenState extends State<CountrySelectionScreen> {
 
   bool _isQuickGameLoading = false;
   List<_QuickGameRoute>? _cachedQuickGameRoutes;
-  _CountrySortMode _sortMode = _CountrySortMode.alphabet;
+  _CountrySortCriterion _sortCriterion = _CountrySortCriterion.alphabet;
+  final Map<_CountrySortCriterion, _CountrySortOrder> _sortOrderByCriterion = {
+    _CountrySortCriterion.alphabet: _CountrySortOrder.ascending,
+    _CountrySortCriterion.area: _CountrySortOrder.descending,
+  };
+
+  _CountrySortOrder get _activeSortOrder =>
+      _sortOrderByCriterion[_sortCriterion] ?? _CountrySortOrder.ascending;
 
   void _openRegions(BuildContext context, String country) {
     Navigator.push(
@@ -251,18 +258,31 @@ class _CountrySelectionScreenState extends State<CountrySelectionScreen> {
   List<_CountryOption> _sortedCountries(AppTexts texts) {
     final countries = [...CountrySelectionScreen.countries];
 
-    if (_sortMode == _CountrySortMode.alphabet) {
-      countries.sort(
-        (a, b) =>
-            texts.countryName(a.code).compareTo(texts.countryName(b.code)),
-      );
-    } else {
-      countries.sort((a, b) {
-        final aArea = _countryAreaKm2[a.code] ?? 0;
-        final bArea = _countryAreaKm2[b.code] ?? 0;
-        return bArea.compareTo(aArea);
-      });
+    int compareByName(_CountryOption a, _CountryOption b) {
+      final nameA = texts.countryName(a.code);
+      final nameB = texts.countryName(b.code);
+      return nameA.compareTo(nameB);
     }
+
+    int compareByArea(_CountryOption a, _CountryOption b) {
+      final aArea = _countryAreaKm2[a.code] ?? 0;
+      final bArea = _countryAreaKm2[b.code] ?? 0;
+      final areaCompare = aArea.compareTo(bArea);
+      if (areaCompare != 0) {
+        return areaCompare;
+      }
+      return compareByName(a, b);
+    }
+
+    final baseCompare = _sortCriterion == _CountrySortCriterion.alphabet
+        ? compareByName
+        : compareByArea;
+    final order = _activeSortOrder;
+
+    countries.sort((a, b) {
+      final result = baseCompare(a, b);
+      return order == _CountrySortOrder.ascending ? result : -result;
+    });
 
     return countries;
   }
@@ -315,13 +335,22 @@ class _CountrySelectionScreenState extends State<CountrySelectionScreen> {
               const SizedBox(height: 14),
               _CountrySortControls(
                 texts: texts,
-                mode: _sortMode,
-                onChanged: (mode) {
-                  if (mode == null) {
+                criterion: _sortCriterion,
+                order: _activeSortOrder,
+                onCriterionChanged: (criterion) {
+                  if (criterion == null) {
                     return;
                   }
                   setState(() {
-                    _sortMode = mode;
+                    _sortCriterion = criterion;
+                  });
+                },
+                onOrderChanged: (order) {
+                  if (order == null) {
+                    return;
+                  }
+                  setState(() {
+                    _sortOrderByCriterion[_sortCriterion] = order;
                   });
                 },
               ),
@@ -434,13 +463,17 @@ class _HeaderCard extends StatelessWidget {
 
 class _CountrySortControls extends StatelessWidget {
   final AppTexts texts;
-  final _CountrySortMode mode;
-  final ValueChanged<_CountrySortMode?> onChanged;
+  final _CountrySortCriterion criterion;
+  final _CountrySortOrder order;
+  final ValueChanged<_CountrySortCriterion?> onCriterionChanged;
+  final ValueChanged<_CountrySortOrder?> onOrderChanged;
 
   const _CountrySortControls({
     required this.texts,
-    required this.mode,
-    required this.onChanged,
+    required this.criterion,
+    required this.order,
+    required this.onCriterionChanged,
+    required this.onOrderChanged,
   });
 
   @override
@@ -458,23 +491,53 @@ class _CountrySortControls extends StatelessWidget {
           ),
         ),
         const SizedBox(height: 8),
-        SegmentedButton<_CountrySortMode>(
+        SegmentedButton<_CountrySortCriterion>(
           showSelectedIcon: false,
           segments: [
-            ButtonSegment<_CountrySortMode>(
-              value: _CountrySortMode.alphabet,
+            ButtonSegment<_CountrySortCriterion>(
+              value: _CountrySortCriterion.alphabet,
               icon: const Icon(Icons.sort_by_alpha_rounded),
               label: Text(texts.countrySortAlphabet),
             ),
-            ButtonSegment<_CountrySortMode>(
-              value: _CountrySortMode.area,
+            ButtonSegment<_CountrySortCriterion>(
+              value: _CountrySortCriterion.area,
               icon: const Icon(Icons.public_rounded),
               label: Text(texts.countrySortArea),
             ),
           ],
-          selected: {mode},
+          selected: {criterion},
           onSelectionChanged: (selected) {
-            onChanged(selected.isEmpty ? null : selected.first);
+            onCriterionChanged(selected.isEmpty ? null : selected.first);
+          },
+        ),
+        const SizedBox(height: 8),
+        Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 4),
+          child: Text(
+            texts.countrySortOrderLabel,
+            style: Theme.of(context).textTheme.titleSmall?.copyWith(
+                  fontWeight: FontWeight.w700,
+                ),
+          ),
+        ),
+        const SizedBox(height: 8),
+        SegmentedButton<_CountrySortOrder>(
+          showSelectedIcon: false,
+          segments: [
+            ButtonSegment<_CountrySortOrder>(
+              value: _CountrySortOrder.ascending,
+              icon: const Icon(Icons.arrow_upward_rounded),
+              label: Text(texts.countrySortAscending),
+            ),
+            ButtonSegment<_CountrySortOrder>(
+              value: _CountrySortOrder.descending,
+              icon: const Icon(Icons.arrow_downward_rounded),
+              label: Text(texts.countrySortDescending),
+            ),
+          ],
+          selected: {order},
+          onSelectionChanged: (selected) {
+            onOrderChanged(selected.isEmpty ? null : selected.first);
           },
         ),
       ],
@@ -562,7 +625,12 @@ class _QuickGameRoute {
   });
 }
 
-enum _CountrySortMode {
+enum _CountrySortCriterion {
   alphabet,
   area,
+}
+
+enum _CountrySortOrder {
+  ascending,
+  descending,
 }

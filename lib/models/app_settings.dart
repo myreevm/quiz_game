@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 
 enum AppLanguage {
@@ -43,38 +45,58 @@ class AppSettings {
 }
 
 class AppSettingsController extends ChangeNotifier {
-  AppSettings _settings = const AppSettings();
+  final Future<void> Function(AppSettings settings)? _onSettingsChanged;
+  AppSettings _settings;
+
+  AppSettingsController({
+    AppSettings initialSettings = const AppSettings(),
+    Future<void> Function(AppSettings settings)? onSettingsChanged,
+  })  : _settings = initialSettings,
+        _onSettingsChanged = onSettingsChanged;
 
   AppSettings get settings => _settings;
 
   void setDarkModeEnabled(bool enabled) {
-    _settings = _settings.copyWith(darkModeEnabled: enabled);
-    notifyListeners();
+    _updateSettings(_settings.copyWith(darkModeEnabled: enabled));
   }
 
   void setSoundEnabled(bool enabled) {
-    _settings = _settings.copyWith(soundEnabled: enabled);
-    notifyListeners();
+    _updateSettings(_settings.copyWith(soundEnabled: enabled));
   }
 
   void setShuffleQuestions(bool enabled) {
-    _settings = _settings.copyWith(shuffleQuestions: enabled);
-    notifyListeners();
+    _updateSettings(_settings.copyWith(shuffleQuestions: enabled));
   }
 
   void setShuffleAnswers(bool enabled) {
-    _settings = _settings.copyWith(shuffleAnswers: enabled);
-    notifyListeners();
+    _updateSettings(_settings.copyWith(shuffleAnswers: enabled));
   }
 
   void setQuestionsPerRound(int value) {
-    _settings = _settings.copyWith(questionsPerRound: value);
-    notifyListeners();
+    _updateSettings(_settings.copyWith(questionsPerRound: value));
   }
 
   void setAppLanguage(AppLanguage language) {
-    _settings = _settings.copyWith(appLanguage: language);
+    _updateSettings(_settings.copyWith(appLanguage: language));
+  }
+
+  void _updateSettings(AppSettings next) {
+    if (_isSameSettings(next, _settings)) {
+      return;
+    }
+
+    _settings = next;
     notifyListeners();
+    unawaited(_onSettingsChanged?.call(_settings));
+  }
+
+  bool _isSameSettings(AppSettings a, AppSettings b) {
+    return a.darkModeEnabled == b.darkModeEnabled &&
+        a.soundEnabled == b.soundEnabled &&
+        a.shuffleQuestions == b.shuffleQuestions &&
+        a.shuffleAnswers == b.shuffleAnswers &&
+        a.questionsPerRound == b.questionsPerRound &&
+        a.appLanguage == b.appLanguage;
   }
 }
 

@@ -1,10 +1,21 @@
 import 'package:flutter/material.dart';
+
 import 'models/app_settings.dart';
 import 'models/app_texts.dart';
+import 'services/app_settings_storage.dart';
 import 'screens/main_menu_screen.dart';
 
-void main() {
-  runApp(QuizApp(controller: AppSettingsController()));
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+
+  final storage = AppSettingsStorage();
+  final initialSettings = await storage.load();
+  final controller = AppSettingsController(
+    initialSettings: initialSettings,
+    onSettingsChanged: storage.save,
+  );
+
+  runApp(QuizApp(controller: controller));
 }
 
 class QuizApp extends StatelessWidget {

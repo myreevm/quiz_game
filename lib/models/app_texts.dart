@@ -309,6 +309,25 @@ class AppTexts {
         yakut: '\u041a\u044d\u044d\u043c\u044d\u0439\u0438\u043d\u044d\u043d',
       );
 
+  String get countrySortOrderLabel => _select(
+        en: 'Order',
+        ru: '\u041f\u043e\u0440\u044f\u0434\u043e\u043a',
+        yakut: '\u0422\u044d\u0440\u0438\u0439\u0438\u0438',
+      );
+
+  String get countrySortAscending => _select(
+        en: 'Ascending',
+        ru: '\u041f\u043e \u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0430\u043d\u0438\u044e',
+        yakut: '\u04ae\u0440\u0434\u044d\u044d\u04bb\u0438\u043d\u044d\u043d',
+      );
+
+  String get countrySortDescending => _select(
+        en: 'Descending',
+        ru: '\u041f\u043e \u0443\u0431\u044b\u0432\u0430\u043d\u0438\u044e',
+        yakut:
+            '\u0410\u043b\u043b\u0430\u0440\u0430\u0430\u04bb\u044b\u043d\u0430\u043d',
+      );
+
   String get mapOpenFullscreenTooltip => _select(
         en: 'Open fullscreen map',
         ru: '\u041e\u0442\u043a\u0440\u044b\u0442\u044c \u043a\u0430\u0440\u0442\u0443 \u043d\u0430 \u0432\u0435\u0441\u044c \u044d\u043a\u0440\u0430\u043d',
@@ -347,9 +366,9 @@ class AppTexts {
   String countryName(String code) {
     switch (code) {
       case 'russia':
-        return _select(en: 'Russia', ru: 'Russia', yakut: 'Russia');
+        return _select(en: 'Russia', ru: 'Россия', yakut: 'Россия');
       case 'usa':
-        return _select(en: 'USA', ru: 'USA', yakut: 'USA');
+        return _select(en: 'USA', ru: 'США', yakut: 'США');
       case 'canada':
         return _select(
           en: 'Canada',
@@ -363,7 +382,7 @@ class AppTexts {
           yakut: '\u041c\u0435\u043a\u0441\u0438\u043a\u0430',
         );
       case 'china':
-        return _select(en: 'China', ru: 'China', yakut: 'China');
+        return _select(en: 'China', ru: 'Китай', yakut: 'Кытай');
       case 'japan':
         return _select(
           en: 'Japan',
@@ -377,80 +396,84 @@ class AppTexts {
           yakut: '\u0412\u044c\u0435\u0442\u043d\u0430\u043c',
         );
       case 'poland':
-        return _select(en: 'Poland', ru: 'Poland', yakut: 'Poland');
+        return _select(en: 'Poland', ru: 'Польша', yakut: 'Польша');
       case 'france':
-        return _select(en: 'France', ru: 'France', yakut: 'France');
+        return _select(en: 'France', ru: 'Франция', yakut: 'Франция');
       case 'australia':
-        return _select(en: 'Australia', ru: 'Australia', yakut: 'Australia');
+        return _select(
+          en: 'Australia',
+          ru: 'Австралия',
+          yakut: 'Австралия',
+        );
       case 'egypt':
-        return _select(en: 'Egypt', ru: 'Egypt', yakut: 'Egypt');
+        return _select(en: 'Egypt', ru: 'Египет', yakut: 'Египет');
       case 'brazil':
-        return _select(en: 'Brazil', ru: 'Brazil', yakut: 'Brazil');
+        return _select(en: 'Brazil', ru: 'Бразилия', yakut: 'Бразилия');
       case 'uk':
         return _select(
           en: 'United Kingdom',
-          ru: 'United Kingdom',
-          yakut: 'United Kingdom',
+          ru: 'Великобритания',
+          yakut: 'Улуу Британия',
         );
       case 'belarus':
         return _select(
           en: 'Belarus',
-          ru: 'Belarus',
-          yakut: 'Belarus',
+          ru: 'Беларусь',
+          yakut: 'Беларусь',
         );
       case 'argentina':
         return _select(
           en: 'Argentina',
-          ru: 'Argentina',
-          yakut: 'Argentina',
+          ru: 'Аргентина',
+          yakut: 'Аргентина',
         );
       case 'turkey':
         return _select(
           en: 'Turkey',
-          ru: 'Turkey',
-          yakut: 'Turkey',
+          ru: 'Турция',
+          yakut: 'Турция',
         );
       case 'south_africa':
         return _select(
           en: 'South Africa',
-          ru: 'South Africa',
-          yakut: 'South Africa',
+          ru: 'ЮАР',
+          yakut: 'ЮАР',
         );
       case 'italy':
         return _select(
           en: 'Italy',
-          ru: 'Italy',
-          yakut: 'Italy',
+          ru: 'Италия',
+          yakut: 'Италия',
         );
       case 'germany':
         return _select(
           en: 'Germany',
-          ru: 'Germany',
-          yakut: 'Germany',
+          ru: 'Германия',
+          yakut: 'Германия',
         );
       case 'switzerland':
         return _select(
           en: 'Switzerland',
-          ru: 'Switzerland',
-          yakut: 'Switzerland',
+          ru: 'Швейцария',
+          yakut: 'Швейцария',
         );
       case 'spain':
         return _select(
           en: 'Spain',
-          ru: 'Spain',
-          yakut: 'Spain',
+          ru: 'Испания',
+          yakut: 'Испания',
         );
       case 'south_korea':
         return _select(
           en: 'South Korea',
-          ru: 'South Korea',
-          yakut: 'South Korea',
+          ru: 'Южная Корея',
+          yakut: 'Южная Корея',
         );
       case 'new_zealand':
         return _select(
           en: 'New Zealand',
-          ru: 'New Zealand',
-          yakut: 'New Zealand',
+          ru: 'Новая Зеландия',
+          yakut: 'Новая Зеландия',
         );
       default:
         return code.toUpperCase();
@@ -462,148 +485,141 @@ class AppTexts {
       case 'russia':
         return _select(
           en: 'Questions by country and regions',
-          ru: 'Questions by country and regions',
-          yakut: 'Questions by country and regions',
+          ru: 'Вопросы по стране и регионам',
+          yakut: 'Дойду уонна регионнар туһунан ыйытыылар',
         );
       case 'usa':
         return _select(
           en: 'Categories about USA and states',
-          ru: 'Categories about USA and states',
-          yakut: 'Categories about USA and states',
+          ru: 'Категории о США и штатах',
+          yakut: 'США уонна штаттар туһунан категориялар',
         );
       case 'canada':
         return _select(
           en: 'Canada: history, cinema, music, and notable people',
           ru: '\u041a\u0430\u043d\u0430\u0434\u0430: \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u043a\u0438\u043d\u043e, \u043c\u0443\u0437\u044b\u043a\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0435 \u043b\u044e\u0434\u0438',
-          yakut:
-              '\u041a\u0430\u043d\u0430\u0434\u0430: \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u043a\u0438\u043d\u043e, \u043c\u0443\u0437\u044b\u043a\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0435 \u043b\u044e\u0434\u0438',
+          yakut: 'Канада: история, кино, музыка уонна биллэр дьон',
         );
       case 'mexico':
         return _select(
           en: 'Mexico: history, culture, movies, and music',
           ru: '\u041c\u0435\u043a\u0441\u0438\u043a\u0430: \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430, \u043a\u0438\u043d\u043e \u0438 \u043c\u0443\u0437\u044b\u043a\u0430',
-          yakut:
-              '\u041c\u0435\u043a\u0441\u0438\u043a\u0430: \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430, \u043a\u0438\u043d\u043e \u0438 \u043c\u0443\u0437\u044b\u043a\u0430',
+          yakut: 'Мексика: история, культура, кино уонна музыка',
         );
       case 'china':
         return _select(
           en: 'History, culture, and modern facts',
-          ru: 'History, culture, and modern facts',
-          yakut: 'History, culture, and modern facts',
+          ru: 'История, культура и современные факты',
+          yakut: 'История, культура уонна билинни фактар',
         );
       case 'japan':
         return _select(
           en: 'Japan: history, cinema, anime, and music',
           ru: '\u042f\u043f\u043e\u043d\u0438\u044f: \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u043a\u0438\u043d\u043e, \u0430\u043d\u0438\u043c\u0435 \u0438 \u043c\u0443\u0437\u044b\u043a\u0430',
-          yakut:
-              '\u042f\u043f\u043e\u043d\u0438\u044f: \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u043a\u0438\u043d\u043e, \u0430\u043d\u0438\u043c\u0435 \u0438 \u043c\u0443\u0437\u044b\u043a\u0430',
+          yakut: 'Япония: история, кино, аниме уонна музыка',
         );
       case 'vietnam':
         return _select(
           en: 'Vietnam: history, culture, movies, and music',
           ru: '\u0412\u044c\u0435\u0442\u043d\u0430\u043c: \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430, \u043a\u0438\u043d\u043e \u0438 \u043c\u0443\u0437\u044b\u043a\u0430',
-          yakut:
-              '\u0412\u044c\u0435\u0442\u043d\u0430\u043c: \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430, \u043a\u0438\u043d\u043e \u0438 \u043c\u0443\u0437\u044b\u043a\u0430',
+          yakut: 'Вьетнам: история, культура, кино уонна музыка',
         );
       case 'poland':
         return _select(
           en: 'Questions about Poland and famous people',
-          ru: 'Questions about Poland and famous people',
-          yakut: 'Questions about Poland and famous people',
+          ru: 'Вопросы о Польше и известных людях',
+          yakut: 'Польша уонна биллэр дьон туһунан ыйытыылар',
         );
       case 'france':
         return _select(
           en: 'History, cinema, music, and personalities',
-          ru: 'History, cinema, music, and personalities',
-          yakut: 'History, cinema, music, and personalities',
+          ru: 'История, кино, музыка и известные личности',
+          yakut: 'История, кино, музыка уонна биллэр киһилэр',
         );
       case 'australia':
         return _select(
           en: 'History, people, movies, and music of Australia',
-          ru: 'History, people, movies, and music of Australia',
-          yakut: 'History, people, movies, and music of Australia',
+          ru: 'История, люди, кино и музыка Австралии',
+          yakut: 'Австралия историята, дьоно, киното уонна музыката',
         );
       case 'egypt':
         return _select(
           en: 'Ancient history, culture, cinema, and music',
-          ru: 'Ancient history, culture, cinema, and music',
-          yakut: 'Ancient history, culture, cinema, and music',
+          ru: 'Древняя история, культура, кино и музыка',
+          yakut: 'Былыргы история, культура, кино уонна музыка',
         );
       case 'brazil':
         return _select(
           en: 'Brazilian history, famous people, films, and music',
-          ru: 'Brazilian history, famous people, films, and music',
-          yakut: 'Brazilian history, famous people, films, and music',
+          ru: 'История Бразилии, известные люди, фильмы и музыка',
+          yakut: 'Бразилия историята, биллэр дьон, фильмнар уонна музыка',
         );
       case 'uk':
         return _select(
           en: 'United Kingdom: history, cinema, music, and famous people',
-          ru: 'United Kingdom: history, cinema, music, and famous people',
-          yakut: 'United Kingdom: history, cinema, music, and famous people',
+          ru: 'Великобритания: история, кино, музыка и известные люди',
+          yakut: 'Улуу Британия: история, кино, музыка уонна биллэр дьон',
         );
       case 'belarus':
         return _select(
           en: 'Belarus: history, culture, movies, and notable people',
-          ru: 'Belarus: history, culture, movies, and notable people',
-          yakut: 'Belarus: history, culture, movies, and notable people',
+          ru: 'Беларусь: история, культура, кино и известные люди',
+          yakut: 'Беларусь: история, культура, кино уонна биллэр дьон',
         );
       case 'argentina':
         return _select(
           en: 'Argentina: tango, football, cinema, and key historical facts',
-          ru: 'Argentina: tango, football, cinema, and key historical facts',
-          yakut: 'Argentina: tango, football, cinema, and key historical facts',
+          ru: 'Аргентина: танго, футбол, кино и ключевые исторические факты',
+          yakut:
+              'Аргентина: танго, футбол, кино уонна сурун историческай фактар',
         );
       case 'turkey':
         return _select(
           en: 'Turkey: Ottoman heritage, modern history, cinema, and music',
-          ru: 'Turkey: Ottoman heritage, modern history, cinema, and music',
-          yakut: 'Turkey: Ottoman heritage, modern history, cinema, and music',
+          ru: 'Турция: османское наследие, современная история, кино и музыка',
+          yakut: 'Турция: осман мирас, билинни история, кино уонна музыка',
         );
       case 'south_africa':
         return _select(
           en: 'South Africa: history, diversity, films, and famous personalities',
-          ru: 'South Africa: history, diversity, films, and famous personalities',
-          yakut:
-              'South Africa: history, diversity, films, and famous personalities',
+          ru: 'ЮАР: история, разнообразие, кино и известные личности',
+          yakut: 'ЮАР: история, элбэх туһумэх, кино уонна биллэр киһилэр',
         );
       case 'italy':
         return _select(
           en: 'Italy: ancient heritage, art, cinema, and music',
-          ru: 'Italy: ancient heritage, art, cinema, and music',
-          yakut: 'Italy: ancient heritage, art, cinema, and music',
+          ru: 'Италия: древнее наследие, искусство, кино и музыка',
+          yakut: 'Италия: былыргы мирас, искусство, кино уонна музыка',
         );
       case 'germany':
         return _select(
           en: 'Germany: history, science, cinema, and music',
-          ru: 'Germany: history, science, cinema, and music',
-          yakut: 'Germany: history, science, cinema, and music',
+          ru: 'Германия: история, наука, кино и музыка',
+          yakut: 'Германия: история, наука, кино уонна музыка',
         );
       case 'switzerland':
         return _select(
           en: 'Switzerland: alpine culture, history, films, and famous people',
-          ru: 'Switzerland: alpine culture, history, films, and famous people',
-          yakut:
-              'Switzerland: alpine culture, history, films, and famous people',
+          ru: 'Швейцария: альпийская культура, история, кино и известные люди',
+          yakut: 'Швейцария: альпа культурата, история, кино уонна биллэр дьон',
         );
       case 'spain':
         return _select(
           en: 'Spain: history, art, cinema, and music',
-          ru: 'Spain: history, art, cinema, and music',
-          yakut: 'Spain: history, art, cinema, and music',
+          ru: 'Испания: история, искусство, кино и музыка',
+          yakut: 'Испания: история, искусство, кино уонна музыка',
         );
       case 'south_korea':
         return _select(
           en: 'South Korea: modern history, cinema, K-pop, and notable people',
-          ru: 'South Korea: modern history, cinema, K-pop, and notable people',
-          yakut:
-              'South Korea: modern history, cinema, K-pop, and notable people',
+          ru: 'Южная Корея: новейшая история, кино, K-pop и известные люди',
+          yakut: 'Южная Корея: саҥа история, кино, K-pop уонна биллэр дьон',
         );
       case 'new_zealand':
         return _select(
           en: 'New Zealand: history, cinema, music, and famous personalities',
-          ru: 'New Zealand: history, cinema, music, and famous personalities',
-          yakut:
-              'New Zealand: history, cinema, music, and famous personalities',
+          ru: 'Новая Зеландия: история, кино, музыка и известные личности',
+          yakut: 'Новая Зеландия: история, кино, музыка уонна биллэр киһилэр',
         );
       default:
         return code;
