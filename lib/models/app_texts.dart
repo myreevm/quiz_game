@@ -1,6 +1,7 @@
 import 'package:flutter/widgets.dart';
 
 import 'app_settings.dart';
+import 'player_progress.dart';
 
 class AppTexts {
   final AppLanguage language;
@@ -34,233 +35,243 @@ class AppTexts {
       case AppLanguage.english:
         return 'English';
       case AppLanguage.russian:
-        return 'Русский';
+        return '\u0420\u0443\u0441\u0441\u043A\u0438\u0439';
       case AppLanguage.yakut:
-        return 'Саха тыла';
+        return '\u0421\u0430\u0445\u0430 \u0442\u044B\u043B\u0430';
     }
   }
 
   String get mainMenuTitle => _select(
         en: 'Main Menu',
-        ru: 'Главное меню',
-        yakut: 'Сүрүн меню',
+        ru: '\u0413\u043B\u0430\u0432\u043D\u043E\u0435 \u043C\u0435\u043D\u044E',
+        yakut: '\u0421\u04AF\u0440\u04AF\u043D \u043C\u0435\u043D\u044E',
       );
 
   String get mainMenuHeaderDescription => _select(
         en: 'Test your knowledge by categories, countries, and regions.',
-        ru: 'Проверьте знания по категориям, странам и регионам.',
-        yakut: 'Категория, дойду уонна регионан билиини бэрэктээ.',
+        ru: '\u041F\u0440\u043E\u0432\u0435\u0440\u044C\u0442\u0435 \u0437\u043D\u0430\u043D\u0438\u044F \u043F\u043E \u043A\u0430\u0442\u0435\u0433\u043E\u0440\u0438\u044F\u043C, \u0441\u0442\u0440\u0430\u043D\u0430\u043C \u0438 \u0440\u0435\u0433\u0438\u043E\u043D\u0430\u043C.',
+        yakut: '\u041A\u0430\u0442\u0435\u0433\u043E\u0440\u0438\u044F, \u0434\u043E\u0439\u0434\u0443 \u0443\u043E\u043D\u043D\u0430 \u0440\u0435\u0433\u0438\u043E\u043D\u0430\u043D \u0431\u0438\u043B\u0438\u0438\u043D\u0438 \u0431\u044D\u0440\u044D\u043A\u0442\u044D\u044D.',
       );
 
   String get mainMenuTagCategories => _select(
         en: 'Categories',
-        ru: 'Категории',
-        yakut: 'Категориялар',
+        ru: '\u041A\u0430\u0442\u0435\u0433\u043E\u0440\u0438\u0438',
+        yakut: '\u041A\u0430\u0442\u0435\u0433\u043E\u0440\u0438\u044F\u043B\u0430\u0440',
       );
 
   String get mainMenuTagProgress => _select(
         en: 'Progress',
-        ru: 'Прогресс',
-        yakut: 'Сайдыы',
+        ru: '\u041F\u0440\u043E\u0433\u0440\u0435\u0441\u0441',
+        yakut: '\u0421\u0430\u0439\u0434\u044B\u044B',
       );
 
   String get mainMenuTagResults => _select(
         en: 'Results',
-        ru: 'Результаты',
-        yakut: 'Түмүктэр',
+        ru: '\u0420\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u044B',
+        yakut: '\u0422\u04AF\u043C\u04AF\u043A\u0442\u044D\u0440',
       );
 
   String get playActionTitle => _select(
         en: 'Play',
-        ru: 'Играть',
-        yakut: 'Оонньоо',
+        ru: '\u0418\u0433\u0440\u0430\u0442\u044C',
+        yakut: '\u041E\u043E\u043D\u043D\u044C\u043E\u043E',
       );
 
   String get playActionSubtitle => _select(
         en: 'Start a new quiz',
-        ru: 'Начать новую викторину',
-        yakut: 'Саҥа викторинаны саҕалаа',
+        ru: '\u041D\u0430\u0447\u0430\u0442\u044C \u043D\u043E\u0432\u0443\u044E \u0432\u0438\u043A\u0442\u043E\u0440\u0438\u043D\u0443',
+        yakut: '\u0421\u0430\u04A5\u0430 \u0432\u0438\u043A\u0442\u043E\u0440\u0438\u043D\u0430\u043D\u044B \u0441\u0430\u0495\u0430\u043B\u0430\u0430',
       );
 
   String get settingsActionTitle => _select(
         en: 'Settings',
-        ru: 'Настройки',
-        yakut: 'Туруоруулар',
+        ru: '\u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438',
+        yakut: '\u0422\u0443\u0440\u0443\u043E\u0440\u0443\u0443\u043B\u0430\u0440',
       );
 
   String get settingsActionSubtitle => _select(
         en: 'Theme, sound, and game options',
-        ru: 'Тема, звук и параметры игры',
-        yakut: 'Тиэмэ, тыаһы уонна оонньуу туруоруулара',
+        ru: '\u0422\u0435\u043C\u0430, \u0437\u0432\u0443\u043A \u0438 \u043F\u0430\u0440\u0430\u043C\u0435\u0442\u0440\u044B \u0438\u0433\u0440\u044B',
+        yakut: '\u0422\u0438\u044D\u043C\u044D, \u0442\u044B\u0430\u04BB\u044B \u0443\u043E\u043D\u043D\u0430 \u043E\u043E\u043D\u043D\u044C\u0443\u0443 \u0442\u0443\u0440\u0443\u043E\u0440\u0443\u0443\u043B\u0430\u0440\u0430',
       );
 
   String get aboutActionTitle => _select(
         en: 'About',
-        ru: 'Об игре',
-        yakut: 'Оонньуу туһунан',
+        ru: '\u041E\u0431 \u0438\u0433\u0440\u0435',
+        yakut: '\u041E\u043E\u043D\u043D\u044C\u0443\u0443 \u0442\u0443\u04BB\u0443\u043D\u0430\u043D',
       );
 
   String get aboutActionSubtitle => _select(
         en: 'Description, modes, and tips',
-        ru: 'Описание, режимы и советы',
-        yakut: 'Сүрүн сирэ, режимдара уонна сүбэлэр',
+        ru: '\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435, \u0440\u0435\u0436\u0438\u043C\u044B \u0438 \u0441\u043E\u0432\u0435\u0442\u044B',
+        yakut: '\u0421\u04AF\u0440\u04AF\u043D \u0441\u0438\u0440\u044D, \u0440\u0435\u0436\u0438\u043C\u0434\u0430\u0440\u0430 \u0443\u043E\u043D\u043D\u0430 \u0441\u04AF\u0431\u044D\u043B\u044D\u0440',
       );
 
   String get suggestActionTitle => _select(
         en: 'Suggest a question',
-        ru: 'Предложить вопрос',
-        yakut: 'Ыйытыыны сүбэлээ',
+        ru: '\u041F\u0440\u0435\u0434\u043B\u043E\u0436\u0438\u0442\u044C \u0432\u043E\u043F\u0440\u043E\u0441',
+        yakut: '\u042B\u0439\u044B\u0442\u044B\u044B\u043D\u044B \u0441\u04AF\u0431\u044D\u043B\u044D\u044D',
       );
 
   String get suggestActionSubtitle => _select(
         en: 'Instagram, Telegram, or Gmail',
-        ru: 'Instagram, Telegram или Gmail',
-        yakut: 'Instagram, Telegram эбэтэр Gmail',
+        ru: 'Instagram, Telegram \u0438\u043B\u0438 Gmail',
+        yakut: 'Instagram, Telegram \u044D\u0431\u044D\u0442\u044D\u0440 Gmail',
       );
 
   String get exitActionTitle => _select(
         en: 'Exit',
-        ru: 'Выйти',
-        yakut: 'Таһаар',
+        ru: '\u0412\u044B\u0439\u0442\u0438',
+        yakut: '\u0422\u0430\u04BB\u0430\u0430\u0440',
       );
 
   String get exitDialogTitle => _select(
         en: 'Exit',
-        ru: 'Выход',
-        yakut: 'Таһаарыы',
+        ru: '\u0412\u044B\u0445\u043E\u0434',
+        yakut: '\u0422\u0430\u04BB\u0430\u0430\u0440\u044B\u044B',
       );
 
   String get exitDialogMessage => _select(
         en: 'Close the app?',
-        ru: 'Закрыть приложение?',
-        yakut: 'Приложение туттарга дуо?',
+        ru: '\u0417\u0430\u043A\u0440\u044B\u0442\u044C \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435?',
+        yakut: '\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0442\u0443\u0442\u0442\u0430\u0440\u0433\u0430 \u0434\u0443\u043E?',
       );
 
   String get cancelButton => _select(
         en: 'Cancel',
-        ru: 'Отмена',
-        yakut: 'Салҕама',
+        ru: '\u041E\u0442\u043C\u0435\u043D\u0430',
+        yakut: '\u0421\u0430\u043B\u0495\u0430\u043C\u0430',
       );
 
   String get confirmExitButton => _select(
         en: 'Exit',
-        ru: 'Выйти',
-        yakut: 'Таһаар',
+        ru: '\u0412\u044B\u0439\u0442\u0438',
+        yakut: '\u0422\u0430\u04BB\u0430\u0430\u0440',
       );
 
   String get settingsTitle => _select(
         en: 'Settings',
-        ru: 'Настройки',
-        yakut: 'Туруоруулар',
+        ru: '\u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438',
+        yakut: '\u0422\u0443\u0440\u0443\u043E\u0440\u0443\u0443\u043B\u0430\u0440',
       );
 
   String get settingsDarkThemeTitle => _select(
         en: 'Dark theme',
-        ru: 'Тёмная тема',
-        yakut: 'Хараҥа тиэмэ',
+        ru: '\u0422\u0451\u043C\u043D\u0430\u044F \u0442\u0435\u043C\u0430',
+        yakut: '\u0425\u0430\u0440\u0430\u04A5\u0430 \u0442\u0438\u044D\u043C\u044D',
       );
 
   String get settingsDarkThemeSubtitle => _select(
         en: 'Enable dark appearance',
-        ru: 'Включить тёмное оформление приложения',
-        yakut: 'Хараҥа безиири холбоо',
+        ru: '\u0412\u043A\u043B\u044E\u0447\u0438\u0442\u044C \u0442\u0451\u043C\u043D\u043E\u0435 \u043E\u0444\u043E\u0440\u043C\u043B\u0435\u043D\u0438\u0435 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F',
+        yakut: '\u0425\u0430\u0440\u0430\u04A5\u0430 \u0431\u0435\u0437\u0438\u0438\u0440\u0438 \u0445\u043E\u043B\u0431\u043E\u043E',
       );
 
   String get settingsSoundTitle => _select(
         en: 'Sound',
-        ru: 'Звук',
-        yakut: 'Тыаһа',
+        ru: '\u0417\u0432\u0443\u043A',
+        yakut: '\u0422\u044B\u0430\u04BB\u0430',
       );
 
   String get settingsSoundSubtitle => _select(
         en: 'Enable sound effects',
-        ru: 'Включить звуковые эффекты',
-        yakut: 'Тыаһынан эффектары холбоо',
+        ru: '\u0412\u043A\u043B\u044E\u0447\u0438\u0442\u044C \u0437\u0432\u0443\u043A\u043E\u0432\u044B\u0435 \u044D\u0444\u0444\u0435\u043A\u0442\u044B',
+        yakut: '\u0422\u044B\u0430\u04BB\u044B\u043D\u0430\u043D \u044D\u0444\u0444\u0435\u043A\u0442\u0430\u0440\u044B \u0445\u043E\u043B\u0431\u043E\u043E',
       );
 
+  String get settingsTimerTitle => _select(
+        en: 'Question timer',
+        ru: '\u0422\u0430\u0439\u043C\u0435\u0440 \u0432\u043E\u043F\u0440\u043E\u0441\u0430',
+        yakut: '\u042B\u0439\u044B\u0442\u044B\u044B \u0442\u0430\u0439\u043C\u0435\u0440\u0430',
+      );
+
+  String get settingsTimerSubtitle => _select(
+        en: 'Enable a 20-second timer for each question',
+        ru: '\u0412\u043A\u043B\u044E\u0447\u0438\u0442\u044C 20-\u0441\u0435\u043A\u0443\u043D\u0434\u043D\u044B\u0439 \u0442\u0430\u0439\u043C\u0435\u0440 \u043D\u0430 \u043A\u0430\u0436\u0434\u044B\u0439 \u0432\u043E\u043F\u0440\u043E\u0441',
+        yakut: '\u0425\u0430\u0441 \u0431\u0438\u0438\u0440\u0434\u0438\u0438 \u044B\u0439\u044B\u0442\u044B\u044B\u0433\u0430 20 \u0441\u0435\u043A\u0443\u043D\u0434\u0430\u043B\u044B\u044B \u0442\u0430\u0439\u043C\u0435\u0440\u0434\u044B \u0445\u043E\u043B\u0431\u043E\u043E',
+      );
   String get settingsShuffleQuestionsTitle => _select(
         en: 'Shuffle questions',
-        ru: 'Перемешивать вопросы',
-        yakut: 'Ыйытыылары бутаа',
+        ru: '\u041F\u0435\u0440\u0435\u043C\u0435\u0448\u0438\u0432\u0430\u0442\u044C \u0432\u043E\u043F\u0440\u043E\u0441\u044B',
+        yakut: '\u042B\u0439\u044B\u0442\u044B\u044B\u043B\u0430\u0440\u044B \u0431\u0443\u0442\u0430\u0430',
       );
 
   String get settingsShuffleQuestionsSubtitle => _select(
         en: 'Change question order before each game',
-        ru: 'Менять порядок вопросов перед началом игры',
-        yakut: 'Оонньууттан иннин ыйытыы иһинэн уларыт',
+        ru: '\u041C\u0435\u043D\u044F\u0442\u044C \u043F\u043E\u0440\u044F\u0434\u043E\u043A \u0432\u043E\u043F\u0440\u043E\u0441\u043E\u0432 \u043F\u0435\u0440\u0435\u0434 \u043D\u0430\u0447\u0430\u043B\u043E\u043C \u0438\u0433\u0440\u044B',
+        yakut: '\u041E\u043E\u043D\u043D\u044C\u0443\u0443\u0442\u0442\u0430\u043D \u0438\u043D\u043D\u0438\u043D \u044B\u0439\u044B\u0442\u044B\u044B \u0438\u04BB\u0438\u043D\u044D\u043D \u0443\u043B\u0430\u0440\u044B\u0442',
       );
 
   String get settingsShuffleAnswersTitle => _select(
         en: 'Shuffle answers',
-        ru: 'Перемешивать варианты ответов',
-        yakut: 'Эппиэти бутаа',
+        ru: '\u041F\u0435\u0440\u0435\u043C\u0435\u0448\u0438\u0432\u0430\u0442\u044C \u0432\u0430\u0440\u0438\u0430\u043D\u0442\u044B \u043E\u0442\u0432\u0435\u0442\u043E\u0432',
+        yakut: '\u042D\u043F\u043F\u0438\u044D\u0442\u0438 \u0431\u0443\u0442\u0430\u0430',
       );
 
   String get settingsShuffleAnswersSubtitle => _select(
         en: 'Randomize answer options in each question',
-        ru: 'Менять порядок ответов внутри каждого вопроса',
-        yakut: 'Хас биирдии ыйытыыга эппиэт тардыытын уларыт',
+        ru: '\u041C\u0435\u043D\u044F\u0442\u044C \u043F\u043E\u0440\u044F\u0434\u043E\u043A \u043E\u0442\u0432\u0435\u0442\u043E\u0432 \u0432\u043D\u0443\u0442\u0440\u0438 \u043A\u0430\u0436\u0434\u043E\u0433\u043E \u0432\u043E\u043F\u0440\u043E\u0441\u0430',
+        yakut: '\u0425\u0430\u0441 \u0431\u0438\u0438\u0440\u0434\u0438\u0438 \u044B\u0439\u044B\u0442\u044B\u044B\u0433\u0430 \u044D\u043F\u043F\u0438\u044D\u0442 \u0442\u0430\u0440\u0434\u044B\u044B\u0442\u044B\u043D \u0443\u043B\u0430\u0440\u044B\u0442',
       );
 
   String get settingsQuestionsPerRoundTitle => _select(
         en: 'Questions per round',
-        ru: 'Вопросов за раунд',
-        yakut: 'Түөрт оонньууга ыйытыылар',
+        ru: '\u0412\u043E\u043F\u0440\u043E\u0441\u043E\u0432 \u0437\u0430 \u0440\u0430\u0443\u043D\u0434',
+        yakut: '\u0422\u04AF\u04E9\u0440\u0442 \u043E\u043E\u043D\u043D\u044C\u0443\u0443\u0433\u0430 \u044B\u0439\u044B\u0442\u044B\u044B\u043B\u0430\u0440',
       );
 
   String get settingsQuestionsPerRoundSubtitle => _select(
         en: 'How many questions to show in one game',
-        ru: 'Сколько вопросов показывать за одну игру',
-        yakut: 'Биир оонньууга хас ыйытыы көстөрүн туруор',
+        ru: '\u0421\u043A\u043E\u043B\u044C\u043A\u043E \u0432\u043E\u043F\u0440\u043E\u0441\u043E\u0432 \u043F\u043E\u043A\u0430\u0437\u044B\u0432\u0430\u0442\u044C \u0437\u0430 \u043E\u0434\u043D\u0443 \u0438\u0433\u0440\u0443',
+        yakut: '\u0411\u0438\u0438\u0440 \u043E\u043E\u043D\u043D\u044C\u0443\u0443\u0433\u0430 \u0445\u0430\u0441 \u044B\u0439\u044B\u0442\u044B\u044B \u043A\u04E9\u0441\u0442\u04E9\u0440\u04AF\u043D \u0442\u0443\u0440\u0443\u043E\u0440',
       );
 
   String get settingsLanguageTitle => _select(
         en: 'Language',
-        ru: 'Язык',
-        yakut: 'Тыл',
+        ru: '\u042F\u0437\u044B\u043A',
+        yakut: '\u0422\u044B\u043B',
       );
 
   String get settingsLanguageSubtitle => _select(
         en: 'Select app interface language',
-        ru: 'Выберите язык интерфейса',
-        yakut: 'Интерфейс тылын тал',
+        ru: '\u0412\u044B\u0431\u0435\u0440\u0438\u0442\u0435 \u044F\u0437\u044B\u043A \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u0430',
+        yakut: '\u0418\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441 \u0442\u044B\u043B\u044B\u043D \u0442\u0430\u043B',
       );
 
   String get countrySelectionTitle => _select(
         en: 'Choose country',
-        ru: 'Выбор страны',
-        yakut: 'Дойдуну тал',
+        ru: '\u0412\u044B\u0431\u043E\u0440 \u0441\u0442\u0440\u0430\u043D\u044B',
+        yakut: '\u0414\u043E\u0439\u0434\u0443\u043D\u0443 \u0442\u0430\u043B',
       );
 
   String get countrySelectionHeaderTitle => _select(
         en: 'Where do we start?',
-        ru: 'С чего начнем?',
-        yakut: 'Ханнык саҕалыахпытый?',
+        ru: '\u0421 \u0447\u0435\u0433\u043E \u043D\u0430\u0447\u043D\u0435\u043C?',
+        yakut: '\u0425\u0430\u043D\u043D\u044B\u043A \u0441\u0430\u0495\u0430\u043B\u044B\u0430\u0445\u043F\u044B\u0442\u044B\u0439?',
       );
 
   String get countrySelectionHeaderDescription => _select(
         en: 'Choose a country, then region and category, or start Quick Game.',
-        ru: 'Выберите страну, затем регион и категорию. Или нажмите "Быстрая игра", чтобы запустить случайный раунд.',
-        yakut:
-            'Дойдуну, онтон региону уонна категорияны тал. Эбэтэр "Түргэн оонньуу" баттаа уонна түөстээх раунду саҕалаа.',
+        ru: '\u0412\u044B\u0431\u0435\u0440\u0438\u0442\u0435 \u0441\u0442\u0440\u0430\u043D\u0443, \u0437\u0430\u0442\u0435\u043C \u0440\u0435\u0433\u0438\u043E\u043D \u0438 \u043A\u0430\u0442\u0435\u0433\u043E\u0440\u0438\u044E. \u0418\u043B\u0438 \u043D\u0430\u0436\u043C\u0438\u0442\u0435 "\u0411\u044B\u0441\u0442\u0440\u0430\u044F \u0438\u0433\u0440\u0430", \u0447\u0442\u043E\u0431\u044B \u0437\u0430\u043F\u0443\u0441\u0442\u0438\u0442\u044C \u0441\u043B\u0443\u0447\u0430\u0439\u043D\u044B\u0439 \u0440\u0430\u0443\u043D\u0434.',
+        yakut: '\u0414\u043E\u0439\u0434\u0443\u043D\u0443, \u043E\u043D\u0442\u043E\u043D \u0440\u0435\u0433\u0438\u043E\u043D\u0443 \u0443\u043E\u043D\u043D\u0430 \u043A\u0430\u0442\u0435\u0433\u043E\u0440\u0438\u044F\u043D\u044B \u0442\u0430\u043B. \u042D\u0431\u044D\u0442\u044D\u0440 "\u0422\u04AF\u0440\u0433\u044D\u043D \u043E\u043E\u043D\u043D\u044C\u0443\u0443" \u0431\u0430\u0442\u0442\u0430\u0430 \u0443\u043E\u043D\u043D\u0430 \u0442\u04AF\u04E9\u0441\u0442\u044D\u044D\u0445 \u0440\u0430\u0443\u043D\u0434\u0443 \u0441\u0430\u0495\u0430\u043B\u0430\u0430.',
       );
 
   String get quickGameTitle => _select(
         en: 'Quick Game',
-        ru: 'Быстрая игра',
-        yakut: 'Түргэн оонньуу',
+        ru: '\u0411\u044B\u0441\u0442\u0440\u0430\u044F \u0438\u0433\u0440\u0430',
+        yakut: '\u0422\u04AF\u0440\u0433\u044D\u043D \u043E\u043E\u043D\u043D\u044C\u0443\u0443',
       );
 
   String get quickGameLoadingTitle => _select(
         en: 'Preparing random game...',
-        ru: 'Подбор случайной игры...',
-        yakut: 'Түөстээх оонньууну талабыт...',
+        ru: '\u041F\u043E\u0434\u0431\u043E\u0440 \u0441\u043B\u0443\u0447\u0430\u0439\u043D\u043E\u0439 \u0438\u0433\u0440\u044B...',
+        yakut: '\u0422\u04AF\u04E9\u0441\u0442\u044D\u044D\u0445 \u043E\u043E\u043D\u043D\u044C\u0443\u0443\u043D\u0443 \u0442\u0430\u043B\u0430\u0431\u044B\u0442...',
       );
 
   String get quickGameNoQuestions => _select(
         en: 'No questions found for Quick Game.',
-        ru: 'Не удалось найти вопросы для быстрой игры.',
-        yakut: 'Түргэн оонньууга ыйытыылар булуллубатылар.',
+        ru: '\u041D\u0435 \u0443\u0434\u0430\u043B\u043E\u0441\u044C \u043D\u0430\u0439\u0442\u0438 \u0432\u043E\u043F\u0440\u043E\u0441\u044B \u0434\u043B\u044F \u0431\u044B\u0441\u0442\u0440\u043E\u0439 \u0438\u0433\u0440\u044B.',
+        yakut: '\u0422\u04AF\u0440\u0433\u044D\u043D \u043E\u043E\u043D\u043D\u044C\u0443\u0443\u0433\u0430 \u044B\u0439\u044B\u0442\u044B\u044B\u043B\u0430\u0440 \u0431\u0443\u043B\u0443\u043B\u043B\u0443\u0431\u0430\u0442\u044B\u043B\u0430\u0440.',
       );
 
   String quickGameStarted({
@@ -270,210 +281,202 @@ class AppTexts {
   }) {
     return _select(
       en: 'Quick Game: $country, $region, $category',
-      ru: 'Быстрая игра: $country, $region, $category',
-      yakut: 'Түргэн оонньуу: $country, $region, $category',
+      ru: '\u0411\u044B\u0441\u0442\u0440\u0430\u044F \u0438\u0433\u0440\u0430: $country, $region, $category',
+      yakut: '\u0422\u04AF\u0440\u0433\u044D\u043D \u043E\u043E\u043D\u043D\u044C\u0443\u0443: $country, $region, $category',
     );
   }
 
   String get countryMapHint => _select(
         en: 'Tap a country on the map',
-        ru: '\u041d\u0430\u0436\u043c\u0438\u0442\u0435 \u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0443 \u043d\u0430 \u043a\u0430\u0440\u0442\u0435',
-        yakut:
-            '\u041a\u0430\u0440\u0442\u0430\u0495\u0430 \u0434\u043e\u0439\u0434\u0443\u043d\u0443 \u0431\u0430\u0442\u0442\u0430\u0430',
+        ru: '\u041D\u0430\u0436\u043C\u0438\u0442\u0435 \u043D\u0430 \u0441\u0442\u0440\u0430\u043D\u0443 \u043D\u0430 \u043A\u0430\u0440\u0442\u0435',
+        yakut: '\u041A\u0430\u0440\u0442\u0430\u0495\u0430 \u0434\u043E\u0439\u0434\u0443\u043D\u0443 \u0431\u0430\u0442\u0442\u0430\u0430',
       );
 
   String get regionMapHint => _select(
         en: 'Tap a region on the map',
-        ru: '\u041d\u0430\u0436\u043c\u0438\u0442\u0435 \u043d\u0430 \u0440\u0435\u0433\u0438\u043e\u043d \u043d\u0430 \u043a\u0430\u0440\u0442\u0435',
-        yakut:
-            '\u041a\u0430\u0440\u0442\u0430\u0495\u0430 \u0440\u0435\u0433\u0438\u043e\u043d\u0443 \u0431\u0430\u0442\u0442\u0430\u0430',
+        ru: '\u041D\u0430\u0436\u043C\u0438\u0442\u0435 \u043D\u0430 \u0440\u0435\u0433\u0438\u043E\u043D \u043D\u0430 \u043A\u0430\u0440\u0442\u0435',
+        yakut: '\u041A\u0430\u0440\u0442\u0430\u0495\u0430 \u0440\u0435\u0433\u0438\u043E\u043D\u0443 \u0431\u0430\u0442\u0442\u0430\u0430',
       );
 
   String get countrySortLabel => _select(
         en: 'Sort countries',
-        ru: '\u0421\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u043a\u0430 \u0441\u0442\u0440\u0430\u043d',
-        yakut:
-            '\u0414\u043e\u0439\u0434\u0443\u043b\u0430\u0440 \u043d\u0430\u0430\u0440\u0434\u0430\u0430\u04bb\u044b\u043d\u0430',
+        ru: '\u0421\u043E\u0440\u0442\u0438\u0440\u043E\u0432\u043A\u0430 \u0441\u0442\u0440\u0430\u043D',
+        yakut: '\u0414\u043E\u0439\u0434\u0443\u043B\u0430\u0440 \u043D\u0430\u0430\u0440\u0434\u0430\u0430\u04BB\u044B\u043D\u0430',
       );
 
   String get countrySortAlphabet => _select(
         en: 'Alphabetical',
-        ru: '\u041f\u043e \u0430\u043b\u0444\u0430\u0432\u0438\u0442\u0443',
-        yakut:
-            '\u0410\u043b\u043f\u0430\u0430\u0432\u044b\u0442\u044b\u043d\u0430\u043d',
+        ru: '\u041F\u043E \u0430\u043B\u0444\u0430\u0432\u0438\u0442\u0443',
+        yakut: '\u0410\u043B\u043F\u0430\u0430\u0432\u044B\u0442\u044B\u043D\u0430\u043D',
       );
 
   String get countrySortArea => _select(
         en: 'By area',
-        ru: '\u041f\u043e \u0440\u0430\u0437\u043c\u0435\u0440\u0443',
-        yakut: '\u041a\u044d\u044d\u043c\u044d\u0439\u0438\u043d\u044d\u043d',
+        ru: '\u041F\u043E \u0440\u0430\u0437\u043C\u0435\u0440\u0443',
+        yakut: '\u041A\u044D\u044D\u043C\u044D\u0439\u0438\u043D\u044D\u043D',
       );
 
   String get countrySortOrderLabel => _select(
         en: 'Order',
-        ru: '\u041f\u043e\u0440\u044f\u0434\u043e\u043a',
-        yakut: '\u0422\u044d\u0440\u0438\u0439\u0438\u0438',
+        ru: '\u041F\u043E\u0440\u044F\u0434\u043E\u043A',
+        yakut: '\u0422\u044D\u0440\u0438\u0439\u0438\u0438',
       );
 
   String get countrySortAscending => _select(
         en: 'Ascending',
-        ru: '\u041f\u043e \u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0430\u043d\u0438\u044e',
-        yakut: '\u04ae\u0440\u0434\u044d\u044d\u04bb\u0438\u043d\u044d\u043d',
+        ru: '\u041F\u043E \u0432\u043E\u0437\u0440\u0430\u0441\u0442\u0430\u043D\u0438\u044E',
+        yakut: '\u04AE\u0440\u0434\u044D\u044D\u04BB\u0438\u043D\u044D\u043D',
       );
 
   String get countrySortDescending => _select(
         en: 'Descending',
-        ru: '\u041f\u043e \u0443\u0431\u044b\u0432\u0430\u043d\u0438\u044e',
-        yakut:
-            '\u0410\u043b\u043b\u0430\u0440\u0430\u0430\u04bb\u044b\u043d\u0430\u043d',
+        ru: '\u041F\u043E \u0443\u0431\u044B\u0432\u0430\u043D\u0438\u044E',
+        yakut: '\u0410\u043B\u043B\u0430\u0440\u0430\u0430\u04BB\u044B\u043D\u0430\u043D',
       );
 
   String get mapOpenFullscreenTooltip => _select(
         en: 'Open fullscreen map',
-        ru: '\u041e\u0442\u043a\u0440\u044b\u0442\u044c \u043a\u0430\u0440\u0442\u0443 \u043d\u0430 \u0432\u0435\u0441\u044c \u044d\u043a\u0440\u0430\u043d',
-        yakut:
-            '\u041a\u0430\u0440\u0442\u0430\u043d\u044b \u0431\u04af\u0442\u04af\u04a5 \u044d\u043a\u0440\u0430\u043d\u043d\u0430 \u0430\u0440\u044b\u0439',
+        ru: '\u041E\u0442\u043A\u0440\u044B\u0442\u044C \u043A\u0430\u0440\u0442\u0443 \u043D\u0430 \u0432\u0435\u0441\u044C \u044D\u043A\u0440\u0430\u043D',
+        yakut: '\u041A\u0430\u0440\u0442\u0430\u043D\u044B \u0431\u04AF\u0442\u04AF\u04A5 \u044D\u043A\u0440\u0430\u043D\u043D\u0430 \u0430\u0440\u044B\u0439',
       );
 
   String get mapCloseFullscreenTooltip => _select(
         en: 'Close fullscreen map',
-        ru: '\u0417\u0430\u043a\u0440\u044b\u0442\u044c \u043f\u043e\u043b\u043d\u043e\u044d\u043a\u0440\u0430\u043d\u043d\u0443\u044e \u043a\u0430\u0440\u0442\u0443',
-        yakut:
-            '\u0411\u04af\u0442\u04af\u04a5 \u044d\u043a\u0440\u0430\u043d \u043a\u0430\u0440\u0442\u0430\u0442\u044b\u043d \u0441\u0430\u043f',
+        ru: '\u0417\u0430\u043A\u0440\u044B\u0442\u044C \u043F\u043E\u043B\u043D\u043E\u044D\u043A\u0440\u0430\u043D\u043D\u0443\u044E \u043A\u0430\u0440\u0442\u0443',
+        yakut: '\u0411\u04AF\u0442\u04AF\u04A5 \u044D\u043A\u0440\u0430\u043D \u043A\u0430\u0440\u0442\u0430\u0442\u044B\u043D \u0441\u0430\u043F',
       );
 
   String get mapZoomOutTooltip => _select(
         en: 'Zoom out',
-        ru: '\u0423\u043c\u0435\u043d\u044c\u0448\u0438\u0442\u044c \u043c\u0430\u0441\u0448\u0442\u0430\u0431',
-        yakut:
-            '\u041c\u0430\u0441\u0448\u0442\u0430\u0431\u044b \u043a\u044b\u0447\u0447\u0430\u0442\u044b\u044b',
+        ru: '\u0423\u043C\u0435\u043D\u044C\u0448\u0438\u0442\u044C \u043C\u0430\u0441\u0448\u0442\u0430\u0431',
+        yakut: '\u041C\u0430\u0441\u0448\u0442\u0430\u0431\u044B \u043A\u044B\u0447\u0447\u0430\u0442\u044B\u044B',
       );
 
   String get mapResetZoomTooltip => _select(
         en: 'Reset zoom',
-        ru: '\u0421\u0431\u0440\u043e\u0441\u0438\u0442\u044c \u043c\u0430\u0441\u0448\u0442\u0430\u0431',
-        yakut:
-            '\u041c\u0430\u0441\u0448\u0442\u0430\u0431\u044b \u0441\u0430\u04a5\u0430\u0442\u0430\u0430\u0440\u044b\u044b',
+        ru: '\u0421\u0431\u0440\u043E\u0441\u0438\u0442\u044C \u043C\u0430\u0441\u0448\u0442\u0430\u0431',
+        yakut: '\u041C\u0430\u0441\u0448\u0442\u0430\u0431\u044B \u0441\u0430\u04A5\u0430\u0442\u0430\u0430\u0440\u044B\u044B',
       );
 
   String get mapZoomInTooltip => _select(
         en: 'Zoom in',
-        ru: '\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0442\u044c \u043c\u0430\u0441\u0448\u0442\u0430\u0431',
-        yakut:
-            '\u041c\u0430\u0441\u0448\u0442\u0430\u0431\u044b \u0443\u043b\u0430\u04bb\u0430\u043d\u043d\u044b\u0442\u0430\u0440',
+        ru: '\u0423\u0432\u0435\u043B\u0438\u0447\u0438\u0442\u044C \u043C\u0430\u0441\u0448\u0442\u0430\u0431',
+        yakut: '\u041C\u0430\u0441\u0448\u0442\u0430\u0431\u044B \u0443\u043B\u0430\u04BB\u0430\u043D\u043D\u044B\u0442\u0430\u0440',
       );
 
   String countryName(String code) {
     switch (code) {
       case 'russia':
-        return _select(en: 'Russia', ru: 'Россия', yakut: 'Россия');
+        return _select(en: 'Russia', ru: '\u0420\u043E\u0441\u0441\u0438\u044F', yakut: '\u0420\u043E\u0441\u0441\u0438\u044F');
       case 'usa':
-        return _select(en: 'USA', ru: 'США', yakut: 'США');
+        return _select(en: 'USA', ru: '\u0421\u0428\u0410', yakut: '\u0421\u0428\u0410');
       case 'canada':
         return _select(
           en: 'Canada',
-          ru: '\u041a\u0430\u043d\u0430\u0434\u0430',
-          yakut: '\u041a\u0430\u043d\u0430\u0434\u0430',
+          ru: '\u041A\u0430\u043D\u0430\u0434\u0430',
+          yakut: '\u041A\u0430\u043D\u0430\u0434\u0430',
         );
       case 'mexico':
         return _select(
           en: 'Mexico',
-          ru: '\u041c\u0435\u043a\u0441\u0438\u043a\u0430',
-          yakut: '\u041c\u0435\u043a\u0441\u0438\u043a\u0430',
+          ru: '\u041C\u0435\u043A\u0441\u0438\u043A\u0430',
+          yakut: '\u041C\u0435\u043A\u0441\u0438\u043A\u0430',
         );
       case 'china':
-        return _select(en: 'China', ru: 'Китай', yakut: 'Кытай');
+        return _select(en: 'China', ru: '\u041A\u0438\u0442\u0430\u0439', yakut: '\u041A\u044B\u0442\u0430\u0439');
       case 'japan':
         return _select(
           en: 'Japan',
-          ru: '\u042f\u043f\u043e\u043d\u0438\u044f',
-          yakut: '\u042f\u043f\u043e\u043d\u0438\u044f',
+          ru: '\u042F\u043F\u043E\u043D\u0438\u044F',
+          yakut: '\u042F\u043F\u043E\u043D\u0438\u044F',
         );
       case 'vietnam':
         return _select(
           en: 'Vietnam',
-          ru: '\u0412\u044c\u0435\u0442\u043d\u0430\u043c',
-          yakut: '\u0412\u044c\u0435\u0442\u043d\u0430\u043c',
+          ru: '\u0412\u044C\u0435\u0442\u043D\u0430\u043C',
+          yakut: '\u0412\u044C\u0435\u0442\u043D\u0430\u043C',
         );
       case 'poland':
-        return _select(en: 'Poland', ru: 'Польша', yakut: 'Польша');
+        return _select(en: 'Poland', ru: '\u041F\u043E\u043B\u044C\u0448\u0430', yakut: '\u041F\u043E\u043B\u044C\u0448\u0430');
       case 'france':
-        return _select(en: 'France', ru: 'Франция', yakut: 'Франция');
+        return _select(
+            en: 'France', ru: '\u0424\u0440\u0430\u043D\u0446\u0438\u044F', yakut: '\u0424\u0440\u0430\u043D\u0446\u0438\u044F');
       case 'australia':
         return _select(
           en: 'Australia',
-          ru: 'Австралия',
-          yakut: 'Австралия',
+          ru: '\u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u044F',
+          yakut: '\u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u044F',
         );
       case 'egypt':
-        return _select(en: 'Egypt', ru: 'Египет', yakut: 'Египет');
+        return _select(en: 'Egypt', ru: '\u0415\u0433\u0438\u043F\u0435\u0442', yakut: '\u0415\u0433\u0438\u043F\u0435\u0442');
       case 'brazil':
-        return _select(en: 'Brazil', ru: 'Бразилия', yakut: 'Бразилия');
+        return _select(
+            en: 'Brazil', ru: '\u0411\u0440\u0430\u0437\u0438\u043B\u0438\u044F', yakut: '\u0411\u0440\u0430\u0437\u0438\u043B\u0438\u044F');
       case 'uk':
         return _select(
           en: 'United Kingdom',
-          ru: 'Великобритания',
-          yakut: 'Улуу Британия',
+          ru: '\u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u044F',
+          yakut: '\u0423\u043B\u0443\u0443 \u0411\u0440\u0438\u0442\u0430\u043D\u0438\u044F',
         );
       case 'belarus':
         return _select(
           en: 'Belarus',
-          ru: 'Беларусь',
-          yakut: 'Беларусь',
+          ru: '\u0411\u0435\u043B\u0430\u0440\u0443\u0441\u044C',
+          yakut: '\u0411\u0435\u043B\u0430\u0440\u0443\u0441\u044C',
         );
       case 'argentina':
         return _select(
           en: 'Argentina',
-          ru: 'Аргентина',
-          yakut: 'Аргентина',
+          ru: '\u0410\u0440\u0433\u0435\u043D\u0442\u0438\u043D\u0430',
+          yakut: '\u0410\u0440\u0433\u0435\u043D\u0442\u0438\u043D\u0430',
         );
       case 'turkey':
         return _select(
           en: 'Turkey',
-          ru: 'Турция',
-          yakut: 'Турция',
+          ru: '\u0422\u0443\u0440\u0446\u0438\u044F',
+          yakut: '\u0422\u0443\u0440\u0446\u0438\u044F',
         );
       case 'south_africa':
         return _select(
           en: 'South Africa',
-          ru: 'ЮАР',
-          yakut: 'ЮАР',
+          ru: '\u042E\u0410\u0420',
+          yakut: '\u042E\u0410\u0420',
         );
       case 'italy':
         return _select(
           en: 'Italy',
-          ru: 'Италия',
-          yakut: 'Италия',
+          ru: '\u0418\u0442\u0430\u043B\u0438\u044F',
+          yakut: '\u0418\u0442\u0430\u043B\u0438\u044F',
         );
       case 'germany':
         return _select(
           en: 'Germany',
-          ru: 'Германия',
-          yakut: 'Германия',
+          ru: '\u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044F',
+          yakut: '\u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044F',
         );
       case 'switzerland':
         return _select(
           en: 'Switzerland',
-          ru: 'Швейцария',
-          yakut: 'Швейцария',
+          ru: '\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044F',
+          yakut: '\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044F',
         );
       case 'spain':
         return _select(
           en: 'Spain',
-          ru: 'Испания',
-          yakut: 'Испания',
+          ru: '\u0418\u0441\u043F\u0430\u043D\u0438\u044F',
+          yakut: '\u0418\u0441\u043F\u0430\u043D\u0438\u044F',
         );
       case 'south_korea':
         return _select(
           en: 'South Korea',
-          ru: 'Южная Корея',
-          yakut: 'Южная Корея',
+          ru: '\u042E\u0436\u043D\u0430\u044F \u041A\u043E\u0440\u0435\u044F',
+          yakut: '\u042E\u0436\u043D\u0430\u044F \u041A\u043E\u0440\u0435\u044F',
         );
       case 'new_zealand':
         return _select(
           en: 'New Zealand',
-          ru: 'Новая Зеландия',
-          yakut: 'Новая Зеландия',
+          ru: '\u041D\u043E\u0432\u0430\u044F \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u044F',
+          yakut: '\u041D\u043E\u0432\u0430\u044F \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u044F',
         );
       default:
         return code.toUpperCase();
@@ -485,141 +488,140 @@ class AppTexts {
       case 'russia':
         return _select(
           en: 'Questions by country and regions',
-          ru: 'Вопросы по стране и регионам',
-          yakut: 'Дойду уонна регионнар туһунан ыйытыылар',
+          ru: '\u0412\u043E\u043F\u0440\u043E\u0441\u044B \u043F\u043E \u0441\u0442\u0440\u0430\u043D\u0435 \u0438 \u0440\u0435\u0433\u0438\u043E\u043D\u0430\u043C',
+          yakut: '\u0414\u043E\u0439\u0434\u0443 \u0443\u043E\u043D\u043D\u0430 \u0440\u0435\u0433\u0438\u043E\u043D\u043D\u0430\u0440 \u0442\u0443\u04BB\u0443\u043D\u0430\u043D \u044B\u0439\u044B\u0442\u044B\u044B\u043B\u0430\u0440',
         );
       case 'usa':
         return _select(
           en: 'Categories about USA and states',
-          ru: 'Категории о США и штатах',
-          yakut: 'США уонна штаттар туһунан категориялар',
+          ru: '\u041A\u0430\u0442\u0435\u0433\u043E\u0440\u0438\u0438 \u043E \u0421\u0428\u0410 \u0438 \u0448\u0442\u0430\u0442\u0430\u0445',
+          yakut: '\u0421\u0428\u0410 \u0443\u043E\u043D\u043D\u0430 \u0448\u0442\u0430\u0442\u0442\u0430\u0440 \u0442\u0443\u04BB\u0443\u043D\u0430\u043D \u043A\u0430\u0442\u0435\u0433\u043E\u0440\u0438\u044F\u043B\u0430\u0440',
         );
       case 'canada':
         return _select(
           en: 'Canada: history, cinema, music, and notable people',
-          ru: '\u041a\u0430\u043d\u0430\u0434\u0430: \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u043a\u0438\u043d\u043e, \u043c\u0443\u0437\u044b\u043a\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0435 \u043b\u044e\u0434\u0438',
-          yakut: 'Канада: история, кино, музыка уонна биллэр дьон',
+          ru: '\u041A\u0430\u043D\u0430\u0434\u0430: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
+          yakut: '\u041A\u0430\u043D\u0430\u0434\u0430: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
         );
       case 'mexico':
         return _select(
           en: 'Mexico: history, culture, movies, and music',
-          ru: '\u041c\u0435\u043a\u0441\u0438\u043a\u0430: \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430, \u043a\u0438\u043d\u043e \u0438 \u043c\u0443\u0437\u044b\u043a\u0430',
-          yakut: 'Мексика: история, культура, кино уонна музыка',
+          ru: '\u041C\u0435\u043A\u0441\u0438\u043A\u0430: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u0430, \u043A\u0438\u043D\u043E \u0438 \u043C\u0443\u0437\u044B\u043A\u0430',
+          yakut: '\u041C\u0435\u043A\u0441\u0438\u043A\u0430: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u0430, \u043A\u0438\u043D\u043E \u0443\u043E\u043D\u043D\u0430 \u043C\u0443\u0437\u044B\u043A\u0430',
         );
       case 'china':
         return _select(
           en: 'History, culture, and modern facts',
-          ru: 'История, культура и современные факты',
-          yakut: 'История, культура уонна билинни фактар',
+          ru: '\u0418\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u0430 \u0438 \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u0444\u0430\u043A\u0442\u044B',
+          yakut: '\u0418\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u0438\u043D\u043D\u0438 \u0444\u0430\u043A\u0442\u0430\u0440',
         );
       case 'japan':
         return _select(
           en: 'Japan: history, cinema, anime, and music',
-          ru: '\u042f\u043f\u043e\u043d\u0438\u044f: \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u043a\u0438\u043d\u043e, \u0430\u043d\u0438\u043c\u0435 \u0438 \u043c\u0443\u0437\u044b\u043a\u0430',
-          yakut: 'Япония: история, кино, аниме уонна музыка',
+          ru: '\u042F\u043F\u043E\u043D\u0438\u044F: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u0430\u043D\u0438\u043C\u0435 \u0438 \u043C\u0443\u0437\u044B\u043A\u0430',
+          yakut: '\u042F\u043F\u043E\u043D\u0438\u044F: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u0430\u043D\u0438\u043C\u0435 \u0443\u043E\u043D\u043D\u0430 \u043C\u0443\u0437\u044B\u043A\u0430',
         );
       case 'vietnam':
         return _select(
           en: 'Vietnam: history, culture, movies, and music',
-          ru: '\u0412\u044c\u0435\u0442\u043d\u0430\u043c: \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430, \u043a\u0438\u043d\u043e \u0438 \u043c\u0443\u0437\u044b\u043a\u0430',
-          yakut: 'Вьетнам: история, культура, кино уонна музыка',
+          ru: '\u0412\u044C\u0435\u0442\u043D\u0430\u043C: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u0430, \u043A\u0438\u043D\u043E \u0438 \u043C\u0443\u0437\u044B\u043A\u0430',
+          yakut: '\u0412\u044C\u0435\u0442\u043D\u0430\u043C: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u0430, \u043A\u0438\u043D\u043E \u0443\u043E\u043D\u043D\u0430 \u043C\u0443\u0437\u044B\u043A\u0430',
         );
       case 'poland':
         return _select(
           en: 'Questions about Poland and famous people',
-          ru: 'Вопросы о Польше и известных людях',
-          yakut: 'Польша уонна биллэр дьон туһунан ыйытыылар',
+          ru: '\u0412\u043E\u043F\u0440\u043E\u0441\u044B \u043E \u041F\u043E\u043B\u044C\u0448\u0435 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0445 \u043B\u044E\u0434\u044F\u0445',
+          yakut: '\u041F\u043E\u043B\u044C\u0448\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D \u0442\u0443\u04BB\u0443\u043D\u0430\u043D \u044B\u0439\u044B\u0442\u044B\u044B\u043B\u0430\u0440',
         );
       case 'france':
         return _select(
           en: 'History, cinema, music, and personalities',
-          ru: 'История, кино, музыка и известные личности',
-          yakut: 'История, кино, музыка уонна биллэр киһилэр',
+          ru: '\u0418\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u0438\u0447\u043D\u043E\u0441\u0442\u0438',
+          yakut: '\u0418\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u043A\u0438\u04BB\u0438\u043B\u044D\u0440',
         );
       case 'australia':
         return _select(
           en: 'History, people, movies, and music of Australia',
-          ru: 'История, люди, кино и музыка Австралии',
-          yakut: 'Австралия историята, дьоно, киното уонна музыката',
+          ru: '\u0418\u0441\u0442\u043E\u0440\u0438\u044F, \u043B\u044E\u0434\u0438, \u043A\u0438\u043D\u043E \u0438 \u043C\u0443\u0437\u044B\u043A\u0430 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438',
+          yakut: '\u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u044F \u0438\u0441\u0442\u043E\u0440\u0438\u044F\u0442\u0430, \u0434\u044C\u043E\u043D\u043E, \u043A\u0438\u043D\u043E\u0442\u043E \u0443\u043E\u043D\u043D\u0430 \u043C\u0443\u0437\u044B\u043A\u0430\u0442\u0430',
         );
       case 'egypt':
         return _select(
           en: 'Ancient history, culture, cinema, and music',
-          ru: 'Древняя история, культура, кино и музыка',
-          yakut: 'Былыргы история, культура, кино уонна музыка',
+          ru: '\u0414\u0440\u0435\u0432\u043D\u044F\u044F \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u0430, \u043A\u0438\u043D\u043E \u0438 \u043C\u0443\u0437\u044B\u043A\u0430',
+          yakut: '\u0411\u044B\u043B\u044B\u0440\u0433\u044B \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u0430, \u043A\u0438\u043D\u043E \u0443\u043E\u043D\u043D\u0430 \u043C\u0443\u0437\u044B\u043A\u0430',
         );
       case 'brazil':
         return _select(
           en: 'Brazilian history, famous people, films, and music',
-          ru: 'История Бразилии, известные люди, фильмы и музыка',
-          yakut: 'Бразилия историята, биллэр дьон, фильмнар уонна музыка',
+          ru: '\u0418\u0441\u0442\u043E\u0440\u0438\u044F \u0411\u0440\u0430\u0437\u0438\u043B\u0438\u0438, \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438, \u0444\u0438\u043B\u044C\u043C\u044B \u0438 \u043C\u0443\u0437\u044B\u043A\u0430',
+          yakut: '\u0411\u0440\u0430\u0437\u0438\u043B\u0438\u044F \u0438\u0441\u0442\u043E\u0440\u0438\u044F\u0442\u0430, \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D, \u0444\u0438\u043B\u044C\u043C\u043D\u0430\u0440 \u0443\u043E\u043D\u043D\u0430 \u043C\u0443\u0437\u044B\u043A\u0430',
         );
       case 'uk':
         return _select(
           en: 'United Kingdom: history, cinema, music, and famous people',
-          ru: 'Великобритания: история, кино, музыка и известные люди',
-          yakut: 'Улуу Британия: история, кино, музыка уонна биллэр дьон',
+          ru: '\u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u044F: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
+          yakut: '\u0423\u043B\u0443\u0443 \u0411\u0440\u0438\u0442\u0430\u043D\u0438\u044F: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
         );
       case 'belarus':
         return _select(
           en: 'Belarus: history, culture, movies, and notable people',
-          ru: 'Беларусь: история, культура, кино и известные люди',
-          yakut: 'Беларусь: история, культура, кино уонна биллэр дьон',
+          ru: '\u0411\u0435\u043B\u0430\u0440\u0443\u0441\u044C: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u0430, \u043A\u0438\u043D\u043E \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
+          yakut: '\u0411\u0435\u043B\u0430\u0440\u0443\u0441\u044C: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u0430, \u043A\u0438\u043D\u043E \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
         );
       case 'argentina':
         return _select(
           en: 'Argentina: tango, football, cinema, and key historical facts',
-          ru: 'Аргентина: танго, футбол, кино и ключевые исторические факты',
-          yakut:
-              'Аргентина: танго, футбол, кино уонна сурун историческай фактар',
+          ru: '\u0410\u0440\u0433\u0435\u043D\u0442\u0438\u043D\u0430: \u0442\u0430\u043D\u0433\u043E, \u0444\u0443\u0442\u0431\u043E\u043B, \u043A\u0438\u043D\u043E \u0438 \u043A\u043B\u044E\u0447\u0435\u0432\u044B\u0435 \u0438\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0444\u0430\u043A\u0442\u044B',
+          yakut: '\u0410\u0440\u0433\u0435\u043D\u0442\u0438\u043D\u0430: \u0442\u0430\u043D\u0433\u043E, \u0444\u0443\u0442\u0431\u043E\u043B, \u043A\u0438\u043D\u043E \u0443\u043E\u043D\u043D\u0430 \u0441\u0443\u0440\u0443\u043D \u0438\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u0430\u0439 \u0444\u0430\u043A\u0442\u0430\u0440',
         );
       case 'turkey':
         return _select(
           en: 'Turkey: Ottoman heritage, modern history, cinema, and music',
-          ru: 'Турция: османское наследие, современная история, кино и музыка',
-          yakut: 'Турция: осман мирас, билинни история, кино уонна музыка',
+          ru: '\u0422\u0443\u0440\u0446\u0438\u044F: \u043E\u0441\u043C\u0430\u043D\u0441\u043A\u043E\u0435 \u043D\u0430\u0441\u043B\u0435\u0434\u0438\u0435, \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u0430\u044F \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E \u0438 \u043C\u0443\u0437\u044B\u043A\u0430',
+          yakut: '\u0422\u0443\u0440\u0446\u0438\u044F: \u043E\u0441\u043C\u0430\u043D \u043C\u0438\u0440\u0430\u0441, \u0431\u0438\u043B\u0438\u043D\u043D\u0438 \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E \u0443\u043E\u043D\u043D\u0430 \u043C\u0443\u0437\u044B\u043A\u0430',
         );
       case 'south_africa':
         return _select(
           en: 'South Africa: history, diversity, films, and famous personalities',
-          ru: 'ЮАР: история, разнообразие, кино и известные личности',
-          yakut: 'ЮАР: история, элбэх туһумэх, кино уонна биллэр киһилэр',
+          ru: '\u042E\u0410\u0420: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u0440\u0430\u0437\u043D\u043E\u043E\u0431\u0440\u0430\u0437\u0438\u0435, \u043A\u0438\u043D\u043E \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u0438\u0447\u043D\u043E\u0441\u0442\u0438',
+          yakut: '\u042E\u0410\u0420: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u044D\u043B\u0431\u044D\u0445 \u0442\u0443\u04BB\u0443\u043C\u044D\u0445, \u043A\u0438\u043D\u043E \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u043A\u0438\u04BB\u0438\u043B\u044D\u0440',
         );
       case 'italy':
         return _select(
           en: 'Italy: ancient heritage, art, cinema, and music',
-          ru: 'Италия: древнее наследие, искусство, кино и музыка',
-          yakut: 'Италия: былыргы мирас, искусство, кино уонна музыка',
+          ru: '\u0418\u0442\u0430\u043B\u0438\u044F: \u0434\u0440\u0435\u0432\u043D\u0435\u0435 \u043D\u0430\u0441\u043B\u0435\u0434\u0438\u0435, \u0438\u0441\u043A\u0443\u0441\u0441\u0442\u0432\u043E, \u043A\u0438\u043D\u043E \u0438 \u043C\u0443\u0437\u044B\u043A\u0430',
+          yakut: '\u0418\u0442\u0430\u043B\u0438\u044F: \u0431\u044B\u043B\u044B\u0440\u0433\u044B \u043C\u0438\u0440\u0430\u0441, \u0438\u0441\u043A\u0443\u0441\u0441\u0442\u0432\u043E, \u043A\u0438\u043D\u043E \u0443\u043E\u043D\u043D\u0430 \u043C\u0443\u0437\u044B\u043A\u0430',
         );
       case 'germany':
         return _select(
           en: 'Germany: history, science, cinema, and music',
-          ru: 'Германия: история, наука, кино и музыка',
-          yakut: 'Германия: история, наука, кино уонна музыка',
+          ru: '\u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044F: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043D\u0430\u0443\u043A\u0430, \u043A\u0438\u043D\u043E \u0438 \u043C\u0443\u0437\u044B\u043A\u0430',
+          yakut: '\u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044F: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043D\u0430\u0443\u043A\u0430, \u043A\u0438\u043D\u043E \u0443\u043E\u043D\u043D\u0430 \u043C\u0443\u0437\u044B\u043A\u0430',
         );
       case 'switzerland':
         return _select(
           en: 'Switzerland: alpine culture, history, films, and famous people',
-          ru: 'Швейцария: альпийская культура, история, кино и известные люди',
-          yakut: 'Швейцария: альпа культурата, история, кино уонна биллэр дьон',
+          ru: '\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044F: \u0430\u043B\u044C\u043F\u0438\u0439\u0441\u043A\u0430\u044F \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u0430, \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
+          yakut: '\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044F: \u0430\u043B\u044C\u043F\u0430 \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u0430\u0442\u0430, \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
         );
       case 'spain':
         return _select(
           en: 'Spain: history, art, cinema, and music',
-          ru: 'Испания: история, искусство, кино и музыка',
-          yakut: 'Испания: история, искусство, кино уонна музыка',
+          ru: '\u0418\u0441\u043F\u0430\u043D\u0438\u044F: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u0438\u0441\u043A\u0443\u0441\u0441\u0442\u0432\u043E, \u043A\u0438\u043D\u043E \u0438 \u043C\u0443\u0437\u044B\u043A\u0430',
+          yakut: '\u0418\u0441\u043F\u0430\u043D\u0438\u044F: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u0438\u0441\u043A\u0443\u0441\u0441\u0442\u0432\u043E, \u043A\u0438\u043D\u043E \u0443\u043E\u043D\u043D\u0430 \u043C\u0443\u0437\u044B\u043A\u0430',
         );
       case 'south_korea':
         return _select(
           en: 'South Korea: modern history, cinema, K-pop, and notable people',
-          ru: 'Южная Корея: новейшая история, кино, K-pop и известные люди',
-          yakut: 'Южная Корея: саҥа история, кино, K-pop уонна биллэр дьон',
+          ru: '\u042E\u0436\u043D\u0430\u044F \u041A\u043E\u0440\u0435\u044F: \u043D\u043E\u0432\u0435\u0439\u0448\u0430\u044F \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, K-pop \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
+          yakut: '\u042E\u0436\u043D\u0430\u044F \u041A\u043E\u0440\u0435\u044F: \u0441\u0430\u04A5\u0430 \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, K-pop \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
         );
       case 'new_zealand':
         return _select(
           en: 'New Zealand: history, cinema, music, and famous personalities',
-          ru: 'Новая Зеландия: история, кино, музыка и известные личности',
-          yakut: 'Новая Зеландия: история, кино, музыка уонна биллэр киһилэр',
+          ru: '\u041D\u043E\u0432\u0430\u044F \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u044F: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u0438\u0447\u043D\u043E\u0441\u0442\u0438',
+          yakut: '\u041D\u043E\u0432\u0430\u044F \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u044F: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u043A\u0438\u04BB\u0438\u043B\u044D\u0440',
         );
       default:
         return code;
@@ -628,40 +630,40 @@ class AppTexts {
 
   String get regionSelectionTitle => _select(
         en: 'Choose region',
-        ru: 'Выбор региона',
-        yakut: 'Региону тал',
+        ru: '\u0412\u044B\u0431\u043E\u0440 \u0440\u0435\u0433\u0438\u043E\u043D\u0430',
+        yakut: '\u0420\u0435\u0433\u0438\u043E\u043D\u0443 \u0442\u0430\u043B',
       );
 
   String get regionSelectionHeaderTitle => _select(
         en: 'Choose region',
-        ru: 'Выберите регион',
-        yakut: 'Региону тал',
+        ru: '\u0412\u044B\u0431\u0435\u0440\u0438\u0442\u0435 \u0440\u0435\u0433\u0438\u043E\u043D',
+        yakut: '\u0420\u0435\u0433\u0438\u043E\u043D\u0443 \u0442\u0430\u043B',
       );
 
   String regionSelectionCountryLabel(String countryName) {
     return _select(
       en: 'Country: $countryName',
-      ru: 'Страна: $countryName',
-      yakut: 'Дойду: $countryName',
+      ru: '\u0421\u0442\u0440\u0430\u043D\u0430: $countryName',
+      yakut: '\u0414\u043E\u0439\u0434\u0443: $countryName',
     );
   }
 
   String get regionSelectionHeaderDescription => _select(
         en: 'You can play for the whole country or specific regions.',
-        ru: 'Можно играть как по всей стране, так и по отдельным регионам.',
-        yakut: 'Бүтүн дойдуунан эбэтэр араас регионунан оонньуурга сөп.',
+        ru: '\u041C\u043E\u0436\u043D\u043E \u0438\u0433\u0440\u0430\u0442\u044C \u043A\u0430\u043A \u043F\u043E \u0432\u0441\u0435\u0439 \u0441\u0442\u0440\u0430\u043D\u0435, \u0442\u0430\u043A \u0438 \u043F\u043E \u043E\u0442\u0434\u0435\u043B\u044C\u043D\u044B\u043C \u0440\u0435\u0433\u0438\u043E\u043D\u0430\u043C.',
+        yakut: '\u0411\u04AF\u0442\u04AF\u043D \u0434\u043E\u0439\u0434\u0443\u0443\u043D\u0430\u043D \u044D\u0431\u044D\u0442\u044D\u0440 \u0430\u0440\u0430\u0430\u0441 \u0440\u0435\u0433\u0438\u043E\u043D\u0443\u043D\u0430\u043D \u043E\u043E\u043D\u043D\u044C\u0443\u0443\u0440\u0433\u0430 \u0441\u04E9\u043F.',
       );
 
   String get regionAllCountryTitle => _select(
         en: 'Whole country',
-        ru: 'Вся страна',
-        yakut: 'Бүтүн дойду',
+        ru: '\u0412\u0441\u044F \u0441\u0442\u0440\u0430\u043D\u0430',
+        yakut: '\u0411\u04AF\u0442\u04AF\u043D \u0434\u043E\u0439\u0434\u0443',
       );
 
   String get regionAllCountrySubtitle => _select(
         en: 'Questions without selecting a specific region',
-        ru: 'Вопросы без выбора конкретного региона',
-        yakut: 'Бэйэ региону талбакка ыйытыылар',
+        ru: '\u0412\u043E\u043F\u0440\u043E\u0441\u044B \u0431\u0435\u0437 \u0432\u044B\u0431\u043E\u0440\u0430 \u043A\u043E\u043D\u043A\u0440\u0435\u0442\u043D\u043E\u0433\u043E \u0440\u0435\u0433\u0438\u043E\u043D\u0430',
+        yakut: '\u0411\u044D\u0439\u044D \u0440\u0435\u0433\u0438\u043E\u043D\u0443 \u0442\u0430\u043B\u0431\u0430\u043A\u043A\u0430 \u044B\u0439\u044B\u0442\u044B\u044B\u043B\u0430\u0440',
       );
 
   String regionName(String code) {
@@ -669,13 +671,16 @@ class AppTexts {
       case 'all':
         return regionAllCountryTitle;
       case 'yakutia':
-        return _select(en: 'Yakutia', ru: 'Якутия', yakut: 'Саха Сирэ');
+        return _select(
+            en: 'Yakutia', ru: '\u042F\u043A\u0443\u0442\u0438\u044F', yakut: '\u0421\u0430\u0445\u0430 \u0421\u0438\u0440\u044D');
       case 'dagestan':
-        return _select(en: 'Dagestan', ru: 'Дагестан', yakut: 'Дагыстан');
+        return _select(
+            en: 'Dagestan', ru: '\u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043D', yakut: '\u0414\u0430\u0433\u044B\u0441\u0442\u0430\u043D');
       case 'texas':
-        return _select(en: 'Texas', ru: 'Техас', yakut: 'Техас');
+        return _select(en: 'Texas', ru: '\u0422\u0435\u0445\u0430\u0441', yakut: '\u0422\u0435\u0445\u0430\u0441');
       case 'oklahoma':
-        return _select(en: 'Oklahoma', ru: 'Оклахома', yakut: 'Оклахома');
+        return _select(
+            en: 'Oklahoma', ru: '\u041E\u043A\u043B\u0430\u0445\u043E\u043C\u0430', yakut: '\u041E\u043A\u043B\u0430\u0445\u043E\u043C\u0430');
       default:
         return code;
     }
@@ -689,26 +694,26 @@ class AppTexts {
       case 'russia/yakutia':
         return _select(
           en: 'Northern region with rich history',
-          ru: 'Северный регион с богатой историей',
-          yakut: 'Хотуу сирдээх бай тарихтаах регион',
+          ru: '\u0421\u0435\u0432\u0435\u0440\u043D\u044B\u0439 \u0440\u0435\u0433\u0438\u043E\u043D \u0441 \u0431\u043E\u0433\u0430\u0442\u043E\u0439 \u0438\u0441\u0442\u043E\u0440\u0438\u0435\u0439',
+          yakut: '\u0425\u043E\u0442\u0443\u0443 \u0441\u0438\u0440\u0434\u044D\u044D\u0445 \u0431\u0430\u0439 \u0442\u0430\u0440\u0438\u0445\u0442\u0430\u0430\u0445 \u0440\u0435\u0433\u0438\u043E\u043D',
         );
       case 'russia/dagestan':
         return _select(
           en: 'Culture, traditions, and famous events',
-          ru: 'Культура, традиции и известные события',
-          yakut: 'Культура, үгэ уонна биллэр буолбут түһүмэхтэр',
+          ru: '\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430, \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u0438 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F',
+          yakut: '\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430, \u04AF\u0433\u044D \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0431\u0443\u043E\u043B\u0431\u0443\u0442 \u0442\u04AF\u04BB\u04AF\u043C\u044D\u0445\u0442\u044D\u0440',
         );
       case 'usa/texas':
         return _select(
           en: 'History and culture of one of the largest states',
-          ru: 'История и культура одного из крупнейших штатов',
-          yakut: 'Улахан штаттар биирдэстэрин историята уонна культурата',
+          ru: '\u0418\u0441\u0442\u043E\u0440\u0438\u044F \u0438 \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u0430 \u043E\u0434\u043D\u043E\u0433\u043E \u0438\u0437 \u043A\u0440\u0443\u043F\u043D\u0435\u0439\u0448\u0438\u0445 \u0448\u0442\u0430\u0442\u043E\u0432',
+          yakut: '\u0423\u043B\u0430\u0445\u0430\u043D \u0448\u0442\u0430\u0442\u0442\u0430\u0440 \u0431\u0438\u0438\u0440\u0434\u044D\u0441\u0442\u044D\u0440\u0438\u043D \u0438\u0441\u0442\u043E\u0440\u0438\u044F\u0442\u0430 \u0443\u043E\u043D\u043D\u0430 \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u0430\u0442\u0430',
         );
       case 'usa/oklahoma':
         return _select(
           en: 'Facts about music, cinema, and state history',
-          ru: 'Факты о музыке, кино и прошлом штата',
-          yakut: 'Штат историята, ырыата уонна киното туһунан фактылар',
+          ru: '\u0424\u0430\u043A\u0442\u044B \u043E \u043C\u0443\u0437\u044B\u043A\u0435, \u043A\u0438\u043D\u043E \u0438 \u043F\u0440\u043E\u0448\u043B\u043E\u043C \u0448\u0442\u0430\u0442\u0430',
+          yakut: '\u0428\u0442\u0430\u0442 \u0438\u0441\u0442\u043E\u0440\u0438\u044F\u0442\u0430, \u044B\u0440\u044B\u0430\u0442\u0430 \u0443\u043E\u043D\u043D\u0430 \u043A\u0438\u043D\u043E\u0442\u043E \u0442\u0443\u04BB\u0443\u043D\u0430\u043D \u0444\u0430\u043A\u0442\u044B\u043B\u0430\u0440',
         );
       default:
         return region;
@@ -717,27 +722,27 @@ class AppTexts {
 
   String get categorySelectionTitle => _select(
         en: 'Choose category',
-        ru: 'Выбор категории',
-        yakut: 'Категорияны тал',
+        ru: '\u0412\u044B\u0431\u043E\u0440 \u043A\u0430\u0442\u0435\u0433\u043E\u0440\u0438\u0438',
+        yakut: '\u041A\u0430\u0442\u0435\u0433\u043E\u0440\u0438\u044F\u043D\u044B \u0442\u0430\u043B',
       );
 
   String get categorySelectionHeaderTitle => _select(
         en: 'Choose category',
-        ru: 'Выберите категорию',
-        yakut: 'Категорияны тал',
+        ru: '\u0412\u044B\u0431\u0435\u0440\u0438\u0442\u0435 \u043A\u0430\u0442\u0435\u0433\u043E\u0440\u0438\u044E',
+        yakut: '\u041A\u0430\u0442\u0435\u0433\u043E\u0440\u0438\u044F\u043D\u044B \u0442\u0430\u043B',
       );
 
   String get categorySelectionLocationAllCountry => _select(
         en: 'Whole country',
-        ru: 'Страна целиком',
-        yakut: 'Дойду бүтүннүк',
+        ru: '\u0421\u0442\u0440\u0430\u043D\u0430 \u0446\u0435\u043B\u0438\u043A\u043E\u043C',
+        yakut: '\u0414\u043E\u0439\u0434\u0443 \u0431\u04AF\u0442\u04AF\u043D\u043D\u04AF\u043A',
       );
 
   String categorySelectionLocationByCountry(String countryName) {
     return _select(
       en: 'Country: $countryName',
-      ru: 'Страна: $countryName',
-      yakut: 'Дойду: $countryName',
+      ru: '\u0421\u0442\u0440\u0430\u043D\u0430: $countryName',
+      yakut: '\u0414\u043E\u0439\u0434\u0443: $countryName',
     );
   }
 
@@ -746,15 +751,16 @@ class AppTexts {
       case 'famous_people':
         return _select(
           en: 'Famous people',
-          ru: 'Известные личности',
-          yakut: 'Биллэр дьон',
+          ru: '\u0418\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u0438\u0447\u043D\u043E\u0441\u0442\u0438',
+          yakut: '\u0411\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
         );
       case 'history':
-        return _select(en: 'History', ru: 'История', yakut: 'История');
+        return _select(
+            en: 'History', ru: '\u0418\u0441\u0442\u043E\u0440\u0438\u044F', yakut: '\u0418\u0441\u0442\u043E\u0440\u0438\u044F');
       case 'movies':
-        return _select(en: 'Movies', ru: 'Фильмы', yakut: 'Кино');
+        return _select(en: 'Movies', ru: '\u0424\u0438\u043B\u044C\u043C\u044B', yakut: '\u041A\u0438\u043D\u043E');
       case 'music':
-        return _select(en: 'Music', ru: 'Музыка', yakut: 'Ырыа');
+        return _select(en: 'Music', ru: '\u041C\u0443\u0437\u044B\u043A\u0430', yakut: '\u042B\u0440\u044B\u0430');
       default:
         return code.toUpperCase();
     }
@@ -765,26 +771,26 @@ class AppTexts {
       case 'famous_people':
         return _select(
           en: 'Outstanding people, biographies, and achievements',
-          ru: 'Выдающиеся люди, биографии и достижения',
-          yakut: 'Биллэр дьон, биография уонна ситиһии',
+          ru: '\u0412\u044B\u0434\u0430\u044E\u0449\u0438\u0435\u0441\u044F \u043B\u044E\u0434\u0438, \u0431\u0438\u043E\u0433\u0440\u0430\u0444\u0438\u0438 \u0438 \u0434\u043E\u0441\u0442\u0438\u0436\u0435\u043D\u0438\u044F',
+          yakut: '\u0411\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D, \u0431\u0438\u043E\u0433\u0440\u0430\u0444\u0438\u044F \u0443\u043E\u043D\u043D\u0430 \u0441\u0438\u0442\u0438\u04BB\u0438\u0438',
         );
       case 'history':
         return _select(
           en: 'Key events, dates, and facts',
-          ru: 'Ключевые события, даты и факты',
-          yakut: 'Сүрүн түһүмэхтэр, күнэ уонна фактылар',
+          ru: '\u041A\u043B\u044E\u0447\u0435\u0432\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F, \u0434\u0430\u0442\u044B \u0438 \u0444\u0430\u043A\u0442\u044B',
+          yakut: '\u0421\u04AF\u0440\u04AF\u043D \u0442\u04AF\u04BB\u04AF\u043C\u044D\u0445\u0442\u044D\u0440, \u043A\u04AF\u043D\u044D \u0443\u043E\u043D\u043D\u0430 \u0444\u0430\u043A\u0442\u044B\u043B\u0430\u0440',
         );
       case 'movies':
         return _select(
           en: 'Cinema, directors, and iconic scenes',
-          ru: 'Кино, режиссёры и знаковые сцены',
-          yakut: 'Кино, режиссердар уонна биллэр сценалар',
+          ru: '\u041A\u0438\u043D\u043E, \u0440\u0435\u0436\u0438\u0441\u0441\u0451\u0440\u044B \u0438 \u0437\u043D\u0430\u043A\u043E\u0432\u044B\u0435 \u0441\u0446\u0435\u043D\u044B',
+          yakut: '\u041A\u0438\u043D\u043E, \u0440\u0435\u0436\u0438\u0441\u0441\u0435\u0440\u0434\u0430\u0440 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0441\u0446\u0435\u043D\u0430\u043B\u0430\u0440',
         );
       case 'music':
         return _select(
           en: 'Genres, artists, and popular tracks',
-          ru: 'Жанры, исполнители и популярные треки',
-          yakut: 'Жанрдар, ырыаһыттар уонна популярнай ырыалар',
+          ru: '\u0416\u0430\u043D\u0440\u044B, \u0438\u0441\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u0438 \u0438 \u043F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u044B\u0435 \u0442\u0440\u0435\u043A\u0438',
+          yakut: '\u0416\u0430\u043D\u0440\u0434\u0430\u0440, \u044B\u0440\u044B\u0430\u04BB\u044B\u0442\u0442\u0430\u0440 \u0443\u043E\u043D\u043D\u0430 \u043F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u0430\u0439 \u044B\u0440\u044B\u0430\u043B\u0430\u0440',
         );
       default:
         return code;
@@ -793,64 +799,63 @@ class AppTexts {
 
   String get quizSelectAnswer => _select(
         en: 'Select one answer option',
-        ru: 'Выберите один вариант ответа',
-        yakut: 'Биир эппиэти тал',
+        ru: '\u0412\u044B\u0431\u0435\u0440\u0438\u0442\u0435 \u043E\u0434\u0438\u043D \u0432\u0430\u0440\u0438\u0430\u043D\u0442 \u043E\u0442\u0432\u0435\u0442\u0430',
+        yakut: '\u0411\u0438\u0438\u0440 \u044D\u043F\u043F\u0438\u044D\u0442\u0438 \u0442\u0430\u043B',
       );
 
   String quizQuestionProgress(int current, int total) {
     return _select(
       en: 'Question $current of $total',
-      ru: 'Вопрос $current из $total',
-      yakut: '$total иһиттэн $current ыйытыы',
+      ru: '\u0412\u043E\u043F\u0440\u043E\u0441 $current \u0438\u0437 $total',
+      yakut: '$total \u0438\u04BB\u0438\u0442\u0442\u044D\u043D $current \u044B\u0439\u044B\u0442\u044B\u044B',
     );
   }
 
   String quizScoreLabel(int score) {
     return _select(
       en: 'Score: $score',
-      ru: 'Очки: $score',
-      yakut: 'Баал: $score',
+      ru: '\u041E\u0447\u043A\u0438: $score',
+      yakut: '\u0420\u2018\u0420\u00B0\u0420\u00B0\u0420\u00BB: $score',
     );
   }
 
   String get quizScreenTitle => _select(
         en: 'Quiz',
-        ru: 'Викторина',
-        yakut: 'Викторина',
+        ru: '\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u043D\u0430',
+        yakut: '\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u043D\u0430',
       );
 
   String get quizEmptyTitle => _select(
         en: 'No questions yet',
-        ru: 'Пока нет вопросов',
-        yakut: 'Ыйытыы әлегэ суох',
+        ru: '\u041F\u043E\u043A\u0430 \u043D\u0435\u0442 \u0432\u043E\u043F\u0440\u043E\u0441\u043E\u0432',
+        yakut: '\u042B\u0439\u044B\u0442\u044B\u044B \u04D9\u043B\u0435\u0433\u044D \u0441\u0443\u043E\u0445',
       );
 
   String quizEmptyDescription(String category) {
     return _select(
       en: 'Questions for "$category" are not added yet. Try another category or region.',
-      ru: 'Для категории "$category" вопросы ещё не добавлены. Попробуйте другую категорию или регион.',
-      yakut:
-          '"$category" категориятыгар ыйытыылар әлегэ баар буолбатахтар. Атын категорияны эбэтэр региону тургутан көрүҥ.',
+      ru: '\u0414\u043B\u044F \u043A\u0430\u0442\u0435\u0433\u043E\u0440\u0438\u0438 "$category" \u0432\u043E\u043F\u0440\u043E\u0441\u044B \u0435\u0449\u0451 \u043D\u0435 \u0434\u043E\u0431\u0430\u0432\u043B\u0435\u043D\u044B. \u041F\u043E\u043F\u0440\u043E\u0431\u0443\u0439\u0442\u0435 \u0434\u0440\u0443\u0433\u0443\u044E \u043A\u0430\u0442\u0435\u0433\u043E\u0440\u0438\u044E \u0438\u043B\u0438 \u0440\u0435\u0433\u0438\u043E\u043D.',
+      yakut: '"$category" \u043A\u0430\u0442\u0435\u0433\u043E\u0440\u0438\u044F\u0442\u044B\u0433\u0430\u0440 \u044B\u0439\u044B\u0442\u044B\u044B\u043B\u0430\u0440 \u04D9\u043B\u0435\u0433\u044D \u0431\u0430\u0430\u0440 \u0431\u0443\u043E\u043B\u0431\u0430\u0442\u0430\u0445\u0442\u0430\u0440. \u0410\u0442\u044B\u043D \u043A\u0430\u0442\u0435\u0433\u043E\u0440\u0438\u044F\u043D\u044B \u044D\u0431\u044D\u0442\u044D\u0440 \u0440\u0435\u0433\u0438\u043E\u043D\u0443 \u0442\u0443\u0440\u0433\u0443\u0442\u0430\u043D \u043A\u04E9\u0440\u04AF\u04A5.',
     );
   }
 
   String get backButton => _select(
         en: 'Go back',
-        ru: 'Вернуться назад',
-        yakut: 'Төнүн',
+        ru: '\u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F \u043D\u0430\u0437\u0430\u0434',
+        yakut: '\u0422\u04E9\u043D\u04AF\u043D',
       );
 
   String get resultTitle => _select(
         en: 'Result',
-        ru: 'Результат',
-        yakut: 'Түмүк',
+        ru: '\u0420\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442',
+        yakut: '\u0422\u04AF\u043C\u04AF\u043A',
       );
 
   String resultScoreText(int score, int total) {
     return _select(
       en: 'Your result: $score out of $total',
-      ru: 'Ваш результат: $score из $total',
-      yakut: 'Эн түмүгүҥ: $score / $total',
+      ru: '\u0412\u0430\u0448 \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442: $score \u0438\u0437 $total',
+      yakut: '\u042D\u043D \u0442\u04AF\u043C\u04AF\u0433\u04AF\u04A5: $score / $total',
     );
   }
 
@@ -858,196 +863,193 @@ class AppTexts {
     if (percent >= 0.9) {
       return _select(
         en: 'Excellent result! You are a true expert.',
-        ru: 'Отличный результат! Вы настоящий эксперт.',
-        yakut: 'Бэргэн түмүк! Эн кырдьык эксперт буоллаҥ.',
+        ru: '\u041E\u0442\u043B\u0438\u0447\u043D\u044B\u0439 \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442! \u0412\u044B \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0438\u0439 \u044D\u043A\u0441\u043F\u0435\u0440\u0442.',
+        yakut: '\u0411\u044D\u0440\u0433\u044D\u043D \u0442\u04AF\u043C\u04AF\u043A! \u042D\u043D \u043A\u044B\u0440\u0434\u044C\u044B\u043A \u044D\u043A\u0441\u043F\u0435\u0440\u0442 \u0431\u0443\u043E\u043B\u043B\u0430\u04A5.',
       );
     }
     if (percent >= 0.7) {
       return _select(
         en: 'Very good! One more try for the maximum.',
-        ru: 'Очень хорошо! Ещё немного и будет максимум.',
-        yakut: 'Наһаа үчүгэй! Арай биирдэ төһө да максимум буолуо.',
+        ru: '\u041E\u0447\u0435\u043D\u044C \u0445\u043E\u0440\u043E\u0448\u043E! \u0415\u0449\u0451 \u043D\u0435\u043C\u043D\u043E\u0433\u043E \u0438 \u0431\u0443\u0434\u0435\u0442 \u043C\u0430\u043A\u0441\u0438\u043C\u0443\u043C.',
+        yakut: '\u041D\u0430\u04BB\u0430\u0430 \u04AF\u0447\u04AF\u0433\u044D\u0439! \u0410\u0440\u0430\u0439 \u0431\u0438\u0438\u0440\u0434\u044D \u0442\u04E9\u04BB\u04E9 \u0434\u0430 \u043C\u0430\u043A\u0441\u0438\u043C\u0443\u043C \u0431\u0443\u043E\u043B\u0443\u043E.',
       );
     }
     if (percent >= 0.5) {
       return _select(
         en: 'Good try! Play again to improve your result.',
-        ru: 'Неплохо! Попробуйте снова, чтобы улучшить результат.',
-        yakut: 'Куһаҕаннык буолбатах! Өссө оонньоон түмүгүҥү сайыннар.',
+        ru: '\u041D\u0435\u043F\u043B\u043E\u0445\u043E! \u041F\u043E\u043F\u0440\u043E\u0431\u0443\u0439\u0442\u0435 \u0441\u043D\u043E\u0432\u0430, \u0447\u0442\u043E\u0431\u044B \u0443\u043B\u0443\u0447\u0448\u0438\u0442\u044C \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442.',
+        yakut: '\u041A\u0443\u04BB\u0430\u0495\u0430\u043D\u043D\u044B\u043A \u0431\u0443\u043E\u043B\u0431\u0430\u0442\u0430\u0445! \u04E8\u0441\u0441\u04E9 \u043E\u043E\u043D\u043D\u044C\u043E\u043E\u043D \u0442\u04AF\u043C\u04AF\u0433\u04AF\u04A5\u04AF \u0441\u0430\u0439\u044B\u043D\u043D\u0430\u0440.',
       );
     }
     return _select(
       en: 'Nice attempt! Next time will be better.',
-      ru: 'Хорошая попытка! В следующий раз будет лучше.',
-      yakut: 'Үчүгэй тургутуу! Аныгыскыга ордук буолуо.',
+      ru: '\u0425\u043E\u0440\u043E\u0448\u0430\u044F \u043F\u043E\u043F\u044B\u0442\u043A\u0430! \u0412 \u0441\u043B\u0435\u0434\u0443\u044E\u0449\u0438\u0439 \u0440\u0430\u0437 \u0431\u0443\u0434\u0435\u0442 \u043B\u0443\u0447\u0448\u0435.',
+      yakut: '\u04AE\u0447\u04AF\u0433\u044D\u0439 \u0442\u0443\u0440\u0433\u0443\u0442\u0443\u0443! \u0410\u043D\u044B\u0433\u044B\u0441\u043A\u044B\u0433\u0430 \u043E\u0440\u0434\u0443\u043A \u0431\u0443\u043E\u043B\u0443\u043E.',
     );
   }
 
   String get resultToMainMenu => _select(
         en: 'To main menu',
-        ru: 'В главное меню',
-        yakut: 'Сүрүн менюга',
+        ru: '\u0412 \u0433\u043B\u0430\u0432\u043D\u043E\u0435 \u043C\u0435\u043D\u044E',
+        yakut: '\u0421\u04AF\u0440\u04AF\u043D \u043C\u0435\u043D\u044E\u0433\u0430',
       );
 
   String get aboutTitle => _select(
         en: 'About the game',
-        ru: 'Об игре',
-        yakut: 'Оонньуу туһунан',
+        ru: '\u041E\u0431 \u0438\u0433\u0440\u0435',
+        yakut: '\u041E\u043E\u043D\u043D\u044C\u0443\u0443 \u0442\u0443\u04BB\u0443\u043D\u0430\u043D',
       );
 
   String get aboutHeroTitle => _select(
         en: 'About Quiz Game project',
-        ru: 'О проекте Quiz Game',
-        yakut: 'Quiz Game бырайыак туһунан',
+        ru: '\u041E \u043F\u0440\u043E\u0435\u043A\u0442\u0435 Quiz Game',
+        yakut: 'Quiz Game \u0431\u044B\u0440\u0430\u0439\u044B\u0430\u043A \u0442\u0443\u04BB\u0443\u043D\u0430\u043D',
       );
 
   String get aboutHeroDescription => _select(
         en: 'A simple and engaging quiz to train memory, focus, and broad knowledge.',
-        ru: 'Простая и увлекательная викторина для тренировки кругозора, внимания и скорости мышления.',
-        yakut:
-            'Көрдөрбүт билиини, болҕомтону уонна өйдөөһүнү сайыннарар эҥин уонна интэриэһинэй викторина.',
+        ru: '\u041F\u0440\u043E\u0441\u0442\u0430\u044F \u0438 \u0443\u0432\u043B\u0435\u043A\u0430\u0442\u0435\u043B\u044C\u043D\u0430\u044F \u0432\u0438\u043A\u0442\u043E\u0440\u0438\u043D\u0430 \u0434\u043B\u044F \u0442\u0440\u0435\u043D\u0438\u0440\u043E\u0432\u043A\u0438 \u043A\u0440\u0443\u0433\u043E\u0437\u043E\u0440\u0430, \u0432\u043D\u0438\u043C\u0430\u043D\u0438\u044F \u0438 \u0441\u043A\u043E\u0440\u043E\u0441\u0442\u0438 \u043C\u044B\u0448\u043B\u0435\u043D\u0438\u044F.',
+        yakut: '\u041A\u04E9\u0440\u0434\u04E9\u0440\u0431\u04AF\u0442 \u0431\u0438\u043B\u0438\u0438\u043D\u0438, \u0431\u043E\u043B\u0495\u043E\u043C\u0442\u043E\u043D\u0443 \u0443\u043E\u043D\u043D\u0430 \u04E9\u0439\u0434\u04E9\u04E9\u04BB\u04AF\u043D\u04AF \u0441\u0430\u0439\u044B\u043D\u043D\u0430\u0440\u0430\u0440 \u044D\u04A5\u0438\u043D \u0443\u043E\u043D\u043D\u0430 \u0438\u043D\u0442\u044D\u0440\u0438\u044D\u04BB\u0438\u043D\u044D\u0439 \u0432\u0438\u043A\u0442\u043E\u0440\u0438\u043D\u0430.',
       );
 
   String get aboutSectionWhatTitle => _select(
         en: 'What is this app',
-        ru: 'Что это за приложение',
-        yakut: 'Бу ханнык приложенией',
+        ru: '\u0427\u0442\u043E \u044D\u0442\u043E \u0437\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435',
+        yakut: '\u0411\u0443 \u0445\u0430\u043D\u043D\u044B\u043A \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435\u0439',
       );
 
   String get aboutSectionWhatBody => _select(
         en: 'Quiz Game is an educational quiz where you answer questions in history, music, movies, and famous people. It is suitable for short game sessions and knowledge practice.',
-        ru: 'Quiz Game — это обучающая викторина, где вы отвечаете на вопросы по разным темам: история, музыка, кино и известные личности. Приложение подходит для коротких игровых сессий, тренировки памяти и проверки эрудиции.',
-        yakut:
-            'Quiz Game диэн үөрэтэр викторина: история, ырыа, кино уонна биллэр дьон туһунан ыйытыыларга эппиэттиир. Кыратык оонньоон билиини сыалыннарарга сөп.',
+        ru: 'Quiz Game \u2014 \u044D\u0442\u043E \u043E\u0431\u0443\u0447\u0430\u044E\u0449\u0430\u044F \u0432\u0438\u043A\u0442\u043E\u0440\u0438\u043D\u0430, \u0433\u0434\u0435 \u0432\u044B \u043E\u0442\u0432\u0435\u0447\u0430\u0435\u0442\u0435 \u043D\u0430 \u0432\u043E\u043F\u0440\u043E\u0441\u044B \u043F\u043E \u0440\u0430\u0437\u043D\u044B\u043C \u0442\u0435\u043C\u0430\u043C: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043C\u0443\u0437\u044B\u043A\u0430, \u043A\u0438\u043D\u043E \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u0438\u0447\u043D\u043E\u0441\u0442\u0438. \u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u043F\u043E\u0434\u0445\u043E\u0434\u0438\u0442 \u0434\u043B\u044F \u043A\u043E\u0440\u043E\u0442\u043A\u0438\u0445 \u0438\u0433\u0440\u043E\u0432\u044B\u0445 \u0441\u0435\u0441\u0441\u0438\u0439, \u0442\u0440\u0435\u043D\u0438\u0440\u043E\u0432\u043A\u0438 \u043F\u0430\u043C\u044F\u0442\u0438 \u0438 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0438 \u044D\u0440\u0443\u0434\u0438\u0446\u0438\u0438.',
+        yakut: 'Quiz Game \u0434\u0438\u044D\u043D \u04AF\u04E9\u0440\u044D\u0442\u044D\u0440 \u0432\u0438\u043A\u0442\u043E\u0440\u0438\u043D\u0430: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u044B\u0440\u044B\u0430, \u043A\u0438\u043D\u043E \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D \u0442\u0443\u04BB\u0443\u043D\u0430\u043D \u044B\u0439\u044B\u0442\u044B\u044B\u043B\u0430\u0440\u0433\u0430 \u044D\u043F\u043F\u0438\u044D\u0442\u0442\u0438\u0438\u0440. \u041A\u044B\u0440\u0430\u0442\u044B\u043A \u043E\u043E\u043D\u043D\u044C\u043E\u043E\u043D \u0431\u0438\u043B\u0438\u0438\u043D\u0438 \u0441\u044B\u0430\u043B\u044B\u043D\u043D\u0430\u0440\u0430\u0440\u0433\u0430 \u0441\u04E9\u043F.',
       );
 
   String get aboutSectionHowTitle => _select(
         en: 'How to play',
-        ru: 'Как играть',
-        yakut: 'Хайдах оонньуур',
+        ru: '\u041A\u0430\u043A \u0438\u0433\u0440\u0430\u0442\u044C',
+        yakut: '\u0425\u0430\u0439\u0434\u0430\u0445 \u043E\u043E\u043D\u043D\u044C\u0443\u0443\u0440',
       );
 
   String get aboutStep1 => _select(
         en: 'Choose a country and, if needed, a region.',
-        ru: 'Выберите страну и при необходимости регион.',
-        yakut: 'Дойдуну уонна наада буоллаҕына региону тал.',
+        ru: '\u0412\u044B\u0431\u0435\u0440\u0438\u0442\u0435 \u0441\u0442\u0440\u0430\u043D\u0443 \u0438 \u043F\u0440\u0438 \u043D\u0435\u043E\u0431\u0445\u043E\u0434\u0438\u043C\u043E\u0441\u0442\u0438 \u0440\u0435\u0433\u0438\u043E\u043D.',
+        yakut: '\u0414\u043E\u0439\u0434\u0443\u043D\u0443 \u0443\u043E\u043D\u043D\u0430 \u043D\u0430\u0430\u0434\u0430 \u0431\u0443\u043E\u043B\u043B\u0430\u0495\u044B\u043D\u0430 \u0440\u0435\u0433\u0438\u043E\u043D\u0443 \u0442\u0430\u043B.',
       );
 
   String get aboutStep2 => _select(
         en: 'Open a category and start the round.',
-        ru: 'Откройте категорию и начните раунд.',
-        yakut: 'Категорияны арый да раунду саҕалаа.',
+        ru: '\u041E\u0442\u043A\u0440\u043E\u0439\u0442\u0435 \u043A\u0430\u0442\u0435\u0433\u043E\u0440\u0438\u044E \u0438 \u043D\u0430\u0447\u043D\u0438\u0442\u0435 \u0440\u0430\u0443\u043D\u0434.',
+        yakut: '\u041A\u0430\u0442\u0435\u0433\u043E\u0440\u0438\u044F\u043D\u044B \u0430\u0440\u044B\u0439 \u0434\u0430 \u0440\u0430\u0443\u043D\u0434\u0443 \u0441\u0430\u0495\u0430\u043B\u0430\u0430.',
       );
 
   String get aboutStep3 => _select(
         en: 'Answer questions and track your progress.',
-        ru: 'Отвечайте на вопросы и следите за прогрессом.',
-        yakut: 'Ыйытыыларга эппиэттээ уонна сайдыыҥы көр.',
+        ru: '\u041E\u0442\u0432\u0435\u0447\u0430\u0439\u0442\u0435 \u043D\u0430 \u0432\u043E\u043F\u0440\u043E\u0441\u044B \u0438 \u0441\u043B\u0435\u0434\u0438\u0442\u0435 \u0437\u0430 \u043F\u0440\u043E\u0433\u0440\u0435\u0441\u0441\u043E\u043C.',
+        yakut: '\u042B\u0439\u044B\u0442\u044B\u044B\u043B\u0430\u0440\u0433\u0430 \u044D\u043F\u043F\u0438\u044D\u0442\u0442\u044D\u044D \u0443\u043E\u043D\u043D\u0430 \u0441\u0430\u0439\u0434\u044B\u044B\u04A5\u044B \u043A\u04E9\u0440.',
       );
 
   String get aboutStep4 => _select(
         en: 'At the end, get your score, percent, and feedback.',
-        ru: 'В конце получите итог, процент правильных ответов и обратную связь.',
-        yakut: 'Түмүгэр баалы, бырыһыанны уонна санаа иһэрин ылар.',
+        ru: '\u0412 \u043A\u043E\u043D\u0446\u0435 \u043F\u043E\u043B\u0443\u0447\u0438\u0442\u0435 \u0438\u0442\u043E\u0433, \u043F\u0440\u043E\u0446\u0435\u043D\u0442 \u043F\u0440\u0430\u0432\u0438\u043B\u044C\u043D\u044B\u0445 \u043E\u0442\u0432\u0435\u0442\u043E\u0432 \u0438 \u043E\u0431\u0440\u0430\u0442\u043D\u0443\u044E \u0441\u0432\u044F\u0437\u044C.',
+        yakut: '\u0422\u04AF\u043C\u04AF\u0433\u044D\u0440 \u0431\u0430\u0430\u043B\u044B, \u0431\u044B\u0440\u044B\u04BB\u044B\u0430\u043D\u043D\u044B \u0443\u043E\u043D\u043D\u0430 \u0441\u0430\u043D\u0430\u0430 \u0438\u04BB\u044D\u0440\u0438\u043D \u044B\u043B\u0430\u0440.',
       );
 
   String get aboutSectionFeaturesTitle => _select(
         en: 'Features',
-        ru: 'Возможности',
-        yakut: 'Мөмкүнчүлүктэр',
+        ru: '\u0412\u043E\u0437\u043C\u043E\u0436\u043D\u043E\u0441\u0442\u0438',
+        yakut: '\u041C\u04E9\u043C\u043A\u04AF\u043D\u0447\u04AF\u043B\u04AF\u043A\u0442\u044D\u0440',
       );
 
   String get aboutFeature1 => _select(
         en: 'Shuffling questions and answer options',
-        ru: 'Перемешивание вопросов и вариантов ответов',
-        yakut: 'Ыйытыы уонна эппиэт тардыытын бутааһын',
+        ru: '\u041F\u0435\u0440\u0435\u043C\u0435\u0448\u0438\u0432\u0430\u043D\u0438\u0435 \u0432\u043E\u043F\u0440\u043E\u0441\u043E\u0432 \u0438 \u0432\u0430\u0440\u0438\u0430\u043D\u0442\u043E\u0432 \u043E\u0442\u0432\u0435\u0442\u043E\u0432',
+        yakut: '\u042B\u0439\u044B\u0442\u044B\u044B \u0443\u043E\u043D\u043D\u0430 \u044D\u043F\u043F\u0438\u044D\u0442 \u0442\u0430\u0440\u0434\u044B\u044B\u0442\u044B\u043D \u0431\u0443\u0442\u0430\u0430\u04BB\u044B\u043D',
       );
 
   String get aboutFeature2 => _select(
         en: 'Light and dark themes',
-        ru: 'Светлая и тёмная тема',
-        yakut: 'Сырдык уонна хараҥа тиэмэ',
+        ru: '\u0421\u0432\u0435\u0442\u043B\u0430\u044F \u0438 \u0442\u0451\u043C\u043D\u0430\u044F \u0442\u0435\u043C\u0430',
+        yakut: '\u0421\u044B\u0440\u0434\u044B\u043A \u0443\u043E\u043D\u043D\u0430 \u0445\u0430\u0440\u0430\u04A5\u0430 \u0442\u0438\u044D\u043C\u044D',
       );
 
   String get aboutFeature3 => _select(
         en: 'Configurable number of questions per round',
-        ru: 'Настройка количества вопросов в раунде',
-        yakut: 'Раундугар ыйытыы ахсаанын туруоруу',
+        ru: '\u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0430 \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u0430 \u0432\u043E\u043F\u0440\u043E\u0441\u043E\u0432 \u0432 \u0440\u0430\u0443\u043D\u0434\u0435',
+        yakut: '\u0420\u0430\u0443\u043D\u0434\u0443\u0433\u0430\u0440 \u044B\u0439\u044B\u0442\u044B\u044B \u0430\u0445\u0441\u0430\u0430\u043D\u044B\u043D \u0442\u0443\u0440\u0443\u043E\u0440\u0443\u0443',
       );
 
   String get aboutFeature4 => _select(
         en: 'Result screen with percent and comments',
-        ru: 'Экран результата с процентом и комментариями',
-        yakut: 'Бырыһыаннаах уонна комментарииннаах түмүк экрана',
+        ru: '\u042D\u043A\u0440\u0430\u043D \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u0430 \u0441 \u043F\u0440\u043E\u0446\u0435\u043D\u0442\u043E\u043C \u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438',
+        yakut: '\u0411\u044B\u0440\u044B\u04BB\u044B\u0430\u043D\u043D\u0430\u0430\u0445 \u0443\u043E\u043D\u043D\u0430 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u0438\u043D\u043D\u0430\u0430\u0445 \u0442\u04AF\u043C\u04AF\u043A \u044D\u043A\u0440\u0430\u043D\u0430',
       );
 
   String get aboutSectionTipsTitle => _select(
         en: 'Tips for better results',
-        ru: 'Советы для лучшего результата',
-        yakut: 'Олох түмүгүн сайыннарар сүбэлэр',
+        ru: '\u0421\u043E\u0432\u0435\u0442\u044B \u0434\u043B\u044F \u043B\u0443\u0447\u0448\u0435\u0433\u043E \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u0430',
+        yakut: '\u041E\u043B\u043E\u0445 \u0442\u04AF\u043C\u04AF\u0433\u04AF\u043D \u0441\u0430\u0439\u044B\u043D\u043D\u0430\u0440\u0430\u0440 \u0441\u04AF\u0431\u044D\u043B\u044D\u0440',
       );
 
   String get aboutTip1 => _select(
         en: 'Play different categories to retain knowledge better.',
-        ru: 'Запускайте разные категории — так знания закрепляются лучше.',
-        yakut: 'Араас категориялары оонньоо, билии ордук бэхийэр.',
+        ru: '\u0417\u0430\u043F\u0443\u0441\u043A\u0430\u0439\u0442\u0435 \u0440\u0430\u0437\u043D\u044B\u0435 \u043A\u0430\u0442\u0435\u0433\u043E\u0440\u0438\u0438 \u2014 \u0442\u0430\u043A \u0437\u043D\u0430\u043D\u0438\u044F \u0437\u0430\u043A\u0440\u0435\u043F\u043B\u044F\u044E\u0442\u0441\u044F \u043B\u0443\u0447\u0448\u0435.',
+        yakut: '\u0410\u0440\u0430\u0430\u0441 \u043A\u0430\u0442\u0435\u0433\u043E\u0440\u0438\u044F\u043B\u0430\u0440\u044B \u043E\u043E\u043D\u043D\u044C\u043E\u043E, \u0431\u0438\u043B\u0438\u0438 \u043E\u0440\u0434\u0443\u043A \u0431\u044D\u0445\u0438\u0439\u044D\u0440.',
       );
 
   String get aboutTip2 => _select(
         en: 'Try answering faster for extra challenge.',
-        ru: 'Попробуйте уменьшить время на ответ для дополнительной сложности.',
-        yakut: 'Эппиэти түргэнник биэрэн ыараханы улаат.',
+        ru: '\u041F\u043E\u043F\u0440\u043E\u0431\u0443\u0439\u0442\u0435 \u0443\u043C\u0435\u043D\u044C\u0448\u0438\u0442\u044C \u0432\u0440\u0435\u043C\u044F \u043D\u0430 \u043E\u0442\u0432\u0435\u0442 \u0434\u043B\u044F \u0434\u043E\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0439 \u0441\u043B\u043E\u0436\u043D\u043E\u0441\u0442\u0438.',
+        yakut: '\u042D\u043F\u043F\u0438\u044D\u0442\u0438 \u0442\u04AF\u0440\u0433\u044D\u043D\u043D\u0438\u043A \u0431\u0438\u044D\u0440\u044D\u043D \u044B\u0430\u0440\u0430\u0445\u0430\u043D\u044B \u0443\u043B\u0430\u0430\u0442.',
       );
 
   String get aboutTip3 => _select(
         en: 'Repeat rounds and compare your progress.',
-        ru: 'Повторяйте раунды и сравнивайте свой прогресс.',
-        yakut: 'Раундтары хаттан оонньоо уонна сайдыыҥы тэҥнэ.',
+        ru: '\u041F\u043E\u0432\u0442\u043E\u0440\u044F\u0439\u0442\u0435 \u0440\u0430\u0443\u043D\u0434\u044B \u0438 \u0441\u0440\u0430\u0432\u043D\u0438\u0432\u0430\u0439\u0442\u0435 \u0441\u0432\u043E\u0439 \u043F\u0440\u043E\u0433\u0440\u0435\u0441\u0441.',
+        yakut: '\u0420\u0430\u0443\u043D\u0434\u0442\u0430\u0440\u044B \u0445\u0430\u0442\u0442\u0430\u043D \u043E\u043E\u043D\u043D\u044C\u043E\u043E \u0443\u043E\u043D\u043D\u0430 \u0441\u0430\u0439\u0434\u044B\u044B\u04A5\u044B \u0442\u044D\u04A5\u043D\u044D.',
       );
 
   String appVersionLabel(String version) {
     return _select(
       en: 'App version: $version',
-      ru: 'Версия приложения: $version',
-      yakut: 'Приложение барыйаана: $version',
+      ru: '\u0412\u0435\u0440\u0441\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F: $version',
+      yakut: '\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0431\u0430\u0440\u044B\u0439\u0430\u0430\u043D\u0430: $version',
     );
   }
 
   String get suggestTitle => _select(
         en: 'Suggest a question',
-        ru: 'Предложить вопрос',
-        yakut: 'Ыйытыыны сүбэлээ',
+        ru: '\u041F\u0440\u0435\u0434\u043B\u043E\u0436\u0438\u0442\u044C \u0432\u043E\u043F\u0440\u043E\u0441',
+        yakut: '\u042B\u0439\u044B\u0442\u044B\u044B\u043D\u044B \u0441\u04AF\u0431\u044D\u043B\u044D\u044D',
       );
 
   String get suggestHeroTitle => _select(
         en: 'Suggest your question',
-        ru: 'Предложите свой вопрос',
-        yakut: 'Бэйэҥ ыйытыыгын ыыт',
+        ru: '\u041F\u0440\u0435\u0434\u043B\u043E\u0436\u0438\u0442\u0435 \u0441\u0432\u043E\u0439 \u0432\u043E\u043F\u0440\u043E\u0441',
+        yakut: '\u0411\u044D\u0439\u044D\u04A5 \u044B\u0439\u044B\u0442\u044B\u044B\u0433\u044B\u043D \u044B\u044B\u0442',
       );
 
   String get suggestHeroDescription => _select(
         en: 'Send your ideas via Instagram, Telegram, or Gmail. The best questions will be added in future updates.',
-        ru: 'Вы можете отправить свои идеи через Instagram, Telegram или Gmail. Лучшие вопросы добавим в следующие обновления.',
-        yakut:
-            'Санааҕын Instagram, Telegram эбэтэр Gmail нөҥүө ыыт. Ордук ыйытыылары салгыы саҥардыыларга эбэбит.',
+        ru: '\u0412\u044B \u043C\u043E\u0436\u0435\u0442\u0435 \u043E\u0442\u043F\u0440\u0430\u0432\u0438\u0442\u044C \u0441\u0432\u043E\u0438 \u0438\u0434\u0435\u0438 \u0447\u0435\u0440\u0435\u0437 Instagram, Telegram \u0438\u043B\u0438 Gmail. \u041B\u0443\u0447\u0448\u0438\u0435 \u0432\u043E\u043F\u0440\u043E\u0441\u044B \u0434\u043E\u0431\u0430\u0432\u0438\u043C \u0432 \u0441\u043B\u0435\u0434\u0443\u044E\u0449\u0438\u0435 \u043E\u0431\u043D\u043E\u0432\u043B\u0435\u043D\u0438\u044F.',
+        yakut: '\u0421\u0430\u043D\u0430\u0430\u0495\u044B\u043D Instagram, Telegram \u044D\u0431\u044D\u0442\u044D\u0440 Gmail \u043D\u04E9\u04A5\u04AF\u04E9 \u044B\u044B\u0442. \u041E\u0440\u0434\u0443\u043A \u044B\u0439\u044B\u0442\u044B\u044B\u043B\u0430\u0440\u044B \u0441\u0430\u043B\u0433\u044B\u044B \u0441\u0430\u04A5\u0430\u0440\u0434\u044B\u044B\u043B\u0430\u0440\u0433\u0430 \u044D\u0431\u044D\u0431\u0438\u0442.',
       );
 
   String get suggestFooter => _select(
         en: 'You can send a question, 4 options, and the correct answer.',
-        ru: 'Можно прислать вопрос, 4 варианта ответа и указать правильный вариант.',
-        yakut: 'Ыйытыыны, 4 эппиэт тардыытын уонна сөп эппиэти ыыта сылдь.',
+        ru: '\u041C\u043E\u0436\u043D\u043E \u043F\u0440\u0438\u0441\u043B\u0430\u0442\u044C \u0432\u043E\u043F\u0440\u043E\u0441, 4 \u0432\u0430\u0440\u0438\u0430\u043D\u0442\u0430 \u043E\u0442\u0432\u0435\u0442\u0430 \u0438 \u0443\u043A\u0430\u0437\u0430\u0442\u044C \u043F\u0440\u0430\u0432\u0438\u043B\u044C\u043D\u044B\u0439 \u0432\u0430\u0440\u0438\u0430\u043D\u0442.',
+        yakut: '\u042B\u0439\u044B\u0442\u044B\u044B\u043D\u044B, 4 \u044D\u043F\u043F\u0438\u044D\u0442 \u0442\u0430\u0440\u0434\u044B\u044B\u0442\u044B\u043D \u0443\u043E\u043D\u043D\u0430 \u0441\u04E9\u043F \u044D\u043F\u043F\u0438\u044D\u0442\u0438 \u044B\u044B\u0442\u0430 \u0441\u044B\u043B\u0434\u044C.',
       );
 
   String get suggestInstagramTitle => _select(
         en: 'Instagram',
-        ru: '\u0418\u043d\u0441\u0442\u0430\u0433\u0440\u0430\u043c',
-        yakut: '\u0418\u043d\u0441\u0442\u0430\u0433\u0440\u0430\u043c',
+        ru: '\u0418\u043D\u0441\u0442\u0430\u0433\u0440\u0430\u043C',
+        yakut: '\u0418\u043D\u0441\u0442\u0430\u0433\u0440\u0430\u043C',
       );
 
   String get suggestTelegramTitle => _select(
         en: 'Telegram',
-        ru: '\u0422\u0435\u043b\u0435\u0433\u0440\u0430\u043c',
-        yakut: '\u0422\u0435\u043b\u0435\u0433\u0440\u0430\u043c',
+        ru: '\u0422\u0435\u043B\u0435\u0433\u0440\u0430\u043C',
+        yakut: '\u0422\u0435\u043B\u0435\u0433\u0440\u0430\u043C',
       );
 
   String get suggestGmailTitle => _select(
@@ -1058,20 +1060,298 @@ class AppTexts {
 
   String get suggestOpenLinkFailed => _select(
         en: 'Could not open the link. Please try again later.',
-        ru: 'Не удалось открыть ссылку. Попробуйте позже.',
-        yakut: 'Сигэни арыйар кыах суох. Кэлин көрүҥ.',
+        ru: '\u041D\u0435 \u0443\u0434\u0430\u043B\u043E\u0441\u044C \u043E\u0442\u043A\u0440\u044B\u0442\u044C \u0441\u0441\u044B\u043B\u043A\u0443. \u041F\u043E\u043F\u0440\u043E\u0431\u0443\u0439\u0442\u0435 \u043F\u043E\u0437\u0436\u0435.',
+        yakut: '\u0421\u0438\u0433\u044D\u043D\u0438 \u0430\u0440\u044B\u0439\u0430\u0440 \u043A\u044B\u0430\u0445 \u0441\u0443\u043E\u0445. \u041A\u044D\u043B\u0438\u043D \u043A\u04E9\u0440\u04AF\u04A5.',
       );
 
   String get suggestMailSubject => _select(
         en: 'Question suggestion for Quiz Game',
-        ru: 'Предложение вопроса для Quiz Game',
-        yakut: 'Quiz Game-ка ыйытыы сүбэтэ',
+        ru: '\u041F\u0440\u0435\u0434\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u043E\u043F\u0440\u043E\u0441\u0430 \u0434\u043B\u044F Quiz Game',
+        yakut: 'Quiz Game-\u043A\u0430 \u044B\u0439\u044B\u0442\u044B\u044B \u0441\u04AF\u0431\u044D\u0442\u044D',
       );
 
   String get suggestMailBody => _select(
         en: 'Hello!\n\nI would like to suggest a new question:\n- Country:\n- Category:\n- Question:\n- Answer options:\n- Correct answer:\n',
-        ru: 'Здравствуйте!\n\nХочу предложить новый вопрос:\n- Страна:\n- Категория:\n- Вопрос:\n- Варианты ответов:\n- Правильный ответ:\n',
-        yakut:
-            'Дорообо!\n\nСаҥа ыйытыыны сүбэлиибин:\n- Дойду:\n- Категория:\n- Ыйытыы:\n- Эппиэт тардыыта:\n- Сөп эппиэт:\n',
+        ru: '\u0417\u0434\u0440\u0430\u0432\u0441\u0442\u0432\u0443\u0439\u0442\u0435!\n\n\u0425\u043E\u0447\u0443 \u043F\u0440\u0435\u0434\u043B\u043E\u0436\u0438\u0442\u044C \u043D\u043E\u0432\u044B\u0439 \u0432\u043E\u043F\u0440\u043E\u0441:\n- \u0421\u0442\u0440\u0430\u043D\u0430:\n- \u041A\u0430\u0442\u0435\u0433\u043E\u0440\u0438\u044F:\n- \u0412\u043E\u043F\u0440\u043E\u0441:\n- \u0412\u0430\u0440\u0438\u0430\u043D\u0442\u044B \u043E\u0442\u0432\u0435\u0442\u043E\u0432:\n- \u041F\u0440\u0430\u0432\u0438\u043B\u044C\u043D\u044B\u0439 \u043E\u0442\u0432\u0435\u0442:\n',
+        yakut: '\u0414\u043E\u0440\u043E\u043E\u0431\u043E!\n\n\u0421\u0430\u04A5\u0430 \u044B\u0439\u044B\u0442\u044B\u044B\u043D\u044B \u0441\u04AF\u0431\u044D\u043B\u0438\u0438\u0431\u0438\u043D:\n- \u0414\u043E\u0439\u0434\u0443:\n- \u041A\u0430\u0442\u0435\u0433\u043E\u0440\u0438\u044F:\n- \u042B\u0439\u044B\u0442\u044B\u044B:\n- \u042D\u043F\u043F\u0438\u044D\u0442 \u0442\u0430\u0440\u0434\u044B\u044B\u0442\u0430:\n- \u0421\u04E9\u043F \u044D\u043F\u043F\u0438\u044D\u0442:\n',
       );
+  String get achievementsActionTitle => _select(
+        en: 'Achievements',
+        ru: '\u0414\u043E\u0441\u0442\u0438\u0436\u0435\u043D\u0438\u044F',
+        yakut: '\u0421\u0438\u0442\u0438\u0441\u0438\u0438\u043B\u044D\u0440',
+      );
+
+  String get achievementsActionSubtitle => _select(
+        en: 'Track unlocked goals',
+        ru: '\u041E\u0442\u0441\u043B\u0435\u0436\u0438\u0432\u0430\u0439\u0442\u0435 \u043E\u0442\u043A\u0440\u044B\u0442\u044B\u0435 \u0446\u0435\u043B\u0438',
+        yakut: '\u0410\u0440\u044B\u043B\u043B\u044B\u0431\u044B\u0442 \u0441\u044B\u043B\u0434\u044C\u044B\u0431\u044B\u0442 \u0441\u0438\u0442\u0438\u0441\u0438\u0438\u043B\u044D\u0440\u0438',
+      );
+
+  String get profileActionTooltip => _select(
+        en: 'Open profile',
+        ru: '\u041E\u0442\u043A\u0440\u044B\u0442\u044C \u043F\u0440\u043E\u0444\u0438\u043B\u044C',
+        yakut: '\u041F\u0440\u043E\u0444\u0438\u043B\u0438 \u0430\u0440\u044B\u0439',
+      );
+
+  String get profileTitle => _select(
+        en: 'Profile',
+        ru: '\u041F\u0440\u043E\u0444\u0438\u043B\u044C',
+        yakut: '\u041F\u0440\u043E\u0444\u0438\u043B\u044C',
+      );
+
+  String get profileSummaryTitle => _select(
+        en: 'Overall progress',
+        ru: '\u041E\u0431\u0449\u0438\u0439 \u043F\u0440\u043E\u0433\u0440\u0435\u0441\u0441',
+        yakut: '\u0421\u04AF\u0440\u04AF\u043D \u0441\u0430\u0439\u0434\u044B\u044B',
+      );
+
+  String get profileTotalRoundsLabel => _select(
+        en: 'Rounds',
+        ru: '\u0420\u0430\u0443\u043D\u0434\u044B',
+        yakut: '\u0420\u0430\u0443\u043D\u0434\u0442\u0430\u0440',
+      );
+
+  String get profileTotalQuestionsLabel => _select(
+        en: 'Questions',
+        ru: '\u0412\u043E\u043F\u0440\u043E\u0441\u044B',
+        yakut: '\u042B\u0439\u044B\u0442\u044B\u044B\u043B\u0430\u0440',
+      );
+
+  String get profileTotalCorrectLabel => _select(
+        en: 'Correct',
+        ru: '\u041F\u0440\u0430\u0432\u0438\u043B\u044C\u043D\u044B\u0445',
+        yakut: '\u0421\u04E9\u043F',
+      );
+
+  String get profileAccuracyLabel => _select(
+        en: 'Accuracy',
+        ru: '\u0422\u043E\u0447\u043D\u043E\u0441\u0442\u044C',
+        yakut: '\u0422\u04E9\u0440\u04AF\u0442\u0442\u04AF\u04AF\u0440',
+      );
+
+  String get profileHintBalanceLabel => _select(
+        en: 'Hints',
+        ru: '\u041F\u043E\u0434\u0441\u043A\u0430\u0437\u043A\u0438',
+        yakut: '\u042B\u0439\u0430\u0430\u0440\u044B\u044B\u043B\u0430\u0440',
+      );
+
+  String get profileAchievementsLabel => _select(
+        en: 'Achievements',
+        ru: '\u0414\u043E\u0441\u0442\u0438\u0436\u0435\u043D\u0438\u044F',
+        yakut: '\u0421\u0438\u0442\u0438\u0441\u0438\u0438\u043B\u044D\u0440',
+      );
+
+  String get profileByCountriesTitle => _select(
+        en: 'By countries',
+        ru: '\u041F\u043E \u0441\u0442\u0440\u0430\u043D\u0430\u043C',
+        yakut: '\u0414\u043E\u0439\u0434\u0443\u043B\u0430\u0440\u044B\u043D\u0430\u043D',
+      );
+
+  String get profileEmptyCountries => _select(
+        en: 'No completed rounds yet.',
+        ru: '\u041F\u043E\u043A\u0430 \u043D\u0435\u0442 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043D\u043D\u044B\u0445 \u0440\u0430\u0443\u043D\u0434\u043E\u0432.',
+        yakut: '\u0411\u0438\u0440\u0434\u0438\u0438 \u0431\u04AF\u0442\u044D\u0440 \u0440\u0430\u0443\u043D\u0434 \u0441\u0443\u043E\u0445 \u044D\u0442\u044D.',
+      );
+
+  String profileCountryRoundsLabel(int rounds) {
+    return _select(
+      en: 'Rounds: $rounds',
+      ru: '\u0420\u0430\u0443\u043D\u0434\u044B: $rounds',
+      yakut: '\u0420\u0430\u0443\u043D\u0434\u0442\u0430\u0440: $rounds',
+    );
+  }
+
+  String profileCountryAccuracyLabel(int percent) {
+    return _select(
+      en: 'Accuracy: $percent%',
+      ru: '\u0422\u043E\u0447\u043D\u043E\u0441\u0442\u044C: $percent%',
+      yakut: '\u0422\u04E9\u0440\u04AF\u0442\u0442\u04AF\u04AF\u0440: $percent%',
+    );
+  }
+
+  String get achievementsTitle => _select(
+        en: 'Achievements',
+        ru: '\u0414\u043E\u0441\u0442\u0438\u0436\u0435\u043D\u0438\u044F',
+        yakut: '\u0421\u0438\u0442\u0438\u0441\u0438\u0438\u043B\u044D\u0440',
+      );
+
+  String achievementsProgressLabel(int unlocked, int total) {
+    return _select(
+      en: 'Unlocked: $unlocked / $total',
+      ru: '\u041E\u0442\u043A\u0440\u044B\u0442\u043E: $unlocked / $total',
+      yakut: '\u0410\u0440\u044B\u043B\u043B\u044B\u0431\u044B\u0442\u0430: $unlocked / $total',
+    );
+  }
+
+  String get achievementDoneLabel => _select(
+        en: 'Done',
+        ru: '\u0412\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u043E',
+        yakut: '\u0422\u043E\u043B\u043E\u0440\u0443\u043B\u043B\u0443\u0431\u0443\u0442',
+      );
+
+  String get achievementInProgressLabel => _select(
+        en: 'In progress',
+        ru: '\u0412 \u043F\u0440\u043E\u0446\u0435\u0441\u0441\u0435',
+        yakut: '\u0421\u0430\u0439\u0434\u044B\u043B\u043B\u0430\u0440',
+      );
+
+  String quizTimerLabel(int seconds) {
+    return _select(
+      en: 'Time: $seconds sec',
+      ru: '\u0412\u0440\u0435\u043C\u044F: $seconds\u0441',
+      yakut: '\u041A\u044D\u043C: $seconds\u0441',
+    );
+  }
+
+  String get quizTimerPausedLabel => _select(
+        en: 'Timer paused',
+        ru: '\u0422\u0430\u0439\u043C\u0435\u0440 \u043D\u0430 \u043F\u0430\u0443\u0437\u0435',
+        yakut: '\u0422\u0430\u0439\u043C\u0435\u0440 \u0442\u043E\u0445\u0442\u043E\u043E\u0442\u0443\u043B\u043B\u0443\u0431\u0443\u0442',
+      );
+
+  String quizHintButtonLabel(int balance) {
+    return _select(
+      en: 'Hint 50/50 ($balance)',
+      ru: '\u041F\u043E\u0434\u0441\u043A\u0430\u0437\u043A\u0430 50/50 ($balance)',
+      yakut: '\u042B\u0439\u0430\u0430\u0440\u044B\u044B 50/50 ($balance)',
+    );
+  }
+
+  String get quizHintNoBalance => _select(
+        en: 'No hints left.',
+        ru: '\u041F\u043E\u0434\u0441\u043A\u0430\u0437\u043A\u0438 \u0437\u0430\u043A\u043E\u043D\u0447\u0438\u043B\u0438\u0441\u044C.',
+        yakut: '\u042B\u0439\u0430\u0430\u0440\u044B\u044B\u043B\u0430\u0440 \u0431\u04AF\u0442\u0442\u04AF\u043B\u043B\u04AF\u0431\u04AF\u0442.',
+      );
+
+  String get quizHintAlreadyUsed => _select(
+        en: 'Hint is already used for this question.',
+        ru: '\u0414\u043B\u044F \u044D\u0442\u043E\u0433\u043E \u0432\u043E\u043F\u0440\u043E\u0441\u0430 \u043F\u043E\u0434\u0441\u043A\u0430\u0437\u043A\u0430 \u0443\u0436\u0435 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0430.',
+        yakut: '\u0411\u0443 \u044B\u0439\u044B\u0442\u044B\u044B\u0433\u0430 \u044B\u0439\u0430\u0430\u0440\u044B\u044B \u0443\u0436\u0435 \u0442\u0443\u04BB\u0430\u043D\u044B\u043B\u043B\u044B\u0431\u044B\u0442.',
+      );
+
+  String get quizHintUnavailable => _select(
+        en: 'Hint is unavailable for this question.',
+        ru: '\u0414\u043B\u044F \u044D\u0442\u043E\u0433\u043E \u0432\u043E\u043F\u0440\u043E\u0441\u0430 \u043F\u043E\u0434\u0441\u043A\u0430\u0437\u043A\u0430 \u043D\u0435\u0434\u043E\u0441\u0442\u0443\u043F\u043D\u0430.',
+        yakut: '\u0411\u0443 \u044B\u0439\u044B\u0442\u044B\u044B\u0433\u0430 \u044B\u0439\u0430\u0430\u0440\u044B\u044B \u0442\u0443\u04BB\u0430\u043D\u044B\u043B\u043B\u0430\u0440 \u0441\u0443\u043E\u0445 \u044D\u0442\u044D.',
+      );
+
+  String dailyHintGrantedMessage(int balance) {
+    return _select(
+      en: 'Daily reward: +1 hint. Balance: $balance',
+      ru: '\u0415\u0436\u0435\u0434\u043D\u0435\u0432\u043D\u044B\u0439 \u0431\u043E\u043D\u0443\u0441: +1 \u043F\u043E\u0434\u0441\u043A\u0430\u0437\u043A\u0430. \u0411\u0430\u043B\u0430\u043D\u0441: $balance',
+      yakut: '\u041A\u04AF\u043D\u043D\u04AF\u0431\u04AF\u043D\u044D\u044D\u04BB\u0438 \u0431\u043E\u043D\u0443\u0441: +1 \u044B\u0439\u0430\u0430\u0440\u044B\u044B. \u0411\u0430\u043B\u0430\u043D\u0441: $balance',
+    );
+  }
+
+  String get resultNewAchievementsTitle => _select(
+        en: 'New achievements',
+        ru: '\u041D\u043E\u0432\u044B\u0435 \u0434\u043E\u0441\u0442\u0438\u0436\u0435\u043D\u0438\u044F',
+        yakut: '\u0421\u0430\u04A5\u0430 \u0441\u0438\u0442\u0438\u0441\u0438\u0438\u043B\u044D\u0440',
+      );
+
+  String achievementTitle(AchievementId id) {
+    switch (id) {
+      case AchievementId.firstRound:
+        return _select(
+          en: 'First round',
+          ru: '\u041F\u0435\u0440\u0432\u044B\u0439 \u0440\u0430\u0443\u043D\u0434',
+          yakut: '\u0411\u0430\u0441\u0442\u0430\u0430\u04A5\u044B \u0440\u0430\u0443\u043D\u0434',
+        );
+      case AchievementId.fiveRounds:
+        return _select(
+          en: 'Five rounds',
+          ru: '\u041F\u044F\u0442\u044C \u0440\u0430\u0443\u043D\u0434\u043E\u0432',
+          yakut: '\u0411\u0438\u044D\u0441 \u0440\u0430\u0443\u043D\u0434',
+        );
+      case AchievementId.twentyRounds:
+        return _select(
+          en: 'Twenty rounds',
+          ru: '\u0414\u0432\u0430\u0434\u0446\u0430\u0442\u044C \u0440\u0430\u0443\u043D\u0434\u043E\u0432',
+          yakut: '\u0421\u04AF\u04BB\u04AF \u0440\u0430\u0443\u043D\u0434',
+        );
+      case AchievementId.perfectRound:
+        return _select(
+          en: 'Perfect round',
+          ru: '\u0418\u0434\u0435\u0430\u043B\u044C\u043D\u044B\u0439 \u0440\u0430\u0443\u043D\u0434',
+          yakut: '\u0418\u0434\u0435\u0430\u043B\u044C\u043D\u0430\u0439 \u0440\u0430\u0443\u043D\u0434',
+        );
+      case AchievementId.accuracyMaster:
+        return _select(
+          en: 'Accuracy master',
+          ru: '\u041C\u0430\u0441\u0442\u0435\u0440 \u0442\u043E\u0447\u043D\u043E\u0441\u0442\u0438',
+          yakut: '\u0422\u04E9\u0440\u04AF\u0442\u0442\u04AF\u04AF\u0440 \u043C\u0430\u0430\u0441\u0442\u044B\u0440\u0430',
+        );
+      case AchievementId.worldExplorer:
+        return _select(
+          en: 'World explorer',
+          ru: '\u0418\u0441\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C \u043C\u0438\u0440\u0430',
+          yakut: '\u0410\u0430\u0495\u044B \u0438\u0441\u0447\u0443\u0439\u0443\u043E\u0442\u0430',
+        );
+      case AchievementId.hintTactician:
+        return _select(
+          en: 'Hint tactician',
+          ru: '\u0422\u0430\u043A\u0442\u0438\u043A \u043F\u043E\u0434\u0441\u043A\u0430\u0437\u043E\u043A',
+          yakut: '\u042B\u0439\u0430\u0430\u0440\u044B\u044B \u0442\u0430\u043A\u0442\u0438\u043A\u0430\u0442\u0430',
+        );
+      case AchievementId.speedClean:
+        return _select(
+          en: 'Speed clean',
+          ru: '\u0411\u044B\u0441\u0442\u0440\u043E \u0438 \u0442\u043E\u0447\u043D\u043E',
+          yakut: '\u0422\u04AF\u0440\u0433\u044D\u043D \u0443\u043E\u043D\u043D\u0430 \u0442\u04E9\u0440\u04AF\u0442\u0442\u04AF\u04AF\u0440',
+        );
+    }
+  }
+
+  String achievementDescription(AchievementId id) {
+    switch (id) {
+      case AchievementId.firstRound:
+        return _select(
+          en: 'Complete 1 round.',
+          ru: '\u0417\u0430\u0432\u0435\u0440\u0448\u0438\u0442\u0435 1 \u0440\u0430\u0443\u043D\u0434.',
+          yakut: '1 \u0440\u0430\u0443\u043D\u0434\u0443 \u0431\u04AF\u0442\u044D\u0440.',
+        );
+      case AchievementId.fiveRounds:
+        return _select(
+          en: 'Complete 5 rounds.',
+          ru: '\u0417\u0430\u0432\u0435\u0440\u0448\u0438\u0442\u0435 5 \u0440\u0430\u0443\u043D\u0434\u043E\u0432.',
+          yakut: '5 \u0440\u0430\u0443\u043D\u0434\u0443 \u0431\u04AF\u0442\u044D\u0440.',
+        );
+      case AchievementId.twentyRounds:
+        return _select(
+          en: 'Complete 20 rounds.',
+          ru: '\u0417\u0430\u0432\u0435\u0440\u0448\u0438\u0442\u0435 20 \u0440\u0430\u0443\u043D\u0434\u043E\u0432.',
+          yakut: '20 \u0440\u0430\u0443\u043D\u0434\u0443 \u0431\u04AF\u0442\u044D\u0440.',
+        );
+      case AchievementId.perfectRound:
+        return _select(
+          en: 'Finish a round with 100% score.',
+          ru: '\u041F\u0440\u043E\u0439\u0434\u0438\u0442\u0435 \u0440\u0430\u0443\u043D\u0434 \u043D\u0430 100%.',
+          yakut: '\u0420\u0430\u0443\u043D\u0434\u0443 100% \u043A\u044D\u0440\u0434\u0438\u0438\u043D\u044D\u043D \u0442\u0430\u04BB\u0430\u0430\u0440.',
+        );
+      case AchievementId.accuracyMaster:
+        return _select(
+          en: 'Reach 80% total accuracy with at least 50 questions.',
+          ru: '\u041D\u0430\u0431\u0435\u0440\u0438\u0442\u0435 80% \u0442\u043E\u0447\u043D\u043E\u0441\u0442\u0438 \u043F\u0440\u0438 \u043C\u0438\u043D\u0438\u043C\u0443\u043C 50 \u0432\u043E\u043F\u0440\u043E\u0441\u0430\u0445.',
+          yakut: '\u0421\u043E\u043F\u043F\u0443\u0442\u0443\u043D\u0430\u043D 50 \u044B\u0439\u044B\u0442\u044B\u044B \u0431\u0430\u0440\u0434\u0430\u0495\u044B\u043D\u0430 80% \u0442\u04E9\u0440\u04AF\u0442\u0442\u04AF\u04AF\u0440\u0433\u044D \u0442\u0438\u0439.',
+        );
+      case AchievementId.worldExplorer:
+        return _select(
+          en: 'Play at least one round in 5 different countries.',
+          ru: '\u0421\u044B\u0433\u0440\u0430\u0439\u0442\u0435 \u0445\u043E\u0442\u044F \u0431\u044B \u043F\u043E 1 \u0440\u0430\u0443\u043D\u0434\u0443 \u0432 5 \u0440\u0430\u0437\u043D\u044B\u0445 \u0441\u0442\u0440\u0430\u043D\u0430\u0445.',
+          yakut: '5 \u0430\u0440\u0430\u0430\u0441 \u0434\u043E\u0439\u0434\u0443\u0433\u0430 \u0445\u043E\u0442\u0430 \u0431\u0438\u0440\u0434\u0438\u0438 \u0440\u0430\u0443\u043D\u0434\u0443 \u043E\u043E\u043D\u043D\u044C\u043E\u043E.',
+        );
+      case AchievementId.hintTactician:
+        return _select(
+          en: 'Use 10 hints in total.',
+          ru: '\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0439\u0442\u0435 10 \u043F\u043E\u0434\u0441\u043A\u0430\u0437\u043E\u043A.',
+          yakut: '10 \u044B\u0439\u0430\u0430\u0440\u044B\u044B \u0442\u0443\u04BB\u0430\u043D\u044B\u043B\u043B\u0430\u0440.',
+        );
+      case AchievementId.speedClean:
+        return _select(
+          en: 'With timer on: finish a round with >=80% and no timeouts.',
+          ru: '\u041F\u0440\u0438 \u0432\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u043E\u043C \u0442\u0430\u0439\u043C\u0435\u0440\u0435: \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u0442\u0435 \u0440\u0430\u0443\u043D\u0434 \u043D\u0430 >=80% \u0431\u0435\u0437 \u0442\u0430\u0439\u043C\u0430\u0443\u0442\u043E\u0432.',
+          yakut: '\u0422\u0430\u0439\u043C\u0435\u0440 \u0445\u043E\u043B\u0431\u043E\u043E\u0442\u0443\u0433\u0430: \u0440\u0430\u0443\u043D\u0434\u0443 >=80% \u0443\u043E\u043D\u043D\u0430 \u0442\u0430\u0439\u043C\u0430\u0443\u0442 \u0441\u0443\u043E\u0445 \u0431\u04AF\u0442\u044D\u0440.',
+        );
+    }
+  }
 }

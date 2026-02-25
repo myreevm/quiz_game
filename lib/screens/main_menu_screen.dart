@@ -3,13 +3,36 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 
 import '../models/app_texts.dart';
+import '../models/player_progress.dart';
 import 'about_screen.dart';
+import 'achievements_screen.dart';
 import 'country_selection_screen.dart';
+import 'profile_screen.dart';
 import 'settings_screen.dart';
 import 'suggest_question_screen.dart';
 
-class MainMenuScreen extends StatelessWidget {
+class MainMenuScreen extends StatefulWidget {
   const MainMenuScreen({super.key});
+
+  @override
+  State<MainMenuScreen> createState() => _MainMenuScreenState();
+}
+
+class _MainMenuScreenState extends State<MainMenuScreen> {
+  bool _dailyHintChecked = false;
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    if (_dailyHintChecked) {
+      return;
+    }
+
+    _dailyHintChecked = true;
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      _claimDailyHintReward();
+    });
+  }
 
   void _openScreen(BuildContext context, Widget screen) {
     Navigator.push(
@@ -45,6 +68,28 @@ class MainMenuScreen extends StatelessWidget {
     }
   }
 
+  void _claimDailyHintReward() {
+    if (!mounted) {
+      return;
+    }
+
+    final progressController = PlayerProgressScope.of(context);
+    final claimResult =
+        progressController.claimDailyHintIfNeeded(DateTime.now());
+    if (claimResult != DailyHintClaimResult.granted || !mounted) {
+      return;
+    }
+
+    final texts = AppTexts.of(context);
+    final balance = progressController.progress.hintBalance;
+
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        content: Text(texts.dailyHintGrantedMessage(balance)),
+      ),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     final texts = AppTexts.of(context);
@@ -56,6 +101,13 @@ class MainMenuScreen extends StatelessWidget {
         title: Text(texts.mainMenuTitle),
         backgroundColor: Colors.transparent,
         elevation: 0,
+        actions: [
+          IconButton(
+            tooltip: texts.profileActionTooltip,
+            onPressed: () => _openScreen(context, const ProfileScreen()),
+            icon: const Icon(Icons.person_rounded),
+          ),
+        ],
       ),
       body: Container(
         decoration: BoxDecoration(
@@ -101,6 +153,17 @@ class MainMenuScreen extends StatelessWidget {
                           onTap: () => _openScreen(
                             context,
                             const CountrySelectionScreen(),
+                          ),
+                        ),
+                        const SizedBox(height: 12),
+                        _MenuActionCard(
+                          title: texts.achievementsActionTitle,
+                          subtitle: texts.achievementsActionSubtitle,
+                          icon: Icons.emoji_events_rounded,
+                          color: colorScheme.tertiary,
+                          onTap: () => _openScreen(
+                            context,
+                            const AchievementsScreen(),
                           ),
                         ),
                         const SizedBox(height: 12),

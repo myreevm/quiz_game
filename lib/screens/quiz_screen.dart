@@ -1,9 +1,11 @@
+import 'dart:async';
 import 'dart:math';
 
 import 'package:flutter/material.dart';
 
 import '../models/app_settings.dart';
 import '../models/app_texts.dart';
+import '../models/player_progress.dart';
 import '../models/question.dart';
 import '../services/question_service.dart';
 import 'result_screen.dart';
@@ -25,11 +27,24 @@ class QuizScreen extends StatefulWidget {
 }
 
 class _QuizScreenState extends State<QuizScreen> {
+  static const int _questionTimeLimitSec = 20;
+
   int questionIndex = 0;
   int score = 0;
   List<Question> questions = [];
   bool isLoading = true;
   bool hasLoadedData = false;
+
+  bool _timerEnabledForRound = true;
+  Timer? _questionTimer;
+  int _secondsLeft = _questionTimeLimitSec;
+  bool _isTimerPausedForHint = false;
+  bool _isSubmittingAnswer = false;
+  bool _hintUsedForCurrentQuestion = false;
+
+  int _timeoutsInRound = 0;
+  int _hintsUsedInRound = 0;
+  Set<int> _visibleAnswerIndexes = <int>{};
 
   @override
   void didChangeDependencies() {
@@ -43,8 +58,16 @@ class _QuizScreenState extends State<QuizScreen> {
     loadData();
   }
 
+  @override
+  void dispose() {
+    _questionTimer?.cancel();
+    super.dispose();
+  }
+
   Future<void> loadData() async {
     final appSettings = AppSettingsScope.of(context).settings;
+    _timerEnabledForRound = appSettings.questionTimerEnabled;
+
     final loadedQuestions = await QuestionService.loadQuestions(
       country: widget.country,
       region: widget.region,
@@ -80,14 +103,114 @@ class _QuizScreenState extends State<QuizScreen> {
     setState(() {
       questions = preparedQuestions;
       isLoading = false;
+      if (questions.isNotEmpty) {
+        _resetCurrentQuestionState();
+      }
+    });
+
+    if (questions.isNotEmpty) {
+      _startTimerIfNeeded();
+    }
+  }
+
+  void _startTimerIfNeeded() {
+    _questionTimer?.cancel();
+    if (!_timerEnabledForRound || questions.isEmpty || _isSubmittingAnswer) {
+      return;
+    }
+
+    _questionTimer = Timer.periodic(const Duration(seconds: 1), (timer) {
+      if (!mounted || _isSubmittingAnswer || _isTimerPausedForHint) {
+        return;
+      }
+
+      if (_secondsLeft <= 1) {
+        setState(() {
+          _secondsLeft = 0;
+        });
+        _submitAnswer(0, isTimeout: true);
+        return;
+      }
+
+      setState(() {
+        _secondsLeft -= 1;
+      });
     });
   }
 
-  void answerQuestion(int answerScore) {
+  void _pauseTimerForHint() {
+    if (!_timerEnabledForRound || _isTimerPausedForHint) {
+      return;
+    }
+
+    _questionTimer?.cancel();
+    setState(() {
+      _isTimerPausedForHint = true;
+    });
+
+    Future.delayed(const Duration(seconds: 3), () {
+      if (!mounted || _isSubmittingAnswer) {
+        return;
+      }
+
+      setState(() {
+        _isTimerPausedForHint = false;
+      });
+      _startTimerIfNeeded();
+    });
+  }
+
+  void _resetCurrentQuestionState() {
+    final answerCount = questions[questionIndex].answers.length;
+    _visibleAnswerIndexes = {
+      for (var i = 0; i < answerCount; i++) i,
+    };
+    _hintUsedForCurrentQuestion = false;
+    _isSubmittingAnswer = false;
+    _isTimerPausedForHint = false;
+    _secondsLeft = _questionTimeLimitSec;
+  }
+
+  Future<void> _submitAnswer(
+    int answerScore, {
+    bool isTimeout = false,
+  }) async {
+    if (_isSubmittingAnswer || !mounted) {
+      return;
+    }
+
+    _isSubmittingAnswer = true;
+    _questionTimer?.cancel();
+
+    if (isTimeout) {
+      _timeoutsInRound += 1;
+    }
+
     score += answerScore;
 
     if (questionIndex < questions.length - 1) {
-      setState(() => questionIndex++);
+      setState(() {
+        questionIndex += 1;
+        _resetCurrentQuestionState();
+      });
+      _startTimerIfNeeded();
+      return;
+    }
+
+    final normalizedScore = _normalizedScore(score, questions.length);
+    final progressController = PlayerProgressScope.of(context);
+    final newlyUnlocked = progressController.recordRound(
+      RoundRecord(
+        country: widget.country,
+        totalQuestions: questions.length,
+        correctAnswers: normalizedScore,
+        timeouts: _timeoutsInRound,
+        timerWasEnabled: _timerEnabledForRound,
+        hintsUsed: _hintsUsedInRound,
+      ),
+    );
+
+    if (!mounted) {
       return;
     }
 
@@ -95,16 +218,107 @@ class _QuizScreenState extends State<QuizScreen> {
       context,
       MaterialPageRoute(
         builder: (_) => ResultScreen(
-          score: score,
+          score: normalizedScore,
           total: questions.length,
+          newlyUnlocked: newlyUnlocked,
         ),
       ),
+    );
+  }
+
+  void _useHint() {
+    if (questions.isEmpty || _isSubmittingAnswer) {
+      return;
+    }
+
+    final texts = AppTexts.of(context);
+    final currentQuestion = questions[questionIndex];
+
+    if (_hintUsedForCurrentQuestion) {
+      _showHintMessage(texts.quizHintAlreadyUsed);
+      return;
+    }
+
+    final correctIndex = _correctAnswerIndex(currentQuestion);
+    if (correctIndex == null) {
+      _showHintMessage(texts.quizHintUnavailable);
+      return;
+    }
+
+    final wrongIndexes = <int>[];
+    for (var i = 0; i < currentQuestion.answers.length; i++) {
+      if (i != correctIndex) {
+        wrongIndexes.add(i);
+      }
+    }
+
+    if (wrongIndexes.isEmpty) {
+      _showHintMessage(texts.quizHintUnavailable);
+      return;
+    }
+
+    final progressController = PlayerProgressScope.of(context);
+    if (!progressController.tryConsumeHint()) {
+      _showHintMessage(texts.quizHintNoBalance);
+      return;
+    }
+
+    wrongIndexes.shuffle(Random());
+    final keepWrong = wrongIndexes.first;
+
+    setState(() {
+      _hintUsedForCurrentQuestion = true;
+      _hintsUsedInRound += 1;
+      _visibleAnswerIndexes = {correctIndex, keepWrong};
+    });
+
+    _pauseTimerForHint();
+  }
+
+  int? _correctAnswerIndex(Question question) {
+    if (question.answers.length < 2) {
+      return null;
+    }
+
+    var bestIndex = 0;
+    var bestScore = question.answers.first.score;
+    for (var i = 1; i < question.answers.length; i++) {
+      final score = question.answers[i].score;
+      if (score > bestScore) {
+        bestScore = score;
+        bestIndex = i;
+      }
+    }
+
+    final hasWrongAnswer =
+        question.answers.any((answer) => answer.score < bestScore);
+    if (!hasWrongAnswer) {
+      return null;
+    }
+
+    return bestIndex;
+  }
+
+  int _normalizedScore(int rawScore, int totalQuestions) {
+    if (rawScore < 0) {
+      return 0;
+    }
+    if (rawScore > totalQuestions) {
+      return totalQuestions;
+    }
+    return rawScore;
+  }
+
+  void _showHintMessage(String message) {
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(content: Text(message)),
     );
   }
 
   @override
   Widget build(BuildContext context) {
     final texts = AppTexts.of(context);
+    final progressController = PlayerProgressScope.of(context);
 
     if (isLoading) {
       return const Scaffold(
@@ -122,6 +336,11 @@ class _QuizScreenState extends State<QuizScreen> {
     final currentQuestion = questions[questionIndex];
     final progress = (questionIndex + 1) / questions.length;
     final colorScheme = Theme.of(context).colorScheme;
+    final hintBalance = progressController.progress.hintBalance;
+
+    final visibleAnswers = currentQuestion.answers.asMap().entries.where(
+          (entry) => _visibleAnswerIndexes.contains(entry.key),
+        );
 
     return Scaffold(
       extendBodyBehindAppBar: true,
@@ -166,8 +385,13 @@ class _QuizScreenState extends State<QuizScreen> {
                           texts: texts,
                           currentQuestion: questionIndex + 1,
                           totalQuestions: questions.length,
-                          score: score,
+                          score: _normalizedScore(score, questions.length),
                           progress: progress,
+                          timerEnabled: _timerEnabledForRound,
+                          secondsLeft: _secondsLeft,
+                          timerPausedForHint: _isTimerPausedForHint,
+                          hintBalance: hintBalance,
+                          onUseHintPressed: _useHint,
                         ),
                         const SizedBox(height: 14),
                         AnimatedSwitcher(
@@ -188,7 +412,7 @@ class _QuizScreenState extends State<QuizScreen> {
                                   ),
                         ),
                         const SizedBox(height: 10),
-                        ...currentQuestion.answers.asMap().entries.map((entry) {
+                        ...visibleAnswers.map((entry) {
                           final optionIndex = entry.key;
                           final answer = entry.value;
 
@@ -198,7 +422,7 @@ class _QuizScreenState extends State<QuizScreen> {
                               optionIndex: optionIndex,
                               text: answer.text,
                               iconColor: _optionColor(optionIndex, colorScheme),
-                              onTap: () => answerQuestion(answer.score),
+                              onTap: () => _submitAnswer(answer.score),
                             ),
                           );
                         }),
@@ -234,6 +458,11 @@ class _QuizProgressCard extends StatelessWidget {
   final int totalQuestions;
   final int score;
   final double progress;
+  final bool timerEnabled;
+  final int secondsLeft;
+  final bool timerPausedForHint;
+  final int hintBalance;
+  final VoidCallback onUseHintPressed;
 
   const _QuizProgressCard({
     required this.texts,
@@ -241,6 +470,11 @@ class _QuizProgressCard extends StatelessWidget {
     required this.totalQuestions,
     required this.score,
     required this.progress,
+    required this.timerEnabled,
+    required this.secondsLeft,
+    required this.timerPausedForHint,
+    required this.hintBalance,
+    required this.onUseHintPressed,
   });
 
   @override
@@ -294,6 +528,39 @@ class _QuizProgressCard extends StatelessWidget {
                     fontWeight: FontWeight.w700,
                   ),
                 ),
+              ),
+            ],
+          ),
+          const SizedBox(height: 10),
+          Row(
+            children: [
+              if (timerEnabled)
+                Container(
+                  padding:
+                      const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+                  decoration: BoxDecoration(
+                    color: Colors.white.withValues(alpha: 0.2),
+                    borderRadius: BorderRadius.circular(999),
+                  ),
+                  child: Text(
+                    timerPausedForHint
+                        ? texts.quizTimerPausedLabel
+                        : texts.quizTimerLabel(secondsLeft),
+                    style: textTheme.labelLarge?.copyWith(
+                      color: Colors.white,
+                      fontWeight: FontWeight.w700,
+                    ),
+                  ),
+                ),
+              const Spacer(),
+              FilledButton.tonalIcon(
+                onPressed: onUseHintPressed,
+                style: FilledButton.styleFrom(
+                  foregroundColor: colorScheme.onPrimary,
+                  backgroundColor: Colors.white.withValues(alpha: 0.2),
+                ),
+                icon: const Icon(Icons.lightbulb_rounded, size: 18),
+                label: Text(texts.quizHintButtonLabel(hintBalance)),
               ),
             ],
           ),

@@ -31,6 +31,12 @@ class SettingsScreen extends StatelessWidget {
             onChanged: settingsController.setSoundEnabled,
           ),
           SwitchListTile(
+            title: Text(texts.settingsTimerTitle),
+            subtitle: Text(texts.settingsTimerSubtitle),
+            value: settings.questionTimerEnabled,
+            onChanged: settingsController.setQuestionTimerEnabled,
+          ),
+          SwitchListTile(
             title: Text(texts.settingsShuffleQuestionsTitle),
             subtitle: Text(texts.settingsShuffleQuestionsSubtitle),
             value: settings.shuffleQuestions,

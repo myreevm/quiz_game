@@ -11,6 +11,7 @@ enum AppLanguage {
 class AppSettings {
   final bool darkModeEnabled;
   final bool soundEnabled;
+  final bool questionTimerEnabled;
   final bool shuffleQuestions;
   final bool shuffleAnswers;
   final int questionsPerRound;
@@ -19,6 +20,7 @@ class AppSettings {
   const AppSettings({
     this.darkModeEnabled = false,
     this.soundEnabled = true,
+    this.questionTimerEnabled = true,
     this.shuffleQuestions = true,
     this.shuffleAnswers = true,
     this.questionsPerRound = 10,
@@ -28,6 +30,7 @@ class AppSettings {
   AppSettings copyWith({
     bool? darkModeEnabled,
     bool? soundEnabled,
+    bool? questionTimerEnabled,
     bool? shuffleQuestions,
     bool? shuffleAnswers,
     int? questionsPerRound,
@@ -36,6 +39,7 @@ class AppSettings {
     return AppSettings(
       darkModeEnabled: darkModeEnabled ?? this.darkModeEnabled,
       soundEnabled: soundEnabled ?? this.soundEnabled,
+      questionTimerEnabled: questionTimerEnabled ?? this.questionTimerEnabled,
       shuffleQuestions: shuffleQuestions ?? this.shuffleQuestions,
       shuffleAnswers: shuffleAnswers ?? this.shuffleAnswers,
       questionsPerRound: questionsPerRound ?? this.questionsPerRound,
@@ -62,6 +66,10 @@ class AppSettingsController extends ChangeNotifier {
 
   void setSoundEnabled(bool enabled) {
     _updateSettings(_settings.copyWith(soundEnabled: enabled));
+  }
+
+  void setQuestionTimerEnabled(bool enabled) {
+    _updateSettings(_settings.copyWith(questionTimerEnabled: enabled));
   }
 
   void setShuffleQuestions(bool enabled) {
@@ -93,6 +101,7 @@ class AppSettingsController extends ChangeNotifier {
   bool _isSameSettings(AppSettings a, AppSettings b) {
     return a.darkModeEnabled == b.darkModeEnabled &&
         a.soundEnabled == b.soundEnabled &&
+        a.questionTimerEnabled == b.questionTimerEnabled &&
         a.shuffleQuestions == b.shuffleQuestions &&
         a.shuffleAnswers == b.shuffleAnswers &&
         a.questionsPerRound == b.questionsPerRound &&

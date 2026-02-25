@@ -6,6 +6,7 @@ import '../models/app_settings.dart';
 class AppSettingsStorage {
   static const String _darkModeKey = 'settings.dark_mode_enabled';
   static const String _soundKey = 'settings.sound_enabled';
+  static const String _questionTimerKey = 'settings.question_timer_enabled';
   static const String _shuffleQuestionsKey = 'settings.shuffle_questions';
   static const String _shuffleAnswersKey = 'settings.shuffle_answers';
   static const String _questionsPerRoundKey = 'settings.questions_per_round';
@@ -36,6 +37,8 @@ class AppSettingsStorage {
         darkModeEnabled:
             prefs.getBool(_darkModeKey) ?? defaults.darkModeEnabled,
         soundEnabled: prefs.getBool(_soundKey) ?? defaults.soundEnabled,
+        questionTimerEnabled:
+            prefs.getBool(_questionTimerKey) ?? defaults.questionTimerEnabled,
         shuffleQuestions:
             prefs.getBool(_shuffleQuestionsKey) ?? defaults.shuffleQuestions,
         shuffleAnswers:
@@ -55,6 +58,7 @@ class AppSettingsStorage {
       final prefs = await SharedPreferences.getInstance();
       await prefs.setBool(_darkModeKey, settings.darkModeEnabled);
       await prefs.setBool(_soundKey, settings.soundEnabled);
+      await prefs.setBool(_questionTimerKey, settings.questionTimerEnabled);
       await prefs.setBool(_shuffleQuestionsKey, settings.shuffleQuestions);
       await prefs.setBool(_shuffleAnswersKey, settings.shuffleAnswers);
       await prefs.setInt(_questionsPerRoundKey, settings.questionsPerRound);
