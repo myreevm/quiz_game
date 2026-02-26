@@ -8,6 +8,17 @@ import '../models/question.dart';
 
 class QuestionService {
   static const _dataRoot = 'assets/data';
+  static const _knownLanguageDirectories = <String>{
+    'en',
+    'english',
+    'ru',
+    'russian',
+    'sah',
+    'sa',
+    'yakut',
+    'sakha',
+    'saha',
+  };
 
   static List<String>? _cachedJsonAssets;
 
@@ -20,51 +31,87 @@ class QuestionService {
     final normalizedCountry = _normalizeSegment(country);
     final normalizedRegion = _normalizeOptionalSegment(region);
     final normalizedCategory = _normalizeSegment(category);
+    final languageDirectory = _languageDirectoryFor(language);
 
     if (normalizedCountry.isEmpty || normalizedCategory.isEmpty) {
       return [];
     }
 
     if (normalizedRegion != null) {
-      final fromRegion = await _loadQuestionsFromPath(
-        _regionCategoryPath(
+      final fromRegionNew = await _loadQuestionsFromPath(
+        _regionLanguageCategoryPath(
+          country: normalizedCountry,
+          region: normalizedRegion,
+          languageDirectory: languageDirectory,
+          category: normalizedCategory,
+        ),
+        language: language,
+        isLanguageScopedPath: true,
+      );
+
+      if (fromRegionNew.isNotEmpty) {
+        return fromRegionNew;
+      }
+
+      final fromRegionLegacy = await _loadQuestionsFromPath(
+        _regionLegacyCategoryPath(
           country: normalizedCountry,
           region: normalizedRegion,
           category: normalizedCategory,
         ),
         language: language,
+        isLanguageScopedPath: false,
       );
 
-      if (fromRegion.isNotEmpty) {
-        return fromRegion;
+      if (fromRegionLegacy.isNotEmpty) {
+        return fromRegionLegacy;
       }
     }
 
-    final countryPath = _countryCategoryPath(
-      country: normalizedCountry,
-      category: normalizedCategory,
-    );
-    final fromCountry = await _loadQuestionsFromPath(
-      countryPath,
+    final fromCountryNew = await _loadQuestionsFromPath(
+      _countryLanguageCategoryPath(
+        country: normalizedCountry,
+        languageDirectory: languageDirectory,
+        category: normalizedCategory,
+      ),
       language: language,
+      isLanguageScopedPath: true,
     );
-    if (fromCountry.isNotEmpty) {
-      return fromCountry;
+    if (fromCountryNew.isNotEmpty) {
+      return fromCountryNew;
     }
 
-    final regionalPaths = await _findRegionalCategoryPaths(
+    final fromCountryLegacy = await _loadQuestionsFromPath(
+      _countryLegacyCategoryPath(
+        country: normalizedCountry,
+        category: normalizedCategory,
+      ),
+      language: language,
+      isLanguageScopedPath: false,
+    );
+    if (fromCountryLegacy.isNotEmpty) {
+      return fromCountryLegacy;
+    }
+
+    if (normalizedRegion != null) {
+      return const [];
+    }
+
+    final regionalSources = await _findRegionalCategorySources(
       country: normalizedCountry,
       category: normalizedCategory,
+      languageDirectory: languageDirectory,
     );
-    if (regionalPaths.isEmpty) {
+    if (regionalSources.isEmpty) {
       return [];
     }
 
     final collected = <Question>[];
-    for (final path in regionalPaths) {
+    for (final source in regionalSources) {
       final fromRegionPath = await _loadQuestionsFromPath(
-        path,
+        source.path,
         language: language,
+        isLanguageScopedPath: source.isLanguageScopedPath,
       );
       if (fromRegionPath.isNotEmpty) {
         collected.addAll(fromRegionPath);
@@ -77,20 +124,24 @@ class QuestionService {
   static Future<List<Question>> _loadQuestionsFromPath(
     String path, {
     required AppLanguage language,
+    required bool isLanguageScopedPath,
   }) async {
     try {
       final jsonString = await rootBundle.loadString(path);
-      return _parseQuestions(jsonString, path, language);
+      return _parseQuestions(
+        jsonString,
+        path,
+        language,
+        isLanguageScopedPath: isLanguageScopedPath,
+      );
     } catch (_) {
       return const [];
     }
   }
 
   static List<Question> _parseQuestions(
-    String jsonString,
-    String path,
-    AppLanguage language,
-  ) {
+      String jsonString, String path, AppLanguage language,
+      {required bool isLanguageScopedPath}) {
     final dynamic decoded;
     try {
       decoded = json.decode(jsonString);
@@ -111,7 +162,11 @@ class QuestionService {
         continue;
       }
 
-      final questionText = _readLocalizedText(map['question'], language);
+      final questionText = _readLocalizedText(
+        map['question'],
+        language,
+        isLanguageScopedPath: isLanguageScopedPath,
+      );
       final answersData = map['answers'];
       if (questionText == null || answersData is! List) {
         continue;
@@ -124,7 +179,11 @@ class QuestionService {
           continue;
         }
 
-        final answerText = _readLocalizedText(answerMap['text'], language);
+        final answerText = _readLocalizedText(
+          answerMap['text'],
+          language,
+          isLanguageScopedPath: isLanguageScopedPath,
+        );
         final score = _parseScore(answerMap['score']);
         if (answerText == null || score == null) {
           continue;
@@ -143,30 +202,62 @@ class QuestionService {
     return questions;
   }
 
-  static Future<List<String>> _findRegionalCategoryPaths({
+  static Future<List<_RegionalCategorySource>> _findRegionalCategorySources({
     required String country,
     required String category,
+    required String languageDirectory,
   }) async {
     final allJsonAssets = await _loadAllJsonAssetPaths();
     final prefix = '$_dataRoot/$country/';
-    final suffix = '/$category.json';
+    final fileName = '$category.json';
+    final byRegion = <String, _RegionalCategorySource>{};
 
-    final paths = allJsonAssets.where((path) {
-      if (!path.startsWith(prefix) || !path.endsWith(suffix)) {
-        return false;
+    for (final path in allJsonAssets) {
+      if (!path.startsWith(prefix) || !path.endsWith('/$fileName')) {
+        continue;
       }
 
       final relativePath = path.substring(prefix.length);
-      final firstSlash = relativePath.indexOf('/');
-      if (firstSlash <= 0) {
-        return false;
+      final segments = relativePath.split('/');
+
+      if (segments.length == 3) {
+        final region = segments[0];
+        final langDir = segments[1];
+        final filename = segments[2];
+
+        if (filename != fileName ||
+            langDir != languageDirectory ||
+            _isLanguageDirectory(region)) {
+          continue;
+        }
+
+        byRegion[region] = _RegionalCategorySource(
+          path: path,
+          isLanguageScopedPath: true,
+        );
+        continue;
       }
 
-      return relativePath.indexOf('/', firstSlash + 1) == -1;
-    }).toList()
-      ..sort();
+      if (segments.length == 2) {
+        final region = segments[0];
+        final filename = segments[1];
 
-    return paths;
+        if (filename != fileName || _isLanguageDirectory(region)) {
+          continue;
+        }
+
+        byRegion.putIfAbsent(
+          region,
+          () => _RegionalCategorySource(
+            path: path,
+            isLanguageScopedPath: false,
+          ),
+        );
+      }
+    }
+
+    final regions = byRegion.keys.toList()..sort();
+    return regions.map((region) => byRegion[region]!).toList();
   }
 
   static Future<List<String>> _loadAllJsonAssetPaths() async {
@@ -214,14 +305,31 @@ class QuestionService {
     return result;
   }
 
-  static String _countryCategoryPath({
+  static String _countryLanguageCategoryPath({
+    required String country,
+    required String languageDirectory,
+    required String category,
+  }) {
+    return '$_dataRoot/$country/$languageDirectory/$category.json';
+  }
+
+  static String _regionLanguageCategoryPath({
+    required String country,
+    required String region,
+    required String languageDirectory,
+    required String category,
+  }) {
+    return '$_dataRoot/$country/$region/$languageDirectory/$category.json';
+  }
+
+  static String _countryLegacyCategoryPath({
     required String country,
     required String category,
   }) {
     return '$_dataRoot/$country/$category.json';
   }
 
-  static String _regionCategoryPath({
+  static String _regionLegacyCategoryPath({
     required String country,
     required String region,
     required String category,
@@ -261,9 +369,16 @@ class QuestionService {
     return text.isEmpty ? null : text;
   }
 
-  static String? _readLocalizedText(dynamic value, AppLanguage language) {
+  static String? _readLocalizedText(
+    dynamic value,
+    AppLanguage language, {
+    required bool isLanguageScopedPath,
+  }) {
     if (value is! Map) {
-      return _readText(value);
+      if (isLanguageScopedPath || language == AppLanguage.russian) {
+        return _readText(value);
+      }
+      return null;
     }
 
     final map = value.map(
@@ -271,22 +386,8 @@ class QuestionService {
           MapEntry(key.toString().trim().toLowerCase(), entryValue),
     );
 
-    final orderedAliases = <String>[
-      ..._languageAliases(language),
-      ..._languageAliases(AppLanguage.russian),
-      ..._languageAliases(AppLanguage.english),
-      ..._languageAliases(AppLanguage.yakut),
-    ];
-
-    for (final alias in orderedAliases) {
+    for (final alias in _languageAliases(language)) {
       final text = _readText(map[alias]);
-      if (text != null) {
-        return text;
-      }
-    }
-
-    for (final fallback in map.values) {
-      final text = _readText(fallback);
       if (text != null) {
         return text;
       }
@@ -302,8 +403,23 @@ class QuestionService {
       case AppLanguage.russian:
         return const <String>['ru', 'russian'];
       case AppLanguage.yakut:
-        return const <String>['yakut', 'sakha', 'saha'];
+        return const <String>['yakut', 'sah', 'saha', 'sakha'];
     }
+  }
+
+  static String _languageDirectoryFor(AppLanguage language) {
+    switch (language) {
+      case AppLanguage.english:
+        return 'en';
+      case AppLanguage.russian:
+        return 'ru';
+      case AppLanguage.yakut:
+        return 'sah';
+    }
+  }
+
+  static bool _isLanguageDirectory(String segment) {
+    return _knownLanguageDirectories.contains(segment);
   }
 
   static int? _parseScore(dynamic value) {
@@ -325,4 +441,14 @@ class QuestionService {
 
     return null;
   }
+}
+
+class _RegionalCategorySource {
+  final String path;
+  final bool isLanguageScopedPath;
+
+  const _RegionalCategorySource({
+    required this.path,
+    required this.isLanguageScopedPath,
+  });
 }

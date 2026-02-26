@@ -1,0 +1,212 @@
+[
+  {
+    "question": "What is the name of the traditional Yakut harp?",
+    "answers": [
+      {
+        "text": "Khomus",
+        "score": 1
+      },
+      {
+        "text": "Dombra",
+        "score": 0
+      },
+      {
+        "text": "Kobyz",
+        "score": 0
+      },
+      {
+        "text": "Sitar",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the Yakut circular dance with song accompaniment?",
+    "answers": [
+      {
+        "text": "Osuokhai",
+        "score": 1
+      },
+      {
+        "text": "Lezginka",
+        "score": 0
+      },
+      {
+        "text": "Gopak",
+        "score": 0
+      },
+      {
+        "text": "Tarantella",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the traditional Yakut epic, which is performed with recitative and singing?",
+    "answers": [
+      {
+        "text": "Olonkho",
+        "score": 1
+      },
+      {
+        "text": "Manas",
+        "score": 0
+      },
+      {
+        "text": "Kalevala",
+        "score": 0
+      },
+      {
+        "text": "Nibelungs",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What holiday in Yakutia is accompanied by folk songs and dances?",
+    "answers": [
+      {
+        "text": "Ysyakh",
+        "score": 1
+      },
+      {
+        "text": "Oktoberfest",
+        "score": 0
+      },
+      {
+        "text": "Carnival",
+        "score": 0
+      },
+      {
+        "text": "Diwali",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the performer of olonkho?",
+    "answers": [
+      {
+        "text": "Olonkhosut",
+        "score": 1
+      },
+      {
+        "text": "Bandmaster",
+        "score": 0
+      },
+      {
+        "text": "Prompter",
+        "score": 0
+      },
+      {
+        "text": "Arranger",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What genre is most typical for traditional music of Yakutia?",
+    "answers": [
+      {
+        "text": "Folklore",
+        "score": 1
+      },
+      {
+        "text": "Techno",
+        "score": 0
+      },
+      {
+        "text": "Flamenco",
+        "score": 0
+      },
+      {
+        "text": "Ragtime",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which of the following instruments is most often used in modern Yakut ethno music?",
+    "answers": [
+      {
+        "text": "Khomus",
+        "score": 1
+      },
+      {
+        "text": "Banjo",
+        "score": 0
+      },
+      {
+        "text": "Bagpipes",
+        "score": 0
+      },
+      {
+        "text": "Trombone",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "How is osuokhai usually performed?",
+    "answers": [
+      {
+        "text": "Among the participants",
+        "score": 1
+      },
+      {
+        "text": "Only solo violin",
+        "score": 0
+      },
+      {
+        "text": "Only sitting",
+        "score": 0
+      },
+      {
+        "text": "Without music and text",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What role does vocals play in the traditional musical culture of Yakutia?",
+    "answers": [
+      {
+        "text": "One of the key",
+        "score": 1
+      },
+      {
+        "text": "Almost never used",
+        "score": 0
+      },
+      {
+        "text": "Banned in folk music",
+        "score": 0
+      },
+      {
+        "text": "Replaced with drums only",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of musical and poetic improvisation in the Yakut tradition?",
+    "answers": [
+      {
+        "text": "Toyuk",
+        "score": 1
+      },
+      {
+        "text": "Canon",
+        "score": 0
+      },
+      {
+        "text": "Etude",
+        "score": 0
+      },
+      {
+        "text": "Sonata",
+        "score": 0
+      }
+    ]
+  }
+]

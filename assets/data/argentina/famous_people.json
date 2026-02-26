@@ -1,40 +1,40 @@
 ﻿[
     {
         "question":  {
-                         "en":  "Which Argentine footballer won the 2022 FIFA World Cup as team captain?",
-                         "ru":  "Which Argentine footballer won the 2022 FIFA World Cup as team captain?",
-                         "yakut":  "Which Argentine footballer won the 2022 FIFA World Cup as team captain?"
+                    "en":  "Which Argentine footballer won the 2022 FIFA World Cup as team captain?",
+                    "ru":  "Какой аргентинский футболист выиграл чемпионат мира по футболу FIFA 2022 в качестве капитана команды?",
+                    "yakut":  "Ханнык Аргентина футболиһа 2022 сыллаахха аан дойду чөмпүйэнээтигэр хамаанда хапытаанынан кыайбытай?"
                      },
         "answers":  [
                         {
                             "text":  {
                                          "en":  "Lionel Messi",
-                                         "ru":  "Lionel Messi",
-                                         "yakut":  "Lionel Messi"
+                                         "ru":  "Лионель Месси",
+                                         "yakut":  "Лионель Месси"
                                      },
                             "score":  1
                         },
                         {
                             "text":  {
                                          "en":  "Neymar",
-                                         "ru":  "Neymar",
-                                         "yakut":  "Neymar"
+                                         "ru":  "Неймар",
+                                         "yakut":  "Неймар"
                                      },
                             "score":  0
                         },
                         {
                             "text":  {
                                          "en":  "Luis Suarez",
-                                         "ru":  "Luis Suarez",
-                                         "yakut":  "Luis Suarez"
+                                         "ru":  "Луис Суарес",
+                                         "yakut":  "Луис Суарес"
                                      },
                             "score":  0
                         },
                         {
                             "text":  {
                                          "en":  "Kylian Mbappe",
-                                         "ru":  "Kylian Mbappe",
-                                         "yakut":  "Kylian Mbappe"
+                                         "ru":  "Килиан Мбаппе",
+                                         "yakut":  "Килиан Мбаппе"
                                      },
                             "score":  0
                         }

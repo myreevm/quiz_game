@@ -1,0 +1,212 @@
+[
+  {
+    "question": "What is the unofficial name for modern cinema in Yakutia?",
+    "answers": [
+      {
+        "text": "Sakhawood",
+        "score": 1
+      },
+      {
+        "text": "Uralwood",
+        "score": 0
+      },
+      {
+        "text": "Volgawood",
+        "score": 0
+      },
+      {
+        "text": "Taigawood",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which city is considered the center of Yakut cinema?",
+    "answers": [
+      {
+        "text": "Yakutsk",
+        "score": 1
+      },
+      {
+        "text": "Neryungri",
+        "score": 0
+      },
+      {
+        "text": "Tiksi",
+        "score": 0
+      },
+      {
+        "text": "Aldan",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the Yakut film by Dmitry Davydov, which won the main prize of Kinotavr in 2020?",
+    "answers": [
+      {
+        "text": "Scarecrow",
+        "score": 1
+      },
+      {
+        "text": "Aita",
+        "score": 0
+      },
+      {
+        "text": "King Bird",
+        "score": 0
+      },
+      {
+        "text": "The sun doesn't set on me",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the director of the movie \"Scarecrow\"?",
+    "answers": [
+      {
+        "text": "Dmitry Davydov",
+        "score": 1
+      },
+      {
+        "text": "Nikita Arzhakov",
+        "score": 0
+      },
+      {
+        "text": "Stepan Burnashev",
+        "score": 0
+      },
+      {
+        "text": "Klim Fedorov",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the film by Stepan Burnashev, which aroused great interest in Yakut cinema in the 2020s?",
+    "answers": [
+      {
+        "text": "Black snow",
+        "score": 0
+      },
+      {
+        "text": "Aita",
+        "score": 1
+      },
+      {
+        "text": "Yt",
+        "score": 0
+      },
+      {
+        "text": "Republic Z",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of Eduard Novikov's film about life in a Yakut village, known outside the region?",
+    "answers": [
+      {
+        "text": "King Bird",
+        "score": 1
+      },
+      {
+        "text": "Messenger of Heaven",
+        "score": 0
+      },
+      {
+        "text": "Let me go home",
+        "score": 0
+      },
+      {
+        "text": "Light in the darkness",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the first full-length film shot in Yakutia?",
+    "answers": [
+      {
+        "text": "Pressure",
+        "score": 0
+      },
+      {
+        "text": "Arai Biirde",
+        "score": 0
+      },
+      {
+        "text": "Black Mask",
+        "score": 1
+      },
+      {
+        "text": "Caskill",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In what year was Sakhafilm founded?",
+    "answers": [
+      {
+        "text": "1989",
+        "score": 0
+      },
+      {
+        "text": "1992",
+        "score": 1
+      },
+      {
+        "text": "2000",
+        "score": 0
+      },
+      {
+        "text": "1983",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In what year was the film 'Black Mask' released?",
+    "answers": [
+      {
+        "text": "2005",
+        "score": 0
+      },
+      {
+        "text": "1996",
+        "score": 0
+      },
+      {
+        "text": "1999",
+        "score": 0
+      },
+      {
+        "text": "2002",
+        "score": 1
+      }
+    ]
+  },
+  {
+    "question": "Who was the director of the film 'Cranes over Ilmen'?",
+    "answers": [
+      {
+        "text": "Stepan Burnashev",
+        "score": 0
+      },
+      {
+        "text": "Nikita Arzhakov",
+        "score": 1
+      },
+      {
+        "text": "Mikhail Lukachevsky",
+        "score": 0
+      },
+      {
+        "text": "Sergey Potapov",
+        "score": 0
+      }
+    ]
+  }
+]

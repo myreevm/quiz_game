@@ -1,0 +1,212 @@
+[
+  {
+    "question": "What song based on the poems of Rasul Gamzatov was performed by Mark Bernes?",
+    "answers": [
+      {
+        "text": "Cranes",
+        "score": 1
+      },
+      {
+        "text": "Moscow evenings",
+        "score": 0
+      },
+      {
+        "text": "Blue handkerchief",
+        "score": 0
+      },
+      {
+        "text": "Katyusha",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What musical genre is traditionally widespread in the culture of the peoples of Dagestan?",
+    "answers": [
+      {
+        "text": "Folk music",
+        "score": 1
+      },
+      {
+        "text": "Opera buffa",
+        "score": 0
+      },
+      {
+        "text": "Scandinavian folk",
+        "score": 0
+      },
+      {
+        "text": "Country",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the fast Lezgin folk dance, popular in the Caucasus?",
+    "answers": [
+      {
+        "text": "Lezginka",
+        "score": 1
+      },
+      {
+        "text": "Polka",
+        "score": 0
+      },
+      {
+        "text": "Tarantella",
+        "score": 0
+      },
+      {
+        "text": "Round dance",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which instrument most often sets the rhythm in folk ensembles of the Caucasus?",
+    "answers": [
+      {
+        "text": "Drum",
+        "score": 1
+      },
+      {
+        "text": "Organ",
+        "score": 0
+      },
+      {
+        "text": "Harpsichord",
+        "score": 0
+      },
+      {
+        "text": "French horn",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In which city of Dagestan does the main philharmonic stage of the republic operate?",
+    "answers": [
+      {
+        "text": "Makhachkala",
+        "score": 1
+      },
+      {
+        "text": "Derbent",
+        "score": 0
+      },
+      {
+        "text": "Kizlyar",
+        "score": 0
+      },
+      {
+        "text": "Kaspiysk",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What type of performance is typical for many folk songs of Dagestan?",
+    "answers": [
+      {
+        "text": "Polyphony",
+        "score": 1
+      },
+      {
+        "text": "Rap battle",
+        "score": 0
+      },
+      {
+        "text": "Instrumental only",
+        "score": 0
+      },
+      {
+        "text": "Without rhythm",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the cultural event where folk music groups of Dagestan often perform?",
+    "answers": [
+      {
+        "text": "Festival",
+        "score": 1
+      },
+      {
+        "text": "Sales marathon",
+        "score": 0
+      },
+      {
+        "text": "Job Exchange",
+        "score": 0
+      },
+      {
+        "text": "Technology fair",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which language is most often used for interethnic musical communication in Dagestan?",
+    "answers": [
+      {
+        "text": "Russian",
+        "score": 1
+      },
+      {
+        "text": "Latin only",
+        "score": 0
+      },
+      {
+        "text": "English only",
+        "score": 0
+      },
+      {
+        "text": "German only",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the person who leads a folk music ensemble?",
+    "answers": [
+      {
+        "text": "Artistic director",
+        "score": 1
+      },
+      {
+        "text": "Operator",
+        "score": 0
+      },
+      {
+        "text": "Editor",
+        "score": 0
+      },
+      {
+        "text": "News Editor",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What format of a piece of music is usually performed by one singer?",
+    "answers": [
+      {
+        "text": "Solo",
+        "score": 1
+      },
+      {
+        "text": "Orchestra duet",
+        "score": 0
+      },
+      {
+        "text": "Choir Symphony",
+        "score": 0
+      },
+      {
+        "text": "Ballet quartet",
+        "score": 0
+      }
+    ]
+  }
+]

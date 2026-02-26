@@ -38,14 +38,14 @@ class RegionSelectionScreen extends StatelessWidget {
       case 'russia':
         return const [
           MapPinData(code: 'all', position: Offset(0.46, 0.25)),
-          MapPinData(code: 'yakutia', position: Offset(0.72, 0.46)),
-          MapPinData(code: 'dagestan', position: Offset(0.30, 0.62)),
+          MapPinData(code: 'yakutia', position: Offset(0.65, 0.30)),
+          MapPinData(code: 'dagestan', position: Offset(0.12, 0.48)),
         ];
       case 'usa':
         return const [
-          MapPinData(code: 'all', position: Offset(0.46, 0.28)),
-          MapPinData(code: 'texas', position: Offset(0.44, 0.58)),
-          MapPinData(code: 'oklahoma', position: Offset(0.48, 0.46)),
+          MapPinData(code: 'all', position: Offset(0.24, 0.30)),
+          MapPinData(code: 'texas', position: Offset(0.49, 0.50)),
+          MapPinData(code: 'oklahoma', position: Offset(0.48, 0.40)),
         ];
       default:
         return const [

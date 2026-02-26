@@ -1,0 +1,212 @@
+[
+  {
+    "question": "What is the name of the capital of the Republic of Sakha (Yakutia)?",
+    "answers": [
+      {
+        "text": "Yakutsk",
+        "score": 1
+      },
+      {
+        "text": "Neryungri",
+        "score": 0
+      },
+      {
+        "text": "Peaceful",
+        "score": 0
+      },
+      {
+        "text": "Lensk",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the second official version of the name of the Yakutia region?",
+    "answers": [
+      {
+        "text": "Republic of Sakha",
+        "score": 1
+      },
+      {
+        "text": "Northern Republic",
+        "score": 0
+      },
+      {
+        "text": "Far East",
+        "score": 0
+      },
+      {
+        "text": "Siberia",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In what year was the city of Yakutsk founded?",
+    "answers": [
+      {
+        "text": "1632",
+        "score": 1
+      },
+      {
+        "text": "1703",
+        "score": 0
+      },
+      {
+        "text": "1805",
+        "score": 0
+      },
+      {
+        "text": "1917",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What major river flows through Yakutia?",
+    "answers": [
+      {
+        "text": "Lena",
+        "score": 1
+      },
+      {
+        "text": "Aldan",
+        "score": 0
+      },
+      {
+        "text": "Kolyma",
+        "score": 0
+      },
+      {
+        "text": "Vilyui",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the natural park on the banks of the Lena, famous for its rock pillars?",
+    "answers": [
+      {
+        "text": "Lena pillars",
+        "score": 1
+      },
+      {
+        "text": "Krasnoyarsk pillars",
+        "score": 0
+      },
+      {
+        "text": "Stone mushrooms",
+        "score": 0
+      },
+      {
+        "text": "Chara Sands",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In which locality of Yakutia were extremely low winter temperatures recorded?",
+    "answers": [
+      {
+        "text": "Oymyakon",
+        "score": 1
+      },
+      {
+        "text": "Tiksi",
+        "score": 0
+      },
+      {
+        "text": "Aldan",
+        "score": 0
+      },
+      {
+        "text": "Verkhoyansk",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which federal district does Yakutia belong to?",
+    "answers": [
+      {
+        "text": "Far Eastern",
+        "score": 1
+      },
+      {
+        "text": "Siberian",
+        "score": 0
+      },
+      {
+        "text": "Ural",
+        "score": 0
+      },
+      {
+        "text": "Northwestern",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What mineral is especially famous in the economy of Yakutia?",
+    "answers": [
+      {
+        "text": "Diamonds",
+        "score": 1
+      },
+      {
+        "text": "Oil",
+        "score": 0
+      },
+      {
+        "text": "Phosphorites",
+        "score": 0
+      },
+      {
+        "text": "Potassium salt",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What holiday in Yakutia is associated with the onset of summer and national traditions?",
+    "answers": [
+      {
+        "text": "Ysyakh",
+        "score": 1
+      },
+      {
+        "text": "Sabantuy",
+        "score": 0
+      },
+      {
+        "text": "Nowruz",
+        "score": 0
+      },
+      {
+        "text": "Carnival",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which city of Yakutia is known as the center of diamond mining?",
+    "answers": [
+      {
+        "text": "Peaceful",
+        "score": 1
+      },
+      {
+        "text": "Pokrovsk",
+        "score": 0
+      },
+      {
+        "text": "Vilyuisk",
+        "score": 0
+      },
+      {
+        "text": "Tommot",
+        "score": 0
+      }
+    ]
+  }
+]

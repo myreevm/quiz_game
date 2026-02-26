@@ -1,0 +1,212 @@
+[
+  {
+    "question": "Which Dagestan poet is known as the author of the lines that became the song “Cranes”?",
+    "answers": [
+      {
+        "text": "Rasul Gamzatov",
+        "score": 1
+      },
+      {
+        "text": "Evgeniy Yevtushenko",
+        "score": 0
+      },
+      {
+        "text": "Robert Rozhdestvensky",
+        "score": 0
+      },
+      {
+        "text": "Bulat Okudzhava",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which athlete from Dagestan is called “Eagle”?",
+    "answers": [
+      {
+        "text": "Khabib Nurmagomedov",
+        "score": 1
+      },
+      {
+        "text": "Islam Makhachev",
+        "score": 0
+      },
+      {
+        "text": "Umar Nurmagomedov",
+        "score": 0
+      },
+      {
+        "text": "Magomed Ankalaev",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Dagestani fighter became the UFC lightweight champion after Khabib?",
+    "answers": [
+      {
+        "text": "Islam Makhachev",
+        "score": 1
+      },
+      {
+        "text": "Zubaira Tukhugov",
+        "score": 0
+      },
+      {
+        "text": "Movsar Evloev",
+        "score": 0
+      },
+      {
+        "text": "Petr Yan",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Dagestani freestyle wrestler is called the “Russian Tank”?",
+    "answers": [
+      {
+        "text": "Abdulrashid Sadulayev",
+        "score": 1
+      },
+      {
+        "text": "Bilyal Makhov",
+        "score": 0
+      },
+      {
+        "text": "Buvaysar Saitiev",
+        "score": 0
+      },
+      {
+        "text": "Roman Vlasov",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What was the name of the first female poet of Dagestan who wrote in the Avar language?",
+    "answers": [
+      {
+        "text": "Aliyev phase",
+        "score": 1
+      },
+      {
+        "text": "Bella Akhmadulina",
+        "score": 0
+      },
+      {
+        "text": "Anna Akhmatova",
+        "score": 0
+      },
+      {
+        "text": "Yunna Moritz",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Dagestan wrestler is called the first five-time world champion in freestyle wrestling?",
+    "answers": [
+      {
+        "text": "Ali Aliev",
+        "score": 1
+      },
+      {
+        "text": "Arsen Fadzaev",
+        "score": 0
+      },
+      {
+        "text": "Soslan Andiev",
+        "score": 0
+      },
+      {
+        "text": "David Musulbes",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which famous Russian businessman and senator represents Dagestan?",
+    "answers": [
+      {
+        "text": "Suleiman Kerimov",
+        "score": 1
+      },
+      {
+        "text": "Oleg Deripaska",
+        "score": 0
+      },
+      {
+        "text": "Roman Abramovich",
+        "score": 0
+      },
+      {
+        "text": "Alisher Usmanov",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Dagestani fighter competes in the UFC in the light heavyweight division?",
+    "answers": [
+      {
+        "text": "Magomed Ankalaev",
+        "score": 1
+      },
+      {
+        "text": "Usman Nurmagomedov",
+        "score": 0
+      },
+      {
+        "text": "Rafael Fiziev",
+        "score": 0
+      },
+      {
+        "text": "Rinat Fakhretdinov",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In what sport are Dagestan athletes especially famous on the international stage?",
+    "answers": [
+      {
+        "text": "Freestyle wrestling",
+        "score": 1
+      },
+      {
+        "text": "Synchronized swimming",
+        "score": 0
+      },
+      {
+        "text": "Curling",
+        "score": 0
+      },
+      {
+        "text": "Golf",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What name does the capital of Dagestan bear, associated with the revolutionary Makhach Dakhadaev?",
+    "answers": [
+      {
+        "text": "Makhachkala",
+        "score": 1
+      },
+      {
+        "text": "Derbent",
+        "score": 0
+      },
+      {
+        "text": "Kaspiysk",
+        "score": 0
+      },
+      {
+        "text": "Izberbash",
+        "score": 0
+      }
+    ]
+  }
+]

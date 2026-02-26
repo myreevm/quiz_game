@@ -1,0 +1,212 @@
+[
+  {
+    "question": "What is the genre of the film “Prisoner of the Caucasus, or Shurik’s New Adventures”?",
+    "answers": [
+      {
+        "text": "Comedy",
+        "score": 1
+      },
+      {
+        "text": "Horror",
+        "score": 0
+      },
+      {
+        "text": "Detective",
+        "score": 0
+      },
+      {
+        "text": "Fantasy",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who is the director of the film “Prisoner of the Caucasus, or Shurik’s New Adventures”?",
+    "answers": [
+      {
+        "text": "Leonid Gaidai",
+        "score": 1
+      },
+      {
+        "text": "Eldar Ryazanov",
+        "score": 0
+      },
+      {
+        "text": "Georgy Danelia",
+        "score": 0
+      },
+      {
+        "text": "Nikita Mikhalkov",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the ancient fortress of Derbent, often shown in documentaries about Dagestan?",
+    "answers": [
+      {
+        "text": "Naryn-Kala",
+        "score": 1
+      },
+      {
+        "text": "Izborsk fortress",
+        "score": 0
+      },
+      {
+        "text": "Pskov Kremlin",
+        "score": 0
+      },
+      {
+        "text": "Brest Fortress",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which city in Dagestan often becomes the location of historical films about the Caucasus?",
+    "answers": [
+      {
+        "text": "Derbent",
+        "score": 1
+      },
+      {
+        "text": "Smolensk",
+        "score": 0
+      },
+      {
+        "text": "Petrozavodsk",
+        "score": 0
+      },
+      {
+        "text": "Rybinsk",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which city in Dagestan traditionally hosts major cultural and film screenings of the republic?",
+    "answers": [
+      {
+        "text": "Makhachkala",
+        "score": 1
+      },
+      {
+        "text": "Kizilyurt",
+        "score": 0
+      },
+      {
+        "text": "Yuzhno-Sukhokumsk",
+        "score": 0
+      },
+      {
+        "text": "Dagestan Lights",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which sea is often seen in films shot on the coast of Dagestan?",
+    "answers": [
+      {
+        "text": "Caspian",
+        "score": 1
+      },
+      {
+        "text": "Baltic",
+        "score": 0
+      },
+      {
+        "text": "Black",
+        "score": 0
+      },
+      {
+        "text": "Karskoe",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the profession of the person who directs the filming of a film?",
+    "answers": [
+      {
+        "text": "Director",
+        "score": 1
+      },
+      {
+        "text": "Editor",
+        "score": 0
+      },
+      {
+        "text": "Illuminator",
+        "score": 0
+      },
+      {
+        "text": "Dresser",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the short promotional video for the film before the premiere?",
+    "answers": [
+      {
+        "text": "Trailer",
+        "score": 1
+      },
+      {
+        "text": "Titer",
+        "score": 0
+      },
+      {
+        "text": "Remake",
+        "score": 0
+      },
+      {
+        "text": "Soundtrack",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the international list of cultural heritage sites that includes the Naryn-Kala citadel?",
+    "answers": [
+      {
+        "text": "UNESCO List",
+        "score": 1
+      },
+      {
+        "text": "FIFA list",
+        "score": 0
+      },
+      {
+        "text": "OPEC catalog",
+        "score": 0
+      },
+      {
+        "text": "IOC Register",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What film format is usually shorter than feature length?",
+    "answers": [
+      {
+        "text": "Short",
+        "score": 1
+      },
+      {
+        "text": "Multi-episode",
+        "score": 0
+      },
+      {
+        "text": "Documentary series",
+        "score": 0
+      },
+      {
+        "text": "Cinema almanac",
+        "score": 0
+      }
+    ]
+  }
+]

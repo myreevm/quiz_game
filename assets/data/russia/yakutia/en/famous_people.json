@@ -1,0 +1,212 @@
+[
+  {
+    "question": "What was the name of the first president of the Republic of Sakha (Yakutia)?",
+    "answers": [
+      {
+        "text": "Mikhail Nikolaev",
+        "score": 1
+      },
+      {
+        "text": "Egor Borisov",
+        "score": 0
+      },
+      {
+        "text": "Vyacheslav Shtyrov",
+        "score": 0
+      },
+      {
+        "text": "Aisen Nikolaev",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Yakut writer and public figure is considered one of the founders of Yakut literature of the 20th century?",
+    "answers": [
+      {
+        "text": "Platon Alekseevich Oyunsky",
+        "score": 1
+      },
+      {
+        "text": "Anempodist Ivanovich Sofronov",
+        "score": 0
+      },
+      {
+        "text": "Nikolai Egorovich Mordinov",
+        "score": 0
+      },
+      {
+        "text": "Pyotr Nikolaevich Toburokov",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Yakut educator and poet is called a classic of national literature?",
+    "answers": [
+      {
+        "text": "Alexey Eliseevich Kulakovsky",
+        "score": 1
+      },
+      {
+        "text": "Sofron Petrovich Danilov",
+        "score": 0
+      },
+      {
+        "text": "Pyotr Nikolaevich Toburokov",
+        "score": 0
+      },
+      {
+        "text": "Dmitry Kononovich Sivtsev",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which 1976 Olympic champion in freestyle wrestling is considered the famous athlete from Yakutia?",
+    "answers": [
+      {
+        "text": "Pavel Pinigin",
+        "score": 1
+      },
+      {
+        "text": "Victor Rassadin",
+        "score": 0
+      },
+      {
+        "text": "Lev Pavlov",
+        "score": 0
+      },
+      {
+        "text": "Victor Lebedev",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Yakut wrestler, Olympic champion of 1972, is well known in the history of sports of the republic?",
+    "answers": [
+      {
+        "text": "Victor Lebedev",
+        "score": 0
+      },
+      {
+        "text": "Pavel Pinigin",
+        "score": 0
+      },
+      {
+        "text": "Roman Dmitriev",
+        "score": 1
+      },
+      {
+        "text": "Vasily Gogolev",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which of the following was the head of the Republic of Sakha (Yakutia) in the 2010s?",
+    "answers": [
+      {
+        "text": "Egor Borisov",
+        "score": 1
+      },
+      {
+        "text": "Aisen Nikolaev",
+        "score": 0
+      },
+      {
+        "text": "Mikhail Nikolaev",
+        "score": 0
+      },
+      {
+        "text": "Vyacheslav Shtyrov",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Yakut writer had the pseudonym 'Alampa'?",
+    "answers": [
+      {
+        "text": "Anempodist Ivanovich Sofronov",
+        "score": 1
+      },
+      {
+        "text": "Nikolay Denisovich Neustroev",
+        "score": 0
+      },
+      {
+        "text": "Nikolai Egorovich Mordinov",
+        "score": 0
+      },
+      {
+        "text": "Sofron Petrovich Danilov",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which film director is considered one of the most notable representatives of Yakut cinema?",
+    "answers": [
+      {
+        "text": "Dmitry Davydov",
+        "score": 1
+      },
+      {
+        "text": "Stepan Burnashev",
+        "score": 0
+      },
+      {
+        "text": "Eduard Novikov",
+        "score": 0
+      },
+      {
+        "text": "Nikita Arzhakov",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which figure of Yakutia of the 20th century is known as the state and public leader of the republic?",
+    "answers": [
+      {
+        "text": "Maxim Kirovich Ammosov",
+        "score": 1
+      },
+      {
+        "text": "Isidor Nikiforovich Barakhov",
+        "score": 0
+      },
+      {
+        "text": "Stepan Maksimovich Arzhakov",
+        "score": 0
+      },
+      {
+        "text": "Ilya Egorovich Vinokurov",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the nationality to which many famous cultural figures of Yakutia belong?",
+    "answers": [
+      {
+        "text": "Yakuts",
+        "score": 1
+      },
+      {
+        "text": "Mari",
+        "score": 0
+      },
+      {
+        "text": "Udmurts",
+        "score": 0
+      },
+      {
+        "text": "Kalmyks",
+        "score": 0
+      }
+    ]
+  }
+]

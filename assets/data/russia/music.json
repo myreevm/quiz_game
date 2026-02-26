@@ -84,9 +84,9 @@
     "question": "Какая из перечисленных песен является известной русской народной?",
     "answers": [
       {"text": "Калинка", "score": 1},
-      {"text": "Yesterday", "score": 0},
-      {"text": "Imagine", "score": 0},
-      {"text": "Hallelujah", "score": 0}
+      {"text": "Матушка", "score": 0},
+      {"text": "Музыка3", "score": 0},
+      {"text": "Музыка4", "score": 0}
     ]
   }
 ]

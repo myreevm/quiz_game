@@ -10,6 +10,16 @@ const _mapAspectRatio = 2.0;
 const _mapMinScale = 1.0;
 const _mapMaxScale = 6.0;
 const _mapZoomStep = 1.25;
+const _mapResponsivePinBaseWidth = 640.0;
+const _mapResponsivePinMinScale = 0.62;
+const _mapPinWidth = 92.0;
+const _mapPinLabelWidth = 86.0;
+const _mapPinAnchorDx = _mapPinWidth / 2;
+const _mapPinAnchorDy = 20.0;
+
+double _responsivePinScale(double mapWidth) =>
+    (mapWidth / _mapResponsivePinBaseWidth)
+        .clamp(_mapResponsivePinMinScale, 1.0);
 
 class MapPinData {
   final String code;
@@ -163,6 +173,7 @@ class _MapCanvas extends StatelessWidget {
   final ValueChanged<String> onTap;
   final WidgetBuilder backgroundBuilder;
   final double pinScale;
+  final bool adaptivePinScale;
 
   const _MapCanvas({
     required this.pins,
@@ -170,28 +181,35 @@ class _MapCanvas extends StatelessWidget {
     required this.onTap,
     required this.backgroundBuilder,
     this.pinScale = 1.0,
+    this.adaptivePinScale = true,
   });
 
   @override
   Widget build(BuildContext context) {
     return LayoutBuilder(
       builder: (context, constraints) {
+        final effectivePinScale = pinScale *
+            (adaptivePinScale
+                ? _responsivePinScale(constraints.maxWidth)
+                : 1.0);
+
         return Stack(
           children: [
             Positioned.fill(child: backgroundBuilder(context)),
             ...pins.map(
               (pin) => Positioned(
-                left: constraints.maxWidth * pin.position.dx,
-                top: constraints.maxHeight * pin.position.dy,
-                child: Transform.translate(
-                  offset: const Offset(-24, -20),
-                  child: Transform.scale(
-                    scale: pinScale,
-                    child: _MapPin(
-                      code: pin.code,
-                      label: labelBuilder(pin.code),
-                      onTap: () => onTap(pin.code),
-                    ),
+                left: constraints.maxWidth * pin.position.dx -
+                    _mapPinAnchorDx * effectivePinScale,
+                top: constraints.maxHeight * pin.position.dy -
+                    _mapPinAnchorDy * effectivePinScale,
+                child: Transform.scale(
+                  scale: effectivePinScale,
+                  alignment: Alignment.topLeft,
+                  child: _MapPin(
+                    key: ValueKey('map-pin-${pin.code}'),
+                    code: pin.code,
+                    label: labelBuilder(pin.code),
+                    onTap: () => onTap(pin.code),
                   ),
                 ),
               ),
@@ -313,6 +331,7 @@ class _FullscreenMapScreenState extends State<_FullscreenMapScreen> {
                             onTap: (code) => Navigator.of(context).pop(code),
                             backgroundBuilder: widget.backgroundBuilder,
                             pinScale: _pinScale,
+                            adaptivePinScale: false,
                           ),
                         ),
                       ),
@@ -471,57 +490,57 @@ class _CountryMapViewport {
     switch (country) {
       case 'russia':
         return const _CountryMapViewport(
-          alignment: Alignment(0.72, -0.58),
+          alignment: Alignment(0.95, -0.8),
           scale: 2.45,
         );
       case 'usa':
         return const _CountryMapViewport(
-          alignment: Alignment(-0.82, -0.18),
+          alignment: Alignment(-0.82, -0.5),
           scale: 2.9,
         );
       case 'canada':
         return const _CountryMapViewport(
-          alignment: Alignment(-0.82, -0.52),
+          alignment: Alignment(-0.82, -0.92),
           scale: 2.7,
         );
       case 'mexico':
         return const _CountryMapViewport(
-          alignment: Alignment(-0.76, 0.08),
+          alignment: Alignment(-0.76, -0.38),
           scale: 3.6,
         );
       case 'china':
         return const _CountryMapViewport(
-          alignment: Alignment(0.74, -0.08),
+          alignment: Alignment(0.77, -0.48),
           scale: 3.3,
         );
       case 'japan':
         return const _CountryMapViewport(
-          alignment: Alignment(0.92, -0.08),
+          alignment: Alignment(0.92, -0.48),
           scale: 5.1,
         );
       case 'vietnam':
         return const _CountryMapViewport(
-          alignment: Alignment(0.72, 0.20),
+          alignment: Alignment(0.74, -0.20),
           scale: 5.0,
         );
       case 'poland':
         return const _CountryMapViewport(
-          alignment: Alignment(0.06, -0.35),
-          scale: 4.7,
+          alignment: Alignment(0.12, -0.63),
+          scale: 10.0,
         );
       case 'france':
         return const _CountryMapViewport(
-          alignment: Alignment(-0.02, -0.22),
-          scale: 4.8,
+          alignment: Alignment(0.01, -0.57),
+          scale: 10.0,
         );
       case 'australia':
         return const _CountryMapViewport(
-          alignment: Alignment(0.82, 0.54),
+          alignment: Alignment(0.92, 0.43),
           scale: 4.2,
         );
       case 'egypt':
         return const _CountryMapViewport(
-          alignment: Alignment(0.34, -0.02),
+          alignment: Alignment(0.24, -0.32),
           scale: 5.0,
         );
       case 'brazil':
@@ -531,57 +550,57 @@ class _CountryMapViewport {
         );
       case 'uk':
         return const _CountryMapViewport(
-          alignment: Alignment(-0.05, -0.36),
+          alignment: Alignment(-0.01, -0.65),
           scale: 6.0,
         );
       case 'belarus':
         return const _CountryMapViewport(
-          alignment: Alignment(0.12, -0.36),
-          scale: 5.8,
+          alignment: Alignment(0.17, -0.66),
+          scale: 10.0,
         );
       case 'argentina':
         return const _CountryMapViewport(
-          alignment: Alignment(-0.30, 0.72),
+          alignment: Alignment(-0.48, 0.52),
           scale: 4.5,
         );
       case 'turkey':
         return const _CountryMapViewport(
-          alignment: Alignment(0.24, -0.18),
+          alignment: Alignment(0.24, -0.51),
           scale: 5.2,
         );
       case 'south_africa':
         return const _CountryMapViewport(
-          alignment: Alignment(0.34, 0.62),
+          alignment: Alignment(0.17, 0.46),
           scale: 5.0,
         );
       case 'italy':
         return const _CountryMapViewport(
-          alignment: Alignment(0.10, -0.24),
+          alignment: Alignment(0.09, -0.51),
           scale: 6.0,
         );
       case 'germany':
         return const _CountryMapViewport(
-          alignment: Alignment(0.08, -0.34),
+          alignment: Alignment(0.07, -0.65),
           scale: 5.7,
         );
       case 'switzerland':
         return const _CountryMapViewport(
-          alignment: Alignment(0.04, -0.24),
+          alignment: Alignment(0.07, -0.6),
           scale: 6.0,
         );
       case 'spain':
         return const _CountryMapViewport(
-          alignment: Alignment(-0.18, -0.20),
+          alignment: Alignment(-0.02, -0.55),
           scale: 4.9,
         );
       case 'south_korea':
         return const _CountryMapViewport(
-          alignment: Alignment(0.88, -0.10),
+          alignment: Alignment(0.83, -0.47),
           scale: 6.0,
         );
       case 'new_zealand':
         return const _CountryMapViewport(
-          alignment: Alignment(0.90, 0.76),
+          alignment: Alignment(1.15, 0.5),
           scale: 6.0,
         );
       default:
@@ -624,6 +643,7 @@ class _MapPin extends StatelessWidget {
   final VoidCallback onTap;
 
   const _MapPin({
+    super.key,
     required this.code,
     required this.label,
     required this.onTap,
@@ -634,51 +654,54 @@ class _MapPin extends StatelessWidget {
     return InkWell(
       onTap: onTap,
       borderRadius: BorderRadius.circular(14),
-      child: Column(
-        mainAxisSize: MainAxisSize.min,
-        children: [
-          Container(
-            padding: const EdgeInsets.all(3),
-            decoration: BoxDecoration(
-              color: Colors.white,
-              borderRadius: BorderRadius.circular(10),
-              boxShadow: [
-                BoxShadow(
-                  color: Colors.black.withValues(alpha: 0.18),
-                  blurRadius: 10,
-                  offset: const Offset(0, 3),
-                ),
-              ],
-            ),
-            child: FlagBadge(
-              code: code,
-              width: 30,
-              height: 22,
-            ),
-          ),
-          const SizedBox(height: 4),
-          ConstrainedBox(
-            constraints: const BoxConstraints(maxWidth: 86),
-            child: Container(
-              padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
+      child: SizedBox(
+        width: _mapPinWidth,
+        child: Column(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            Container(
+              padding: const EdgeInsets.all(3),
               decoration: BoxDecoration(
-                color: Colors.black.withValues(alpha: 0.64),
-                borderRadius: BorderRadius.circular(999),
+                color: Colors.white,
+                borderRadius: BorderRadius.circular(10),
+                boxShadow: [
+                  BoxShadow(
+                    color: Colors.black.withValues(alpha: 0.18),
+                    blurRadius: 10,
+                    offset: const Offset(0, 3),
+                  ),
+                ],
               ),
-              child: Text(
-                label,
-                maxLines: 1,
-                overflow: TextOverflow.ellipsis,
-                textAlign: TextAlign.center,
-                style: const TextStyle(
-                  color: Colors.white,
-                  fontSize: 10.5,
-                  fontWeight: FontWeight.w600,
+              child: FlagBadge(
+                code: code,
+                width: 30,
+                height: 22,
+              ),
+            ),
+            const SizedBox(height: 4),
+            SizedBox(
+              width: _mapPinLabelWidth,
+              child: Container(
+                padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
+                decoration: BoxDecoration(
+                  color: Colors.black.withValues(alpha: 0.64),
+                  borderRadius: BorderRadius.circular(999),
+                ),
+                child: Text(
+                  label,
+                  maxLines: 1,
+                  overflow: TextOverflow.ellipsis,
+                  textAlign: TextAlign.center,
+                  style: const TextStyle(
+                    color: Colors.white,
+                    fontSize: 10.5,
+                    fontWeight: FontWeight.w600,
+                  ),
                 ),
               ),
             ),
-          ),
-        ],
+          ],
+        ),
       ),
     );
   }

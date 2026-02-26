@@ -1,0 +1,212 @@
+[
+  {
+    "question": "Which city is the capital of the Republic of Dagestan?",
+    "answers": [
+      {
+        "text": "Makhachkala",
+        "score": 1
+      },
+      {
+        "text": "Derbent",
+        "score": 0
+      },
+      {
+        "text": "Kaspiysk",
+        "score": 0
+      },
+      {
+        "text": "Khasavyurt",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which sea washes the coast of Dagestan?",
+    "answers": [
+      {
+        "text": "Caspian",
+        "score": 1
+      },
+      {
+        "text": "Black",
+        "score": 0
+      },
+      {
+        "text": "Azovskoe",
+        "score": 0
+      },
+      {
+        "text": "Baltic",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which city of Dagestan is considered one of the oldest in Russia?",
+    "answers": [
+      {
+        "text": "Derbent",
+        "score": 1
+      },
+      {
+        "text": "Kizlyar",
+        "score": 0
+      },
+      {
+        "text": "Buynaksk",
+        "score": 0
+      },
+      {
+        "text": "Izberbash",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the ancient fortress in Derbent?",
+    "answers": [
+      {
+        "text": "Naryn-Kala",
+        "score": 1
+      },
+      {
+        "text": "Petropavlovskaya",
+        "score": 0
+      },
+      {
+        "text": "Kremlin",
+        "score": 0
+      },
+      {
+        "text": "Solovetskaya",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In what year did Dagestan become part of Russia under the Gulistan Peace Treaty?",
+    "answers": [
+      {
+        "text": "1813",
+        "score": 1
+      },
+      {
+        "text": "1783",
+        "score": 0
+      },
+      {
+        "text": "1861",
+        "score": 0
+      },
+      {
+        "text": "1917",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In what year was the Dagestan Autonomous Soviet Socialist Republic founded?",
+    "answers": [
+      {
+        "text": "1921",
+        "score": 1
+      },
+      {
+        "text": "1917",
+        "score": 0
+      },
+      {
+        "text": "1936",
+        "score": 0
+      },
+      {
+        "text": "1945",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In which federal district is Dagestan located?",
+    "answers": [
+      {
+        "text": "North Caucasian",
+        "score": 1
+      },
+      {
+        "text": "Southern",
+        "score": 0
+      },
+      {
+        "text": "Central",
+        "score": 0
+      },
+      {
+        "text": "Privolzhsky",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the highest peak in Dagestan, located on the border with Azerbaijan?",
+    "answers": [
+      {
+        "text": "Bazarduzu",
+        "score": 1
+      },
+      {
+        "text": "Elbrus",
+        "score": 0
+      },
+      {
+        "text": "Kazbek",
+        "score": 0
+      },
+      {
+        "text": "Dombay-Ulgen",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In what year did Derbent officially celebrate its 2000th anniversary?",
+    "answers": [
+      {
+        "text": "2015",
+        "score": 1
+      },
+      {
+        "text": "2000",
+        "score": 0
+      },
+      {
+        "text": "2010",
+        "score": 0
+      },
+      {
+        "text": "2020",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What religion is historically predominant in Dagestan?",
+    "answers": [
+      {
+        "text": "Islam",
+        "score": 1
+      },
+      {
+        "text": "Buddhism",
+        "score": 0
+      },
+      {
+        "text": "Judaism",
+        "score": 0
+      },
+      {
+        "text": "Shintoism",
+        "score": 0
+      }
+    ]
+  }
+]
