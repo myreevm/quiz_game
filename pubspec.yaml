@@ -31,7 +31,13 @@ flutter:
     - output/imagegen/world_map_no_labels_8k.png
     - assets/data/russia/
     - assets/data/russia/yakutia/
+    - assets/data/russia/yakutia/en/
+    - assets/data/russia/yakutia/ru/
+    - assets/data/russia/yakutia/sah/
     - assets/data/russia/dagestan/
+    - assets/data/russia/dagestan/en/
+    - assets/data/russia/dagestan/ru/
+    - assets/data/russia/dagestan/sah/
     - assets/data/usa/
     - assets/data/usa/oklahoma/
     - assets/data/usa/texas/

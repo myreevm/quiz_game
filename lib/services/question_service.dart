@@ -89,12 +89,16 @@ class QuestionService {
       language: language,
       isLanguageScopedPath: false,
     );
-    if (fromCountryLegacy.isNotEmpty) {
+    List<Question>? deferredCountryLegacyFallback;
+    if (fromCountryLegacy.isNotEmpty && language == AppLanguage.russian) {
       return fromCountryLegacy;
+    }
+    if (fromCountryLegacy.isNotEmpty) {
+      deferredCountryLegacyFallback = fromCountryLegacy;
     }
 
     if (normalizedRegion != null) {
-      return const [];
+      return deferredCountryLegacyFallback ?? const [];
     }
 
     final regionalSources = await _findRegionalCategorySources(
@@ -103,7 +107,7 @@ class QuestionService {
       languageDirectory: languageDirectory,
     );
     if (regionalSources.isEmpty) {
-      return [];
+      return deferredCountryLegacyFallback ?? const [];
     }
 
     final collected = <Question>[];
@@ -118,7 +122,11 @@ class QuestionService {
       }
     }
 
-    return _deduplicateQuestions(collected);
+    if (collected.isNotEmpty) {
+      return _deduplicateQuestions(collected);
+    }
+
+    return deferredCountryLegacyFallback ?? const [];
   }
 
   static Future<List<Question>> _loadQuestionsFromPath(
@@ -375,10 +383,7 @@ class QuestionService {
     required bool isLanguageScopedPath,
   }) {
     if (value is! Map) {
-      if (isLanguageScopedPath || language == AppLanguage.russian) {
-        return _readText(value);
-      }
-      return null;
+      return _readText(value);
     }
 
     final map = value.map(
@@ -386,7 +391,18 @@ class QuestionService {
           MapEntry(key.toString().trim().toLowerCase(), entryValue),
     );
 
-    for (final alias in _languageAliases(language)) {
+    final aliases = <String>[
+      ..._languageAliases(language),
+      if (language != AppLanguage.russian || !isLanguageScopedPath)
+        ..._languageAliases(AppLanguage.russian),
+    ];
+
+    final seenAliases = <String>{};
+    for (final alias in aliases) {
+      if (!seenAliases.add(alias)) {
+        continue;
+      }
+
       final text = _readText(map[alias]);
       if (text != null) {
         return text;

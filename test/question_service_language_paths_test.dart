@@ -79,11 +79,17 @@ void main() {
       expect(questions.first.questionText, 'Who founded Yakutsk?');
     });
 
-    test('legacy plain strings are accepted only for Russian', () async {
+    test('legacy plain strings fall back to Russian for non-Russian languages',
+        () async {
       final englishQuestions = await QuestionService.loadQuestions(
         country: 'usa',
         category: 'famous_people',
         language: AppLanguage.english,
+      );
+      final yakutQuestions = await QuestionService.loadQuestions(
+        country: 'usa',
+        category: 'famous_people',
+        language: AppLanguage.yakut,
       );
       final russianQuestions = await QuestionService.loadQuestions(
         country: 'usa',
@@ -91,10 +97,13 @@ void main() {
         language: AppLanguage.russian,
       );
 
-      expect(englishQuestions, isEmpty);
+      const expectedQuestion = 'Кто был первым президентом США?';
+      expect(englishQuestions, isNotEmpty);
+      expect(yakutQuestions, isNotEmpty);
       expect(russianQuestions, isNotEmpty);
-      expect(russianQuestions.first.questionText,
-          'Кто был первым президентом США?');
+      expect(englishQuestions.first.questionText, expectedQuestion);
+      expect(yakutQuestions.first.questionText, expectedQuestion);
+      expect(russianQuestions.first.questionText, expectedQuestion);
     });
 
     test('aggregates mixed regional sources without duplicates', () async {
