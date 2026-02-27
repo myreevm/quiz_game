@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Which painter was born in Vitebsk and became a world-famous artist?",
+    "answers": [
+      {"text": "Marc Chagall", "score": 1},
+      {"text": "Pablo Picasso", "score": 0},
+      {"text": "Claude Monet", "score": 0},
+      {"text": "Edvard Munch", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Belarusian writer won the Nobel Prize in Literature in 2015?",
+    "answers": [
+      {"text": "Svetlana Alexievich", "score": 1},
+      {"text": "Herta Muller", "score": 0},
+      {"text": "Olga Tokarczuk", "score": 0},
+      {"text": "Annie Ernaux", "score": 0}
+    ]
+  },
+  {
+    "question": "Which early printer from Polotsk is an important Belarusian historical figure?",
+    "answers": [
+      {"text": "Francysk Skaryna", "score": 1},
+      {"text": "Johannes Gutenberg", "score": 0},
+      {"text": "Ivan Fedorov", "score": 0},
+      {"text": "Mikhail Lomonosov", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Belarusian athlete is a former world number one in women's tennis?",
+    "answers": [
+      {"text": "Victoria Azarenka", "score": 1},
+      {"text": "Simona Halep", "score": 0},
+      {"text": "Naomi Osaka", "score": 0},
+      {"text": "Ons Jabeur", "score": 0}
+    ]
+  }
+]

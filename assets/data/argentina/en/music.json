@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Which dance and music style is strongly associated with Argentina?",
+    "answers": [
+      {"text": "Tango", "score": 1},
+      {"text": "Samba", "score": 0},
+      {"text": "Flamenco", "score": 0},
+      {"text": "Fado", "score": 0}
+    ]
+  },
+  {
+    "question": "Which legendary singer is known as a symbol of tango?",
+    "answers": [
+      {"text": "Carlos Gardel", "score": 1},
+      {"text": "Placido Domingo", "score": 0},
+      {"text": "Julio Iglesias", "score": 0},
+      {"text": "Jose Carreras", "score": 0}
+    ]
+  },
+  {
+    "question": "Which instrument is central in traditional tango ensembles?",
+    "answers": [
+      {"text": "Bandoneon", "score": 1},
+      {"text": "Banjo", "score": 0},
+      {"text": "Balalaika", "score": 0},
+      {"text": "Harp", "score": 0}
+    ]
+  },
+  {
+    "question": "Which composer modernized tango with nuevo tango style?",
+    "answers": [
+      {"text": "Astor Piazzolla", "score": 1},
+      {"text": "Ennio Morricone", "score": 0},
+      {"text": "Philip Glass", "score": 0},
+      {"text": "Ludovico Einaudi", "score": 0}
+    ]
+  }
+]

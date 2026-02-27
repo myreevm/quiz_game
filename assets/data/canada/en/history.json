@@ -1,0 +1,38 @@
+[
+  {
+    "question": "In what year did the Canadian Confederation begin?",
+    "answers": [
+      {"text": "1867", "score": 1},
+      {"text": "1776", "score": 0},
+      {"text": "1914", "score": 0},
+      {"text": "1982", "score": 0}
+    ]
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "answers": [
+      {"text": "Ottawa", "score": 1},
+      {"text": "Toronto", "score": 0},
+      {"text": "Montreal", "score": 0},
+      {"text": "Vancouver", "score": 0}
+    ]
+  },
+  {
+    "question": "Which province is the most populous in Canada?",
+    "answers": [
+      {"text": "Ontario", "score": 1},
+      {"text": "Quebec", "score": 0},
+      {"text": "Alberta", "score": 0},
+      {"text": "British Columbia", "score": 0}
+    ]
+  },
+  {
+    "question": "What national holiday is celebrated in Canada on July 1?",
+    "answers": [
+      {"text": "Canada Day", "score": 1},
+      {"text": "Victoria Day", "score": 0},
+      {"text": "Thanksgiving", "score": 0},
+      {"text": "Remembrance Day", "score": 0}
+    ]
+  }
+]

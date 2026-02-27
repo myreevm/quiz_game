@@ -45,19 +45,27 @@ flutter:
     - assets/data/vietnam/
     - assets/data/japan/
     - assets/data/mexico/
-    - assets/data/canada/
+    - assets/data/canada/en/
+    - assets/data/canada/ru/
+    - assets/data/canada/sah/
     - assets/data/poland/
     - assets/data/france/
     - assets/data/australia/
     - assets/data/egypt/
     - assets/data/brazil/
     - assets/data/uk/
-    - assets/data/belarus/
-    - assets/data/argentina/
+    - assets/data/belarus/en/
+    - assets/data/belarus/ru/
+    - assets/data/belarus/sah/
+    - assets/data/argentina/en/
+    - assets/data/argentina/ru/
+    - assets/data/argentina/sah/
     - assets/data/turkey/
     - assets/data/south_africa/
     - assets/data/italy/
-    - assets/data/germany/
+    - assets/data/germany/en/
+    - assets/data/germany/ru/
+    - assets/data/germany/sah/
     - assets/data/switzerland/
     - assets/data/spain/
     - assets/data/south_korea/

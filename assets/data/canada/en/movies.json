@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Which Canadian city hosts the Toronto International Film Festival?",
+    "answers": [
+      {"text": "Toronto", "score": 1},
+      {"text": "Vancouver", "score": 0},
+      {"text": "Montreal", "score": 0},
+      {"text": "Calgary", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Canadian director made \"Dune\" (2021)?",
+    "answers": [
+      {"text": "Denis Villeneuve", "score": 1},
+      {"text": "James Cameron", "score": 0},
+      {"text": "Atom Egoyan", "score": 0},
+      {"text": "David Cronenberg", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Canadian actress starred in \"Mean Girls\"?",
+    "answers": [
+      {"text": "Rachel McAdams", "score": 1},
+      {"text": "Elliot Page", "score": 0},
+      {"text": "Sarah Polley", "score": 0},
+      {"text": "Cobie Smulders", "score": 0}
+    ]
+  },
+  {
+    "question": "Which James Cameron film became one of the highest-grossing in history?",
+    "answers": [
+      {"text": "Avatar", "score": 1},
+      {"text": "The Terminator", "score": 0},
+      {"text": "Aliens", "score": 0},
+      {"text": "True Lies", "score": 0}
+    ]
+  }
+]

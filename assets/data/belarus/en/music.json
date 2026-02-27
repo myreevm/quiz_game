@@ -1,0 +1,38 @@
+[
+  {
+    "question": "In which city is the Slavianski Bazaar music festival held?",
+    "answers": [
+      {"text": "Vitebsk", "score": 1},
+      {"text": "Minsk", "score": 0},
+      {"text": "Brest", "score": 0},
+      {"text": "Gomel", "score": 0}
+    ]
+  },
+  {
+    "question": "Which traditional instrument is common in Belarusian folk music?",
+    "answers": [
+      {"text": "Tsymbaly", "score": 1},
+      {"text": "Didgeridoo", "score": 0},
+      {"text": "Sitar", "score": 0},
+      {"text": "Bagpipe", "score": 0}
+    ]
+  },
+  {
+    "question": "Who represented Belarus at Eurovision 2019 with the song 'Like It'?",
+    "answers": [
+      {"text": "ZENA", "score": 1},
+      {"text": "Ruslana", "score": 0},
+      {"text": "Dima Bilan", "score": 0},
+      {"text": "Loreen", "score": 0}
+    ]
+  },
+  {
+    "question": "Where is the Belarusian State Philharmonic located?",
+    "answers": [
+      {"text": "Minsk", "score": 1},
+      {"text": "Vitebsk", "score": 0},
+      {"text": "Grodno", "score": 0},
+      {"text": "Mogilev", "score": 0}
+    ]
+  }
+]

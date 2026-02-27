@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Which Argentine footballer won the 2022 FIFA World Cup as team captain?",
+    "answers": [
+      {"text": "Lionel Messi", "score": 1},
+      {"text": "Neymar", "score": 0},
+      {"text": "Luis Suarez", "score": 0},
+      {"text": "Kylian Mbappe", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Argentine football legend scored the 'Hand of God' goal?",
+    "answers": [
+      {"text": "Diego Maradona", "score": 1},
+      {"text": "Gabriel Batistuta", "score": 0},
+      {"text": "Javier Zanetti", "score": 0},
+      {"text": "Mario Kempes", "score": 0}
+    ]
+  },
+  {
+    "question": "Which pope was born in Buenos Aires?",
+    "answers": [
+      {"text": "Pope Francis", "score": 1},
+      {"text": "Pope Benedict XVI", "score": 0},
+      {"text": "Pope John Paul II", "score": 0},
+      {"text": "Pope Paul VI", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Argentine political figure became famous as Eva Peron?",
+    "answers": [
+      {"text": "Maria Eva Duarte", "score": 1},
+      {"text": "Cristina Fernandez", "score": 0},
+      {"text": "Isabel Peron", "score": 0},
+      {"text": "Alicia Moreau", "score": 0}
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What is the name of the national film studio of Belarus?",
+    "answers": [
+      {"text": "Belarusfilm", "score": 1},
+      {"text": "Minskwood", "score": 0},
+      {"text": "BelCinema House", "score": 0},
+      {"text": "Eastern Pictures", "score": 0}
+    ]
+  },
+  {
+    "question": "In which city is the Listapad film festival held?",
+    "answers": [
+      {"text": "Minsk", "score": 1},
+      {"text": "Gomel", "score": 0},
+      {"text": "Brest", "score": 0},
+      {"text": "Mogilev", "score": 0}
+    ]
+  },
+  {
+    "question": "Which classic war film is set in Nazi-occupied Belarus?",
+    "answers": [
+      {"text": "Come and See", "score": 1},
+      {"text": "Battleship Potemkin", "score": 0},
+      {"text": "Pan's Labyrinth", "score": 0},
+      {"text": "The Pianist", "score": 0}
+    ]
+  },
+  {
+    "question": "Which city is the center of Belarusian film production?",
+    "answers": [
+      {"text": "Minsk", "score": 1},
+      {"text": "Vitebsk", "score": 0},
+      {"text": "Polotsk", "score": 0},
+      {"text": "Grodno", "score": 0}
+    ]
+  }
+]

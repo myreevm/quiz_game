@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Which Canadian hockey player is known as \"The Great One\"?",
+    "answers": [
+      {"text": "Wayne Gretzky", "score": 1},
+      {"text": "Sidney Crosby", "score": 0},
+      {"text": "Mario Lemieux", "score": 0},
+      {"text": "Connor McDavid", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Canadian doctor co-discovered insulin?",
+    "answers": [
+      {"text": "Frederick Banting", "score": 1},
+      {"text": "Alexander Fleming", "score": 0},
+      {"text": "Jonas Salk", "score": 0},
+      {"text": "Louis Pasteur", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Canadian astronaut became famous for songs from the ISS?",
+    "answers": [
+      {"text": "Chris Hadfield", "score": 1},
+      {"text": "David Saint-Jacques", "score": 0},
+      {"text": "Marc Garneau", "score": 0},
+      {"text": "Julie Payette", "score": 0}
+    ]
+  },
+  {
+    "question": "Who is credited with the telephone patent and worked in Canada?",
+    "answers": [
+      {"text": "Alexander Graham Bell", "score": 1},
+      {"text": "Nikola Tesla", "score": 0},
+      {"text": "Thomas Edison", "score": 0},
+      {"text": "Guglielmo Marconi", "score": 0}
+    ]
+  }
+]

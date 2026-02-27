@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What is the capital of Argentina?",
+    "answers": [
+      {"text": "Buenos Aires", "score": 1},
+      {"text": "Cordoba", "score": 0},
+      {"text": "Rosario", "score": 0},
+      {"text": "Mendoza", "score": 0}
+    ]
+  },
+  {
+    "question": "In which year did Argentina declare independence?",
+    "answers": [
+      {"text": "1816", "score": 1},
+      {"text": "1789", "score": 0},
+      {"text": "1848", "score": 0},
+      {"text": "1910", "score": 0}
+    ]
+  },
+  {
+    "question": "What is the highest mountain in Argentina?",
+    "answers": [
+      {"text": "Aconcagua", "score": 1},
+      {"text": "Mont Blanc", "score": 0},
+      {"text": "Kilimanjaro", "score": 0},
+      {"text": "Denali", "score": 0}
+    ]
+  },
+  {
+    "question": "What is the official currency of Argentina?",
+    "answers": [
+      {"text": "Argentine peso", "score": 1},
+      {"text": "Brazilian real", "score": 0},
+      {"text": "US dollar", "score": 0},
+      {"text": "Euro", "score": 0}
+    ]
+  }
+]

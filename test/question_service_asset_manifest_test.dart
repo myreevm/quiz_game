@@ -30,6 +30,39 @@ void main() {
       }
     });
 
+    test('AssetManifest includes Argentina, Belarus, Canada, and Germany language files',
+        () async {
+      final manifestBin = File('build/unit_test_assets/AssetManifest.bin');
+      expect(manifestBin.existsSync(), isTrue);
+
+      final manifestContent = const Utf8Decoder(allowMalformed: true).convert(
+        await manifestBin.readAsBytes(),
+      );
+
+      const countries = <String>[
+        'argentina',
+        'belarus',
+        'canada',
+        'germany',
+      ];
+      const languages = <String>['en', 'ru', 'sah'];
+      const categories = <String>[
+        'famous_people',
+        'history',
+        'movies',
+        'music',
+      ];
+
+      for (final country in countries) {
+        for (final language in languages) {
+          for (final category in categories) {
+            final path = 'assets/data/$country/$language/$category.json';
+            expect(manifestContent.contains(path), isTrue);
+          }
+        }
+      }
+    });
+
     test('loads Yakutia history for English and Yakut languages', () async {
       final englishQuestions = await QuestionService.loadQuestions(
         country: 'russia',
@@ -61,6 +94,52 @@ void main() {
         yakutQuestions.first.answers.first.text,
         isNot(russianQuestions.first.answers.first.text),
       );
+    });
+
+    test(
+        'loads Argentina, Belarus, Canada, and Germany categories for all app languages',
+        () async {
+      for (final country in const <String>[
+        'argentina',
+        'belarus',
+        'canada',
+        'germany',
+      ]) {
+        for (final category in const <String>[
+          'famous_people',
+          'history',
+          'movies',
+          'music',
+        ]) {
+          final englishQuestions = await QuestionService.loadQuestions(
+            country: country,
+            category: category,
+            language: AppLanguage.english,
+          );
+          final russianQuestions = await QuestionService.loadQuestions(
+            country: country,
+            category: category,
+            language: AppLanguage.russian,
+          );
+          final yakutQuestions = await QuestionService.loadQuestions(
+            country: country,
+            category: category,
+            language: AppLanguage.yakut,
+          );
+
+          expect(englishQuestions, isNotEmpty);
+          expect(russianQuestions, isNotEmpty);
+          expect(yakutQuestions, isNotEmpty);
+          expect(russianQuestions.first.questionText,
+              isNot(englishQuestions.first.questionText));
+          expect(
+              yakutQuestions.first.questionText,
+              anyOf(
+                isNot(englishQuestions.first.questionText),
+                isNot(russianQuestions.first.questionText),
+              ));
+        }
+      }
     });
   });
 }

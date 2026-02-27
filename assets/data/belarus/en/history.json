@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What is the capital of Belarus?",
+    "answers": [
+      {"text": "Minsk", "score": 1},
+      {"text": "Brest", "score": 0},
+      {"text": "Grodno", "score": 0},
+      {"text": "Vitebsk", "score": 0}
+    ]
+  },
+  {
+    "question": "Which day is celebrated as Independence Day in Belarus?",
+    "answers": [
+      {"text": "3 July", "score": 1},
+      {"text": "25 March", "score": 0},
+      {"text": "9 May", "score": 0},
+      {"text": "1 January", "score": 0}
+    ]
+  },
+  {
+    "question": "Which UNESCO site is located in Belarus?",
+    "answers": [
+      {"text": "Mir Castle Complex", "score": 1},
+      {"text": "Meteora", "score": 0},
+      {"text": "Stonehenge", "score": 0},
+      {"text": "Acropolis", "score": 0}
+    ]
+  },
+  {
+    "question": "Which forest in Belarus is famous for European bison?",
+    "answers": [
+      {"text": "Belovezhskaya Pushcha", "score": 1},
+      {"text": "Black Forest", "score": 0},
+      {"text": "Sherwood Forest", "score": 0},
+      {"text": "Arden Forest", "score": 0}
+    ]
+  }
+]

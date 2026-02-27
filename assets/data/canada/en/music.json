@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Which Canadian singer released \"Jagged Little Pill\"?",
+    "answers": [
+      {"text": "Alanis Morissette", "score": 1},
+      {"text": "Avril Lavigne", "score": 0},
+      {"text": "Nelly Furtado", "score": 0},
+      {"text": "Shania Twain", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Canadian artist is known for the hit \"Blinding Lights\"?",
+    "answers": [
+      {"text": "The Weeknd", "score": 1},
+      {"text": "Drake", "score": 0},
+      {"text": "Justin Bieber", "score": 0},
+      {"text": "Shawn Mendes", "score": 0}
+    ]
+  },
+  {
+    "question": "Which singer from Quebec performed \"My Heart Will Go On\"?",
+    "answers": [
+      {"text": "Celine Dion", "score": 1},
+      {"text": "Lara Fabian", "score": 0},
+      {"text": "Alanis Morissette", "score": 0},
+      {"text": "Joni Mitchell", "score": 0}
+    ]
+  },
+  {
+    "question": "Which city is home to rapper Drake?",
+    "answers": [
+      {"text": "Toronto", "score": 1},
+      {"text": "Montreal", "score": 0},
+      {"text": "Ottawa", "score": 0},
+      {"text": "Winnipeg", "score": 0}
+    ]
+  }
+]
