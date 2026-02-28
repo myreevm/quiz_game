@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "В каком мексиканском штате традиционно зародилась музыка мариачи?",
+    "answers": [
+      {"text": "Халиско", "score": 1},
+      {"text": "Сонора", "score": 0},
+      {"text": "Чьяпас", "score": 0},
+      {"text": "Юкатан", "score": 0}
+    ]
+  },
+  {
+    "question": "Какая известная мексиканская песня связана с Веракрусом?",
+    "answers": [
+      {"text": "La Bamba", "score": 1},
+      {"text": "Bésame Mucho", "score": 0},
+      {"text": "Cielito Lindo", "score": 0},
+      {"text": "La Cucaracha", "score": 0}
+    ]
+  },
+  {
+    "question": "Какой инструмент дает глубокую басовую линию в ансамблях мариачи?",
+    "answers": [
+      {"text": "Гитаррон", "score": 1},
+      {"text": "Скрипка", "score": 0},
+      {"text": "Труба", "score": 0},
+      {"text": "Флейта", "score": 0}
+    ]
+  },
+  {
+    "question": "Кого называют «El Sol de Mexico»?",
+    "answers": [
+      {"text": "Луис Мигель", "score": 1},
+      {"text": "Хуан Габриэль", "score": 0},
+      {"text": "Висенте Фернандес", "score": 0},
+      {"text": "Maná", "score": 0}
+    ]
+  }
+]

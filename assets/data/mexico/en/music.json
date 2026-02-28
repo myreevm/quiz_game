@@ -1,0 +1,87 @@
+﻿[
+    {
+        "question":  "Mariachi music traditionally originated in which Mexican state?",
+        "answers":  [
+                        {
+                            "text":  "Jalisco",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sonora",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chiapas",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yucatan",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which famous Mexican song is associated with Veracruz?",
+        "answers":  [
+                        {
+                            "text":  "La Bamba",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bésame Mucho",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cielito Lindo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "La Cucaracha",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which instrument gives a deep bass line in mariachi bands?",
+        "answers":  [
+                        {
+                            "text":  "Guitarron",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Violin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Trumpet",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Flute",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who is known as \"El Sol de Mexico\"?",
+        "answers":  [
+                        {
+                            "text":  "Luis Miguel",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Juan Gabriel",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vicente Fernandez",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Maná",
+                            "score":  0
+                        }
+                    ]
+    }
+]
+

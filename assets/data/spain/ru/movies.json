@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Какой испанский режиссер снял фильмы «Volver» и «Pain and Glory»?",
+    "answers": [
+      {"text": "Педро Альмодовар", "score": 1},
+      {"text": "Алехандро Аменабар", "score": 0},
+      {"text": "Луис Бунюэль", "score": 0},
+      {"text": "Хулио Медем", "score": 0}
+    ]
+  },
+  {
+    "question": "В каком городе проходит San Sebastian International Film Festival?",
+    "answers": [
+      {"text": "Сан-Себастьян", "score": 1},
+      {"text": "Мадрид", "score": 0},
+      {"text": "Бильбао", "score": 0},
+      {"text": "Малага", "score": 0}
+    ]
+  },
+  {
+    "question": "Какой испанский фильм получил «Оскар» за лучший фильм на иностранном языке в 2005 году?",
+    "answers": [
+      {"text": "The Sea Inside", "score": 1},
+      {"text": "Talk to Her", "score": 0},
+      {"text": "Open Your Eyes", "score": 0},
+      {"text": "The Others", "score": 0}
+    ]
+  },
+  {
+    "question": "Какая испанская актриса получила «Оскар» за роль в фильме «Vicky Cristina Barcelona»?",
+    "answers": [
+      {"text": "Пенелопа Крус", "score": 1},
+      {"text": "Пас Вега", "score": 0},
+      {"text": "Эльса Патаки", "score": 0},
+      {"text": "Виктория Абриль", "score": 0}
+    ]
+  }
+]

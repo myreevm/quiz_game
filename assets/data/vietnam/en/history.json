@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "What is the capital of Vietnam?",
+        "answers":  [
+                        {
+                            "text":  "Hanoi",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ho Chi Minh City",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Da Nang",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hue",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In what year was Vietnam officially reunified?",
+        "answers":  [
+                        {
+                            "text":  "1976",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1973",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1968",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1986",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which battle in 1954 ended French colonial rule in Indochina?",
+        "answers":  [
+                        {
+                            "text":  "Battle of Dien Bien Phu",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Battle of Hue",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Battle of Khe Sanh",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Battle of Saigon",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the official currency of Vietnam?",
+        "answers":  [
+                        {
+                            "text":  "Vietnamese dong",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Baht",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yuan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Riel",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "question": "In what year did the Baptism of Rus' take place?",
+    "answers": [
+      {
+        "text": "988",
+        "score": 1
+      },
+      {
+        "text": "862",
+        "score": 0
+      },
+      {
+        "text": "1240",
+        "score": 0
+      },
+      {
+        "text": "1380",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In what year was Moscow first mentioned in chronicles?",
+    "answers": [
+      {
+        "text": "1147",
+        "score": 1
+      },
+      {
+        "text": "988",
+        "score": 0
+      },
+      {
+        "text": "1380",
+        "score": 0
+      },
+      {
+        "text": "1612",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who led the Russian army in the Battle of the Ice?",
+    "answers": [
+      {
+        "text": "Alexander Nevsky",
+        "score": 1
+      },
+      {
+        "text": "Dmitry Donskoy",
+        "score": 0
+      },
+      {
+        "text": "Ivan the Terrible",
+        "score": 0
+      },
+      {
+        "text": "Peter I",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In what year did the Battle of Kulikovo take place?",
+    "answers": [
+      {
+        "text": "1380",
+        "score": 1
+      },
+      {
+        "text": "1480",
+        "score": 0
+      },
+      {
+        "text": "1242",
+        "score": 0
+      },
+      {
+        "text": "1812",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In what year did the reign of the Romanov dynasty begin?",
+    "answers": [
+      {
+        "text": "1613",
+        "score": 1
+      },
+      {
+        "text": "1547",
+        "score": 0
+      },
+      {
+        "text": "1721",
+        "score": 0
+      },
+      {
+        "text": "1917",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What year is associated with the Patriotic War against Napoleon?",
+    "answers": [
+      {
+        "text": "1812",
+        "score": 1
+      },
+      {
+        "text": "1709",
+        "score": 0
+      },
+      {
+        "text": "1853",
+        "score": 0
+      },
+      {
+        "text": "1905",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In what year was serfdom abolished in the Russian Empire?",
+    "answers": [
+      {
+        "text": "1861",
+        "score": 1
+      },
+      {
+        "text": "1825",
+        "score": 0
+      },
+      {
+        "text": "1881",
+        "score": 0
+      },
+      {
+        "text": "1914",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In what year did the October Revolution take place?",
+    "answers": [
+      {
+        "text": "1917",
+        "score": 1
+      },
+      {
+        "text": "1905",
+        "score": 0
+      },
+      {
+        "text": "1922",
+        "score": 0
+      },
+      {
+        "text": "1941",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In what year did the Great Patriotic War end?",
+    "answers": [
+      {
+        "text": "1945",
+        "score": 1
+      },
+      {
+        "text": "1941",
+        "score": 0
+      },
+      {
+        "text": "1943",
+        "score": 0
+      },
+      {
+        "text": "1947",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In what year did Yuri Gagarin make the first manned flight into space?",
+    "answers": [
+      {
+        "text": "1961",
+        "score": 1
+      },
+      {
+        "text": "1957",
+        "score": 0
+      },
+      {
+        "text": "1963",
+        "score": 0
+      },
+      {
+        "text": "1969",
+        "score": 0
+      }
+    ]
+  }
+]

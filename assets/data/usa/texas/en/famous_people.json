@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Which singer from Houston performed the hit \"Crazy in Love\"?",
+    "answers": [
+      {
+        "text": "Beyonce",
+        "score": 1
+      },
+      {
+        "text": "Katy Perry",
+        "score": 0
+      },
+      {
+        "text": "Pink",
+        "score": 0
+      },
+      {
+        "text": "Rihanna",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which actor from Texas starred in \"Interstellar\" and won an Oscar for \"Dallas Buyers Club\"?",
+    "answers": [
+      {
+        "text": "Matthew McConaughey",
+        "score": 1
+      },
+      {
+        "text": "Brad Pitt",
+        "score": 0
+      },
+      {
+        "text": "Tom Hanks",
+        "score": 0
+      },
+      {
+        "text": "Chris Pratt",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which U.S. president born in Texas was the 36th?",
+    "answers": [
+      {
+        "text": "Lyndon B. Johnson",
+        "score": 1
+      },
+      {
+        "text": "Jimmy Carter",
+        "score": 0
+      },
+      {
+        "text": "Harry Truman",
+        "score": 0
+      },
+      {
+        "text": "Ronald Reagan",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which singer from Texas is called the \"Queen of Tejano\"?",
+    "answers": [
+      {
+        "text": "Selena Quintanilla",
+        "score": 1
+      },
+      {
+        "text": "Gloria Estefan",
+        "score": 0
+      },
+      {
+        "text": "Shakira",
+        "score": 0
+      },
+      {
+        "text": "Jennifer Lopez",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which actress known for \"Desperate Housewives\" was born in Corpus Christi, Texas?",
+    "answers": [
+      {
+        "text": "Eva Longoria",
+        "score": 1
+      },
+      {
+        "text": "Sarah Jessica Parker",
+        "score": 0
+      },
+      {
+        "text": "Julia Roberts",
+        "score": 0
+      },
+      {
+        "text": "Scarlett Johansson",
+        "score": 0
+      }
+    ]
+  }
+]

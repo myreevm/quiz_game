@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Who directed the film \"Roma\"?",
+        "answers":  [
+                        {
+                            "text":  "Alfonso Cuaron",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Guillermo del Toro",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alejandro Gonzalez Inarritu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Luis Estrada",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which animated movie is inspired by Dia de los Muertos in Mexico?",
+        "answers":  [
+                        {
+                            "text":  "Coco",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Encanto",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Moana",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Luca",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Mexican actress starred in \"Frida\" and \"Desperado\"?",
+        "answers":  [
+                        {
+                            "text":  "Salma Hayek",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Eiza Gonzalez",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yalitza Aparicio",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kate del Castillo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which city is the Guadalajara International Film Festival held?",
+        "answers":  [
+                        {
+                            "text":  "Guadalajara",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cancun",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tijuana",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Merida",
+                            "score":  0
+                        }
+                    ]
+    }
+]

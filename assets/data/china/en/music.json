@@ -1,0 +1,107 @@
+[
+  {
+    "question": "What is the traditional Chinese two-string bowed instrument called?",
+    "answers": [
+      {
+        "text": "Erhu",
+        "score": 1
+      },
+      {
+        "text": "Sitar",
+        "score": 0
+      },
+      {
+        "text": "Shamisen",
+        "score": 0
+      },
+      {
+        "text": "Domra",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the ceremonial vocal and theatrical genre known as Beijing Opera called?",
+    "answers": [
+      {
+        "text": "Jingju",
+        "score": 1
+      },
+      {
+        "text": "Noh",
+        "score": 0
+      },
+      {
+        "text": "Kabuki",
+        "score": 0
+      },
+      {
+        "text": "Kunqu",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the traditional Chinese seven-string plucked instrument called?",
+    "answers": [
+      {
+        "text": "Guqin",
+        "score": 1
+      },
+      {
+        "text": "Banjo",
+        "score": 0
+      },
+      {
+        "text": "Ukulele",
+        "score": 0
+      },
+      {
+        "text": "Mandolin",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is modern Chinese pop music usually called?",
+    "answers": [
+      {
+        "text": "C-pop",
+        "score": 1
+      },
+      {
+        "text": "J-pop",
+        "score": 0
+      },
+      {
+        "text": "K-pop",
+        "score": 0
+      },
+      {
+        "text": "Britpop",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which instrument most often sets the rhythm during the dragon dance at Chinese festivals?",
+    "answers": [
+      {
+        "text": "Drum",
+        "score": 1
+      },
+      {
+        "text": "Harp",
+        "score": 0
+      },
+      {
+        "text": "Saxophone",
+        "score": 0
+      },
+      {
+        "text": "Piccolo flute",
+        "score": 0
+      }
+    ]
+  }
+]

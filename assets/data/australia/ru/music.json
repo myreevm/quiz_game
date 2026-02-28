@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Какой инструмент традиционно связан с музыкой коренных народов Австралии?",
+    "answers": [
+      {
+        "text": "Диджериду",
+        "score": 1
+      },
+      {
+        "text": "Волынка",
+        "score": 0
+      },
+      {
+        "text": "Ситар",
+        "score": 0
+      },
+      {
+        "text": "Арфа",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Какая австралийская группа выпустила песню «Highway to Hell»?",
+    "answers": [
+      {
+        "text": "AC/DC",
+        "score": 1
+      },
+      {
+        "text": "INXS",
+        "score": 0
+      },
+      {
+        "text": "Silverchair",
+        "score": 0
+      },
+      {
+        "text": "Jet",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "«Down Under» — хит какой австралийской группы?",
+    "answers": [
+      {
+        "text": "Men at Work",
+        "score": 1
+      },
+      {
+        "text": "Midnight Oil",
+        "score": 0
+      },
+      {
+        "text": "Crowded House",
+        "score": 0
+      },
+      {
+        "text": "Bee Gees",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Какая австралийская певица известна по песне «Chandelier»?",
+    "answers": [
+      {
+        "text": "Sia",
+        "score": 1
+      },
+      {
+        "text": "Кайли Миноуг",
+        "score": 0
+      },
+      {
+        "text": "Натали Имбрулья",
+        "score": 0
+      },
+      {
+        "text": "Lorde",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Какой город принимает знаменитый Opera House для крупных музыкальных выступлений?",
+    "answers": [
+      {
+        "text": "Сидней",
+        "score": 1
+      },
+      {
+        "text": "Канберра",
+        "score": 0
+      },
+      {
+        "text": "Дарвин",
+        "score": 0
+      },
+      {
+        "text": "Перт",
+        "score": 0
+      }
+    ]
+  }
+]

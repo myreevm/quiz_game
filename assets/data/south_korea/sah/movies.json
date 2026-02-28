@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "2020 сыллаахха «Оскар» ылбыт ханнык Южнай Корея киинэтэ буоларый?",
+    "answers": [
+      {"text": "Parasite", "score": 1},
+      {"text": "Oldboy", "score": 0},
+      {"text": "Train to Busan", "score": 0},
+      {"text": "Burning", "score": 0}
+    ]
+  },
+  {
+    "question": "«Parasite» киинэни ким таһаарбытай?",
+    "answers": [
+      {"text": "Пон Чжун Хо", "score": 1},
+      {"text": "Пак Чхан Ук", "score": 0},
+      {"text": "Ким Ки Дук", "score": 0},
+      {"text": "Ли Чхан Дон", "score": 0}
+    ]
+  },
+  {
+    "question": "Busan International Film Festival ханнык куоратка ааһынарый?",
+    "answers": [
+      {"text": "Пусан", "score": 1},
+      {"text": "Сеул", "score": 0},
+      {"text": "Тэджон", "score": 0},
+      {"text": "Ульсан", "score": 0}
+    ]
+  },
+  {
+    "question": "«Oldboy» Южнай Корея киинэтин ханнык режиссер таһаарбытай?",
+    "answers": [
+      {"text": "Пак Чхан Ук", "score": 1},
+      {"text": "Пон Чжун Хо", "score": 0},
+      {"text": "Хон Сан Су", "score": 0},
+      {"text": "Ким Чжи Ун", "score": 0}
+    ]
+  }
+]

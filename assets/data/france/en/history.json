@@ -1,0 +1,107 @@
+[
+  {
+    "question": "In what year did the French Revolution begin?",
+    "answers": [
+      {
+        "text": "1789",
+        "score": 1
+      },
+      {
+        "text": "1776",
+        "score": 0
+      },
+      {
+        "text": "1812",
+        "score": 0
+      },
+      {
+        "text": "1848",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which fortress in Paris was stormed on July 14, 1789?",
+    "answers": [
+      {
+        "text": "Bastille",
+        "score": 1
+      },
+      {
+        "text": "Louvre",
+        "score": 0
+      },
+      {
+        "text": "Versailles",
+        "score": 0
+      },
+      {
+        "text": "Pantheon",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which city is the capital of France?",
+    "answers": [
+      {
+        "text": "Paris",
+        "score": 1
+      },
+      {
+        "text": "Lyon",
+        "score": 0
+      },
+      {
+        "text": "Marseille",
+        "score": 0
+      },
+      {
+        "text": "Nice",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who led the Free France movement during World War II?",
+    "answers": [
+      {
+        "text": "Charles de Gaulle",
+        "score": 1
+      },
+      {
+        "text": "Georges Pompidou",
+        "score": 0
+      },
+      {
+        "text": "Francois Mitterrand",
+        "score": 0
+      },
+      {
+        "text": "Jacques Chirac",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which French king is known for the phrase \"The state is me\"?",
+    "answers": [
+      {
+        "text": "Louis XIV",
+        "score": 1
+      },
+      {
+        "text": "Louis XVI",
+        "score": 0
+      },
+      {
+        "text": "Philip IV",
+        "score": 0
+      },
+      {
+        "text": "Henry IV",
+        "score": 0
+      }
+    ]
+  }
+]

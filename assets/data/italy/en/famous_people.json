@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Italian polymath painted the Mona Lisa?",
+        "answers":  [
+                        {
+                            "text":  "Leonardo da Vinci",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Raphael",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Titian",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Caravaggio",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Italian sculptor and painter created parts of the Sistine Chapel ceiling?",
+        "answers":  [
+                        {
+                            "text":  "Michelangelo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Donatello",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bernini",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Botticelli",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Italian scientist improved the telescope and supported heliocentrism?",
+        "answers":  [
+                        {
+                            "text":  "Galileo Galilei",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nicolaus Copernicus",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tycho Brahe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Johannes Kepler",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Italian actress won the Academy Award for Best Actress for \u0027Two Women\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Sophia Loren",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Monica Bellucci",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Anna Magnani",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gina Lollobrigida",
+                            "score":  0
+                        }
+                    ]
+    }
+]

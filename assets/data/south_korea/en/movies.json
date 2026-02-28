@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which South Korean film won the Academy Award for Best Picture in 2020?",
+        "answers":  [
+                        {
+                            "text":  "Parasite",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Oldboy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Train to Busan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Burning",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who directed the film \u0027Parasite\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Bong Joon-ho",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Park Chan-wook",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kim Ki-duk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lee Chang-dong",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city hosts the Busan International Film Festival?",
+        "answers":  [
+                        {
+                            "text":  "Busan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Seoul",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Daejeon",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ulsan",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which director made the South Korean film \u0027Oldboy\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Park Chan-wook",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bong Joon-ho",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hong Sang-soo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kim Jee-woon",
+                            "score":  0
+                        }
+                    ]
+    }
+]

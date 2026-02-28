@@ -1,0 +1,107 @@
+[
+  {
+    "question": "In which city is the Hollywood district located?",
+    "answers": [
+      {
+        "text": "Los Angeles",
+        "score": 1
+      },
+      {
+        "text": "Chicago",
+        "score": 0
+      },
+      {
+        "text": "Miami",
+        "score": 0
+      },
+      {
+        "text": "Seattle",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who directed the film \"Titanic\" (1997)?",
+    "answers": [
+      {
+        "text": "James Cameron",
+        "score": 1
+      },
+      {
+        "text": "Steven Spielberg",
+        "score": 0
+      },
+      {
+        "text": "Christopher Nolan",
+        "score": 0
+      },
+      {
+        "text": "Ridley Scott",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which film won the Oscar for Best Picture for 1994?",
+    "answers": [
+      {
+        "text": "Forrest Gump",
+        "score": 1
+      },
+      {
+        "text": "Pulp Fiction",
+        "score": 0
+      },
+      {
+        "text": "The Shawshank Redemption",
+        "score": 0
+      },
+      {
+        "text": "Schindler's List",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In which franchise does the character Luke Skywalker appear?",
+    "answers": [
+      {
+        "text": "Star Wars",
+        "score": 1
+      },
+      {
+        "text": "Star Trek",
+        "score": 0
+      },
+      {
+        "text": "The Matrix",
+        "score": 0
+      },
+      {
+        "text": "Terminator",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who directed the \"The Godfather\" trilogy?",
+    "answers": [
+      {
+        "text": "Francis Ford Coppola",
+        "score": 1
+      },
+      {
+        "text": "Martin Scorsese",
+        "score": 0
+      },
+      {
+        "text": "Brian De Palma",
+        "score": 0
+      },
+      {
+        "text": "Oliver Stone",
+        "score": 0
+      }
+    ]
+  }
+]

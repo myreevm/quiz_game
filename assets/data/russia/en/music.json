@@ -1,0 +1,212 @@
+[
+  {
+    "question": "Who wrote the ballet \"The Nutcracker\"?",
+    "answers": [
+      {
+        "text": "Pyotr Tchaikovsky",
+        "score": 1
+      },
+      {
+        "text": "Mikhail Glinka",
+        "score": 0
+      },
+      {
+        "text": "Sergei Prokofiev",
+        "score": 0
+      },
+      {
+        "text": "Alexander Scriabin",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who is often called the founder of Russian classical music?",
+    "answers": [
+      {
+        "text": "Mikhail Glinka",
+        "score": 1
+      },
+      {
+        "text": "Modest Mussorgsky",
+        "score": 0
+      },
+      {
+        "text": "Dmitry Shostakovich",
+        "score": 0
+      },
+      {
+        "text": "Aram Khachaturyan",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who wrote the opera \"Boris Godunov\"?",
+    "answers": [
+      {
+        "text": "Modest Mussorgsky",
+        "score": 1
+      },
+      {
+        "text": "Nikolai Rimsky-Korsakov",
+        "score": 0
+      },
+      {
+        "text": "Pyotr Tchaikovsky",
+        "score": 0
+      },
+      {
+        "text": "Alexander Dargomyzhsky",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who was the leader and songwriter of the Kino group?",
+    "answers": [
+      {
+        "text": "Victor Tsoi",
+        "score": 1
+      },
+      {
+        "text": "Boris Grebenshchikov",
+        "score": 0
+      },
+      {
+        "text": "Yuri Shevchuk",
+        "score": 0
+      },
+      {
+        "text": "Alexander Vasiliev",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What folk instrument with three strings is considered a symbol of Russian music?",
+    "answers": [
+      {
+        "text": "Balalaika",
+        "score": 1
+      },
+      {
+        "text": "Harp",
+        "score": 0
+      },
+      {
+        "text": "Clarinet",
+        "score": 0
+      },
+      {
+        "text": "Banjo",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who wrote \"Polovtsian Dances\"?",
+    "answers": [
+      {
+        "text": "Alexander Borodin",
+        "score": 1
+      },
+      {
+        "text": "Igor Stravinsky",
+        "score": 0
+      },
+      {
+        "text": "Sergei Rachmaninov",
+        "score": 0
+      },
+      {
+        "text": "Mikhail Glinka",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who wrote the music of the modern Russian anthem?",
+    "answers": [
+      {
+        "text": "Alexander Alexandrov",
+        "score": 1
+      },
+      {
+        "text": "Rodion Shchedrin",
+        "score": 0
+      },
+      {
+        "text": "Georgy Sviridov",
+        "score": 0
+      },
+      {
+        "text": "Tikhon Khrennikov",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who wrote the opera \"Eugene Onegin\"?",
+    "answers": [
+      {
+        "text": "Pyotr Tchaikovsky",
+        "score": 1
+      },
+      {
+        "text": "Modest Mussorgsky",
+        "score": 0
+      },
+      {
+        "text": "Sergei Prokofiev",
+        "score": 0
+      },
+      {
+        "text": "Nikolai Rimsky-Korsakov",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who wrote the 7th Leningrad Symphony?",
+    "answers": [
+      {
+        "text": "Dmitry Shostakovich",
+        "score": 1
+      },
+      {
+        "text": "Alexander Scriabin",
+        "score": 0
+      },
+      {
+        "text": "Sergei Rachmaninov",
+        "score": 0
+      },
+      {
+        "text": "Mikhail Glinka",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which of the following songs is a famous Russian folk song?",
+    "answers": [
+      {
+        "text": "Kalinka",
+        "score": 1
+      },
+      {
+        "text": "Mother",
+        "score": 0
+      },
+      {
+        "text": "Music3",
+        "score": 0
+      },
+      {
+        "text": "Music4",
+        "score": 0
+      }
+    ]
+  }
+]

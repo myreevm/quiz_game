@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Which city hosts the Berlin International Film Festival?",
+    "answers": [
+      {"text": "Berlin", "score": 1},
+      {"text": "Leipzig", "score": 0},
+      {"text": "Dresden", "score": 0},
+      {"text": "Stuttgart", "score": 0}
+    ]
+  },
+  {
+    "question": "Which German anti-war film won multiple Oscars in 2023?",
+    "answers": [
+      {"text": "All Quiet on the Western Front", "score": 1},
+      {"text": "Run Lola Run", "score": 0},
+      {"text": "Downfall", "score": 0},
+      {"text": "The Lives of Others", "score": 0}
+    ]
+  },
+  {
+    "question": "Which classic 1927 German science-fiction film was directed by Fritz Lang?",
+    "answers": [
+      {"text": "Metropolis", "score": 1},
+      {"text": "M", "score": 0},
+      {"text": "Nosferatu", "score": 0},
+      {"text": "Wings of Desire", "score": 0}
+    ]
+  },
+  {
+    "question": "Which area near Berlin is famous for historic film studios?",
+    "answers": [
+      {"text": "Babelsberg", "score": 1},
+      {"text": "Charlottenburg", "score": 0},
+      {"text": "Prenzlauer Berg", "score": 0},
+      {"text": "Kreuzberg", "score": 0}
+    ]
+  }
+]

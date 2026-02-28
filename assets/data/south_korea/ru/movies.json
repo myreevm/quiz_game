@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Какой южнокорейский фильм получил «Оскар» за лучший фильм в 2020 году?",
+    "answers": [
+      {"text": "Parasite", "score": 1},
+      {"text": "Oldboy", "score": 0},
+      {"text": "Train to Busan", "score": 0},
+      {"text": "Burning", "score": 0}
+    ]
+  },
+  {
+    "question": "Кто снял фильм «Parasite»?",
+    "answers": [
+      {"text": "Пон Чжун Хо", "score": 1},
+      {"text": "Пак Чхан Ук", "score": 0},
+      {"text": "Ким Ки Дук", "score": 0},
+      {"text": "Ли Чхан Дон", "score": 0}
+    ]
+  },
+  {
+    "question": "Какой город принимает Busan International Film Festival?",
+    "answers": [
+      {"text": "Пусан", "score": 1},
+      {"text": "Сеул", "score": 0},
+      {"text": "Тэджон", "score": 0},
+      {"text": "Ульсан", "score": 0}
+    ]
+  },
+  {
+    "question": "Какой режиссер снял южнокорейский фильм «Oldboy»?",
+    "answers": [
+      {"text": "Пак Чхан Ук", "score": 1},
+      {"text": "Пон Чжун Хо", "score": 0},
+      {"text": "Хон Сан Су", "score": 0},
+      {"text": "Ким Чжи Ун", "score": 0}
+    ]
+  }
+]

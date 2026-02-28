@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Which French military leader and politician was crowned Emperor in 1804?",
+    "answers": [
+      {
+        "text": "Napoleon Bonaparte",
+        "score": 1
+      },
+      {
+        "text": "Charles de Gaulle",
+        "score": 0
+      },
+      {
+        "text": "Louis XIV",
+        "score": 0
+      },
+      {
+        "text": "Charlemagne",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which writer is known as the author of the novel \"Les Miserables\"?",
+    "answers": [
+      {
+        "text": "Victor Hugo",
+        "score": 1
+      },
+      {
+        "text": "Alexandre Dumas",
+        "score": 0
+      },
+      {
+        "text": "Honore de Balzac",
+        "score": 0
+      },
+      {
+        "text": "Emile Zola",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the legendary French fashion designer who founded the Chanel brand?",
+    "answers": [
+      {
+        "text": "Coco Chanel",
+        "score": 1
+      },
+      {
+        "text": "Jeanne Lanvin",
+        "score": 0
+      },
+      {
+        "text": "Elsa Schiaparelli",
+        "score": 0
+      },
+      {
+        "text": "Nina Ricci",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which French footballer is known for winning the 1998 World Cup and later coaching Real Madrid?",
+    "answers": [
+      {
+        "text": "Zinedine Zidane",
+        "score": 1
+      },
+      {
+        "text": "Thierry Henry",
+        "score": 0
+      },
+      {
+        "text": "Michel Platini",
+        "score": 0
+      },
+      {
+        "text": "Olivier Giroud",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which singer is often called a symbol of 20th-century French chanson?",
+    "answers": [
+      {
+        "text": "Edith Piaf",
+        "score": 1
+      },
+      {
+        "text": "Vanessa Paradis",
+        "score": 0
+      },
+      {
+        "text": "Mylene Farmer",
+        "score": 0
+      },
+      {
+        "text": "Patricia Kaas",
+        "score": 0
+      }
+    ]
+  }
+]

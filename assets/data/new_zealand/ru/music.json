@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Какая новозеландская певица выпустила хит «Royals»?",
+    "answers": [
+      {"text": "Lorde", "score": 1},
+      {"text": "Sia", "score": 0},
+      {"text": "Kylie Minogue", "score": 0},
+      {"text": "Dido", "score": 0}
+    ]
+  },
+  {
+    "question": "Какой комедийный музыкальный дуэт из Новой Зеландии создавал песни для телесериала?",
+    "answers": [
+      {"text": "Flight of the Conchords", "score": 1},
+      {"text": "The Lonely Island", "score": 0},
+      {"text": "Tenacious D", "score": 0},
+      {"text": "The Whitlams", "score": 0}
+    ]
+  },
+  {
+    "question": "Какой коренной народ Новой Зеландии имеет богатые традиции музыки и песнопений?",
+    "answers": [
+      {"text": "Маори", "score": 1},
+      {"text": "Инуиты", "score": 0},
+      {"text": "Саамы", "score": 0},
+      {"text": "Айны", "score": 0}
+    ]
+  },
+  {
+    "question": "В каком городе обычно проводится WOMAD New Zealand?",
+    "answers": [
+      {"text": "Нью-Плимут", "score": 1},
+      {"text": "Веллингтон", "score": 0},
+      {"text": "Окленд", "score": 0},
+      {"text": "Куинстаун", "score": 0}
+    ]
+  }
+]

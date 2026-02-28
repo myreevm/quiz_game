@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Korean king is credited with creating Hangul?",
+        "answers":  [
+                        {
+                            "text":  "King Sejong",
+                            "score":  1
+                        },
+                        {
+                            "text":  "King Taejo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "King Gojong",
+                            "score":  0
+                        },
+                        {
+                            "text":  "King Yeongjo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which South Korean footballer became a Premier League star at Tottenham?",
+        "answers":  [
+                        {
+                            "text":  "Son Heung-min",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Park Ji-sung",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lee Kang-in",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hwang Hee-chan",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which South Korean diplomat served as UN Secretary-General from 2007 to 2016?",
+        "answers":  [
+                        {
+                            "text":  "Ban Ki-moon",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kofi Annan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Antonio Guterres",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Boutros Boutros-Ghali",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which South Korean figure skater won Olympic gold in 2010?",
+        "answers":  [
+                        {
+                            "text":  "Kim Yuna",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mao Asada",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yelim Kim",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alexandra Trusova",
+                            "score":  0
+                        }
+                    ]
+    }
+]

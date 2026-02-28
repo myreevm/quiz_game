@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which genre made South Korea globally famous in pop culture?",
+        "answers":  [
+                        {
+                            "text":  "K-pop",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Reggaeton",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fado",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Samba",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which South Korean group released global hits like \u0027Dynamite\u0027 and \u0027Butter\u0027?",
+        "answers":  [
+                        {
+                            "text":  "BTS",
+                            "score":  1
+                        },
+                        {
+                            "text":  "EXO",
+                            "score":  0
+                        },
+                        {
+                            "text":  "BIGBANG",
+                            "score":  0
+                        },
+                        {
+                            "text":  "SHINee",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which singer performed the viral hit \u0027Gangnam Style\u0027?",
+        "answers":  [
+                        {
+                            "text":  "PSY",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Rain",
+                            "score":  0
+                        },
+                        {
+                            "text":  "G-Dragon",
+                            "score":  0
+                        },
+                        {
+                            "text":  "IU",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which traditional Korean string instrument is often used in Korean music?",
+        "answers":  [
+                        {
+                            "text":  "Gayageum",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sitar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Balalaika",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lute",
+                            "score":  0
+                        }
+                    ]
+    }
+]

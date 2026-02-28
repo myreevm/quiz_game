@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Какая канадская певица выпустила альбом «Jagged Little Pill»?",
+    "answers": [
+      {"text": "Аланис Мориссетт", "score": 1},
+      {"text": "Аврил Лавин", "score": 0},
+      {"text": "Нелли Фуртадо", "score": 0},
+      {"text": "Шанайя Твейн", "score": 0}
+    ]
+  },
+  {
+    "question": "Какой канадский артист известен хитом «Blinding Lights»?",
+    "answers": [
+      {"text": "The Weeknd", "score": 1},
+      {"text": "Drake", "score": 0},
+      {"text": "Justin Bieber", "score": 0},
+      {"text": "Shawn Mendes", "score": 0}
+    ]
+  },
+  {
+    "question": "Какая певица из Квебека исполнила «My Heart Will Go On»?",
+    "answers": [
+      {"text": "Селин Дион", "score": 1},
+      {"text": "Лара Фабиан", "score": 0},
+      {"text": "Аланис Мориссетт", "score": 0},
+      {"text": "Джони Митчелл", "score": 0}
+    ]
+  },
+  {
+    "question": "Какой город является родным для рэпера Drake?",
+    "answers": [
+      {"text": "Торонто", "score": 1},
+      {"text": "Монреаль", "score": 0},
+      {"text": "Оттава", "score": 0},
+      {"text": "Виннипег", "score": 0}
+    ]
+  }
+]

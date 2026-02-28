@@ -1,0 +1,107 @@
+[
+  {
+    "question": "What is the national anthem of France called?",
+    "answers": [
+      {
+        "text": "La Marseillaise",
+        "score": 1
+      },
+      {
+        "text": "Ode to Joy",
+        "score": 0
+      },
+      {
+        "text": "God Save the King",
+        "score": 0
+      },
+      {
+        "text": "The Internationale",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which French singer performed the famous song \"La Vie en rose\"?",
+    "answers": [
+      {
+        "text": "Edith Piaf",
+        "score": 1
+      },
+      {
+        "text": "Mireille Mathieu",
+        "score": 0
+      },
+      {
+        "text": "Zaz",
+        "score": 0
+      },
+      {
+        "text": "Francoise Hardy",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which French electronic duo is known for the album \"Random Access Memories\"?",
+    "answers": [
+      {
+        "text": "Daft Punk",
+        "score": 1
+      },
+      {
+        "text": "Justice",
+        "score": 0
+      },
+      {
+        "text": "Air",
+        "score": 0
+      },
+      {
+        "text": "Phoenix",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the annual French music celebration held on June 21 called?",
+    "answers": [
+      {
+        "text": "Fete de la Musique",
+        "score": 1
+      },
+      {
+        "text": "Cannes Musique",
+        "score": 0
+      },
+      {
+        "text": "Bastille Sounds",
+        "score": 0
+      },
+      {
+        "text": "Paris Chanson Day",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which guitarist born in France is considered one of the symbols of gypsy jazz?",
+    "answers": [
+      {
+        "text": "Django Reinhardt",
+        "score": 1
+      },
+      {
+        "text": "Paco de Lucia",
+        "score": 0
+      },
+      {
+        "text": "Carlos Santana",
+        "score": 0
+      },
+      {
+        "text": "B.B. King",
+        "score": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "question": "In what year did Oklahoma become the 46th U.S. state?",
+    "answers": [
+      {
+        "text": "1907",
+        "score": 1
+      },
+      {
+        "text": "1867",
+        "score": 0
+      },
+      {
+        "text": "1912",
+        "score": 0
+      },
+      {
+        "text": "1921",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What was the mass land distribution in Oklahoma in 1889 called?",
+    "answers": [
+      {
+        "text": "Land Run",
+        "score": 1
+      },
+      {
+        "text": "Gold Rush",
+        "score": 0
+      },
+      {
+        "text": "Dust Bowl",
+        "score": 0
+      },
+      {
+        "text": "Trail of Tears",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In which city did the 1995 bombing of the federal building occur?",
+    "answers": [
+      {
+        "text": "Oklahoma City",
+        "score": 1
+      },
+      {
+        "text": "Tulsa",
+        "score": 0
+      },
+      {
+        "text": "Norman",
+        "score": 0
+      },
+      {
+        "text": "Lawton",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which territory, along with Oklahoma Territory, became part of the new state in 1907?",
+    "answers": [
+      {
+        "text": "Indian Territory",
+        "score": 1
+      },
+      {
+        "text": "Arizona Territory",
+        "score": 0
+      },
+      {
+        "text": "Utah Territory",
+        "score": 0
+      },
+      {
+        "text": "Alaska Territory",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which city is the capital of Oklahoma?",
+    "answers": [
+      {
+        "text": "Oklahoma City",
+        "score": 1
+      },
+      {
+        "text": "Tulsa",
+        "score": 0
+      },
+      {
+        "text": "Enid",
+        "score": 0
+      },
+      {
+        "text": "Stillwater",
+        "score": 0
+      }
+    ]
+  }
+]

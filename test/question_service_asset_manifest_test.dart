@@ -28,9 +28,27 @@ void main() {
       for (final path in expectedPaths) {
         expect(manifestContent.contains(path), isTrue);
       }
+
+      const regions = <String>['oklahoma', 'texas'];
+      const languages = <String>['en', 'ru', 'sah'];
+      const categories = <String>[
+        'famous_people',
+        'history',
+        'movies',
+        'music',
+      ];
+
+      for (final region in regions) {
+        for (final language in languages) {
+          for (final category in categories) {
+            final path = 'assets/data/usa/$region/$language/$category.json';
+            expect(manifestContent.contains(path), isTrue);
+          }
+        }
+      }
     });
 
-    test('AssetManifest includes Argentina, Belarus, Canada, and Germany language files',
+    test('AssetManifest includes Argentina, Australia, Belarus, Brazil, Canada, China, Egypt, France, Germany, Italy, Japan, Mexico, New Zealand, Poland, Russia, South Africa, South Korea, Spain, Switzerland, Turkey, UK, USA, and Vietnam language files',
         () async {
       final manifestBin = File('build/unit_test_assets/AssetManifest.bin');
       expect(manifestBin.existsSync(), isTrue);
@@ -41,9 +59,28 @@ void main() {
 
       const countries = <String>[
         'argentina',
+        'australia',
         'belarus',
+        'brazil',
         'canada',
+        'china',
+        'egypt',
+        'france',
         'germany',
+        'italy',
+        'japan',
+        'mexico',
+        'new_zealand',
+        'poland',
+        'russia',
+        'south_africa',
+        'south_korea',
+        'spain',
+        'switzerland',
+        'turkey',
+        'uk',
+        'usa',
+        'vietnam',
       ];
       const languages = <String>['en', 'ru', 'sah'];
       const categories = <String>[
@@ -96,14 +133,72 @@ void main() {
       );
     });
 
+    test('loads USA regions for English, Russian, and Yakut languages',
+        () async {
+      for (final region in const <String>['oklahoma', 'texas']) {
+        for (final category in const <String>[
+          'famous_people',
+          'history',
+          'movies',
+          'music',
+        ]) {
+          final englishQuestions = await QuestionService.loadQuestions(
+            country: 'usa',
+            region: region,
+            category: category,
+            language: AppLanguage.english,
+          );
+          final russianQuestions = await QuestionService.loadQuestions(
+            country: 'usa',
+            region: region,
+            category: category,
+            language: AppLanguage.russian,
+          );
+          final yakutQuestions = await QuestionService.loadQuestions(
+            country: 'usa',
+            region: region,
+            category: category,
+            language: AppLanguage.yakut,
+          );
+
+          expect(englishQuestions, isNotEmpty);
+          expect(russianQuestions, isNotEmpty);
+          expect(yakutQuestions, isNotEmpty);
+          expect(russianQuestions.first.questionText,
+              isNot(englishQuestions.first.questionText));
+          expect(yakutQuestions.first.questionText,
+              isNot(englishQuestions.first.questionText));
+        }
+      }
+    });
+
     test(
-        'loads Argentina, Belarus, Canada, and Germany categories for all app languages',
+        'loads Argentina, Australia, Belarus, Brazil, Canada, China, Egypt, France, Germany, Italy, Japan, Mexico, New Zealand, Poland, Russia, South Africa, South Korea, Spain, Switzerland, Turkey, UK, USA, and Vietnam categories for all app languages',
         () async {
       for (final country in const <String>[
         'argentina',
+        'australia',
         'belarus',
+        'brazil',
         'canada',
+        'china',
+        'egypt',
+        'france',
         'germany',
+        'italy',
+        'japan',
+        'mexico',
+        'new_zealand',
+        'poland',
+        'russia',
+        'south_africa',
+        'south_korea',
+        'spain',
+        'switzerland',
+        'turkey',
+        'uk',
+        'usa',
+        'vietnam',
       ]) {
         for (final category in const <String>[
           'famous_people',
@@ -132,12 +227,8 @@ void main() {
           expect(yakutQuestions, isNotEmpty);
           expect(russianQuestions.first.questionText,
               isNot(englishQuestions.first.questionText));
-          expect(
-              yakutQuestions.first.questionText,
-              anyOf(
-                isNot(englishQuestions.first.questionText),
-                isNot(russianQuestions.first.questionText),
-              ));
+          expect(yakutQuestions.first.questionText,
+              isNot(englishQuestions.first.questionText));
         }
       }
     });

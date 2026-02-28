@@ -1,0 +1,107 @@
+[
+  {
+    "question": "In what year did Texas join the United States?",
+    "answers": [
+      {
+        "text": "1845",
+        "score": 1
+      },
+      {
+        "text": "1776",
+        "score": 0
+      },
+      {
+        "text": "1865",
+        "score": 0
+      },
+      {
+        "text": "1907",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which 1836 battle became a symbol of Texas's struggle for independence?",
+    "answers": [
+      {
+        "text": "Battle of the Alamo",
+        "score": 1
+      },
+      {
+        "text": "Battle of Gettysburg",
+        "score": 0
+      },
+      {
+        "text": "Battle of Yorktown",
+        "score": 0
+      },
+      {
+        "text": "Battle of Bull Run",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which city is the capital of Texas?",
+    "answers": [
+      {
+        "text": "Austin",
+        "score": 1
+      },
+      {
+        "text": "Houston",
+        "score": 0
+      },
+      {
+        "text": "Dallas",
+        "score": 0
+      },
+      {
+        "text": "San Antonio",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What was the name of the independent state that existed before Texas joined the United States?",
+    "answers": [
+      {
+        "text": "Republic of Texas",
+        "score": 1
+      },
+      {
+        "text": "Confederation of Texas",
+        "score": 0
+      },
+      {
+        "text": "Free Texas",
+        "score": 0
+      },
+      {
+        "text": "Texas League",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which city is the largest in Texas by population?",
+    "answers": [
+      {
+        "text": "Houston",
+        "score": 1
+      },
+      {
+        "text": "Austin",
+        "score": 0
+      },
+      {
+        "text": "El Paso",
+        "score": 0
+      },
+      {
+        "text": "Fort Worth",
+        "score": 0
+      }
+    ]
+  }
+]

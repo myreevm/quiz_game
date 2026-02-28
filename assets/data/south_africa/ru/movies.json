@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "В каком южноафриканском городе в основном происходит действие фильма «District 9»?",
+    "answers": [
+      {"text": "Йоханнесбург", "score": 1},
+      {"text": "Кейптаун", "score": 0},
+      {"text": "Претория", "score": 0},
+      {"text": "Порт-Элизабет", "score": 0}
+    ]
+  },
+  {
+    "question": "Какой южноафриканский фильм получил «Оскар» за лучший фильм на иностранном языке в 2006 году?",
+    "answers": [
+      {"text": "Tsotsi", "score": 1},
+      {"text": "Invictus", "score": 0},
+      {"text": "District 9", "score": 0},
+      {"text": "Cry Freedom", "score": 0}
+    ]
+  },
+  {
+    "question": "Кто снял южноафриканский фильм «Tsotsi»?",
+    "answers": [
+      {"text": "Гэвин Худ", "score": 1},
+      {"text": "Нил Бломкамп", "score": 0},
+      {"text": "Клинт Иствуд", "score": 0},
+      {"text": "Дэнни Бойл", "score": 0}
+    ]
+  },
+  {
+    "question": "В каком городе проходит Cape Town International Film Market and Festival?",
+    "answers": [
+      {"text": "Кейптаун", "score": 1},
+      {"text": "Дурбан", "score": 0},
+      {"text": "Йоханнесбург", "score": 0},
+      {"text": "Блумфонтейн", "score": 0}
+    ]
+  }
+]

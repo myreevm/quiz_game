@@ -1,0 +1,212 @@
+[
+  {
+    "question": "Who became the first person to fly into space?",
+    "answers": [
+      {
+        "text": "Yuri Gagarin",
+        "score": 1
+      },
+      {
+        "text": "German Titov",
+        "score": 0
+      },
+      {
+        "text": "Alexey Leonov",
+        "score": 0
+      },
+      {
+        "text": "Sergey Korolev",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who wrote the novel \"War and Peace\"?",
+    "answers": [
+      {
+        "text": "Leo Tolstoy",
+        "score": 1
+      },
+      {
+        "text": "Fyodor Dostoevsky",
+        "score": 0
+      },
+      {
+        "text": "Ivan Turgenev",
+        "score": 0
+      },
+      {
+        "text": "Anton Chekhov",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who is considered the creator of the periodic table of chemical elements?",
+    "answers": [
+      {
+        "text": "Dmitry Mendeleev",
+        "score": 1
+      },
+      {
+        "text": "Mikhail Lomonosov",
+        "score": 0
+      },
+      {
+        "text": "Nikolai Zelinsky",
+        "score": 0
+      },
+      {
+        "text": "Sergey Vavilov",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who is the author of the poem \"Eugene Onegin\"?",
+    "answers": [
+      {
+        "text": "Alexander Pushkin",
+        "score": 1
+      },
+      {
+        "text": "Nikolai Gogol",
+        "score": 0
+      },
+      {
+        "text": "Mikhail Lermontov",
+        "score": 0
+      },
+      {
+        "text": "Nikolay Nekrasov",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who wrote the ballet \"Swan Lake\"?",
+    "answers": [
+      {
+        "text": "Pyotr Tchaikovsky",
+        "score": 1
+      },
+      {
+        "text": "Sergei Prokofiev",
+        "score": 0
+      },
+      {
+        "text": "Igor Stravinsky",
+        "score": 0
+      },
+      {
+        "text": "Nikolai Rimsky-Korsakov",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who became the first woman astronaut?",
+    "answers": [
+      {
+        "text": "Valentina Tereshkova",
+        "score": 1
+      },
+      {
+        "text": "Svetlana Savitskaya",
+        "score": 0
+      },
+      {
+        "text": "Elena Kondakova",
+        "score": 0
+      },
+      {
+        "text": "Irina Solovyova",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who is considered the founder of Moscow University?",
+    "answers": [
+      {
+        "text": "Mikhail Lomonosov",
+        "score": 1
+      },
+      {
+        "text": "Dmitry Mendeleev",
+        "score": 0
+      },
+      {
+        "text": "Ivan Pavlov",
+        "score": 0
+      },
+      {
+        "text": "Konstantin Tsiolkovsky",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who wrote the novel The Brothers Karamazov?",
+    "answers": [
+      {
+        "text": "Fyodor Dostoevsky",
+        "score": 1
+      },
+      {
+        "text": "Leo Tolstoy",
+        "score": 0
+      },
+      {
+        "text": "Maxim Gorky",
+        "score": 0
+      },
+      {
+        "text": "Alexander Kuprin",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who is the author of the painting “Black Square”?",
+    "answers": [
+      {
+        "text": "Kazimir Malevich",
+        "score": 1
+      },
+      {
+        "text": "Wassily Kandinsky",
+        "score": 0
+      },
+      {
+        "text": "Ilya Repin",
+        "score": 0
+      },
+      {
+        "text": "Victor Vasnetsov",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which scientist is known for his research on conditioned reflexes?",
+    "answers": [
+      {
+        "text": "Ivan Pavlov",
+        "score": 1
+      },
+      {
+        "text": "Peter Kapitsa",
+        "score": 0
+      },
+      {
+        "text": "Nikolay Pirogov",
+        "score": 0
+      },
+      {
+        "text": "Igor Kurchatov",
+        "score": 0
+      }
+    ]
+  }
+]

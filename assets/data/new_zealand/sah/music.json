@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "«Royals» хит ырыатын таһаарбыт ханнык саҥа зеландиялыы ырыаһыта буоларый?",
+    "answers": [
+      {"text": "Lorde", "score": 1},
+      {"text": "Sia", "score": 0},
+      {"text": "Kylie Minogue", "score": 0},
+      {"text": "Dido", "score": 0}
+    ]
+  },
+  {
+    "question": "Саҥа Зеландиятан ханнык күлүү музыкальнай дуэта телесериал иһин ырыалары оҥорбутуй?",
+    "answers": [
+      {"text": "Flight of the Conchords", "score": 1},
+      {"text": "The Lonely Island", "score": 0},
+      {"text": "Tenacious D", "score": 0},
+      {"text": "The Whitlams", "score": 0}
+    ]
+  },
+  {
+    "question": "Саҥа Зеландияҕа ханнык төрүт норуот музыкальнай уонна ырыа туһунан бай баай миэстэтин туттарый?",
+    "answers": [
+      {"text": "Маори", "score": 1},
+      {"text": "Инуиттар", "score": 0},
+      {"text": "Саамнар", "score": 0},
+      {"text": "Айну", "score": 0}
+    ]
+  },
+  {
+    "question": "WOMAD New Zealand үөрэҕэ уопсастыы ханнык куоратка ыытылларый?",
+    "answers": [
+      {"text": "Нью-Плимут", "score": 1},
+      {"text": "Веллингтон", "score": 0},
+      {"text": "Окленд", "score": 0},
+      {"text": "Куинстаун", "score": 0}
+    ]
+  }
+]

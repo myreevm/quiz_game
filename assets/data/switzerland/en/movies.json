@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Swiss city hosts the Locarno Film Festival?",
+        "answers":  [
+                        {
+                            "text":  "Locarno",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bern",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lausanne",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lugano",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Swiss actor played Adolf Hitler in the film \u0027Downfall\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Bruno Ganz",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Daniel Bruhl",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Christoph Waltz",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Max von Sydow",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which classic character from Swiss literature has many film adaptations?",
+        "answers":  [
+                        {
+                            "text":  "Heidi",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pinocchio",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Oliver Twist",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Don Quixote",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which Swiss city is the Cinematheque suisse based?",
+        "answers":  [
+                        {
+                            "text":  "Lausanne",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Zurich",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Geneva",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lucerne",
+                            "score":  0
+                        }
+                    ]
+    }
+]

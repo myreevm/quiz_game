@@ -1,0 +1,107 @@
+[
+  {
+    "question": "In what year was the U.S. Declaration of Independence signed?",
+    "answers": [
+      {
+        "text": "1776",
+        "score": 1
+      },
+      {
+        "text": "1787",
+        "score": 0
+      },
+      {
+        "text": "1812",
+        "score": 0
+      },
+      {
+        "text": "1865",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which state was the first to ratify the U.S. Constitution?",
+    "answers": [
+      {
+        "text": "Delaware",
+        "score": 1
+      },
+      {
+        "text": "Virginia",
+        "score": 0
+      },
+      {
+        "text": "Pennsylvania",
+        "score": 0
+      },
+      {
+        "text": "New York",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In what year did the American Civil War end?",
+    "answers": [
+      {
+        "text": "1865",
+        "score": 1
+      },
+      {
+        "text": "1776",
+        "score": 0
+      },
+      {
+        "text": "1918",
+        "score": 0
+      },
+      {
+        "text": "1945",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which 1803 deal significantly increased U.S. territory?",
+    "answers": [
+      {
+        "text": "Louisiana Purchase",
+        "score": 1
+      },
+      {
+        "text": "Alaska Purchase",
+        "score": 0
+      },
+      {
+        "text": "Homestead Act",
+        "score": 0
+      },
+      {
+        "text": "Missouri Compromise",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which city is the capital of the United States?",
+    "answers": [
+      {
+        "text": "Washington, D.C.",
+        "score": 1
+      },
+      {
+        "text": "New York",
+        "score": 0
+      },
+      {
+        "text": "Los Angeles",
+        "score": 0
+      },
+      {
+        "text": "Philadelphia",
+        "score": 0
+      }
+    ]
+  }
+]

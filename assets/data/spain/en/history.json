@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "What is the capital of Spain?",
+        "answers":  [
+                        {
+                            "text":  "Madrid",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Barcelona",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Valencia",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Seville",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In what year did the Reconquista end with the fall of Granada?",
+        "answers":  [
+                        {
+                            "text":  "1492",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1517",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1588",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1453",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What currency is used in Spain?",
+        "answers":  [
+                        {
+                            "text":  "Euro",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Peseta",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Swiss franc",
+                            "score":  0
+                        },
+                        {
+                            "text":  "US dollar",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which famous route to Santiago de Compostela is an old pilgrimage path in Spain?",
+        "answers":  [
+                        {
+                            "text":  "Camino de Santiago",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Silk Road",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Appian Way",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Inca Trail",
+                            "score":  0
+                        }
+                    ]
+    }
+]

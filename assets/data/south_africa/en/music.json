@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which modern dance music genre became globally popular from South Africa?",
+        "answers":  [
+                        {
+                            "text":  "Amapiano",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Reggaeton",
+                            "score":  0
+                        },
+                        {
+                            "text":  "K-pop",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Flamenco pop",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which South African singer was known as \u0027Mama Africa\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Miriam Makeba",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yvonne Chaka Chaka",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Angelique Kidjo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Brenda Fassie",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which vocal group from South Africa collaborated with Paul Simon?",
+        "answers":  [
+                        {
+                            "text":  "Ladysmith Black Mambazo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Temptations",
+                            "score":  0
+                        },
+                        {
+                            "text":  "ABBA",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Beach Boys",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which urban music style emerged in South African townships in the 1990s?",
+        "answers":  [
+                        {
+                            "text":  "Kwaito",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Grunge",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Disco polo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bossa nova",
+                            "score":  0
+                        }
+                    ]
+    }
+]

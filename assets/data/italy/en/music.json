@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which vocal art form originated in Italy around the late Renaissance?",
+        "answers":  [
+                        {
+                            "text":  "Opera",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jazz",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Blues",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Reggae",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Italian composer wrote the opera \u0027La Traviata\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Giuseppe Verdi",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Giacomo Puccini",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Antonio Vivaldi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gioachino Rossini",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which annual Italian song contest helped launch many pop careers?",
+        "answers":  [
+                        {
+                            "text":  "Sanremo Music Festival",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Eurovision Final",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Venice Biennale",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Umbria Jazz Week",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Italian tenor is known worldwide for crossover classical-pop songs?",
+        "answers":  [
+                        {
+                            "text":  "Andrea Bocelli",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Placido Domingo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jose Carreras",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Luciano Pavarotti",
+                            "score":  0
+                        }
+                    ]
+    }
+]

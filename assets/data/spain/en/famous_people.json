@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Spanish artist co-founded Cubism?",
+        "answers":  [
+                        {
+                            "text":  "Pablo Picasso",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Joan Miro",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Francisco Goya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "El Greco",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Spanish surrealist painter created \u0027The Persistence of Memory\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Salvador Dali",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Diego Velazquez",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pablo Picasso",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Antoni Tapies",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Spanish tennis player won multiple Roland Garros titles?",
+        "answers":  [
+                        {
+                            "text":  "Rafael Nadal",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Carlos Alcaraz",
+                            "score":  0
+                        },
+                        {
+                            "text":  "David Ferrer",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Juan Carlos Ferrero",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Spanish writer created Don Quixote?",
+        "answers":  [
+                        {
+                            "text":  "Miguel de Cervantes",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lope de Vega",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Federico Garcia Lorca",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Benito Perez Galdos",
+                            "score":  0
+                        }
+                    ]
+    }
+]

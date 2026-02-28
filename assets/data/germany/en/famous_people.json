@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Which physicist born in Germany developed the theory of relativity?",
+    "answers": [
+      {"text": "Albert Einstein", "score": 1},
+      {"text": "Max Planck", "score": 0},
+      {"text": "Werner Heisenberg", "score": 0},
+      {"text": "Niels Bohr", "score": 0}
+    ]
+  },
+  {
+    "question": "Which German chancellor led the country from 2005 to 2021?",
+    "answers": [
+      {"text": "Angela Merkel", "score": 1},
+      {"text": "Gerhard Schroder", "score": 0},
+      {"text": "Helmut Kohl", "score": 0},
+      {"text": "Olaf Scholz", "score": 0}
+    ]
+  },
+  {
+    "question": "Which writer created the tragedy 'Faust'?",
+    "answers": [
+      {"text": "Johann Wolfgang von Goethe", "score": 1},
+      {"text": "Friedrich Schiller", "score": 0},
+      {"text": "Thomas Mann", "score": 0},
+      {"text": "Hermann Hesse", "score": 0}
+    ]
+  },
+  {
+    "question": "Which German racing driver won seven Formula One world titles?",
+    "answers": [
+      {"text": "Michael Schumacher", "score": 1},
+      {"text": "Sebastian Vettel", "score": 0},
+      {"text": "Nico Rosberg", "score": 0},
+      {"text": "Mika Hakkinen", "score": 0}
+    ]
+  }
+]

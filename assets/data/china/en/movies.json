@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Which martial artist and actor is often called a symbol of Hong Kong and Chinese cinema of the 1970s?",
+    "answers": [
+      {
+        "text": "Bruce Lee",
+        "score": 1
+      },
+      {
+        "text": "Jackie Chan",
+        "score": 0
+      },
+      {
+        "text": "Jet Li",
+        "score": 0
+      },
+      {
+        "text": "Tony Leung",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the title of the Chinese-language 2000 film that won the Oscar for Best Foreign Language Film?",
+    "answers": [
+      {
+        "text": "Crouching Tiger, Hidden Dragon",
+        "score": 1
+      },
+      {
+        "text": "Hero",
+        "score": 0
+      },
+      {
+        "text": "House of Flying Daggers",
+        "score": 0
+      },
+      {
+        "text": "Farewell My Concubine",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which film tells the story of master Ip Man, the teacher of Bruce Lee?",
+    "answers": [
+      {
+        "text": "Ip Man",
+        "score": 1
+      },
+      {
+        "text": "The Raid",
+        "score": 0
+      },
+      {
+        "text": "The Karate Kid",
+        "score": 0
+      },
+      {
+        "text": "Fist of Fury",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Chinese director is known for the film \"Farewell My Concubine\"?",
+    "answers": [
+      {
+        "text": "Chen Kaige",
+        "score": 1
+      },
+      {
+        "text": "Wong Kar-wai",
+        "score": 0
+      },
+      {
+        "text": "Zhang Yimou",
+        "score": 0
+      },
+      {
+        "text": "Feng Xiaogang",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which actress played one of the lead roles in \"Crouching Tiger, Hidden Dragon\"?",
+    "answers": [
+      {
+        "text": "Zhang Ziyi",
+        "score": 1
+      },
+      {
+        "text": "Fan Bingbing",
+        "score": 0
+      },
+      {
+        "text": "Gong Li",
+        "score": 0
+      },
+      {
+        "text": "Zhou Dongyu",
+        "score": 0
+      }
+    ]
+  }
+]

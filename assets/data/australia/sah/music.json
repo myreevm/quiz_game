@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Австралия төрүт норуот музыкатын ханнык инструмен туһунан үгэстэр?",
+    "answers": [
+      {
+        "text": "Диджериду",
+        "score": 1
+      },
+      {
+        "text": "Волынка",
+        "score": 0
+      },
+      {
+        "text": "Ситар",
+        "score": 0
+      },
+      {
+        "text": "Арфа",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "«Highway to Hell» ырыаны ханнык австралиялыы группа таһаарбытай?",
+    "answers": [
+      {
+        "text": "AC/DC",
+        "score": 1
+      },
+      {
+        "text": "INXS",
+        "score": 0
+      },
+      {
+        "text": "Silverchair",
+        "score": 0
+      },
+      {
+        "text": "Jet",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "«Down Under» диэн хит ханнык австралиялыы группаныкы буоларый?",
+    "answers": [
+      {
+        "text": "Men at Work",
+        "score": 1
+      },
+      {
+        "text": "Midnight Oil",
+        "score": 0
+      },
+      {
+        "text": "Crowded House",
+        "score": 0
+      },
+      {
+        "text": "Bee Gees",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "«Chandelier» ырыанан ханнык австралиялыы ырыаһыта биллэрий?",
+    "answers": [
+      {
+        "text": "Sia",
+        "score": 1
+      },
+      {
+        "text": "Кайли Миноуг",
+        "score": 0
+      },
+      {
+        "text": "Натали Имбрулья",
+        "score": 0
+      },
+      {
+        "text": "Lorde",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Улахан музыкальнай сырыйыыларга туһаныллар биллэр Opera House ханнык куоратка баарый?",
+    "answers": [
+      {
+        "text": "Сидней",
+        "score": 1
+      },
+      {
+        "text": "Канберра",
+        "score": 0
+      },
+      {
+        "text": "Дарвин",
+        "score": 0
+      },
+      {
+        "text": "Перт",
+        "score": 0
+      }
+    ]
+  }
+]

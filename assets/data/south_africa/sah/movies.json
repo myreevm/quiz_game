@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "«District 9» киинэтигэр ханнык южноафрикалыы куоратка суруллар буоларый?",
+    "answers": [
+      {"text": "Йоханнесбург", "score": 1},
+      {"text": "Кейптаун", "score": 0},
+      {"text": "Претория", "score": 0},
+      {"text": "Порт-Элизабет", "score": 0}
+    ]
+  },
+  {
+    "question": "2006 сыллаахха ханнык южноафрикалыы киинэ «Оскар» ылбыта, бастаан атын тыллаах киинэ быһыытынан?",
+    "answers": [
+      {"text": "Tsotsi", "score": 1},
+      {"text": "Invictus", "score": 0},
+      {"text": "District 9", "score": 0},
+      {"text": "Cry Freedom", "score": 0}
+    ]
+  },
+  {
+    "question": "«Tsotsi» южноафрикалыы киинэни ким таһаарбытай?",
+    "answers": [
+      {"text": "Гэвин Худ", "score": 1},
+      {"text": "Нил Бломкамп", "score": 0},
+      {"text": "Клинт Иствуд", "score": 0},
+      {"text": "Дэнни Бойл", "score": 0}
+    ]
+  },
+  {
+    "question": "Cape Town International Film Market and Festival ханнык куоратка ааһынарый?",
+    "answers": [
+      {"text": "Кейптаун", "score": 1},
+      {"text": "Дурбан", "score": 0},
+      {"text": "Йоханнесбург", "score": 0},
+      {"text": "Блумфонтейн", "score": 0}
+    ]
+  }
+]

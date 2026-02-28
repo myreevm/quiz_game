@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "What is the capital of Italy?",
+        "answers":  [
+                        {
+                            "text":  "Rome",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Milan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Naples",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Venice",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year was the Kingdom of Italy proclaimed?",
+        "answers":  [
+                        {
+                            "text":  "1861",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1789",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1918",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1946",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which ancient Roman city was buried by the eruption of Mount Vesuvius in AD 79?",
+        "answers":  [
+                        {
+                            "text":  "Pompeii",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Athens",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Carthage",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Delphi",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What currency is used in Italy today?",
+        "answers":  [
+                        {
+                            "text":  "Euro",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lira",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Swiss franc",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pound sterling",
+                            "score":  0
+                        }
+                    ]
+    }
+]

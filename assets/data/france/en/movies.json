@@ -1,0 +1,107 @@
+[
+  {
+    "question": "In which French city is one of the world's most famous film festivals held every year?",
+    "answers": [
+      {
+        "text": "Cannes",
+        "score": 1
+      },
+      {
+        "text": "Lille",
+        "score": 0
+      },
+      {
+        "text": "Bordeaux",
+        "score": 0
+      },
+      {
+        "text": "Toulouse",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the title of the French film about a girl named Amelie from Montmartre?",
+    "answers": [
+      {
+        "text": "Amelie",
+        "score": 1
+      },
+      {
+        "text": "The Intouchables",
+        "score": 0
+      },
+      {
+        "text": "The Artist",
+        "score": 0
+      },
+      {
+        "text": "Leon",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which French silent film won the Oscar for Best Picture in 2012?",
+    "answers": [
+      {
+        "text": "The Artist",
+        "score": 1
+      },
+      {
+        "text": "La Haine",
+        "score": 0
+      },
+      {
+        "text": "Blue Is the Warmest Color",
+        "score": 0
+      },
+      {
+        "text": "Taxi",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the surname of the brothers considered pioneers of cinema in France?",
+    "answers": [
+      {
+        "text": "Lumiere",
+        "score": 1
+      },
+      {
+        "text": "Kurosawa",
+        "score": 0
+      },
+      {
+        "text": "Coppola",
+        "score": 0
+      },
+      {
+        "text": "Hitchcock",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the title of Luc Besson's French film about the hitman Leon and a girl named Mathilda?",
+    "answers": [
+      {
+        "text": "Leon",
+        "score": 1
+      },
+      {
+        "text": "Nikita",
+        "score": 0
+      },
+      {
+        "text": "The Fifth Element",
+        "score": 0
+      },
+      {
+        "text": "Taxi",
+        "score": 0
+      }
+    ]
+  }
+]

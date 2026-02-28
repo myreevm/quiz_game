@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In what year did Mexico begin its war for independence from Spain?",
+        "answers":  [
+                        {
+                            "text":  "1810",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1821",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1910",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1848",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the capital of Mexico?",
+        "answers":  [
+                        {
+                            "text":  "Mexico City",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Guadalajara",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Monterrey",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Puebla",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who built the ancient city of Chichen Itza?",
+        "answers":  [
+                        {
+                            "text":  "Maya civilization",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Aztec civilization",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Olmec civilization",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Inca civilization",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Cinco de Mayo commemorates which battle?",
+        "answers":  [
+                        {
+                            "text":  "Battle of Puebla",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Battle of Veracruz",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Battle of Chapultepec",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Battle of Mexico City",
+                            "score":  0
+                        }
+                    ]
+    }
+]

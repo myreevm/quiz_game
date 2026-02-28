@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "What is the capital of South Korea?",
+        "answers":  [
+                        {
+                            "text":  "Seoul",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Busan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Incheon",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Daegu",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year was the Korean War armistice signed?",
+        "answers":  [
+                        {
+                            "text":  "1953",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1945",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1961",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1972",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which parallel is commonly linked to the division of the Korean Peninsula?",
+        "answers":  [
+                        {
+                            "text":  "38th parallel",
+                            "score":  1
+                        },
+                        {
+                            "text":  "17th parallel",
+                            "score":  0
+                        },
+                        {
+                            "text":  "49th parallel",
+                            "score":  0
+                        },
+                        {
+                            "text":  "23rd parallel",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What currency is used in South Korea?",
+        "answers":  [
+                        {
+                            "text":  "South Korean won",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yuan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Baht",
+                            "score":  0
+                        }
+                    ]
+    }
+]

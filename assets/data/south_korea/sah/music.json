@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Поп-культураҕа Южнай Кореяны аан дойдуга биллэрбит ханнык жанр буоларый?",
+    "answers": [
+      {"text": "K-pop", "score": 1},
+      {"text": "Reggaeton", "score": 0},
+      {"text": "Fado", "score": 0},
+      {"text": "Samba", "score": 0}
+    ]
+  },
+  {
+    "question": "«Dynamite» уонна «Butter» аатыырбыт дойдулааҕы хиттары таһаарбыт ханнык Южнай Корея бөлөҕө буоларый?",
+    "answers": [
+      {"text": "BTS", "score": 1},
+      {"text": "EXO", "score": 0},
+      {"text": "BIGBANG", "score": 0},
+      {"text": "SHINee", "score": 0}
+    ]
+  },
+  {
+    "question": "«Gangnam Style» вируснай хиты ханнык ырыаһыт толорбута?",
+    "answers": [
+      {"text": "PSY", "score": 1},
+      {"text": "Rain", "score": 0},
+      {"text": "G-Dragon", "score": 0},
+      {"text": "IU", "score": 0}
+    ]
+  },
+  {
+    "question": "Корея музыкатыгар элбэхтик туттуллар ханнык традиционнай кыллыыр инструмен буоларый?",
+    "answers": [
+      {"text": "Gayageum", "score": 1},
+      {"text": "Sitar", "score": 0},
+      {"text": "Balalaika", "score": 0},
+      {"text": "Lute", "score": 0}
+    ]
+  }
+]

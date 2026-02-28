@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What is the capital of Germany?",
+    "answers": [
+      {"text": "Berlin", "score": 1},
+      {"text": "Munich", "score": 0},
+      {"text": "Hamburg", "score": 0},
+      {"text": "Frankfurt", "score": 0}
+    ]
+  },
+  {
+    "question": "In which year was Germany officially reunified?",
+    "answers": [
+      {"text": "1990", "score": 1},
+      {"text": "1989", "score": 0},
+      {"text": "1991", "score": 0},
+      {"text": "1987", "score": 0}
+    ]
+  },
+  {
+    "question": "Which structure fell in 1989 and became a symbol of the Cold War's end?",
+    "answers": [
+      {"text": "Berlin Wall", "score": 1},
+      {"text": "Iron Curtain", "score": 0},
+      {"text": "Cologne Cathedral", "score": 0},
+      {"text": "Brandenburg Gate", "score": 0}
+    ]
+  },
+  {
+    "question": "What currency does Germany use today?",
+    "answers": [
+      {"text": "Euro", "score": 1},
+      {"text": "German mark", "score": 0},
+      {"text": "Swiss franc", "score": 0},
+      {"text": "Pound sterling", "score": 0}
+    ]
+  }
+]

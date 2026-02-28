@@ -1,0 +1,107 @@
+[
+  {
+    "question": "In what year did Poland join the European Union?",
+    "answers": [
+      {
+        "text": "2004",
+        "score": 1
+      },
+      {
+        "text": "1999",
+        "score": 0
+      },
+      {
+        "text": "1991",
+        "score": 0
+      },
+      {
+        "text": "2010",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which city is the capital of Poland?",
+    "answers": [
+      {
+        "text": "Warsaw",
+        "score": 1
+      },
+      {
+        "text": "Krakow",
+        "score": 0
+      },
+      {
+        "text": "Gdansk",
+        "score": 0
+      },
+      {
+        "text": "Wroclaw",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What was the name of the federal state created by Poland and Lithuania in 1569?",
+    "answers": [
+      {
+        "text": "Polish-Lithuanian Commonwealth",
+        "score": 1
+      },
+      {
+        "text": "Holy Roman Empire",
+        "score": 0
+      },
+      {
+        "text": "Hanseatic League",
+        "score": 0
+      },
+      {
+        "text": "Warsaw Pact",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In what year did World War II begin with the invasion of Poland?",
+    "answers": [
+      {
+        "text": "1939",
+        "score": 1
+      },
+      {
+        "text": "1914",
+        "score": 0
+      },
+      {
+        "text": "1941",
+        "score": 0
+      },
+      {
+        "text": "1945",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who was one of the leaders of the Solidarity trade union in Poland?",
+    "answers": [
+      {
+        "text": "Lech Walesa",
+        "score": 1
+      },
+      {
+        "text": "Vaclav Havel",
+        "score": 0
+      },
+      {
+        "text": "Aleksander Kwasniewski",
+        "score": 0
+      },
+      {
+        "text": "Jozef Pilsudski",
+        "score": 0
+      }
+    ]
+  }
+]

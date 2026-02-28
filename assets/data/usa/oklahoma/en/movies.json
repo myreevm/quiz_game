@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Which 1996 disaster film is about storm chasers in Oklahoma?",
+    "answers": [
+      {
+        "text": "Twister",
+        "score": 1
+      },
+      {
+        "text": "The Day After Tomorrow",
+        "score": 0
+      },
+      {
+        "text": "2012",
+        "score": 0
+      },
+      {
+        "text": "Armageddon",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In which Oklahoma city are the events set and filming held for \"The Outsiders\"?",
+    "answers": [
+      {
+        "text": "Tulsa",
+        "score": 1
+      },
+      {
+        "text": "Oklahoma City",
+        "score": 0
+      },
+      {
+        "text": "Norman",
+        "score": 0
+      },
+      {
+        "text": "Lawton",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the title of Martin Scorsese's film about the Osage murders set in Oklahoma?",
+    "answers": [
+      {
+        "text": "Killers of the Flower Moon",
+        "score": 1
+      },
+      {
+        "text": "Goodfellas",
+        "score": 0
+      },
+      {
+        "text": "The Departed",
+        "score": 0
+      },
+      {
+        "text": "The Aviator",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which film based on a Tracy Letts play has the subtitle \"Osage County\"?",
+    "answers": [
+      {
+        "text": "August: Osage County",
+        "score": 1
+      },
+      {
+        "text": "Nebraska",
+        "score": 0
+      },
+      {
+        "text": "Fargo",
+        "score": 0
+      },
+      {
+        "text": "Lady Bird",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who directed \"Killers of the Flower Moon\"?",
+    "answers": [
+      {
+        "text": "Martin Scorsese",
+        "score": 1
+      },
+      {
+        "text": "Denis Villeneuve",
+        "score": 0
+      },
+      {
+        "text": "Quentin Tarantino",
+        "score": 0
+      },
+      {
+        "text": "Clint Eastwood",
+        "score": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Mexican painter is famous for her self-portraits?",
+        "answers":  [
+                        {
+                            "text":  "Frida Kahlo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Remedios Varo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Leonora Carrington",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Maria Izquierdo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Mexican writer won the Nobel Prize in Literature in 1990?",
+        "answers":  [
+                        {
+                            "text":  "Octavio Paz",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Carlos Fuentes",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Juan Rulfo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Elena Poniatowska",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Mexican director made \"Pan\u0027s Labyrinth\"?",
+        "answers":  [
+                        {
+                            "text":  "Guillermo del Toro",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Alejandro Gonzalez Inarritu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alfonso Cuaron",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Carlos Reygadas",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which revolutionary leader is strongly associated with southern Mexico?",
+        "answers":  [
+                        {
+                            "text":  "Emiliano Zapata",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pancho Villa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Benito Juarez",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Porfirio Diaz",
+                            "score":  0
+                        }
+                    ]
+    }
+]

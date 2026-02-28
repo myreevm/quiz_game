@@ -1,0 +1,107 @@
+[
+  {
+    "question": "In what year was the People's Republic of China proclaimed?",
+    "answers": [
+      {
+        "text": "1949",
+        "score": 1
+      },
+      {
+        "text": "1911",
+        "score": 0
+      },
+      {
+        "text": "1978",
+        "score": 0
+      },
+      {
+        "text": "1989",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which dynasty actively strengthened and rebuilt the Great Wall of China into its modern form?",
+    "answers": [
+      {
+        "text": "Ming",
+        "score": 1
+      },
+      {
+        "text": "Qing",
+        "score": 0
+      },
+      {
+        "text": "Tang",
+        "score": 0
+      },
+      {
+        "text": "Song",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What was the name of the ancient trade route that connected China with Europe?",
+    "answers": [
+      {
+        "text": "Silk Road",
+        "score": 1
+      },
+      {
+        "text": "Spice Route",
+        "score": 0
+      },
+      {
+        "text": "Amber Road",
+        "score": 0
+      },
+      {
+        "text": "Salt Route",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In what year was Hong Kong transferred from the United Kingdom to China?",
+    "answers": [
+      {
+        "text": "1997",
+        "score": 1
+      },
+      {
+        "text": "1984",
+        "score": 0
+      },
+      {
+        "text": "2001",
+        "score": 0
+      },
+      {
+        "text": "1976",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which city is the capital of China?",
+    "answers": [
+      {
+        "text": "Beijing",
+        "score": 1
+      },
+      {
+        "text": "Shanghai",
+        "score": 0
+      },
+      {
+        "text": "Guangzhou",
+        "score": 0
+      },
+      {
+        "text": "Shenzhen",
+        "score": 0
+      }
+    ]
+  }
+]

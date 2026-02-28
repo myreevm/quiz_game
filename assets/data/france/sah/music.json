@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Франция государственнай гимна хайдах ааттанарый?",
+    "answers": [
+      {
+        "text": "Марсельеза",
+        "score": 1
+      },
+      {
+        "text": "Ода к радости",
+        "score": 0
+      },
+      {
+        "text": "Боже, храни короля",
+        "score": 0
+      },
+      {
+        "text": "Интернационал",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "«La Vie en rose» биллэр ырыаны ханнык француз ыллыыр киһитэ ыллаабытай?",
+    "answers": [
+      {
+        "text": "Эдит Пиаф",
+        "score": 1
+      },
+      {
+        "text": "Мирей Матье",
+        "score": 0
+      },
+      {
+        "text": "Заз",
+        "score": 0
+      },
+      {
+        "text": "Франсуаза Арди",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "«Random Access Memories» альбомунан биллэр француз электроннай дуэта ханнык?",
+    "answers": [
+      {
+        "text": "Daft Punk",
+        "score": 1
+      },
+      {
+        "text": "Justice",
+        "score": 0
+      },
+      {
+        "text": "Air",
+        "score": 0
+      },
+      {
+        "text": "Phoenix",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "21 июня буолар сыл ахсын француз музыкальнай бырааһынньыга хайдах ааттанарый?",
+    "answers": [
+      {
+        "text": "Fete de la Musique",
+        "score": 1
+      },
+      {
+        "text": "Cannes Musique",
+        "score": 0
+      },
+      {
+        "text": "Bastille Sounds",
+        "score": 0
+      },
+      {
+        "text": "Paris Chanson Day",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Францияҕа төрөөбүт уонна джаз-мануш символунан ааҕыллар гитараһыта кимий?",
+    "answers": [
+      {
+        "text": "Джанго Рейнхардт",
+        "score": 1
+      },
+      {
+        "text": "Пако де Лусия",
+        "score": 0
+      },
+      {
+        "text": "Карлос Сантана",
+        "score": 0
+      },
+      {
+        "text": "Б.Б. Кинг",
+        "score": 0
+      }
+    ]
+  }
+]

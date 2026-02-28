@@ -1,0 +1,107 @@
+[
+  {
+    "question": "In which state does the film \"No Country for Old Men\" take place?",
+    "answers": [
+      {
+        "text": "Texas",
+        "score": 1
+      },
+      {
+        "text": "Arizona",
+        "score": 0
+      },
+      {
+        "text": "Nevada",
+        "score": 0
+      },
+      {
+        "text": "Utah",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Richard Linklater film is about Texas high school students in the 1970s?",
+    "answers": [
+      {
+        "text": "Dazed and Confused",
+        "score": 1
+      },
+      {
+        "text": "The Breakfast Club",
+        "score": 0
+      },
+      {
+        "text": "Superbad",
+        "score": 0
+      },
+      {
+        "text": "School of Rock",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the title of the 2016 film about two robber brothers set in Texas?",
+    "answers": [
+      {
+        "text": "Hell or High Water",
+        "score": 1
+      },
+      {
+        "text": "Prisoners",
+        "score": 0
+      },
+      {
+        "text": "The Town",
+        "score": 0
+      },
+      {
+        "text": "The Hateful Eight",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which cult horror film from 1974 is linked to Texas in its title?",
+    "answers": [
+      {
+        "text": "The Texas Chain Saw Massacre",
+        "score": 1
+      },
+      {
+        "text": "Halloween",
+        "score": 0
+      },
+      {
+        "text": "Scream",
+        "score": 0
+      },
+      {
+        "text": "A Nightmare on Elm Street",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the title of Wim Wenders's film with Harry Dean Stanton that references Texas in its name?",
+    "answers": [
+      {
+        "text": "Paris, Texas",
+        "score": 1
+      },
+      {
+        "text": "Wings of Desire",
+        "score": 0
+      },
+      {
+        "text": "City of Angels",
+        "score": 0
+      },
+      {
+        "text": "Wild at Heart",
+        "score": 0
+      }
+    ]
+  }
+]

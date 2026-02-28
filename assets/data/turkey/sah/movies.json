@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "«Winter Sleep» киинэтинэн 2014 сыллаахха «Золотая пальмовая ветвь» ылбыт ханнык түрүк режиссера буоларый?",
+    "answers": [
+      {"text": "Нури Бильге Джейлан", "score": 1},
+      {"text": "Фатих Акин", "score": 0},
+      {"text": "Йылмаз Гюней", "score": 0},
+      {"text": "Семих Капланоглу", "score": 0}
+    ]
+  },
+  {
+    "question": "Antalya Golden Orange Film Festival ханнык түрүк куоратыгар ааһынарый?",
+    "answers": [
+      {"text": "Анталья", "score": 1},
+      {"text": "Анкара", "score": 0},
+      {"text": "Трабзон", "score": 0},
+      {"text": "Эскишехир", "score": 0}
+    ]
+  },
+  {
+    "question": "Стамбулга түһэрбит Түрүйэ классическай киинэ индустриятын ханнык куш аатынан ааттыылларый?",
+    "answers": [
+      {"text": "Yeşilçam", "score": 1},
+      {"text": "Anadolucam", "score": 0},
+      {"text": "Bosporus Studio", "score": 0},
+      {"text": "Turkflix", "score": 0}
+    ]
+  },
+  {
+    "question": "Йылмаз Гюней 1982 сыллаахха таһаарбыт ханнык киинэтэ Каннага «Золотая пальмовая ветвь» ылбытый?",
+    "answers": [
+      {"text": "Yol", "score": 1},
+      {"text": "Once Upon a Time in Anatolia", "score": 0},
+      {"text": "Winter Sleep", "score": 0},
+      {"text": "Distant", "score": 0}
+    ]
+  }
+]

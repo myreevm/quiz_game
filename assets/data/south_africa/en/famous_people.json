@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Who became South Africa\u0027s first democratically elected president in 1994?",
+        "answers":  [
+                        {
+                            "text":  "Nelson Mandela",
+                            "score":  1
+                        },
+                        {
+                            "text":  "F. W. de Klerk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Thabo Mbeki",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jacob Zuma",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which South African archbishop won the Nobel Peace Prize in 1984?",
+        "answers":  [
+                        {
+                            "text":  "Desmond Tutu",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Trevor Huddleston",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Allan Boesak",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Beyers Naude",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Oscar-winning actress was born in South Africa?",
+        "answers":  [
+                        {
+                            "text":  "Charlize Theron",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nicole Kidman",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cate Blanchett",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Emma Stone",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which technology entrepreneur was born in Pretoria?",
+        "answers":  [
+                        {
+                            "text":  "Elon Musk",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bill Gates",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Larry Page",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jeff Bezos",
+                            "score":  0
+                        }
+                    ]
+    }
+]

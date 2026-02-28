@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Who was the first president of the United States?",
+    "answers": [
+      {
+        "text": "George Washington",
+        "score": 1
+      },
+      {
+        "text": "Thomas Jefferson",
+        "score": 0
+      },
+      {
+        "text": "Abraham Lincoln",
+        "score": 0
+      },
+      {
+        "text": "John Adams",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who delivered the famous \"I Have a Dream\" speech?",
+    "answers": [
+      {
+        "text": "Martin Luther King Jr.",
+        "score": 1
+      },
+      {
+        "text": "Malcolm X",
+        "score": 0
+      },
+      {
+        "text": "Nelson Mandela",
+        "score": 0
+      },
+      {
+        "text": "Barack Obama",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which activist refused to give up her seat on a bus in Montgomery in 1955?",
+    "answers": [
+      {
+        "text": "Rosa Parks",
+        "score": 1
+      },
+      {
+        "text": "Harriet Tubman",
+        "score": 0
+      },
+      {
+        "text": "Susan Anthony",
+        "score": 0
+      },
+      {
+        "text": "Eleanor Roosevelt",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which of these entrepreneurs is a co-founder of Apple?",
+    "answers": [
+      {
+        "text": "Steve Jobs",
+        "score": 1
+      },
+      {
+        "text": "Bill Gates",
+        "score": 0
+      },
+      {
+        "text": "Elon Musk",
+        "score": 0
+      },
+      {
+        "text": "Jeff Bezos",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who hosted the popular American talk show \"The Oprah Winfrey Show\"?",
+    "answers": [
+      {
+        "text": "Oprah Winfrey",
+        "score": 1
+      },
+      {
+        "text": "Ellen DeGeneres",
+        "score": 0
+      },
+      {
+        "text": "Gayle King",
+        "score": 0
+      },
+      {
+        "text": "Shonda Rhimes",
+        "score": 0
+      }
+    ]
+  }
+]

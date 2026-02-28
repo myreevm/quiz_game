@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Какой бразильский фильм о фавелах Рио был номинирован на четыре «Оскара»?",
+    "answers": [
+      {
+        "text": "City of God",
+        "score": 1
+      },
+      {
+        "text": "Elite Squad",
+        "score": 0
+      },
+      {
+        "text": "Central Station",
+        "score": 0
+      },
+      {
+        "text": "Bacurau",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Какой анимационный фильм рассказывает о синих ара в Рио-де-Жанейро?",
+    "answers": [
+      {
+        "text": "Rio",
+        "score": 1
+      },
+      {
+        "text": "Up",
+        "score": 0
+      },
+      {
+        "text": "Coco",
+        "score": 0
+      },
+      {
+        "text": "Moana",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Какой бразильский режиссер снял фильмы «Central Station» и «The Motorcycle Diaries»?",
+    "answers": [
+      {
+        "text": "Валтер Саллес",
+        "score": 1
+      },
+      {
+        "text": "Фернанду Мейреллиш",
+        "score": 0
+      },
+      {
+        "text": "Жозе Падилья",
+        "score": 0
+      },
+      {
+        "text": "Клебер Мендонса Фильо",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "В каком городе проходит Festival do Rio?",
+    "answers": [
+      {
+        "text": "Рио-де-Жанейро",
+        "score": 1
+      },
+      {
+        "text": "Ресифи",
+        "score": 0
+      },
+      {
+        "text": "Форталеза",
+        "score": 0
+      },
+      {
+        "text": "Манаус",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Как называется международное название бразильского фильма «Tropa de Elite»?",
+    "answers": [
+      {
+        "text": "Elite Squad",
+        "score": 1
+      },
+      {
+        "text": "City Guard",
+        "score": 0
+      },
+      {
+        "text": "Rio Patrol",
+        "score": 0
+      },
+      {
+        "text": "Street Command",
+        "score": 0
+      }
+    ]
+  }
+]

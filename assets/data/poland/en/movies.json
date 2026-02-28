@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Which Polish director made the film \"The Pianist\"?",
+    "answers": [
+      {
+        "text": "Roman Polanski",
+        "score": 1
+      },
+      {
+        "text": "Andrzej Wajda",
+        "score": 0
+      },
+      {
+        "text": "Pawel Pawlikowski",
+        "score": 0
+      },
+      {
+        "text": "Krzysztof Zanussi",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the title of the Polish film that won the Oscar for Best Foreign Language Film in 2015?",
+    "answers": [
+      {
+        "text": "Ida",
+        "score": 1
+      },
+      {
+        "text": "Cold War",
+        "score": 0
+      },
+      {
+        "text": "Walesa",
+        "score": 0
+      },
+      {
+        "text": "Kanal",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Polish director is known for \"Dekalog\" and the \"Three Colors\" trilogy?",
+    "answers": [
+      {
+        "text": "Krzysztof Kieslowski",
+        "score": 1
+      },
+      {
+        "text": "Jerzy Kawalerowicz",
+        "score": 0
+      },
+      {
+        "text": "Agnieszka Holland",
+        "score": 0
+      },
+      {
+        "text": "Andrzej Zulawski",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In which Polish city is the famous Lodz Film School located?",
+    "answers": [
+      {
+        "text": "Lodz",
+        "score": 1
+      },
+      {
+        "text": "Poznan",
+        "score": 0
+      },
+      {
+        "text": "Lublin",
+        "score": 0
+      },
+      {
+        "text": "Katowice",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which film by Pawel Pawlikowski was nominated for an Oscar in 2019?",
+    "answers": [
+      {
+        "text": "Cold War",
+        "score": 1
+      },
+      {
+        "text": "Corpus Christi",
+        "score": 0
+      },
+      {
+        "text": "Afterimage",
+        "score": 0
+      },
+      {
+        "text": "Food and Women",
+        "score": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Which Polish composer is considered one of the greatest authors of piano music?",
+    "answers": [
+      {
+        "text": "Frederic Chopin",
+        "score": 1
+      },
+      {
+        "text": "Igor Stravinsky",
+        "score": 0
+      },
+      {
+        "text": "Gustav Mahler",
+        "score": 0
+      },
+      {
+        "text": "Claude Debussy",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which ceremonial Polish dance is often performed at official events?",
+    "answers": [
+      {
+        "text": "Polonaise",
+        "score": 1
+      },
+      {
+        "text": "Tango",
+        "score": 0
+      },
+      {
+        "text": "Flamenco",
+        "score": 0
+      },
+      {
+        "text": "Sirtaki",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the Polish folk dance in triple meter that is often found in Chopin's music?",
+    "answers": [
+      {
+        "text": "Mazurka",
+        "score": 1
+      },
+      {
+        "text": "Gavotte",
+        "score": 0
+      },
+      {
+        "text": "Gigue",
+        "score": 0
+      },
+      {
+        "text": "Bolero",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In which city is the International Fryderyk Chopin Piano Competition held?",
+    "answers": [
+      {
+        "text": "Warsaw",
+        "score": 1
+      },
+      {
+        "text": "Krakow",
+        "score": 0
+      },
+      {
+        "text": "Paris",
+        "score": 0
+      },
+      {
+        "text": "Prague",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which instrument is central in most of Chopin's works?",
+    "answers": [
+      {
+        "text": "Piano",
+        "score": 1
+      },
+      {
+        "text": "Violin",
+        "score": 0
+      },
+      {
+        "text": "Cello",
+        "score": 0
+      },
+      {
+        "text": "Oboe",
+        "score": 0
+      }
+    ]
+  }
+]

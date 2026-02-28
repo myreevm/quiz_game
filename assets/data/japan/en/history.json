@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In what year did the Meiji Restoration begin?",
+        "answers":  [
+                        {
+                            "text":  "1868",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1603",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1945",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1912",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the name of the current imperial era in Japan (since 2019)?",
+        "answers":  [
+                        {
+                            "text":  "Reiwa",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Heisei",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Showa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Taisho",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city was Japan\u0027s capital before Tokyo?",
+        "answers":  [
+                        {
+                            "text":  "Kyoto",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Osaka",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nara",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sapporo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the national parliament of Japan called?",
+        "answers":  [
+                        {
+                            "text":  "National Diet",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sejm",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Knesset",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bundestag",
+                            "score":  0
+                        }
+                    ]
+    }
+]

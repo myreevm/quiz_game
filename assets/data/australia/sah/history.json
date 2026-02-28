@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Австралия ханнык сыллаахха федерация буолбутуй?",
+    "answers": [
+      {
+        "text": "1901",
+        "score": 1
+      },
+      {
+        "text": "1788",
+        "score": 0
+      },
+      {
+        "text": "1918",
+        "score": 0
+      },
+      {
+        "text": "1945",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "1788 сыллаахха Сидней бухтатыгар ханнык флот кэлбитэй?",
+    "answers": [
+      {
+        "text": "First Fleet",
+        "score": 1
+      },
+      {
+        "text": "Royal Fleet",
+        "score": 0
+      },
+      {
+        "text": "Southern Fleet",
+        "score": 0
+      },
+      {
+        "text": "Convict Squadron",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Австралия баштаах куората ханнык?",
+    "answers": [
+      {
+        "text": "Канберра",
+        "score": 1
+      },
+      {
+        "text": "Сидней",
+        "score": 0
+      },
+      {
+        "text": "Мельбурн",
+        "score": 0
+      },
+      {
+        "text": "Перт",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "ANZAC Day ханнык күннүк бэлиэтэнэрий?",
+    "answers": [
+      {
+        "text": "25 апреля",
+        "score": 1
+      },
+      {
+        "text": "26 января",
+        "score": 0
+      },
+      {
+        "text": "1 июля",
+        "score": 0
+      },
+      {
+        "text": "11 ноября",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Ayers Rock диэн аатынан биллэр ханнык аатыырбыт австралиялыы природнай миэстэ буоларый?",
+    "answers": [
+      {
+        "text": "Улуру",
+        "score": 1
+      },
+      {
+        "text": "Great Dividing Range",
+        "score": 0
+      },
+      {
+        "text": "Twelve Apostles",
+        "score": 0
+      },
+      {
+        "text": "Blue Mountains",
+        "score": 0
+      }
+    ]
+  }
+]

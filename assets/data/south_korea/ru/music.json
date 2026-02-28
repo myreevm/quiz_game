@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Какой жанр сделал Южную Корею всемирно известной в поп-культуре?",
+    "answers": [
+      {"text": "K-pop", "score": 1},
+      {"text": "Reggaeton", "score": 0},
+      {"text": "Fado", "score": 0},
+      {"text": "Samba", "score": 0}
+    ]
+  },
+  {
+    "question": "Какая южнокорейская группа выпустила мировые хиты «Dynamite» и «Butter»?",
+    "answers": [
+      {"text": "BTS", "score": 1},
+      {"text": "EXO", "score": 0},
+      {"text": "BIGBANG", "score": 0},
+      {"text": "SHINee", "score": 0}
+    ]
+  },
+  {
+    "question": "Какой певец исполнил вирусный хит «Gangnam Style»?",
+    "answers": [
+      {"text": "PSY", "score": 1},
+      {"text": "Rain", "score": 0},
+      {"text": "G-Dragon", "score": 0},
+      {"text": "IU", "score": 0}
+    ]
+  },
+  {
+    "question": "Какой традиционный корейский струнный инструмент часто используется в корейской музыке?",
+    "answers": [
+      {"text": "Gayageum", "score": 1},
+      {"text": "Sitar", "score": 0},
+      {"text": "Balalaika", "score": 0},
+      {"text": "Lute", "score": 0}
+    ]
+  }
+]

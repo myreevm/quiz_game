@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which world-famous music event takes place in Montreux?",
+        "answers":  [
+                        {
+                            "text":  "Montreux Jazz Festival",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Eurovision Final",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sion Rock Cup",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Swiss Open Air Opera",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which traditional Alpine vocal style is associated with Switzerland?",
+        "answers":  [
+                        {
+                            "text":  "Yodeling",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Beatboxing",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Throat singing",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Scat singing",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which long wooden instrument is linked to Swiss Alpine folk music?",
+        "answers":  [
+                        {
+                            "text":  "Alphorn",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Clarinet",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Saxophone",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mandolin",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city is home to the Tonhalle Orchestra?",
+        "answers":  [
+                        {
+                            "text":  "Zurich",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bern",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lugano",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fribourg",
+                            "score":  0
+                        }
+                    ]
+    }
+]

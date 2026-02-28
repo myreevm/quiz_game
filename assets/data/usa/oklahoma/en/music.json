@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Which folk musician from Oklahoma wrote \"This Land Is Your Land\"?",
+    "answers": [
+      {
+        "text": "Woody Guthrie",
+        "score": 1
+      },
+      {
+        "text": "Bob Dylan",
+        "score": 0
+      },
+      {
+        "text": "Paul Simon",
+        "score": 0
+      },
+      {
+        "text": "Roy Orbison",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which country singer from Oklahoma is known for the hit \"Fancy\"?",
+    "answers": [
+      {
+        "text": "Reba McEntire",
+        "score": 1
+      },
+      {
+        "text": "Dolly Parton",
+        "score": 0
+      },
+      {
+        "text": "Faith Hill",
+        "score": 0
+      },
+      {
+        "text": "Carrie Underwood",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the musical that became Oklahoma's official state song?",
+    "answers": [
+      {
+        "text": "Oklahoma!",
+        "score": 1
+      },
+      {
+        "text": "Cats",
+        "score": 0
+      },
+      {
+        "text": "Chicago",
+        "score": 0
+      },
+      {
+        "text": "Hamilton",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which alternative rock band was founded in Oklahoma City?",
+    "answers": [
+      {
+        "text": "The Flaming Lips",
+        "score": 1
+      },
+      {
+        "text": "The Strokes",
+        "score": 0
+      },
+      {
+        "text": "Green Day",
+        "score": 0
+      },
+      {
+        "text": "U2",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which singer-songwriter and multiple Grammy winner was born in Norman, Oklahoma?",
+    "answers": [
+      {
+        "text": "Vince Gill",
+        "score": 1
+      },
+      {
+        "text": "Garth Brooks",
+        "score": 0
+      },
+      {
+        "text": "Tim McGraw",
+        "score": 0
+      },
+      {
+        "text": "Keith Urban",
+        "score": 0
+      }
+    ]
+  }
+]

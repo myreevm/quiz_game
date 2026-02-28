@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Кто снял фильм «The Scent of Green Papaya»?",
+    "answers": [
+      {"text": "Trần Anh Hùng", "score": 1},
+      {"text": "Victor Vũ", "score": 0},
+      {"text": "Dustin Nguyen", "score": 0},
+      {"text": "Lê Văn Kiệt", "score": 0}
+    ]
+  },
+  {
+    "question": "Какой голливудский фильм снимали в бухте Халонг и Ниньбине?",
+    "answers": [
+      {"text": "Kong: Skull Island", "score": 1},
+      {"text": "Avatar", "score": 0},
+      {"text": "Jurassic World", "score": 0},
+      {"text": "The Revenant", "score": 0}
+    ]
+  },
+  {
+    "question": "Какая вьетнамская актриса снялась в фильмах «The Creator» и «The Old Guard»?",
+    "answers": [
+      {"text": "Ngô Thanh Vân", "score": 1},
+      {"text": "Tăng Thanh Hà", "score": 0},
+      {"text": "Ninh Dương Lan Ngọc", "score": 0},
+      {"text": "Kaity Nguyễn", "score": 0}
+    ]
+  },
+  {
+    "question": "Какой город считается главным центром киноиндустрии Вьетнама?",
+    "answers": [
+      {"text": "Хошимин", "score": 1},
+      {"text": "Ханой", "score": 0},
+      {"text": "Дананг", "score": 0},
+      {"text": "Кантхо", "score": 0}
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Which Polish astronomer formulated the heliocentric model of the universe?",
+    "answers": [
+      {
+        "text": "Nicolaus Copernicus",
+        "score": 1
+      },
+      {
+        "text": "Johannes Kepler",
+        "score": 0
+      },
+      {
+        "text": "Galileo Galilei",
+        "score": 0
+      },
+      {
+        "text": "Tycho Brahe",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which scientist of Polish origin became the first woman to win a Nobel Prize?",
+    "answers": [
+      {
+        "text": "Marie Sklodowska-Curie",
+        "score": 1
+      },
+      {
+        "text": "Rosalind Franklin",
+        "score": 0
+      },
+      {
+        "text": "Dorothy Hodgkin",
+        "score": 0
+      },
+      {
+        "text": "Lise Meitner",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which composer and pianist was born in Poland and became a symbol of Romantic music?",
+    "answers": [
+      {
+        "text": "Frederic Chopin",
+        "score": 1
+      },
+      {
+        "text": "Johann Strauss",
+        "score": 0
+      },
+      {
+        "text": "Antonin Dvorak",
+        "score": 0
+      },
+      {
+        "text": "Franz Liszt",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Polish footballer is known as one of the best strikers in Europe in the 2010s and 2020s?",
+    "answers": [
+      {
+        "text": "Robert Lewandowski",
+        "score": 1
+      },
+      {
+        "text": "Luka Modric",
+        "score": 0
+      },
+      {
+        "text": "Andriy Shevchenko",
+        "score": 0
+      },
+      {
+        "text": "Xavi",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Polish film director is known for the movie \"Man of Marble\"?",
+    "answers": [
+      {
+        "text": "Andrzej Wajda",
+        "score": 1
+      },
+      {
+        "text": "Roman Polanski",
+        "score": 0
+      },
+      {
+        "text": "Krzysztof Kieslowski",
+        "score": 0
+      },
+      {
+        "text": "Pawel Pawlikowski",
+        "score": 0
+      }
+    ]
+  }
+]

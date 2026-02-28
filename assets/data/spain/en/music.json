@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which music and dance tradition is strongly associated with southern Spain?",
+        "answers":  [
+                        {
+                            "text":  "Flamenco",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tango",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Samba",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fado",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which instrument is central to many flamenco performances?",
+        "answers":  [
+                        {
+                            "text":  "Spanish guitar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Banjo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Harp",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Balalaika",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which famous Spanish tenor was part of \u0027The Three Tenors\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Placido Domingo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jose Carreras",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Luciano Pavarotti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Andrea Bocelli",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Spanish guitarist is considered a legend of flamenco?",
+        "answers":  [
+                        {
+                            "text":  "Paco de Lucia",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Carlos Santana",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mark Knopfler",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tomatito",
+                            "score":  0
+                        }
+                    ]
+    }
+]

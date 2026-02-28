@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Which city is associated with the electronic band Kraftwerk?",
+    "answers": [
+      {"text": "Dusseldorf", "score": 1},
+      {"text": "Berlin", "score": 0},
+      {"text": "Bonn", "score": 0},
+      {"text": "Cologne", "score": 0}
+    ]
+  },
+  {
+    "question": "Which German composer wrote the Ninth Symphony?",
+    "answers": [
+      {"text": "Ludwig van Beethoven", "score": 1},
+      {"text": "Johann Strauss II", "score": 0},
+      {"text": "Franz Schubert", "score": 0},
+      {"text": "Wolfgang Amadeus Mozart", "score": 0}
+    ]
+  },
+  {
+    "question": "Which German composer is known for the Brandenburg Concertos?",
+    "answers": [
+      {"text": "Johann Sebastian Bach", "score": 1},
+      {"text": "Richard Wagner", "score": 0},
+      {"text": "Johannes Brahms", "score": 0},
+      {"text": "Clara Schumann", "score": 0}
+    ]
+  },
+  {
+    "question": "Which city is famous for annual Oktoberfest celebrations with music and folk bands?",
+    "answers": [
+      {"text": "Munich", "score": 1},
+      {"text": "Bremen", "score": 0},
+      {"text": "Dortmund", "score": 0},
+      {"text": "Hanover", "score": 0}
+    ]
+  }
+]

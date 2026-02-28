@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Рио фавелаттарын туһунан ханнык бразилиялыы киинэ түөрт «Оскар» номинациятын ылбытай?",
+    "answers": [
+      {
+        "text": "City of God",
+        "score": 1
+      },
+      {
+        "text": "Elite Squad",
+        "score": 0
+      },
+      {
+        "text": "Central Station",
+        "score": 0
+      },
+      {
+        "text": "Bacurau",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Рио-де-Жанейроҕа күөх араларын кэпсиир ханнык анимационнай киинэ буоларый?",
+    "answers": [
+      {
+        "text": "Rio",
+        "score": 1
+      },
+      {
+        "text": "Up",
+        "score": 0
+      },
+      {
+        "text": "Coco",
+        "score": 0
+      },
+      {
+        "text": "Moana",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "«Central Station» уонна «The Motorcycle Diaries» киинэлэрин ханнык бразилиялыы режиссер таһаарбытай?",
+    "answers": [
+      {
+        "text": "Валтер Саллес",
+        "score": 1
+      },
+      {
+        "text": "Фернанду Мейреллиш",
+        "score": 0
+      },
+      {
+        "text": "Жозе Падилья",
+        "score": 0
+      },
+      {
+        "text": "Клебер Мендонса Фильо",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Festival do Rio ханнык куоратка ааһынарый?",
+    "answers": [
+      {
+        "text": "Рио-де-Жанейро",
+        "score": 1
+      },
+      {
+        "text": "Ресифи",
+        "score": 0
+      },
+      {
+        "text": "Форталеза",
+        "score": 0
+      },
+      {
+        "text": "Манаус",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "«Tropa de Elite» бразилиялыы киинэтин международнай аата ханнык?",
+    "answers": [
+      {
+        "text": "Elite Squad",
+        "score": 1
+      },
+      {
+        "text": "City Guard",
+        "score": 0
+      },
+      {
+        "text": "Rio Patrol",
+        "score": 0
+      },
+      {
+        "text": "Street Command",
+        "score": 0
+      }
+    ]
+  }
+]

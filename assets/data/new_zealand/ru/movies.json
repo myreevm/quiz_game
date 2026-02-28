@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Какой новозеландский режиссер снял кинотрилогию «The Lord of the Rings»?",
+    "answers": [
+      {"text": "Питер Джексон", "score": 1},
+      {"text": "Тайка Вайтити", "score": 0},
+      {"text": "Джеймс Кэмерон", "score": 0},
+      {"text": "Эндрю Адамсон", "score": 0}
+    ]
+  },
+  {
+    "question": "В какой стране было снято много сцен фильма «The Lord of the Rings»?",
+    "answers": [
+      {"text": "Новая Зеландия", "score": 1},
+      {"text": "Ирландия", "score": 0},
+      {"text": "Исландия", "score": 0},
+      {"text": "Канада", "score": 0}
+    ]
+  },
+  {
+    "question": "Какой город является домом для Weta Workshop и Weta FX?",
+    "answers": [
+      {"text": "Веллингтон", "score": 1},
+      {"text": "Данидин", "score": 0},
+      {"text": "Окленд", "score": 0},
+      {"text": "Нейпир", "score": 0}
+    ]
+  },
+  {
+    "question": "Какой признанный новозеландский фильм 2002 года рассказывает о пути лидерства девочки-маори?",
+    "answers": [
+      {"text": "Whale Rider", "score": 1},
+      {"text": "Boy", "score": 0},
+      {"text": "Hunt for the Wilderpeople", "score": 0},
+      {"text": "Once Were Warriors", "score": 0}
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "What is the capital of New Zealand?",
+        "answers":  [
+                        {
+                            "text":  "Wellington",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Auckland",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Christchurch",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hamilton",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year was the Treaty of Waitangi signed?",
+        "answers":  [
+                        {
+                            "text":  "1840",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1776",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1867",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1901",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which country was the first to grant women nationwide voting rights in 1893?",
+        "answers":  [
+                        {
+                            "text":  "New Zealand",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Australia",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Canada",
+                            "score":  0
+                        },
+                        {
+                            "text":  "United Kingdom",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the currency of New Zealand?",
+        "answers":  [
+                        {
+                            "text":  "New Zealand dollar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Australian dollar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "US dollar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pound sterling",
+                            "score":  0
+                        }
+                    ]
+    }
+]

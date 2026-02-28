@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "What is the name of Vietnam\u0027s national anthem?",
+        "answers":  [
+                        {
+                            "text":  "Tien Quan Ca",
+                            "score":  1
+                        },
+                        {
+                            "text":  "March of the Volunteers",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kimigayo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Aegukga",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the traditional Vietnamese one-string instrument called?",
+        "answers":  [
+                        {
+                            "text":  "Dan bau",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Erhu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Koto",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sitar",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Vietnamese court music tradition is recognized by UNESCO?",
+        "answers":  [
+                        {
+                            "text":  "Nha nhac",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ca tru",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Quan ho",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hat xam",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the traditional southern Vietnamese musical theatre genre?",
+        "answers":  [
+                        {
+                            "text":  "Cai luong",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kabuki",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Peking opera",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Noh",
+                            "score":  0
+                        }
+                    ]
+    }
+]

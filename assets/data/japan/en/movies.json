@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Japanese studio created \"Spirited Away\"?",
+        "answers":  [
+                        {
+                            "text":  "Studio Ghibli",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Toei Animation",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Madhouse",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kyoto Animation",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who directed \"Spirited Away\"?",
+        "answers":  [
+                        {
+                            "text":  "Hayao Miyazaki",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Isao Takahata",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Makoto Shinkai",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mamoru Hosoda",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which monster debuted in Japanese cinema in 1954?",
+        "answers":  [
+                        {
+                            "text":  "Godzilla",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Gamera",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mothra",
+                            "score":  0
+                        },
+                        {
+                            "text":  "King Ghidorah",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Japanese film won the Oscar for Best Animated Feature in 2003?",
+        "answers":  [
+                        {
+                            "text":  "Spirited Away",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Princess Mononoke",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Howl\u0027s Moving Castle",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Your Name",
+                            "score":  0
+                        }
+                    ]
+    }
+]

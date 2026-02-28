@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Египет уонна араб традициялааһын музыкатыгар ханнык кыллыахтаах инструмент элбэх туттулларый?",
+    "answers": [
+      {
+        "text": "Oud",
+        "score": 1
+      },
+      {
+        "text": "Banjo",
+        "score": 0
+      },
+      {
+        "text": "Didgeridoo",
+        "score": 0
+      },
+      {
+        "text": "Balalaika",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "«Nour El Ain» альбомунан биллэр египет поп-ыллыыр киһитэ кимий?",
+    "answers": [
+      {
+        "text": "Amr Diab",
+        "score": 1
+      },
+      {
+        "text": "Tamer Hosny",
+        "score": 0
+      },
+      {
+        "text": "Mohamed Mounir",
+        "score": 0
+      },
+      {
+        "text": "Hamza Namira",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Египет государственнай гимна хайдах ааттанарый?",
+    "answers": [
+      {
+        "text": "Bilady, Bilady, Bilady",
+        "score": 1
+      },
+      {
+        "text": "Mawtini",
+        "score": 0
+      },
+      {
+        "text": "Hatikva",
+        "score": 0
+      },
+      {
+        "text": "Aegukga",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Египет музыкатыгар элбэхтик туттуллар кубок курдук барабан хайдах ааттанарый?",
+    "answers": [
+      {
+        "text": "Darbuka",
+        "score": 1
+      },
+      {
+        "text": "Bongo",
+        "score": 0
+      },
+      {
+        "text": "Djembe",
+        "score": 0
+      },
+      {
+        "text": "Cajon",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Ханнык үҥкүү-музыка стили Египеттэн улаханнык ситимнээх?",
+    "answers": [
+      {
+        "text": "Raqs Sharqi",
+        "score": 1
+      },
+      {
+        "text": "Flamenco",
+        "score": 0
+      },
+      {
+        "text": "Tango",
+        "score": 0
+      },
+      {
+        "text": "Waltz",
+        "score": 0
+      }
+    ]
+  }
+]

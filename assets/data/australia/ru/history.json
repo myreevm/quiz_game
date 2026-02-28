@@ -1,0 +1,107 @@
+[
+  {
+    "question": "В каком году Австралия стала федерацией?",
+    "answers": [
+      {
+        "text": "1901",
+        "score": 1
+      },
+      {
+        "text": "1788",
+        "score": 0
+      },
+      {
+        "text": "1918",
+        "score": 0
+      },
+      {
+        "text": "1945",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Какой флот прибыл в бухту Сиднея в 1788 году?",
+    "answers": [
+      {
+        "text": "First Fleet",
+        "score": 1
+      },
+      {
+        "text": "Royal Fleet",
+        "score": 0
+      },
+      {
+        "text": "Southern Fleet",
+        "score": 0
+      },
+      {
+        "text": "Convict Squadron",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Какой город является столицей Австралии?",
+    "answers": [
+      {
+        "text": "Канберра",
+        "score": 1
+      },
+      {
+        "text": "Сидней",
+        "score": 0
+      },
+      {
+        "text": "Мельбурн",
+        "score": 0
+      },
+      {
+        "text": "Перт",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "В какую дату отмечается День АНЗАК?",
+    "answers": [
+      {
+        "text": "25 апреля",
+        "score": 1
+      },
+      {
+        "text": "26 января",
+        "score": 0
+      },
+      {
+        "text": "1 июля",
+        "score": 0
+      },
+      {
+        "text": "11 ноября",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Какой известный австралийский природный объект также известен как Ayers Rock?",
+    "answers": [
+      {
+        "text": "Улуру",
+        "score": 1
+      },
+      {
+        "text": "Great Dividing Range",
+        "score": 0
+      },
+      {
+        "text": "Twelve Apostles",
+        "score": 0
+      },
+      {
+        "text": "Blue Mountains",
+        "score": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which leader declared Vietnam\u0027s independence in 1945?",
+        "answers":  [
+                        {
+                            "text":  "Ho Chi Minh",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bao Dai",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ngo Dinh Diem",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pham Van Dong",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which general is associated with the victory at Dien Bien Phu?",
+        "answers":  [
+                        {
+                            "text":  "Vo Nguyen Giap",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tran Hung Dao",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Le Loi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nguyen Hue",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Vietnamese Zen master became known worldwide as a peace activist?",
+        "answers":  [
+                        {
+                            "text":  "Thich Nhat Hanh",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Thich Quang Duc",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pham Tuan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Le Duc Tho",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which modern Vietnamese pop artist performs under the name \"M-TP\"?",
+        "answers":  [
+                        {
+                            "text":  "Son Tung M-TP",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Noo Phuoc Thinh",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Den Vau",
+                            "score":  0
+                        },
+                        {
+                            "text":  "My Tam",
+                            "score":  0
+                        }
+                    ]
+    }
+]

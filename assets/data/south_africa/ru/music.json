@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Какой современный танцевальный жанр из ЮАР стал популярным во всем мире?",
+    "answers": [
+      {"text": "Amapiano", "score": 1},
+      {"text": "Reggaeton", "score": 0},
+      {"text": "K-pop", "score": 0},
+      {"text": "Flamenco pop", "score": 0}
+    ]
+  },
+  {
+    "question": "Какая южноафриканская певица была известна как «Mama Africa»?",
+    "answers": [
+      {"text": "Мириам Макеба", "score": 1},
+      {"text": "Ивонн Чака Чака", "score": 0},
+      {"text": "Анжелик Киджо", "score": 0},
+      {"text": "Бренда Фасси", "score": 0}
+    ]
+  },
+  {
+    "question": "Какая вокальная группа из ЮАР сотрудничала с Полом Саймоном?",
+    "answers": [
+      {"text": "Ladysmith Black Mambazo", "score": 1},
+      {"text": "The Temptations", "score": 0},
+      {"text": "ABBA", "score": 0},
+      {"text": "The Beach Boys", "score": 0}
+    ]
+  },
+  {
+    "question": "Какой городской музыкальный стиль возник в южноафриканских тауншипах в 1990-х годах?",
+    "answers": [
+      {"text": "Kwaito", "score": 1},
+      {"text": "Grunge", "score": 0},
+      {"text": "Disco polo", "score": 0},
+      {"text": "Bossa nova", "score": 0}
+    ]
+  }
+]

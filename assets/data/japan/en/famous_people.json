@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Who created Mario and The Legend of Zelda?",
+        "answers":  [
+                        {
+                            "text":  "Shigeru Miyamoto",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hideo Kojima",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yu Suzuki",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Masahiro Sakurai",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who painted \"The Great Wave off Kanagawa\"?",
+        "answers":  [
+                        {
+                            "text":  "Katsushika Hokusai",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Utagawa Hiroshige",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yayoi Kusama",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Takashi Murakami",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Japanese writer wrote \"Norwegian Wood\"?",
+        "answers":  [
+                        {
+                            "text":  "Haruki Murakami",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kenzaburo Oe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yukio Mishima",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Banana Yoshimoto",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Japanese director made \"Seven Samurai\"?",
+        "answers":  [
+                        {
+                            "text":  "Akira Kurosawa",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yasujiro Ozu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kenji Mizoguchi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Takeshi Kitano",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Swiss tennis player won 20 Grand Slam singles titles?",
+        "answers":  [
+                        {
+                            "text":  "Roger Federer",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Stan Wawrinka",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bjorn Borg",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rafael Nadal",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Swiss humanitarian founded the Red Cross?",
+        "answers":  [
+                        {
+                            "text":  "Henry Dunant",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Albert Schweitzer",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jean Piaget",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Carl Jung",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Swiss psychiatrist developed analytical psychology?",
+        "answers":  [
+                        {
+                            "text":  "Carl Jung",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sigmund Freud",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Viktor Frankl",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alfred Adler",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Swiss-French architect is known as Le Corbusier?",
+        "answers":  [
+                        {
+                            "text":  "Charles-Edouard Jeanneret",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ludwig Mies van der Rohe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Walter Gropius",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Frank Gehry",
+                            "score":  0
+                        }
+                    ]
+    }
+]

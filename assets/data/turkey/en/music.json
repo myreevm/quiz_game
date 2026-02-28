@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which string instrument is common in Turkish folk music?",
+        "answers":  [
+                        {
+                            "text":  "Baglama",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cello",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ukulele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mandolin",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which singer won Eurovision 2003 for Turkey?",
+        "answers":  [
+                        {
+                            "text":  "Sertab Erener",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hadise",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ajda Pekkan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sezen Aksu",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Turkish pop singer is known internationally for the song \u0027Simarik\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Tarkan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mabel Matiz",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Murat Boz",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kenan Dogulu",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city is associated with Mevlevi whirling dervish music traditions?",
+        "answers":  [
+                        {
+                            "text":  "Konya",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bodrum",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gaziantep",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Samsun",
+                            "score":  0
+                        }
+                    ]
+    }
+]

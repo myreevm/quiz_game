@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Who is often called the \"King of Rock and Roll\"?",
+    "answers": [
+      {
+        "text": "Elvis Presley",
+        "score": 1
+      },
+      {
+        "text": "Chuck Berry",
+        "score": 0
+      },
+      {
+        "text": "Bob Dylan",
+        "score": 0
+      },
+      {
+        "text": "Frank Sinatra",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which city is traditionally associated with the origins of jazz?",
+    "answers": [
+      {
+        "text": "New Orleans",
+        "score": 1
+      },
+      {
+        "text": "Boston",
+        "score": 0
+      },
+      {
+        "text": "Denver",
+        "score": 0
+      },
+      {
+        "text": "Phoenix",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which music genre is Nashville most commonly associated with?",
+    "answers": [
+      {
+        "text": "Country",
+        "score": 1
+      },
+      {
+        "text": "Techno",
+        "score": 0
+      },
+      {
+        "text": "Opera",
+        "score": 0
+      },
+      {
+        "text": "Reggae",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which performer released the hit \"Single Ladies\"?",
+    "answers": [
+      {
+        "text": "Beyonce",
+        "score": 1
+      },
+      {
+        "text": "Adele",
+        "score": 0
+      },
+      {
+        "text": "Lady Gaga",
+        "score": 0
+      },
+      {
+        "text": "Taylor Swift",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the main music award in the United States called?",
+    "answers": [
+      {
+        "text": "Grammy",
+        "score": 1
+      },
+      {
+        "text": "Golden Globe",
+        "score": 0
+      },
+      {
+        "text": "Emmy",
+        "score": 0
+      },
+      {
+        "text": "Tony",
+        "score": 0
+      }
+    ]
+  }
+]

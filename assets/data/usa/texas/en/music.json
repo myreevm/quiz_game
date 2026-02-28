@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Which musician from Texas is known for the song \"On the Road Again\"?",
+    "answers": [
+      {
+        "text": "Willie Nelson",
+        "score": 1
+      },
+      {
+        "text": "Bob Seger",
+        "score": 0
+      },
+      {
+        "text": "Bruce Springsteen",
+        "score": 0
+      },
+      {
+        "text": "Jon Bon Jovi",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In which Texas city is the SXSW festival held?",
+    "answers": [
+      {
+        "text": "Austin",
+        "score": 1
+      },
+      {
+        "text": "Houston",
+        "score": 0
+      },
+      {
+        "text": "Dallas",
+        "score": 0
+      },
+      {
+        "text": "San Antonio",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Texas blues-rock guitarist is known for \"Pride and Joy\"?",
+    "answers": [
+      {
+        "text": "Stevie Ray Vaughan",
+        "score": 1
+      },
+      {
+        "text": "Eric Clapton",
+        "score": 0
+      },
+      {
+        "text": "Jimi Hendrix",
+        "score": 0
+      },
+      {
+        "text": "Carlos Santana",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which singer from Houston started her career in Destiny's Child?",
+    "answers": [
+      {
+        "text": "Beyonce",
+        "score": 1
+      },
+      {
+        "text": "Pink",
+        "score": 0
+      },
+      {
+        "text": "Sia",
+        "score": 0
+      },
+      {
+        "text": "Lorde",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which singer from Texas is called the queen of Tejano music?",
+    "answers": [
+      {
+        "text": "Selena Quintanilla",
+        "score": 1
+      },
+      {
+        "text": "Shakira",
+        "score": 0
+      },
+      {
+        "text": "Madonna",
+        "score": 0
+      },
+      {
+        "text": "Demi Lovato",
+        "score": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "question": "Who directed the film “The Irony of Fate, or Enjoy Your Bath!”?",
+    "answers": [
+      {
+        "text": "Eldar Ryazanov",
+        "score": 1
+      },
+      {
+        "text": "Leonid Gaidai",
+        "score": 0
+      },
+      {
+        "text": "Nikita Mikhalkov",
+        "score": 0
+      },
+      {
+        "text": "Alexey Balabanov",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who played the main role in the film \"Brother\"?",
+    "answers": [
+      {
+        "text": "Sergei Bodrov Jr.",
+        "score": 1
+      },
+      {
+        "text": "Konstantin Khabensky",
+        "score": 0
+      },
+      {
+        "text": "Oleg Menshikov",
+        "score": 0
+      },
+      {
+        "text": "Evgeniy Mironov",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who is the director of the comedy \"The Diamond Arm\"?",
+    "answers": [
+      {
+        "text": "Leonid Gaidai",
+        "score": 1
+      },
+      {
+        "text": "Georgy Danelia",
+        "score": 0
+      },
+      {
+        "text": "Karen Shakhnazarov",
+        "score": 0
+      },
+      {
+        "text": "Andrei Tarkovsky",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the series about the intelligence officer Isaev (Stirlitz)?",
+    "answers": [
+      {
+        "text": "Seventeen moments of spring",
+        "score": 1
+      },
+      {
+        "text": "The meeting place cannot be changed",
+        "score": 0
+      },
+      {
+        "text": "TASS is authorized to declare",
+        "score": 0
+      },
+      {
+        "text": "Liquidation",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What award did the film “Moscow Doesn’t Believe in Tears” receive?",
+    "answers": [
+      {
+        "text": "Oscar for Best Foreign Language Film",
+        "score": 1
+      },
+      {
+        "text": "Palm d'Or",
+        "score": 0
+      },
+      {
+        "text": "Golden Globe for Best TV Series",
+        "score": 0
+      },
+      {
+        "text": "Silver Bear for editing",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who directed the film \"Andrei Rublev\"?",
+    "answers": [
+      {
+        "text": "Andrei Tarkovsky",
+        "score": 1
+      },
+      {
+        "text": "Sergei Bondarchuk",
+        "score": 0
+      },
+      {
+        "text": "Pavel Lungin",
+        "score": 0
+      },
+      {
+        "text": "Klim Shipenko",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the main character in the film “White Sun of the Desert”?",
+    "answers": [
+      {
+        "text": "Fedor Sukhov",
+        "score": 1
+      },
+      {
+        "text": "Gleb Zheglov",
+        "score": 0
+      },
+      {
+        "text": "Yuri Detochkin",
+        "score": 0
+      },
+      {
+        "text": "Danila Bagrov",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who is the director of the film “Kin-dza-dza!”?",
+    "answers": [
+      {
+        "text": "Georgy Danelia",
+        "score": 1
+      },
+      {
+        "text": "Leonid Gaidai",
+        "score": 0
+      },
+      {
+        "text": "Alexander Rowe",
+        "score": 0
+      },
+      {
+        "text": "Stanislav Govorukhin",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who played Shurik in Gaidai's films?",
+    "answers": [
+      {
+        "text": "Alexander Demyanenko",
+        "score": 1
+      },
+      {
+        "text": "Yuri Nikulin",
+        "score": 0
+      },
+      {
+        "text": "Andrey Mironov",
+        "score": 0
+      },
+      {
+        "text": "Oleg Yankovsky",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the crocodile, Cheburashka's friend?",
+    "answers": [
+      {
+        "text": "Gena",
+        "score": 1
+      },
+      {
+        "text": "Leopold",
+        "score": 0
+      },
+      {
+        "text": "Matroskin",
+        "score": 0
+      },
+      {
+        "text": "Filya",
+        "score": 0
+      }
+    ]
+  }
+]

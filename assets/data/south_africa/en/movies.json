@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In which South African city is the film \u0027District 9\u0027 primarily set?",
+        "answers":  [
+                        {
+                            "text":  "Johannesburg",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cape Town",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pretoria",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Port Elizabeth",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which South African film won the Academy Award for Best Foreign Language Film in 2006?",
+        "answers":  [
+                        {
+                            "text":  "Tsotsi",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Invictus",
+                            "score":  0
+                        },
+                        {
+                            "text":  "District 9",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cry Freedom",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who directed the South African film \u0027Tsotsi\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Gavin Hood",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Neill Blomkamp",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Clint Eastwood",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Danny Boyle",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city hosts the Cape Town International Film Market and Festival?",
+        "answers":  [
+                        {
+                            "text":  "Cape Town",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Durban",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Johannesburg",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bloemfontein",
+                            "score":  0
+                        }
+                    ]
+    }
+]

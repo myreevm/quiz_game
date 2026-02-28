@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which New Zealand singer released the hit song \u0027Royals\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Lorde",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sia",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kylie Minogue",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dido",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which comedy music duo from New Zealand created songs for a TV series?",
+        "answers":  [
+                        {
+                            "text":  "Flight of the Conchords",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Lonely Island",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tenacious D",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Whitlams",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which indigenous people of New Zealand have rich traditional music and chant heritage?",
+        "answers":  [
+                        {
+                            "text":  "Maori",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Inuit",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sami",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ainu",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which city is WOMAD New Zealand typically held?",
+        "answers":  [
+                        {
+                            "text":  "New Plymouth",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Wellington",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Auckland",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Queenstown",
+                            "score":  0
+                        }
+                    ]
+    }
+]

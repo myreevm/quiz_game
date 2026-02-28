@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "What is the traditional Japanese long zither called?",
+        "answers":  [
+                        {
+                            "text":  "Koto",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Shamisen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Biwa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shakuhachi",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What does the abbreviation \"J-pop\" refer to?",
+        "answers":  [
+                        {
+                            "text":  "Japanese pop music",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jazz pop fusion",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Japanese poetry",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Junior pop style",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which composer is known for music in many Studio Ghibli films?",
+        "answers":  [
+                        {
+                            "text":  "Joe Hisaishi",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ryuichi Sakamoto",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yoko Kanno",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Susumu Hirasawa",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What are large traditional Japanese drums called?",
+        "answers":  [
+                        {
+                            "text":  "Taiko",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tabla",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bongos",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Djembe",
+                            "score":  0
+                        }
+                    ]
+    }
+]

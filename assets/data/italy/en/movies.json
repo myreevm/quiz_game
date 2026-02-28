@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Italian director made films such as \u0027La Dolce Vita\u0027 and \u00278 1/2\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Federico Fellini",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Paolo Sorrentino",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Luchino Visconti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Roberto Rossellini",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Italian film won the Oscar for Best Foreign Language Film and starred Roberto Benigni?",
+        "answers":  [
+                        {
+                            "text":  "Life Is Beautiful",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cinema Paradiso",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bicycle Thieves",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Great Beauty",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which city are the famous Cinecitta film studios located?",
+        "answers":  [
+                        {
+                            "text":  "Rome",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Florence",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Turin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bologna",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Italian director is famous for classic spaghetti westerns?",
+        "answers":  [
+                        {
+                            "text":  "Sergio Leone",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bernardo Bertolucci",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Michelangelo Antonioni",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dario Argento",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which New Zealander first reached the summit of Mount Everest in 1953 with Tenzing Norgay?",
+        "answers":  [
+                        {
+                            "text":  "Edmund Hillary",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Reinhold Messner",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chris Bonington",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Peter Hillary",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which New Zealand prime minister served from 2017 to 2023?",
+        "answers":  [
+                        {
+                            "text":  "Jacinda Ardern",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Helen Clark",
+                            "score":  0
+                        },
+                        {
+                            "text":  "John Key",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Christopher Luxon",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which scientist born in New Zealand is known as a pioneer of nuclear physics?",
+        "answers":  [
+                        {
+                            "text":  "Ernest Rutherford",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Niels Bohr",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Max Born",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Werner Heisenberg",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which New Zealand writer is known for modernist short stories such as \u0027The Garden Party\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Katherine Mansfield",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Janet Frame",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Witi Ihimaera",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Patricia Grace",
+                            "score":  0
+                        }
+                    ]
+    }
+]

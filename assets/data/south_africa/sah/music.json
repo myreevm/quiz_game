@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "ЮАР-тан ханнык билиҥҥи үҥкүү музыкальнай жанра аан дойдуга популярнай буолбутуй?",
+    "answers": [
+      {"text": "Amapiano", "score": 1},
+      {"text": "Reggaeton", "score": 0},
+      {"text": "K-pop", "score": 0},
+      {"text": "Flamenco pop", "score": 0}
+    ]
+  },
+  {
+    "question": "«Mama Africa» диэн аатынан ханнык южноафрикалыы ырыаһыта биллэрий?",
+    "answers": [
+      {"text": "Мириам Макеба", "score": 1},
+      {"text": "Ивонн Чака Чака", "score": 0},
+      {"text": "Анжелик Киджо", "score": 0},
+      {"text": "Бренда Фасси", "score": 0}
+    ]
+  },
+  {
+    "question": "Пол Саймонын кытта ханнык ЮАР вокальнай бөлөҕө үлэлээбитэ?",
+    "answers": [
+      {"text": "Ladysmith Black Mambazo", "score": 1},
+      {"text": "The Temptations", "score": 0},
+      {"text": "ABBA", "score": 0},
+      {"text": "The Beach Boys", "score": 0}
+    ]
+  },
+  {
+    "question": "1990-с сылларга южноафрикалыы тауншиптарыгар ханнык куорат музыкатын стила төрөөбүтүй?",
+    "answers": [
+      {"text": "Kwaito", "score": 1},
+      {"text": "Grunge", "score": 0},
+      {"text": "Disco polo", "score": 0},
+      {"text": "Bossa nova", "score": 0}
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which New Zealand director made \u0027The Lord of the Rings\u0027 film trilogy?",
+        "answers":  [
+                        {
+                            "text":  "Peter Jackson",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Taika Waititi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "James Cameron",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Andrew Adamson",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which country were many scenes of \u0027The Lord of the Rings\u0027 filmed?",
+        "answers":  [
+                        {
+                            "text":  "New Zealand",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ireland",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Iceland",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Canada",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city is home to Weta Workshop and Weta FX?",
+        "answers":  [
+                        {
+                            "text":  "Wellington",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Dunedin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Auckland",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Napier",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which acclaimed 2002 New Zealand film follows a Maori girl\u0027s leadership journey?",
+        "answers":  [
+                        {
+                            "text":  "Whale Rider",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Boy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hunt for the Wilderpeople",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Once Were Warriors",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In which year did South Africa hold its first democratic national elections?",
+        "answers":  [
+                        {
+                            "text":  "1994",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1984",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1976",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2001",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the administrative capital of South Africa?",
+        "answers":  [
+                        {
+                            "text":  "Pretoria",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cape Town",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bloemfontein",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Durban",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the currency of South Africa?",
+        "answers":  [
+                        {
+                            "text":  "South African rand",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kenyan shilling",
+                            "score":  0
+                        },
+                        {
+                            "text":  "US dollar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Euro",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which system of racial segregation ended in South Africa in the early 1990s?",
+        "answers":  [
+                        {
+                            "text":  "Apartheid",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Segregation Act",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jim Crow",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Colonial Mandate",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Who is the founder of modern Turkey?",
+        "answers":  [
+                        {
+                            "text":  "Mustafa Kemal Ataturk",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Suleiman the Magnificent",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mehmed II",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Turgut Ozal",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Turkish novelist won the Nobel Prize in Literature in 2006?",
+        "answers":  [
+                        {
+                            "text":  "Orhan Pamuk",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Elif Shafak",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yasar Kemal",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nazim Hikmet",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Ottoman architect designed many famous mosques, including Selimiye Mosque?",
+        "answers":  [
+                        {
+                            "text":  "Mimar Sinan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Le Corbusier",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Antoni Gaudi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Frank Lloyd Wright",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who is recognized as one of the first female fighter pilots and was from Turkey?",
+        "answers":  [
+                        {
+                            "text":  "Sabiha Gokcen",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Amelia Earhart",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Valentina Tereshkova",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bessie Coleman",
+                            "score":  0
+                        }
+                    ]
+    }
+]

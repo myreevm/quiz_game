@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Птолемейдар кэминээҕи Египеттиэн тылларбыт соңку салайааччы кимий?",
+    "answers": [
+      {
+        "text": "Клеопатра VII",
+        "score": 1
+      },
+      {
+        "text": "Нефертити",
+        "score": 0
+      },
+      {
+        "text": "Хатшепсут",
+        "score": 0
+      },
+      {
+        "text": "Рамсес II",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Liverpool FC клубугар оонньуур египет футбол суолталааҕа кимий?",
+    "answers": [
+      {
+        "text": "Mohamed Salah",
+        "score": 1
+      },
+      {
+        "text": "Riyad Mahrez",
+        "score": 0
+      },
+      {
+        "text": "Hakim Ziyech",
+        "score": 0
+      },
+      {
+        "text": "Sadio Mane",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "1988 сыллаахха литератураҕа Нобель премиятын ылыбыт египет суруйааччыта кимий?",
+    "answers": [
+      {
+        "text": "Naguib Mahfouz",
+        "score": 1
+      },
+      {
+        "text": "Taha Hussein",
+        "score": 0
+      },
+      {
+        "text": "Alaa Al Aswany",
+        "score": 0
+      },
+      {
+        "text": "Sonallah Ibrahim",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "«Илиҥҥи сулус» диэн элбэхтик ааттанар биллэр египет ыллыыр киһитэ кимий?",
+    "answers": [
+      {
+        "text": "Umm Kulthum",
+        "score": 1
+      },
+      {
+        "text": "Sherine",
+        "score": 0
+      },
+      {
+        "text": "Ruby",
+        "score": 0
+      },
+      {
+        "text": "Elissa",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "1922 сыллаахха Тутанхамон хаан хаһаабытын ким булбутуй?",
+    "answers": [
+      {
+        "text": "Howard Carter",
+        "score": 1
+      },
+      {
+        "text": "Jean-Francois Champollion",
+        "score": 0
+      },
+      {
+        "text": "Lord Carnarvon",
+        "score": 0
+      },
+      {
+        "text": "Gaston Maspero",
+        "score": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Как называется государственный гимн Вьетнама?",
+    "answers": [
+      {"text": "Tiến Quân Ca", "score": 1},
+      {"text": "March of the Volunteers", "score": 0},
+      {"text": "Kimigayo", "score": 0},
+      {"text": "Aegukga", "score": 0}
+    ]
+  },
+  {
+    "question": "Как называется традиционный вьетнамский однострунный инструмент?",
+    "answers": [
+      {"text": "Đàn bầu", "score": 1},
+      {"text": "Erhu", "score": 0},
+      {"text": "Koto", "score": 0},
+      {"text": "Sitar", "score": 0}
+    ]
+  },
+  {
+    "question": "Какая вьетнамская придворная музыкальная традиция признана ЮНЕСКО?",
+    "answers": [
+      {"text": "Nhã nhạc", "score": 1},
+      {"text": "Ca trù", "score": 0},
+      {"text": "Quan họ", "score": 0},
+      {"text": "Hát xẩm", "score": 0}
+    ]
+  },
+  {
+    "question": "Как называется традиционный музыкально-театральный жанр южного Вьетнама?",
+    "answers": [
+      {"text": "Cải lương", "score": 1},
+      {"text": "Kabuki", "score": 0},
+      {"text": "Peking opera", "score": 0},
+      {"text": "Noh", "score": 0}
+    ]
+  }
+]

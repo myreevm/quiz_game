@@ -29,7 +29,9 @@ flutter:
   assets:
     - assets/flags/
     - output/imagegen/world_map_no_labels_8k.png
-    - assets/data/russia/
+    - assets/data/russia/en/
+    - assets/data/russia/ru/
+    - assets/data/russia/sah/
     - assets/data/russia/yakutia/
     - assets/data/russia/yakutia/en/
     - assets/data/russia/yakutia/ru/
@@ -38,38 +40,78 @@ flutter:
     - assets/data/russia/dagestan/en/
     - assets/data/russia/dagestan/ru/
     - assets/data/russia/dagestan/sah/
-    - assets/data/usa/
-    - assets/data/usa/oklahoma/
-    - assets/data/usa/texas/
-    - assets/data/china/
-    - assets/data/vietnam/
-    - assets/data/japan/
-    - assets/data/mexico/
+    - assets/data/usa/en/
+    - assets/data/usa/ru/
+    - assets/data/usa/sah/
+    - assets/data/usa/oklahoma/en/
+    - assets/data/usa/oklahoma/ru/
+    - assets/data/usa/oklahoma/sah/
+    - assets/data/usa/texas/en/
+    - assets/data/usa/texas/ru/
+    - assets/data/usa/texas/sah/
+    - assets/data/china/en/
+    - assets/data/china/ru/
+    - assets/data/china/sah/
+    - assets/data/vietnam/en/
+    - assets/data/vietnam/ru/
+    - assets/data/vietnam/sah/
+    - assets/data/japan/en/
+    - assets/data/japan/ru/
+    - assets/data/japan/sah/
+    - assets/data/mexico/en/
+    - assets/data/mexico/ru/
+    - assets/data/mexico/sah/
     - assets/data/canada/en/
     - assets/data/canada/ru/
     - assets/data/canada/sah/
-    - assets/data/poland/
-    - assets/data/france/
-    - assets/data/australia/
-    - assets/data/egypt/
-    - assets/data/brazil/
-    - assets/data/uk/
+    - assets/data/poland/en/
+    - assets/data/poland/ru/
+    - assets/data/poland/sah/
+    - assets/data/france/en/
+    - assets/data/france/ru/
+    - assets/data/france/sah/
+    - assets/data/australia/en/
+    - assets/data/australia/ru/
+    - assets/data/australia/sah/
+    - assets/data/egypt/en/
+    - assets/data/egypt/ru/
+    - assets/data/egypt/sah/
+    - assets/data/brazil/en/
+    - assets/data/brazil/ru/
+    - assets/data/brazil/sah/
+    - assets/data/uk/en/
+    - assets/data/uk/ru/
+    - assets/data/uk/sah/
     - assets/data/belarus/en/
     - assets/data/belarus/ru/
     - assets/data/belarus/sah/
     - assets/data/argentina/en/
     - assets/data/argentina/ru/
     - assets/data/argentina/sah/
-    - assets/data/turkey/
-    - assets/data/south_africa/
-    - assets/data/italy/
+    - assets/data/turkey/en/
+    - assets/data/turkey/ru/
+    - assets/data/turkey/sah/
+    - assets/data/south_africa/en/
+    - assets/data/south_africa/ru/
+    - assets/data/south_africa/sah/
+    - assets/data/italy/en/
+    - assets/data/italy/ru/
+    - assets/data/italy/sah/
     - assets/data/germany/en/
     - assets/data/germany/ru/
     - assets/data/germany/sah/
-    - assets/data/switzerland/
-    - assets/data/spain/
-    - assets/data/south_korea/
-    - assets/data/new_zealand/
+    - assets/data/switzerland/en/
+    - assets/data/switzerland/ru/
+    - assets/data/switzerland/sah/
+    - assets/data/spain/en/
+    - assets/data/spain/ru/
+    - assets/data/spain/sah/
+    - assets/data/south_korea/en/
+    - assets/data/south_korea/ru/
+    - assets/data/south_korea/sah/
+    - assets/data/new_zealand/en/
+    - assets/data/new_zealand/ru/
+    - assets/data/new_zealand/sah/
 
 flutter_launcher_icons:
   android: true

@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Which famous American comedian and columnist was born in Oklahoma?",
+    "answers": [
+      {
+        "text": "Will Rogers",
+        "score": 1
+      },
+      {
+        "text": "Charlie Chaplin",
+        "score": 0
+      },
+      {
+        "text": "Robin Williams",
+        "score": 0
+      },
+      {
+        "text": "Eddie Murphy",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which country singer from Oklahoma won American Idol?",
+    "answers": [
+      {
+        "text": "Carrie Underwood",
+        "score": 1
+      },
+      {
+        "text": "Dolly Parton",
+        "score": 0
+      },
+      {
+        "text": "Shania Twain",
+        "score": 0
+      },
+      {
+        "text": "Miranda Lambert",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In which state was actor Brad Pitt born?",
+    "answers": [
+      {
+        "text": "Oklahoma",
+        "score": 1
+      },
+      {
+        "text": "Texas",
+        "score": 0
+      },
+      {
+        "text": "California",
+        "score": 0
+      },
+      {
+        "text": "Florida",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which musician born in Okemah, Oklahoma wrote \"This Land Is Your Land\"?",
+    "answers": [
+      {
+        "text": "Woody Guthrie",
+        "score": 1
+      },
+      {
+        "text": "Bob Marley",
+        "score": 0
+      },
+      {
+        "text": "Bruce Springsteen",
+        "score": 0
+      },
+      {
+        "text": "Johnny Cash",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which rock band from Oklahoma is known for the album \"Yoshimi Battles the Pink Robots\"?",
+    "answers": [
+      {
+        "text": "The Flaming Lips",
+        "score": 1
+      },
+      {
+        "text": "Nirvana",
+        "score": 0
+      },
+      {
+        "text": "Pearl Jam",
+        "score": 0
+      },
+      {
+        "text": "Aerosmith",
+        "score": 0
+      }
+    ]
+  }
+]

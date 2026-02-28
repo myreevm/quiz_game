@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "What is the capital of Turkey?",
+        "answers":  [
+                        {
+                            "text":  "Ankara",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Istanbul",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Izmir",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bursa",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year was the Republic of Turkey proclaimed?",
+        "answers":  [
+                        {
+                            "text":  "1923",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1918",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1938",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1905",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What was the historical name of Istanbul during the Byzantine era?",
+        "answers":  [
+                        {
+                            "text":  "Constantinople",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Antioch",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ephesus",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Adrianople",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which strait divides Istanbul between Europe and Asia?",
+        "answers":  [
+                        {
+                            "text":  "Bosporus",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Suez Canal",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Panama Canal",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Strait of Gibraltar",
+                            "score":  0
+                        }
+                    ]
+    }
+]

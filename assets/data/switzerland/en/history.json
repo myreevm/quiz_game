@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "What is the federal city (de facto capital) of Switzerland?",
+        "answers":  [
+                        {
+                            "text":  "Bern",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Zurich",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Geneva",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Basel",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What currency is used in Switzerland?",
+        "answers":  [
+                        {
+                            "text":  "Swiss franc",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Euro",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Swiss mark",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pound",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year is the Old Swiss Confederacy traditionally founded?",
+        "answers":  [
+                        {
+                            "text":  "1291",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1492",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1648",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1815",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Is Switzerland a member of the European Union?",
+        "answers":  [
+                        {
+                            "text":  "No",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yes",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Only in winter",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Only for trade",
+                            "score":  0
+                        }
+                    ]
+    }
+]

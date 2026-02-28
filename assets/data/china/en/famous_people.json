@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Who is considered the founder of the People's Republic of China in 1949?",
+    "answers": [
+      {
+        "text": "Mao Zedong",
+        "score": 1
+      },
+      {
+        "text": "Chiang Kai-shek",
+        "score": 0
+      },
+      {
+        "text": "Deng Xiaoping",
+        "score": 0
+      },
+      {
+        "text": "Sun Yat-sen",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Chinese thinker is associated with Confucianism?",
+    "answers": [
+      {
+        "text": "Confucius",
+        "score": 1
+      },
+      {
+        "text": "Laozi",
+        "score": 0
+      },
+      {
+        "text": "Mencius",
+        "score": 0
+      },
+      {
+        "text": "Zhuangzi",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Chinese director is known for the films \"Hero\" and \"House of Flying Daggers\"?",
+    "answers": [
+      {
+        "text": "Zhang Yimou",
+        "score": 1
+      },
+      {
+        "text": "Wong Kar-wai",
+        "score": 0
+      },
+      {
+        "text": "Tsai Ming-liang",
+        "score": 0
+      },
+      {
+        "text": "Ang Lee",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Chinese writer is traditionally considered the author of \"Journey to the West\"?",
+    "answers": [
+      {
+        "text": "Wu Cheng'en",
+        "score": 1
+      },
+      {
+        "text": "Lu Xun",
+        "score": 0
+      },
+      {
+        "text": "Mo Yan",
+        "score": 0
+      },
+      {
+        "text": "Ba Jin",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which famous Chinese basketball player played for the NBA club \"Houston Rockets\" for many years?",
+    "answers": [
+      {
+        "text": "Yao Ming",
+        "score": 1
+      },
+      {
+        "text": "Yi Jianlian",
+        "score": 0
+      },
+      {
+        "text": "Zhou Qi",
+        "score": 0
+      },
+      {
+        "text": "Sun Yue",
+        "score": 0
+      }
+    ]
+  }
+]

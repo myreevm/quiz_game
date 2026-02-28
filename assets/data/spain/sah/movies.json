@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "«Volver» уонна «Pain and Glory» киинэлэрин ханнык испаниялыы режиссер таһаарбытай?",
+    "answers": [
+      {"text": "Педро Альмодовар", "score": 1},
+      {"text": "Алехандро Аменабар", "score": 0},
+      {"text": "Луис Бунюэль", "score": 0},
+      {"text": "Хулио Медем", "score": 0}
+    ]
+  },
+  {
+    "question": "San Sebastian International Film Festival ханнык куоратка ааһынарый?",
+    "answers": [
+      {"text": "Сан-Себастьян", "score": 1},
+      {"text": "Мадрид", "score": 0},
+      {"text": "Бильбао", "score": 0},
+      {"text": "Малага", "score": 0}
+    ]
+  },
+  {
+    "question": "2005 сыллаахха «Оскар» ылбыт, атын тыллаах бастаҥ киинэ буолбут ханнык испаниялыы киинэ буоларый?",
+    "answers": [
+      {"text": "The Sea Inside", "score": 1},
+      {"text": "Talk to Her", "score": 0},
+      {"text": "Open Your Eyes", "score": 0},
+      {"text": "The Others", "score": 0}
+    ]
+  },
+  {
+    "question": "«Vicky Cristina Barcelona» киинэтигэр оонньоон «Оскар» ылбыт ханнык испаниялыы актриса буоларый?",
+    "answers": [
+      {"text": "Пенелопа Крус", "score": 1},
+      {"text": "Пас Вега", "score": 0},
+      {"text": "Эльса Патаки", "score": 0},
+      {"text": "Виктория Абриль", "score": 0}
+    ]
+  }
+]

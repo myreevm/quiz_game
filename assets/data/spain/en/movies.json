@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Spanish director made films like \u0027Volver\u0027 and \u0027Pain and Glory\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Pedro Almodovar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Alejandro Amenabar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Luis Bunuel",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Julio Medem",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city hosts the San Sebastian International Film Festival?",
+        "answers":  [
+                        {
+                            "text":  "San Sebastian",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Madrid",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bilbao",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Malaga",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Spanish film won the Oscar for Best Foreign Language Film in 2005?",
+        "answers":  [
+                        {
+                            "text":  "The Sea Inside",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Talk to Her",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Open Your Eyes",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Others",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Spanish actress won an Oscar for acting in \u0027Vicky Cristina Barcelona\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Penelope Cruz",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Paz Vega",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Elsa Pataky",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Victoria Abril",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Who directed \"The Scent of Green Papaya\"?",
+        "answers":  [
+                        {
+                            "text":  "Tran Anh Hung",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Victor Vu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dustin Nguyen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Le Van Kiet",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Hollywood film was shot in Ha Long Bay and Ninh Binh?",
+        "answers":  [
+                        {
+                            "text":  "Kong: Skull Island",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Avatar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jurassic World",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Revenant",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Vietnamese actress appeared in \"The Creator\" and \"The Old Guard\"?",
+        "answers":  [
+                        {
+                            "text":  "Ngo Thanh Van",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tang Thanh Ha",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ninh Duong Lan Ngoc",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kaity Nguyen",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city is considered the main center of Vietnam\u0027s film industry?",
+        "answers":  [
+                        {
+                            "text":  "Ho Chi Minh City",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hanoi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Da Nang",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Can Tho",
+                            "score":  0
+                        }
+                    ]
+    }
+]
