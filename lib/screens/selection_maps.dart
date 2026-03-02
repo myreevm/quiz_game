@@ -8,7 +8,7 @@ import 'flag_badge.dart';
 const _worldMapAssetPath = 'output/imagegen/world_map_no_labels_8k.png';
 const _mapAspectRatio = 2.0;
 const _mapMinScale = 1.0;
-const _mapMaxScale = 6.0;
+const _mapMaxScale = 10.0;
 const _mapZoomStep = 1.25;
 const _mapResponsivePinBaseWidth = 640.0;
 const _mapResponsivePinMinScale = 0.62;
@@ -242,6 +242,7 @@ class _FullscreenMapScreenState extends State<_FullscreenMapScreen> {
   final TransformationController _transformController =
       TransformationController();
   double _currentScale = 1.0;
+  Size _interactiveViewportSize = Size.zero;
 
   double get _pinScale {
     final scaled = math.pow(_currentScale, -1.2).toDouble();
@@ -268,13 +269,18 @@ class _FullscreenMapScreenState extends State<_FullscreenMapScreen> {
     final currentScale = _currentScale;
     final targetScale =
         (currentScale * factor).clamp(_mapMinScale, _mapMaxScale);
-    if (targetScale == currentScale) {
+    if (targetScale == currentScale || _interactiveViewportSize == Size.zero) {
       return;
     }
 
     final scaleDelta = targetScale / currentScale;
-    _transformController.value = _transformController.value.clone()
-      ..scaleByDouble(scaleDelta, scaleDelta, scaleDelta, 1);
+    final center = _interactiveViewportSize.center(Offset.zero);
+    final zoomMatrix = Matrix4.identity()
+      ..translateByDouble(center.dx, center.dy, 0, 1)
+      ..scaleByDouble(scaleDelta, scaleDelta, scaleDelta, 1)
+      ..translateByDouble(-center.dx, -center.dy, 0, 1);
+    final currentMatrix = _transformController.value.clone();
+    _transformController.value = zoomMatrix.multiplied(currentMatrix);
   }
 
   void _resetZoom() {
@@ -314,6 +320,7 @@ class _FullscreenMapScreenState extends State<_FullscreenMapScreen> {
                 padding: const EdgeInsets.fromLTRB(12, 66, 12, 12),
                 child: LayoutBuilder(
                   builder: (context, constraints) {
+                    _interactiveViewportSize = constraints.biggest;
                     final mapSize = _fitMap(constraints.biggest);
 
                     return InteractiveViewer(
