@@ -80,6 +80,7 @@ class _QuizScreenState extends State<QuizScreen> {
         .map(
           (question) => Question(
             questionText: question.questionText,
+            imageAsset: question.imageAsset,
             answers: appSettings.shuffleAnswers
                 ? ([...question.answers]..shuffle(random))
                 : [...question.answers],
@@ -400,6 +401,7 @@ class _QuizScreenState extends State<QuizScreen> {
                           child: _QuestionCard(
                             key: ValueKey(questionIndex),
                             text: currentQuestion.questionText,
+                            imageAsset: currentQuestion.imageAsset,
                           ),
                         ),
                         const SizedBox(height: 14),
@@ -582,8 +584,13 @@ class _QuizProgressCard extends StatelessWidget {
 
 class _QuestionCard extends StatelessWidget {
   final String text;
+  final String? imageAsset;
 
-  const _QuestionCard({super.key, required this.text});
+  const _QuestionCard({
+    super.key,
+    required this.text,
+    required this.imageAsset,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -602,29 +609,89 @@ class _QuestionCard extends StatelessWidget {
             color: colorScheme.outlineVariant.withValues(alpha: 0.55),
           ),
         ),
-        child: Row(
-          crossAxisAlignment: CrossAxisAlignment.start,
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
-            Container(
-              width: 44,
-              height: 44,
-              decoration: BoxDecoration(
-                shape: BoxShape.circle,
-                color: colorScheme.primary.withValues(alpha: 0.14),
-              ),
-              child: Icon(Icons.quiz_rounded, color: colorScheme.primary),
-            ),
-            const SizedBox(width: 12),
-            Expanded(
-              child: Text(
-                text,
-                style: textTheme.titleLarge?.copyWith(
-                  height: 1.4,
-                  fontWeight: FontWeight.w700,
+            if (imageAsset != null) ...[
+              _QuestionImage(imageAsset: imageAsset!),
+              const SizedBox(height: 14),
+            ],
+            Row(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Container(
+                  width: 44,
+                  height: 44,
+                  decoration: BoxDecoration(
+                    shape: BoxShape.circle,
+                    color: colorScheme.primary.withValues(alpha: 0.14),
+                  ),
+                  child: Icon(Icons.quiz_rounded, color: colorScheme.primary),
                 ),
-              ),
+                const SizedBox(width: 12),
+                Expanded(
+                  child: Text(
+                    text,
+                    style: textTheme.titleLarge?.copyWith(
+                      height: 1.4,
+                      fontWeight: FontWeight.w700,
+                    ),
+                  ),
+                ),
+              ],
             ),
           ],
+        ),
+      ),
+    );
+  }
+}
+
+class _QuestionImage extends StatefulWidget {
+  final String imageAsset;
+
+  const _QuestionImage({required this.imageAsset});
+
+  @override
+  State<_QuestionImage> createState() => _QuestionImageState();
+}
+
+class _QuestionImageState extends State<_QuestionImage> {
+  bool _hasLoadError = false;
+
+  @override
+  void didUpdateWidget(covariant _QuestionImage oldWidget) {
+    super.didUpdateWidget(oldWidget);
+    if (widget.imageAsset != oldWidget.imageAsset) {
+      _hasLoadError = false;
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    if (_hasLoadError) {
+      return const SizedBox.shrink();
+    }
+
+    return ClipRRect(
+      key: const ValueKey('quiz-question-image'),
+      borderRadius: BorderRadius.circular(16),
+      child: AspectRatio(
+        aspectRatio: 16 / 9,
+        child: Image(
+          image: ExactAssetImage(widget.imageAsset),
+          fit: BoxFit.cover,
+          errorBuilder: (_, __, ___) {
+            WidgetsBinding.instance.addPostFrameCallback((_) {
+              if (!mounted || _hasLoadError) {
+                return;
+              }
+              setState(() {
+                _hasLoadError = true;
+              });
+            });
+            return const SizedBox.shrink();
+          },
         ),
       ),
     );

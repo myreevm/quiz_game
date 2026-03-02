@@ -106,6 +106,48 @@ void main() {
       expect(russianQuestions.first.questionText, expectedQuestion);
     });
 
+    test('parses question imageAsset when provided', () async {
+      final questions = await QuestionService.loadQuestions(
+        country: 'russia',
+        region: 'dagestan',
+        category: 'famous_people',
+        language: AppLanguage.english,
+      );
+
+      expect(questions, isNotEmpty);
+      expect(
+        questions.first.imageAsset,
+        'assets/question_images/russia/dagestan/famous_people/rasul_gamzatov.jpg',
+      );
+    });
+
+    test('parses question image alias field when imageAsset is missing',
+        () async {
+      final questions = await QuestionService.loadQuestions(
+        country: 'russia',
+        region: 'dagestan',
+        category: 'famous_people',
+        language: AppLanguage.yakut,
+      );
+
+      expect(questions, isNotEmpty);
+      expect(
+        questions.first.imageAsset,
+        'assets/question_images/russia/dagestan/famous_people/rasul_gamzatov_sah.jpg',
+      );
+    });
+
+    test('question image is null when no image field exists', () async {
+      final questions = await QuestionService.loadQuestions(
+        country: 'usa',
+        category: 'famous_people',
+        language: AppLanguage.english,
+      );
+
+      expect(questions, isNotEmpty);
+      expect(questions.first.imageAsset, isNull);
+    });
+
     test('aggregates mixed regional sources without duplicates', () async {
       final dagestan = await QuestionService.loadQuestions(
         country: 'russia',
@@ -146,6 +188,8 @@ Map<String, String> _buildMockAssets() {
     'assets/data/russia/dagestan/en/famous_people.json': jsonEncode([
       {
         'question': 'Who is the most famous Dagestani poet?',
+        'imageAsset':
+            'assets/question_images/russia/dagestan/famous_people/rasul_gamzatov.jpg',
         'answers': [
           {'text': 'Rasul Gamzatov', 'score': 1},
           {'text': 'Other', 'score': 0}
@@ -155,6 +199,8 @@ Map<String, String> _buildMockAssets() {
     'assets/data/russia/dagestan/sah/famous_people.json': jsonEncode([
       {
         'question': 'Саха тылынан суолталаах суруйааччы кимий?',
+        'image':
+            'assets/question_images/russia/dagestan/famous_people/rasul_gamzatov_sah.jpg',
         'answers': [
           {'text': 'Расул Гамзатов', 'score': 1},
           {'text': 'Атын', 'score': 0}

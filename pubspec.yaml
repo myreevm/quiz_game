@@ -28,6 +28,7 @@ flutter:
 
   assets:
     - assets/flags/
+    - assets/question_images/
     - output/imagegen/world_map_no_labels_8k.png
     - assets/data/russia/en/
     - assets/data/russia/ru/

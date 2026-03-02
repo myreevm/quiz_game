@@ -1,8 +1,13 @@
 class Question {
   final String questionText;
+  final String? imageAsset;
   final List<Answer> answers;
 
-  Question({required this.questionText, required this.answers});
+  Question({
+    required this.questionText,
+    required this.answers,
+    this.imageAsset,
+  });
 }
 
 class Answer {

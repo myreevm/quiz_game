@@ -175,6 +175,8 @@ class QuestionService {
         language,
         isLanguageScopedPath: isLanguageScopedPath,
       );
+      final imageAsset =
+          _readText(map['imageAsset']) ?? _readText(map['image']);
       final answersData = map['answers'];
       if (questionText == null || answersData is! List) {
         continue;
@@ -204,7 +206,13 @@ class QuestionService {
         continue;
       }
 
-      questions.add(Question(questionText: questionText, answers: answers));
+      questions.add(
+        Question(
+          questionText: questionText,
+          imageAsset: imageAsset,
+          answers: answers,
+        ),
+      );
     }
 
     return questions;
