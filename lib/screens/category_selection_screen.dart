@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../models/app_texts.dart';
+import 'flag_badge.dart';
 import 'quiz_screen.dart';
 
 class CategorySelectionScreen extends StatelessWidget {
@@ -51,6 +52,7 @@ class CategorySelectionScreen extends StatelessWidget {
     final colorScheme = Theme.of(context).colorScheme;
     final countryName = texts.countryName(country);
     final regionName = region == null ? null : texts.regionName(region!);
+    final locationFlagCode = region ?? country;
     final locationTitle = regionName ?? countryName;
     final locationSubtitle = regionName == null
         ? texts.categorySelectionLocationAllCountry
@@ -81,6 +83,7 @@ class CategorySelectionScreen extends StatelessWidget {
             children: [
               _CategoryHeader(
                 texts: texts,
+                flagCode: locationFlagCode,
                 locationTitle: locationTitle,
                 locationSubtitle: locationSubtitle,
                 colorScheme: colorScheme,
@@ -125,12 +128,14 @@ class CategorySelectionScreen extends StatelessWidget {
 
 class _CategoryHeader extends StatelessWidget {
   final AppTexts texts;
+  final String flagCode;
   final String locationTitle;
   final String locationSubtitle;
   final ColorScheme colorScheme;
 
   const _CategoryHeader({
     required this.texts,
+    required this.flagCode,
     required this.locationTitle,
     required this.locationSubtitle,
     required this.colorScheme,
@@ -156,31 +161,45 @@ class _CategoryHeader extends StatelessWidget {
           ),
         ],
       ),
-      child: Column(
+      child: Row(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Text(
-            texts.categorySelectionHeaderTitle,
-            style: const TextStyle(
-              color: Colors.white,
-              fontSize: 24,
-              fontWeight: FontWeight.w800,
-            ),
+          FlagBadge(
+            key: const ValueKey('category-header-location-flag'),
+            code: flagCode,
+            width: 54,
+            height: 40,
           ),
-          const SizedBox(height: 8),
-          Text(
-            locationTitle,
-            style: const TextStyle(
-              color: Colors.white,
-              fontWeight: FontWeight.w700,
-            ),
-          ),
-          const SizedBox(height: 6),
-          Text(
-            locationSubtitle,
-            style: const TextStyle(
-              color: Colors.white,
-              height: 1.4,
+          const SizedBox(width: 12),
+          Expanded(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(
+                  texts.categorySelectionHeaderTitle,
+                  style: const TextStyle(
+                    color: Colors.white,
+                    fontSize: 24,
+                    fontWeight: FontWeight.w800,
+                  ),
+                ),
+                const SizedBox(height: 8),
+                Text(
+                  locationTitle,
+                  style: const TextStyle(
+                    color: Colors.white,
+                    fontWeight: FontWeight.w700,
+                  ),
+                ),
+                const SizedBox(height: 6),
+                Text(
+                  locationSubtitle,
+                  style: const TextStyle(
+                    color: Colors.white,
+                    height: 1.4,
+                  ),
+                ),
+              ],
             ),
           ),
         ],

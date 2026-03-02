@@ -86,6 +86,7 @@ class RegionSelectionScreen extends StatelessWidget {
             children: [
               _RegionHeader(
                 texts: texts,
+                countryCode: country,
                 countryName: countryName,
                 colorScheme: colorScheme,
               ),
@@ -130,11 +131,13 @@ class RegionSelectionScreen extends StatelessWidget {
 
 class _RegionHeader extends StatelessWidget {
   final AppTexts texts;
+  final String countryCode;
   final String countryName;
   final ColorScheme colorScheme;
 
   const _RegionHeader({
     required this.texts,
+    required this.countryCode,
     required this.countryName,
     required this.colorScheme,
   });
@@ -159,31 +162,45 @@ class _RegionHeader extends StatelessWidget {
           ),
         ],
       ),
-      child: Column(
+      child: Row(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Text(
-            texts.regionSelectionHeaderTitle,
-            style: const TextStyle(
-              color: Colors.white,
-              fontSize: 24,
-              fontWeight: FontWeight.w800,
-            ),
+          FlagBadge(
+            key: const ValueKey('region-header-country-flag'),
+            code: countryCode,
+            width: 54,
+            height: 40,
           ),
-          const SizedBox(height: 8),
-          Text(
-            texts.regionSelectionCountryLabel(countryName),
-            style: const TextStyle(
-              color: Colors.white,
-              fontWeight: FontWeight.w600,
-            ),
-          ),
-          const SizedBox(height: 6),
-          Text(
-            texts.regionSelectionHeaderDescription,
-            style: const TextStyle(
-              color: Colors.white,
-              height: 1.4,
+          const SizedBox(width: 12),
+          Expanded(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(
+                  texts.regionSelectionHeaderTitle,
+                  style: const TextStyle(
+                    color: Colors.white,
+                    fontSize: 24,
+                    fontWeight: FontWeight.w800,
+                  ),
+                ),
+                const SizedBox(height: 8),
+                Text(
+                  texts.regionSelectionCountryLabel(countryName),
+                  style: const TextStyle(
+                    color: Colors.white,
+                    fontWeight: FontWeight.w600,
+                  ),
+                ),
+                const SizedBox(height: 6),
+                Text(
+                  texts.regionSelectionHeaderDescription,
+                  style: const TextStyle(
+                    color: Colors.white,
+                    height: 1.4,
+                  ),
+                ),
+              ],
             ),
           ),
         ],
