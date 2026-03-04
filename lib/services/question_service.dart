@@ -177,6 +177,11 @@ class QuestionService {
       );
       final imageAsset =
           _readText(map['imageAsset']) ?? _readText(map['image']);
+      final explanationText = _readLocalizedText(
+        map['explanation'],
+        language,
+        isLanguageScopedPath: isLanguageScopedPath,
+      );
       final answersData = map['answers'];
       if (questionText == null || answersData is! List) {
         continue;
@@ -210,6 +215,7 @@ class QuestionService {
         Question(
           questionText: questionText,
           imageAsset: imageAsset,
+          explanationText: explanationText,
           answers: answers,
         ),
       );

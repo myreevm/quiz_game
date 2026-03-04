@@ -1,4 +1,5 @@
 import 'dart:async';
+import 'dart:math';
 
 import 'package:flutter/material.dart';
 
@@ -84,6 +85,8 @@ class PlayerProgress {
   final int totalRounds;
   final int totalQuestions;
   final int totalCorrect;
+  final int bestRoundPercent;
+  final int totalRoundPercentSum;
   final int perfectRounds;
   final int totalHintsUsed;
   final int hintBalance;
@@ -94,6 +97,8 @@ class PlayerProgress {
     this.totalRounds = 0,
     this.totalQuestions = 0,
     this.totalCorrect = 0,
+    this.bestRoundPercent = 0,
+    this.totalRoundPercentSum = 0,
     this.perfectRounds = 0,
     this.totalHintsUsed = 0,
     this.hintBalance = 0,
@@ -105,6 +110,8 @@ class PlayerProgress {
     int? totalRounds,
     int? totalQuestions,
     int? totalCorrect,
+    int? bestRoundPercent,
+    int? totalRoundPercentSum,
     int? perfectRounds,
     int? totalHintsUsed,
     int? hintBalance,
@@ -116,6 +123,8 @@ class PlayerProgress {
       totalRounds: totalRounds ?? this.totalRounds,
       totalQuestions: totalQuestions ?? this.totalQuestions,
       totalCorrect: totalCorrect ?? this.totalCorrect,
+      bestRoundPercent: bestRoundPercent ?? this.bestRoundPercent,
+      totalRoundPercentSum: totalRoundPercentSum ?? this.totalRoundPercentSum,
       perfectRounds: perfectRounds ?? this.perfectRounds,
       totalHintsUsed: totalHintsUsed ?? this.totalHintsUsed,
       hintBalance: hintBalance ?? this.hintBalance,
@@ -131,6 +140,8 @@ class PlayerProgress {
       'totalRounds': totalRounds,
       'totalQuestions': totalQuestions,
       'totalCorrect': totalCorrect,
+      'bestRoundPercent': bestRoundPercent,
+      'totalRoundPercentSum': totalRoundPercentSum,
       'perfectRounds': perfectRounds,
       'totalHintsUsed': totalHintsUsed,
       'hintBalance': hintBalance,
@@ -161,6 +172,8 @@ class PlayerProgress {
       totalRounds: _parseInt(json['totalRounds']) ?? 0,
       totalQuestions: _parseInt(json['totalQuestions']) ?? 0,
       totalCorrect: _parseInt(json['totalCorrect']) ?? 0,
+      bestRoundPercent: _parseInt(json['bestRoundPercent']) ?? 0,
+      totalRoundPercentSum: _parseInt(json['totalRoundPercentSum']) ?? 0,
       perfectRounds: _parseInt(json['perfectRounds']) ?? 0,
       totalHintsUsed: _parseInt(json['totalHintsUsed']) ?? 0,
       hintBalance: _parseInt(json['hintBalance']) ?? 0,
@@ -224,6 +237,8 @@ class PlayerProgressController extends ChangeNotifier {
       questions: countryProgress.questions + record.totalQuestions,
       correct: countryProgress.correct + record.correctAnswers,
     );
+    final roundPercent =
+        ((record.correctAnswers / record.totalQuestions) * 100).round();
 
     countries[normalizedCountry] = nextCountryProgress;
 
@@ -231,6 +246,8 @@ class PlayerProgressController extends ChangeNotifier {
       totalRounds: _progress.totalRounds + 1,
       totalQuestions: _progress.totalQuestions + record.totalQuestions,
       totalCorrect: _progress.totalCorrect + record.correctAnswers,
+      totalRoundPercentSum: _progress.totalRoundPercentSum + roundPercent,
+      bestRoundPercent: max(_progress.bestRoundPercent, roundPercent),
       perfectRounds: _progress.perfectRounds +
           (record.correctAnswers == record.totalQuestions ? 1 : 0),
       totalHintsUsed: _progress.totalHintsUsed + record.hintsUsed,

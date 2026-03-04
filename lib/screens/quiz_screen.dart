@@ -41,6 +41,7 @@ class _QuizScreenState extends State<QuizScreen> {
   bool _isTimerPausedForHint = false;
   bool _isSubmittingAnswer = false;
   bool _hintUsedForCurrentQuestion = false;
+  _AnswerFeedbackState? _feedbackState;
 
   int _timeoutsInRound = 0;
   int _hintsUsedInRound = 0;
@@ -81,6 +82,7 @@ class _QuizScreenState extends State<QuizScreen> {
           (question) => Question(
             questionText: question.questionText,
             imageAsset: question.imageAsset,
+            explanationText: question.explanationText,
             answers: appSettings.shuffleAnswers
                 ? ([...question.answers]..shuffle(random))
                 : [...question.answers],
@@ -116,7 +118,10 @@ class _QuizScreenState extends State<QuizScreen> {
 
   void _startTimerIfNeeded() {
     _questionTimer?.cancel();
-    if (!_timerEnabledForRound || questions.isEmpty || _isSubmittingAnswer) {
+    if (!_timerEnabledForRound ||
+        questions.isEmpty ||
+        _isSubmittingAnswer ||
+        _feedbackState != null) {
       return;
     }
 
@@ -140,7 +145,9 @@ class _QuizScreenState extends State<QuizScreen> {
   }
 
   void _pauseTimerForHint() {
-    if (!_timerEnabledForRound || _isTimerPausedForHint) {
+    if (!_timerEnabledForRound ||
+        _isTimerPausedForHint ||
+        _feedbackState != null) {
       return;
     }
 
@@ -169,6 +176,7 @@ class _QuizScreenState extends State<QuizScreen> {
     _hintUsedForCurrentQuestion = false;
     _isSubmittingAnswer = false;
     _isTimerPausedForHint = false;
+    _feedbackState = null;
     _secondsLeft = _questionTimeLimitSec;
   }
 
@@ -176,9 +184,12 @@ class _QuizScreenState extends State<QuizScreen> {
     int answerScore, {
     bool isTimeout = false,
   }) async {
-    if (_isSubmittingAnswer || !mounted) {
+    if (_isSubmittingAnswer || !mounted || questions.isEmpty) {
       return;
     }
+
+    final currentQuestion = questions[questionIndex];
+    final correctAnswer = _bestAnswerByScore(currentQuestion);
 
     _isSubmittingAnswer = true;
     _questionTimer?.cancel();
@@ -189,6 +200,27 @@ class _QuizScreenState extends State<QuizScreen> {
 
     score += answerScore;
 
+    final maxScore = correctAnswer?.score ?? 0;
+    final status = isTimeout
+        ? _AnswerFeedbackStatus.timeout
+        : (answerScore >= maxScore
+            ? _AnswerFeedbackStatus.correct
+            : _AnswerFeedbackStatus.wrong);
+
+    setState(() {
+      _feedbackState = _AnswerFeedbackState(
+        status: status,
+        correctAnswerText: correctAnswer?.text ?? '',
+        explanationText: currentQuestion.explanationText,
+      );
+    });
+  }
+
+  void _continueAfterFeedback() {
+    if (_feedbackState == null) {
+      return;
+    }
+
     if (questionIndex < questions.length - 1) {
       setState(() {
         questionIndex += 1;
@@ -198,6 +230,10 @@ class _QuizScreenState extends State<QuizScreen> {
       return;
     }
 
+    _finishRound();
+  }
+
+  void _finishRound() {
     final normalizedScore = _normalizedScore(score, questions.length);
     final progressController = PlayerProgressScope.of(context);
     final newlyUnlocked = progressController.recordRound(
@@ -228,7 +264,7 @@ class _QuizScreenState extends State<QuizScreen> {
   }
 
   void _useHint() {
-    if (questions.isEmpty || _isSubmittingAnswer) {
+    if (questions.isEmpty || _isSubmittingAnswer || _feedbackState != null) {
       return;
     }
 
@@ -310,6 +346,22 @@ class _QuizScreenState extends State<QuizScreen> {
     return rawScore;
   }
 
+  Answer? _bestAnswerByScore(Question question) {
+    if (question.answers.isEmpty) {
+      return null;
+    }
+
+    Answer bestAnswer = question.answers.first;
+    for (var i = 1; i < question.answers.length; i++) {
+      final candidate = question.answers[i];
+      if (candidate.score > bestAnswer.score) {
+        bestAnswer = candidate;
+      }
+    }
+
+    return bestAnswer;
+  }
+
   void _showHintMessage(String message) {
     ScaffoldMessenger.of(context).showSnackBar(
       SnackBar(content: Text(message)),
@@ -338,6 +390,7 @@ class _QuizScreenState extends State<QuizScreen> {
     final progress = (questionIndex + 1) / questions.length;
     final colorScheme = Theme.of(context).colorScheme;
     final hintBalance = progressController.progress.hintBalance;
+    final feedbackState = _feedbackState;
 
     final visibleAnswers = currentQuestion.answers.asMap().entries.where(
           (entry) => _visibleAnswerIndexes.contains(entry.key),
@@ -405,29 +458,45 @@ class _QuizScreenState extends State<QuizScreen> {
                           ),
                         ),
                         const SizedBox(height: 14),
-                        Text(
-                          texts.quizSelectAnswer,
-                          style:
-                              Theme.of(context).textTheme.bodyMedium?.copyWith(
-                                    color: colorScheme.onSurfaceVariant,
-                                    fontWeight: FontWeight.w600,
-                                  ),
-                        ),
-                        const SizedBox(height: 10),
-                        ...visibleAnswers.map((entry) {
-                          final optionIndex = entry.key;
-                          final answer = entry.value;
+                        if (feedbackState == null) ...[
+                          Text(
+                            texts.quizSelectAnswer,
+                            style: Theme.of(context)
+                                .textTheme
+                                .bodyMedium
+                                ?.copyWith(
+                                  color: colorScheme.onSurfaceVariant,
+                                  fontWeight: FontWeight.w600,
+                                ),
+                          ),
+                          const SizedBox(height: 10),
+                          ...visibleAnswers.map((entry) {
+                            final optionIndex = entry.key;
+                            final answer = entry.value;
 
-                          return Padding(
-                            padding: const EdgeInsets.only(bottom: 10),
-                            child: _AnswerCard(
-                              optionIndex: optionIndex,
-                              text: answer.text,
-                              iconColor: _optionColor(optionIndex, colorScheme),
-                              onTap: () => _submitAnswer(answer.score),
-                            ),
-                          );
-                        }),
+                            return Padding(
+                              padding: const EdgeInsets.only(bottom: 10),
+                              child: _AnswerCard(
+                                optionIndex: optionIndex,
+                                text: answer.text,
+                                iconColor:
+                                    _optionColor(optionIndex, colorScheme),
+                                onTap: () => _submitAnswer(answer.score),
+                              ),
+                            );
+                          }),
+                        ] else ...[
+                          _AnswerFeedbackCard(
+                            texts: texts,
+                            status: feedbackState.status,
+                            correctAnswerText: feedbackState.correctAnswerText,
+                            explanationText: feedbackState.explanationText ??
+                                texts.quizFeedbackNoExplanation,
+                            isLastQuestion:
+                                questionIndex == questions.length - 1,
+                            onContinue: _continueAfterFeedback,
+                          ),
+                        ],
                       ],
                     ),
                   ),
@@ -451,6 +520,132 @@ class _QuizScreenState extends State<QuizScreen> {
       default:
         return colorScheme.error;
     }
+  }
+}
+
+enum _AnswerFeedbackStatus {
+  correct,
+  wrong,
+  timeout,
+}
+
+class _AnswerFeedbackState {
+  final _AnswerFeedbackStatus status;
+  final String correctAnswerText;
+  final String? explanationText;
+
+  const _AnswerFeedbackState({
+    required this.status,
+    required this.correctAnswerText,
+    required this.explanationText,
+  });
+}
+
+class _AnswerFeedbackCard extends StatelessWidget {
+  final AppTexts texts;
+  final _AnswerFeedbackStatus status;
+  final String correctAnswerText;
+  final String explanationText;
+  final bool isLastQuestion;
+  final VoidCallback onContinue;
+
+  const _AnswerFeedbackCard({
+    required this.texts,
+    required this.status,
+    required this.correctAnswerText,
+    required this.explanationText,
+    required this.isLastQuestion,
+    required this.onContinue,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    final colorScheme = Theme.of(context).colorScheme;
+    late final Color statusColor;
+    late final String statusLabel;
+    switch (status) {
+      case _AnswerFeedbackStatus.correct:
+        statusColor = const Color(0xFF2E7D32);
+        statusLabel = texts.quizFeedbackCorrectTitle;
+      case _AnswerFeedbackStatus.wrong:
+        statusColor = colorScheme.error;
+        statusLabel = texts.quizFeedbackWrongTitle;
+      case _AnswerFeedbackStatus.timeout:
+        statusColor = const Color(0xFFEF6C00);
+        statusLabel = texts.quizFeedbackTimeoutTitle;
+    }
+
+    final continueLabel = isLastQuestion
+        ? texts.quizFeedbackFinishButton
+        : texts.quizFeedbackNextButton;
+
+    return Card(
+      elevation: 0,
+      margin: EdgeInsets.zero,
+      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(24)),
+      child: Container(
+        key: const ValueKey('quiz-answer-feedback'),
+        padding: const EdgeInsets.all(18),
+        decoration: BoxDecoration(
+          borderRadius: BorderRadius.circular(24),
+          border: Border.all(
+            color: colorScheme.outlineVariant.withValues(alpha: 0.55),
+          ),
+        ),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.stretch,
+          children: [
+            Row(
+              children: [
+                Icon(Icons.info_rounded, color: statusColor),
+                const SizedBox(width: 8),
+                Expanded(
+                  child: Text(
+                    statusLabel,
+                    style: Theme.of(context).textTheme.titleLarge?.copyWith(
+                          fontWeight: FontWeight.w800,
+                          color: statusColor,
+                        ),
+                  ),
+                ),
+              ],
+            ),
+            const SizedBox(height: 12),
+            Text(
+              texts.quizFeedbackCorrectAnswerLabel(correctAnswerText),
+              style: Theme.of(context).textTheme.titleMedium?.copyWith(
+                    fontWeight: FontWeight.w700,
+                  ),
+            ),
+            const SizedBox(height: 10),
+            Text(
+              texts.quizFeedbackExplanationLabel,
+              style: Theme.of(context).textTheme.labelLarge?.copyWith(
+                    color: colorScheme.onSurfaceVariant,
+                    fontWeight: FontWeight.w700,
+                  ),
+            ),
+            const SizedBox(height: 4),
+            Text(
+              explanationText,
+              style: Theme.of(context).textTheme.bodyLarge?.copyWith(
+                    height: 1.4,
+                  ),
+            ),
+            const SizedBox(height: 16),
+            FilledButton.icon(
+              onPressed: onContinue,
+              icon: Icon(
+                isLastQuestion
+                    ? Icons.check_circle_rounded
+                    : Icons.arrow_forward_rounded,
+              ),
+              label: Text(continueLabel),
+            ),
+          ],
+        ),
+      ),
+    );
   }
 }
 
@@ -534,28 +729,30 @@ class _QuizProgressCard extends StatelessWidget {
             ],
           ),
           const SizedBox(height: 10),
-          Row(
-            children: [
-              if (timerEnabled)
-                Container(
-                  padding:
-                      const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
-                  decoration: BoxDecoration(
-                    color: Colors.white.withValues(alpha: 0.2),
-                    borderRadius: BorderRadius.circular(999),
-                  ),
-                  child: Text(
-                    timerPausedForHint
-                        ? texts.quizTimerPausedLabel
-                        : texts.quizTimerLabel(secondsLeft),
-                    style: textTheme.labelLarge?.copyWith(
-                      color: Colors.white,
-                      fontWeight: FontWeight.w700,
-                    ),
-                  ),
-                ),
-              const Spacer(),
-              FilledButton.tonalIcon(
+          LayoutBuilder(
+            builder: (context, constraints) {
+              final timerChip = timerEnabled
+                  ? Container(
+                      padding: const EdgeInsets.symmetric(
+                        horizontal: 10,
+                        vertical: 6,
+                      ),
+                      decoration: BoxDecoration(
+                        color: Colors.white.withValues(alpha: 0.2),
+                        borderRadius: BorderRadius.circular(999),
+                      ),
+                      child: Text(
+                        timerPausedForHint
+                            ? texts.quizTimerPausedLabel
+                            : texts.quizTimerLabel(secondsLeft),
+                        style: textTheme.labelLarge?.copyWith(
+                          color: Colors.white,
+                          fontWeight: FontWeight.w700,
+                        ),
+                      ),
+                    )
+                  : const SizedBox.shrink();
+              final hintButton = FilledButton.tonalIcon(
                 onPressed: onUseHintPressed,
                 style: FilledButton.styleFrom(
                   foregroundColor: colorScheme.onPrimary,
@@ -563,8 +760,30 @@ class _QuizProgressCard extends StatelessWidget {
                 ),
                 icon: const Icon(Icons.lightbulb_rounded, size: 18),
                 label: Text(texts.quizHintButtonLabel(hintBalance)),
-              ),
-            ],
+              );
+
+              if (constraints.maxWidth < 410) {
+                return Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    if (timerEnabled) timerChip,
+                    if (timerEnabled) const SizedBox(height: 8),
+                    Align(
+                      alignment: Alignment.centerRight,
+                      child: hintButton,
+                    ),
+                  ],
+                );
+              }
+
+              return Row(
+                children: [
+                  if (timerEnabled) timerChip,
+                  const Spacer(),
+                  hintButton,
+                ],
+              );
+            },
           ),
           const SizedBox(height: 12),
           ClipRRect(

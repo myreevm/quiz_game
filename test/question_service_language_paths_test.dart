@@ -64,7 +64,7 @@ void main() {
 
       expect(questions, isNotEmpty);
       expect(questions.first.questionText,
-          'Саха тылынан суолталаах суруйааччы кимий?');
+          'РЎР°С…Р° С‚С‹Р»С‹РЅР°РЅ СЃСѓРѕР»С‚Р°Р»Р°Р°С… СЃСѓСЂСѓР№Р°Р°С‡С‡С‹ РєРёРјРёР№?');
     });
 
     test('falls back to legacy region file with strict map lookup', () async {
@@ -97,7 +97,8 @@ void main() {
         language: AppLanguage.russian,
       );
 
-      const expectedQuestion = 'Кто был первым президентом США?';
+      const expectedQuestion =
+          'РљС‚Рѕ Р±С‹Р» РїРµСЂРІС‹Рј РїСЂРµР·РёРґРµРЅС‚РѕРј РЎРЁРђ?';
       expect(englishQuestions, isNotEmpty);
       expect(yakutQuestions, isNotEmpty);
       expect(russianQuestions, isNotEmpty);
@@ -135,6 +136,48 @@ void main() {
         questions.first.imageAsset,
         'assets/question_images/russia/dagestan/famous_people/rasul_gamzatov_sah.jpg',
       );
+    });
+
+    test('parses explanation as plain string', () async {
+      final questions = await QuestionService.loadQuestions(
+        country: 'russia',
+        region: 'dagestan',
+        category: 'famous_people',
+        language: AppLanguage.english,
+      );
+
+      expect(questions, isNotEmpty);
+      expect(
+        questions.first.explanationText,
+        'Rasul Gamzatov is one of the best-known Dagestani poets.',
+      );
+    });
+
+    test('parses explanation from localized map for legacy files', () async {
+      final questions = await QuestionService.loadQuestions(
+        country: 'russia',
+        region: 'yakutia',
+        category: 'history',
+        language: AppLanguage.english,
+      );
+
+      expect(questions, isNotEmpty);
+      expect(
+        questions.first.explanationText,
+        'Yakutsk was founded in 1632 by Pyotr Beketov.',
+      );
+    });
+
+    test('question explanation is null when no explanation field exists',
+        () async {
+      final questions = await QuestionService.loadQuestions(
+        country: 'usa',
+        category: 'famous_people',
+        language: AppLanguage.english,
+      );
+
+      expect(questions, isNotEmpty);
+      expect(questions.first.explanationText, isNull);
     });
 
     test('question image is null when no image field exists', () async {
@@ -190,6 +233,8 @@ Map<String, String> _buildMockAssets() {
         'question': 'Who is the most famous Dagestani poet?',
         'imageAsset':
             'assets/question_images/russia/dagestan/famous_people/rasul_gamzatov.jpg',
+        'explanation':
+            'Rasul Gamzatov is one of the best-known Dagestani poets.',
         'answers': [
           {'text': 'Rasul Gamzatov', 'score': 1},
           {'text': 'Other', 'score': 0}
@@ -198,12 +243,13 @@ Map<String, String> _buildMockAssets() {
     ]),
     'assets/data/russia/dagestan/sah/famous_people.json': jsonEncode([
       {
-        'question': 'Саха тылынан суолталаах суруйааччы кимий?',
+        'question':
+            'РЎР°С…Р° С‚С‹Р»С‹РЅР°РЅ СЃСѓРѕР»С‚Р°Р»Р°Р°С… СЃСѓСЂСѓР№Р°Р°С‡С‡С‹ РєРёРјРёР№?',
         'image':
             'assets/question_images/russia/dagestan/famous_people/rasul_gamzatov_sah.jpg',
         'answers': [
-          {'text': 'Расул Гамзатов', 'score': 1},
-          {'text': 'Атын', 'score': 0}
+          {'text': 'Р Р°СЃСѓР» Р“Р°РјР·Р°С‚РѕРІ', 'score': 1},
+          {'text': 'РђС‚С‹РЅ', 'score': 0}
         ]
       }
     ]),
@@ -211,20 +257,26 @@ Map<String, String> _buildMockAssets() {
       {
         'question': {
           'en': 'Who founded Yakutsk?',
-          'ru': 'Кто основал Якутск?',
-          'yakut': 'Дьокуускайы ким тэрийбитий?'
+          'ru': 'РљС‚Рѕ РѕСЃРЅРѕРІР°Р» РЇРєСѓС‚СЃРє?',
+          'yakut': 'Р”СЊРѕРєСѓСѓСЃРєР°Р№С‹ РєРёРј С‚СЌСЂРёР№Р±РёС‚РёР№?'
+        },
+        'explanation': {
+          'en': 'Yakutsk was founded in 1632 by Pyotr Beketov.',
+          'ru':
+              'РЇРєСѓС‚СЃРє РѕСЃРЅРѕРІР°РЅ РІ 1632 РіРѕРґСѓ РџРµС‚СЂРѕРј Р‘РµРєРµС‚РѕРІС‹Рј.',
+          'yakut': 'Дьокуускай 1632 сыллаахха Петр Бекетов тэрийбит.'
         },
         'answers': [
           {
             'text': {
               'en': 'Pyotr Beketov',
-              'ru': 'Петр Бекетов',
-              'yakut': 'Петр Бекетов'
+              'ru': 'РџРµС‚СЂ Р‘РµРєРµС‚РѕРІ',
+              'yakut': 'РџРµС‚СЂ Р‘РµРєРµС‚РѕРІ'
             },
             'score': 1
           },
           {
-            'text': {'en': 'Other', 'ru': 'Другой', 'yakut': 'Атын'},
+            'text': {'en': 'Other', 'ru': 'Р”СЂСѓРіРѕР№', 'yakut': 'РђС‚С‹РЅ'},
             'score': 0
           }
         ]
@@ -234,20 +286,22 @@ Map<String, String> _buildMockAssets() {
       {
         'question': {
           'en': 'Who was the first president of the Sakha Republic?',
-          'ru': 'Кто был первым президентом Республики Саха?',
-          'yakut': 'Саха өрөспүүбүлүкэтин бастакы президента кимий?'
+          'ru':
+              'РљС‚Рѕ Р±С‹Р» РїРµСЂРІС‹Рј РїСЂРµР·РёРґРµРЅС‚РѕРј Р РµСЃРїСѓР±Р»РёРєРё РЎР°С…Р°?',
+          'yakut':
+              'РЎР°С…Р° У©СЂУ©СЃРїТЇТЇР±ТЇР»ТЇРєСЌС‚РёРЅ Р±Р°СЃС‚Р°РєС‹ РїСЂРµР·РёРґРµРЅС‚Р° РєРёРјРёР№?'
         },
         'answers': [
           {
             'text': {
               'en': 'Mikhail Nikolaev',
-              'ru': 'Михаил Николаев',
-              'yakut': 'Михаил Николаев'
+              'ru': 'РњРёС…Р°РёР» РќРёРєРѕР»Р°РµРІ',
+              'yakut': 'РњРёС…Р°РёР» РќРёРєРѕР»Р°РµРІ'
             },
             'score': 1
           },
           {
-            'text': {'en': 'Other', 'ru': 'Другой', 'yakut': 'Атын'},
+            'text': {'en': 'Other', 'ru': 'Р”СЂСѓРіРѕР№', 'yakut': 'РђС‚С‹РЅ'},
             'score': 0
           }
         ]
@@ -255,19 +309,20 @@ Map<String, String> _buildMockAssets() {
     ]),
     'assets/data/russia/famous_people.json': jsonEncode([
       {
-        'question': 'Кто был первым человеком в космосе?',
+        'question':
+            'РљС‚Рѕ Р±С‹Р» РїРµСЂРІС‹Рј С‡РµР»РѕРІРµРєРѕРј РІ РєРѕСЃРјРѕСЃРµ?',
         'answers': [
-          {'text': 'Юрий Гагарин', 'score': 1},
-          {'text': 'Другой', 'score': 0}
+          {'text': 'Р®СЂРёР№ Р“Р°РіР°СЂРёРЅ', 'score': 1},
+          {'text': 'Р”СЂСѓРіРѕР№', 'score': 0}
         ]
       }
     ]),
     'assets/data/usa/famous_people.json': jsonEncode([
       {
-        'question': 'Кто был первым президентом США?',
+        'question': 'РљС‚Рѕ Р±С‹Р» РїРµСЂРІС‹Рј РїСЂРµР·РёРґРµРЅС‚РѕРј РЎРЁРђ?',
         'answers': [
-          {'text': 'Джордж Вашингтон', 'score': 1},
-          {'text': 'Другой', 'score': 0}
+          {'text': 'Р”Р¶РѕСЂРґР¶ Р’Р°С€РёРЅРіС‚РѕРЅ', 'score': 1},
+          {'text': 'Р”СЂСѓРіРѕР№', 'score': 0}
         ]
       }
     ]),

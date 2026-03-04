@@ -1,12 +1,14 @@
 class Question {
   final String questionText;
   final String? imageAsset;
+  final String? explanationText;
   final List<Answer> answers;
 
   Question({
     required this.questionText,
     required this.answers,
     this.imageAsset,
+    this.explanationText,
   });
 }
 
