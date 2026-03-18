@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "In which year did Bulgaria regain statehood after the Russo-Turkish War?",
+    "answers": [
+      { "text": "1878", "score": 1 },
+      { "text": "1908", "score": 0 },
+      { "text": "1912", "score": 0 },
+      { "text": "1944", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which empire ruled most Bulgarian lands before liberation in the 19th century?",
+    "answers": [
+      { "text": "Ottoman Empire", "score": 1 },
+      { "text": "Austro-Hungarian Empire", "score": 0 },
+      { "text": "Russian Empire", "score": 0 },
+      { "text": "Byzantine Empire", "score": 0 }
+    ]
+  },
+  {
+    "question": "What was the capital of the Second Bulgarian Empire?",
+    "answers": [
+      { "text": "Veliko Tarnovo", "score": 1 },
+      { "text": "Plovdiv", "score": 0 },
+      { "text": "Varna", "score": 0 },
+      { "text": "Ruse", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Bulgaria join the European Union?",
+    "answers": [
+      { "text": "2007", "score": 1 },
+      { "text": "2004", "score": 0 },
+      { "text": "2011", "score": 0 },
+      { "text": "1999", "score": 0 }
+    ]
+  }
+]

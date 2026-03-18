@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "What is the name of the national film studio of Uzbekistan?",
+    "answers": [
+      { "text": "Uzbekfilm", "score": 1 },
+      { "text": "Kazakhfilm", "score": 0 },
+      { "text": "Mosfilm", "score": 0 },
+      { "text": "Gorky Studio", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which city is Uzbekfilm studio located?",
+    "answers": [
+      { "text": "Tashkent", "score": 1 },
+      { "text": "Samarkand", "score": 0 },
+      { "text": "Andijan", "score": 0 },
+      { "text": "Nukus", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Uzbek director made the film \"The Seventh Bullet\"?",
+    "answers": [
+      { "text": "Ali Khamraev", "score": 1 },
+      { "text": "Andrei Konchalovsky", "score": 0 },
+      { "text": "Nikita Mikhalkov", "score": 0 },
+      { "text": "Pavel Lungin", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which 1960 Uzbek film is considered a classic neighborhood comedy?",
+    "answers": [
+      { "text": "Mahallada duv-duv gap", "score": 1 },
+      { "text": "Nomad", "score": 0 },
+      { "text": "Mimino", "score": 0 },
+      { "text": "Kin-dza-dza!", "score": 0 }
+    ]
+  }
+]

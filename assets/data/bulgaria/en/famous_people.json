@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Bulgarian revolutionary is known as the \"Apostle of Freedom\"?",
+    "answers": [
+      { "text": "Vasil Levski", "score": 1 },
+      { "text": "Georgi Rakovski", "score": 0 },
+      { "text": "Paisius of Hilendar", "score": 0 },
+      { "text": "Ivan Vazov", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Bulgarian poet and freedom fighter wrote \"Hadji Dimitar\"?",
+    "answers": [
+      { "text": "Hristo Botev", "score": 1 },
+      { "text": "Pencho Slaveykov", "score": 0 },
+      { "text": "Dimcho Debelyanov", "score": 0 },
+      { "text": "Nikola Vaptsarov", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Bulgarian-born writer won the 1981 Nobel Prize in Literature?",
+    "answers": [
+      { "text": "Elias Canetti", "score": 1 },
+      { "text": "Orhan Pamuk", "score": 0 },
+      { "text": "Aleksandr Solzhenitsyn", "score": 0 },
+      { "text": "Wislawa Szymborska", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which artist born in Bulgaria became famous for wrapping large buildings and landmarks?",
+    "answers": [
+      { "text": "Christo Javacheff", "score": 1 },
+      { "text": "Marina Abramovic", "score": 0 },
+      { "text": "Banksy", "score": 0 },
+      { "text": "Anselm Kiefer", "score": 0 }
+    ]
+  }
+]

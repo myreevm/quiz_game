@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which ruler is a symbol of Tajik statehood and appears on the national currency?",
+    "answers": [
+      { "text": "Ismail Somoni", "score": 1 },
+      { "text": "Amir Timur", "score": 0 },
+      { "text": "Babur", "score": 0 },
+      { "text": "Nadir Shah", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which poet is considered a founder of classical Persian-Tajik poetry?",
+    "answers": [
+      { "text": "Rudaki", "score": 1 },
+      { "text": "Hafiz", "score": 0 },
+      { "text": "Saadi", "score": 0 },
+      { "text": "Nizami", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which writer is regarded as a founder of modern Tajik literature?",
+    "answers": [
+      { "text": "Sadriddin Ayni", "score": 1 },
+      { "text": "Chingiz Aitmatov", "score": 0 },
+      { "text": "Alisher Navoi", "score": 0 },
+      { "text": "Abdulla Qodiriy", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which historian and statesman authored major works on the history of Tajiks?",
+    "answers": [
+      { "text": "Bobojon Ghafurov", "score": 1 },
+      { "text": "Lev Gumilyov", "score": 0 },
+      { "text": "Vasily Bartold", "score": 0 },
+      { "text": "Ibn Khaldun", "score": 0 }
+    ]
+  }
+]

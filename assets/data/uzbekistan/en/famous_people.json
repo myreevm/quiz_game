@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which scholar from Khwarazm gave the world the term \"algorithm\"?",
+    "answers": [
+      { "text": "Al-Khwarizmi", "score": 1 },
+      { "text": "Al-Farabi", "score": 0 },
+      { "text": "Ibn Rushd", "score": 0 },
+      { "text": "Nasir al-Din al-Tusi", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which scientist and physician, known in Europe as Avicenna, was born near Bukhara?",
+    "answers": [
+      { "text": "Ibn Sina", "score": 1 },
+      { "text": "Al-Biruni", "score": 0 },
+      { "text": "Razi", "score": 0 },
+      { "text": "Omar Khayyam", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Timurid ruler and astronomer built a famous observatory in Samarkand?",
+    "answers": [
+      { "text": "Ulugh Beg", "score": 1 },
+      { "text": "Babur", "score": 0 },
+      { "text": "Akbar", "score": 0 },
+      { "text": "Suleiman the Magnificent", "score": 0 }
+    ]
+  },
+  {
+    "question": "Who was the first president of independent Uzbekistan?",
+    "answers": [
+      { "text": "Islam Karimov", "score": 1 },
+      { "text": "Shavkat Mirziyoyev", "score": 0 },
+      { "text": "Nursultan Nazarbayev", "score": 0 },
+      { "text": "Saparmurat Niyazov", "score": 0 }
+    ]
+  }
+]

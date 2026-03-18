@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which two-string instrument is a symbol of Kazakh traditional music?",
+    "answers": [
+      { "text": "Dombra", "score": 1 },
+      { "text": "Sitar", "score": 0 },
+      { "text": "Balalaika", "score": 0 },
+      { "text": "Bandura", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the name of the improvised poetic contest with dombra accompaniment in Kazakhstan?",
+    "answers": [
+      { "text": "Aitys", "score": 1 },
+      { "text": "Flamenco", "score": 0 },
+      { "text": "Fado", "score": 0 },
+      { "text": "Tarantella", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Kazakh singer became globally known after the TV show \"Singer 2017\"?",
+    "answers": [
+      { "text": "Dimash Kudaibergen", "score": 1 },
+      { "text": "Daneliya Tuleshova", "score": 0 },
+      { "text": "Moldanazar", "score": 0 },
+      { "text": "Scriptonite", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which bowed instrument is important in Kazakh folk music?",
+    "answers": [
+      { "text": "Kobyz", "score": 1 },
+      { "text": "Cello", "score": 0 },
+      { "text": "Mandolin", "score": 0 },
+      { "text": "Ukulele", "score": 0 }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which writer from Kyrgyzstan is known worldwide for the novel \"Jamila\"?",
+    "answers": [
+      { "text": "Chingiz Aitmatov", "score": 1 },
+      { "text": "Mukhtar Auezov", "score": 0 },
+      { "text": "Abai Kunanbayuly", "score": 0 },
+      { "text": "Sadriddin Ayni", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which historical stateswoman of Kyrgyzstan is known as \"Queen of the Alai\"?",
+    "answers": [
+      { "text": "Kurmanjan Datka", "score": 1 },
+      { "text": "Tomyris", "score": 0 },
+      { "text": "Razia Sultana", "score": 0 },
+      { "text": "Roksolana", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Kyrgyz poet and musician is considered a classic of national art?",
+    "answers": [
+      { "text": "Toktogul Satylganov", "score": 1 },
+      { "text": "Alisher Navoi", "score": 0 },
+      { "text": "Abdulla Qodiriy", "score": 0 },
+      { "text": "Magzhan Zhumabayev", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Kyrgyz actor was also a famous painter?",
+    "answers": [
+      { "text": "Suymenkul Chokmorov", "score": 1 },
+      { "text": "Innokenty Smoktunovsky", "score": 0 },
+      { "text": "Oleg Menshikov", "score": 0 },
+      { "text": "Yul Brynner", "score": 0 }
+    ]
+  }
+]

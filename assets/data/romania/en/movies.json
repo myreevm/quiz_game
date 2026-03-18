@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Romanian director won the Palme d'Or for \"4 Months, 3 Weeks and 2 Days\"?",
+    "answers": [
+      { "text": "Cristian Mungiu", "score": 1 },
+      { "text": "Cristi Puiu", "score": 0 },
+      { "text": "Radu Jude", "score": 0 },
+      { "text": "Corneliu Porumboiu", "score": 0 }
+    ]
+  },
+  {
+    "question": "Who directed the Romanian film \"The Death of Mr. Lazarescu\"?",
+    "answers": [
+      { "text": "Cristi Puiu", "score": 1 },
+      { "text": "Cristian Mungiu", "score": 0 },
+      { "text": "Lucian Pintilie", "score": 0 },
+      { "text": "Nae Caranfil", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Romanian-born actor plays Bucky Barnes in Marvel films?",
+    "answers": [
+      { "text": "Sebastian Stan", "score": 1 },
+      { "text": "Mads Mikkelsen", "score": 0 },
+      { "text": "Cillian Murphy", "score": 0 },
+      { "text": "Jared Leto", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Romanian city hosts the Transilvania International Film Festival?",
+    "answers": [
+      { "text": "Cluj-Napoca", "score": 1 },
+      { "text": "Bucharest", "score": 0 },
+      { "text": "Iasi", "score": 0 },
+      { "text": "Timisoara", "score": 0 }
+    ]
+  }
+]

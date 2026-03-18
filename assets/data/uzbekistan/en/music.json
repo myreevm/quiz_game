@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which classical musical tradition of Bukhara is recognized by UNESCO?",
+    "answers": [
+      { "text": "Shashmaqom", "score": 1 },
+      { "text": "Flamenco", "score": 0 },
+      { "text": "Tango", "score": 0 },
+      { "text": "Raga", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which frame drum is common in Uzbek traditional music?",
+    "answers": [
+      { "text": "Doira", "score": 1 },
+      { "text": "Bongo", "score": 0 },
+      { "text": "Djembe", "score": 0 },
+      { "text": "Tambora", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which string instrument is widely used in Uzbek folk music?",
+    "answers": [
+      { "text": "Dutar", "score": 1 },
+      { "text": "Banjo", "score": 0 },
+      { "text": "Harp", "score": 0 },
+      { "text": "Accordion", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which singer from Uzbekistan is known internationally for world music and the song \"Yol Bolsin\"?",
+    "answers": [
+      { "text": "Sevara Nazarkhan", "score": 1 },
+      { "text": "Yulduz Usmanova", "score": 0 },
+      { "text": "Munojat Yulchieva", "score": 0 },
+      { "text": "Lola Yuldasheva", "score": 0 }
+    ]
+  }
+]

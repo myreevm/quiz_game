@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "What is the name of Tajikistan's national film studio?",
+    "answers": [
+      { "text": "Tajikfilm", "score": 1 },
+      { "text": "Kyrgyzfilm", "score": 0 },
+      { "text": "Kazakhfilm", "score": 0 },
+      { "text": "Uzbekfilm", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Tajik director is known for historical films based on Eastern epics?",
+    "answers": [
+      { "text": "Boris Kimyagarov", "score": 1 },
+      { "text": "Tolomush Okeev", "score": 0 },
+      { "text": "Andrei Zvyagintsev", "score": 0 },
+      { "text": "Emir Kusturica", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Persian epic inspired a number of Tajik historical films?",
+    "answers": [
+      { "text": "Shahnameh", "score": 1 },
+      { "text": "Iliad", "score": 0 },
+      { "text": "Odyssey", "score": 0 },
+      { "text": "Mahabharata", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which city is the main center of film production in Tajikistan?",
+    "answers": [
+      { "text": "Dushanbe", "score": 1 },
+      { "text": "Khujand", "score": 0 },
+      { "text": "Kulob", "score": 0 },
+      { "text": "Panjakent", "score": 0 }
+    ]
+  }
+]

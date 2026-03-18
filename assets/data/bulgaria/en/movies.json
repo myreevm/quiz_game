@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Bulgarian actress received an Oscar nomination for \"Borat Subsequent Moviefilm\"?",
+    "answers": [
+      { "text": "Maria Bakalova", "score": 1 },
+      { "text": "Nina Dobrev", "score": 0 },
+      { "text": "Irina Shayk", "score": 0 },
+      { "text": "Anamaria Marinca", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Bulgarian director made the classic film \"The Goat Horn\" (1972)?",
+    "answers": [
+      { "text": "Metodi Andonov", "score": 1 },
+      { "text": "Stephan Komandarev", "score": 0 },
+      { "text": "Georgi Dyulgerov", "score": 0 },
+      { "text": "Milcho Manchevski", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which city is the Sofia International Film Festival held?",
+    "answers": [
+      { "text": "Sofia", "score": 1 },
+      { "text": "Varna", "score": 0 },
+      { "text": "Plovdiv", "score": 0 },
+      { "text": "Burgas", "score": 0 }
+    ]
+  },
+  {
+    "question": "The film \"Mission London\" is based on a novel by which Bulgarian writer?",
+    "answers": [
+      { "text": "Alek Popov", "score": 1 },
+      { "text": "Georgi Gospodinov", "score": 0 },
+      { "text": "Viktor Paskov", "score": 0 },
+      { "text": "Yordan Radichkov", "score": 0 }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Romanian sculptor created \"The Endless Column\"?",
+    "answers": [
+      { "text": "Constantin Brancusi", "score": 1 },
+      { "text": "Auguste Rodin", "score": 0 },
+      { "text": "Antoni Gaudi", "score": 0 },
+      { "text": "Henry Moore", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Romanian gymnast earned the first perfect 10 in Olympic history?",
+    "answers": [
+      { "text": "Nadia Comaneci", "score": 1 },
+      { "text": "Simone Biles", "score": 0 },
+      { "text": "Larisa Latynina", "score": 0 },
+      { "text": "Svetlana Khorkina", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Romanian-born inventor is associated with the Coanda effect?",
+    "answers": [
+      { "text": "Henri Coanda", "score": 1 },
+      { "text": "Nikola Tesla", "score": 0 },
+      { "text": "Guglielmo Marconi", "score": 0 },
+      { "text": "Werner von Braun", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Romanian playwright wrote \"The Bald Soprano\"?",
+    "answers": [
+      { "text": "Eugene Ionesco", "score": 1 },
+      { "text": "Marin Sorescu", "score": 0 },
+      { "text": "Tudor Arghezi", "score": 0 },
+      { "text": "Matei Visniec", "score": 0 }
+    ]
+  }
+]

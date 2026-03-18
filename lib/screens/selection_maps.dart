@@ -520,10 +520,30 @@ class _CountryMapViewport {
           alignment: Alignment(0.77, -0.48),
           scale: 3.3,
         );
+      case 'kazakhstan':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.40, -0.48),
+          scale: 5.0,
+        );
       case 'japan':
         return const _CountryMapViewport(
           alignment: Alignment(0.92, -0.48),
           scale: 5.1,
+        );
+      case 'uzbekistan':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.40, -0.40),
+          scale: 6.0,
+        );
+      case 'kyrgyzstan':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.56, -0.35),
+          scale: 7.0,
+        );
+      case 'tajikistan':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.54, -0.29),
+          scale: 7.0,
         );
       case 'vietnam':
         return const _CountryMapViewport(
@@ -539,6 +559,21 @@ class _CountryMapViewport {
         return const _CountryMapViewport(
           alignment: Alignment(0.01, -0.57),
           scale: 10.0,
+        );
+      case 'romania':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.16, -0.58),
+          scale: 6.2,
+        );
+      case 'bulgaria':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.20, -0.50),
+          scale: 6.4,
+        );
+      case 'greece':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.10, -0.40),
+          scale: 6.6,
         );
       case 'australia':
         return const _CountryMapViewport(

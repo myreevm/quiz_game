@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "What is the capital of Kyrgyzstan?",
+    "answers": [
+      { "text": "Bishkek", "score": 1 },
+      { "text": "Osh", "score": 0 },
+      { "text": "Jalal-Abad", "score": 0 },
+      { "text": "Naryn", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Kyrgyzstan declare independence from the USSR?",
+    "answers": [
+      { "text": "1991", "score": 1 },
+      { "text": "1988", "score": 0 },
+      { "text": "1993", "score": 0 },
+      { "text": "2001", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the name of the famous Kyrgyz epic included in UNESCO cultural heritage lists?",
+    "answers": [
+      { "text": "Manas", "score": 1 },
+      { "text": "Alpamysh", "score": 0 },
+      { "text": "Shahnameh", "score": 0 },
+      { "text": "Dede Korkut", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which large mountain lake is one of the symbols of Kyrgyzstan?",
+    "answers": [
+      { "text": "Issyk-Kul", "score": 1 },
+      { "text": "Sevan", "score": 0 },
+      { "text": "Balkhash", "score": 0 },
+      { "text": "Aral Sea", "score": 0 }
+    ]
+  }
+]

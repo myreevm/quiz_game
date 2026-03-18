@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which three-string instrument is a symbol of Kyrgyz traditional music?",
+    "answers": [
+      { "text": "Komuz", "score": 1 },
+      { "text": "Dombra", "score": 0 },
+      { "text": "Balalaika", "score": 0 },
+      { "text": "Sitar", "score": 0 }
+    ]
+  },
+  {
+    "question": "Who traditionally performs the epic \"Manas\" in Kyrgyz culture?",
+    "answers": [
+      { "text": "Manaschi", "score": 1 },
+      { "text": "Akin", "score": 0 },
+      { "text": "Bakhshi", "score": 0 },
+      { "text": "Dervish", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which bowed instrument is used in Kyrgyz folk music?",
+    "answers": [
+      { "text": "Kyl-kyyak", "score": 1 },
+      { "text": "Cello", "score": 0 },
+      { "text": "Kantele", "score": 0 },
+      { "text": "Bandura", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the name of the traditional improvisational singing contest known in Kyrgyz culture?",
+    "answers": [
+      { "text": "Aitysh", "score": 1 },
+      { "text": "Opera", "score": 0 },
+      { "text": "Sonata", "score": 0 },
+      { "text": "Cantata", "score": 0 }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "In which year was the Great Union of Romania proclaimed?",
+    "answers": [
+      { "text": "1918", "score": 1 },
+      { "text": "1877", "score": 0 },
+      { "text": "1945", "score": 0 },
+      { "text": "1991", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which historical region united with Wallachia in 1859 to form the basis of modern Romania?",
+    "answers": [
+      { "text": "Moldavia", "score": 1 },
+      { "text": "Transylvania", "score": 0 },
+      { "text": "Banat", "score": 0 },
+      { "text": "Dobruja", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which communist leader was overthrown during the Romanian Revolution of 1989?",
+    "answers": [
+      { "text": "Nicolae Ceausescu", "score": 1 },
+      { "text": "Gheorghe Gheorghiu-Dej", "score": 0 },
+      { "text": "Ion Iliescu", "score": 0 },
+      { "text": "Emil Constantinescu", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Romania join the European Union?",
+    "answers": [
+      { "text": "2007", "score": 1 },
+      { "text": "2004", "score": 0 },
+      { "text": "2013", "score": 0 },
+      { "text": "1998", "score": 0 }
+    ]
+  }
+]

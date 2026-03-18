@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "In which Greek city were the ancient Olympic Games held?",
+    "answers": [
+      { "text": "Olympia", "score": 1 },
+      { "text": "Athens", "score": 0 },
+      { "text": "Sparta", "score": 0 },
+      { "text": "Delphi", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did the Greek War of Independence begin?",
+    "answers": [
+      { "text": "1821", "score": 1 },
+      { "text": "1776", "score": 0 },
+      { "text": "1848", "score": 0 },
+      { "text": "1912", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which ancient Greek city-state was famous for strict military training?",
+    "answers": [
+      { "text": "Sparta", "score": 1 },
+      { "text": "Corinth", "score": 0 },
+      { "text": "Thebes", "score": 0 },
+      { "text": "Miletus", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which naval battle in 480 BCE ended with a Greek victory over the Persian fleet?",
+    "answers": [
+      { "text": "Battle of Salamis", "score": 1 },
+      { "text": "Battle of Marathon", "score": 0 },
+      { "text": "Battle of Plataea", "score": 0 },
+      { "text": "Battle of Chaeronea", "score": 0 }
+    ]
+  }
+]

@@ -71,6 +71,15 @@ flutter:
     - assets/data/france/en/
     - assets/data/france/ru/
     - assets/data/france/sah/
+    - assets/data/romania/en/
+    - assets/data/romania/ru/
+    - assets/data/romania/sah/
+    - assets/data/bulgaria/en/
+    - assets/data/bulgaria/ru/
+    - assets/data/bulgaria/sah/
+    - assets/data/greece/en/
+    - assets/data/greece/ru/
+    - assets/data/greece/sah/
     - assets/data/australia/en/
     - assets/data/australia/ru/
     - assets/data/australia/sah/
@@ -113,6 +122,18 @@ flutter:
     - assets/data/new_zealand/en/
     - assets/data/new_zealand/ru/
     - assets/data/new_zealand/sah/
+    - assets/data/kazakhstan/en/
+    - assets/data/kazakhstan/ru/
+    - assets/data/kazakhstan/sah/
+    - assets/data/uzbekistan/en/
+    - assets/data/uzbekistan/ru/
+    - assets/data/uzbekistan/sah/
+    - assets/data/kyrgyzstan/en/
+    - assets/data/kyrgyzstan/ru/
+    - assets/data/kyrgyzstan/sah/
+    - assets/data/tajikistan/en/
+    - assets/data/tajikistan/ru/
+    - assets/data/tajikistan/sah/
 
 flutter_launcher_icons:
   android: true

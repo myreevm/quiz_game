@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Greek composer wrote the Oscar-winning score for \"Chariots of Fire\"?",
+    "answers": [
+      { "text": "Vangelis", "score": 1 },
+      { "text": "Mikis Theodorakis", "score": 0 },
+      { "text": "Manos Hadjidakis", "score": 0 },
+      { "text": "Yanni", "score": 0 }
+    ]
+  },
+  {
+    "question": "Who composed the music for the film \"Zorba the Greek\"?",
+    "answers": [
+      { "text": "Mikis Theodorakis", "score": 1 },
+      { "text": "Vangelis", "score": 0 },
+      { "text": "Nikos Skalkottas", "score": 0 },
+      { "text": "Yanni", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which instrument is central to traditional rebetiko music in Greece?",
+    "answers": [
+      { "text": "Bouzouki", "score": 1 },
+      { "text": "Baglama", "score": 0 },
+      { "text": "Lyra", "score": 0 },
+      { "text": "Santouri", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Greek singer became internationally famous for songs in many languages, including \"Only Love\"?",
+    "answers": [
+      { "text": "Nana Mouskouri", "score": 1 },
+      { "text": "Helena Paparizou", "score": 0 },
+      { "text": "Anna Vissi", "score": 0 },
+      { "text": "Demy", "score": 0 }
+    ]
+  }
+]

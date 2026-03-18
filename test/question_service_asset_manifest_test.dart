@@ -48,7 +48,8 @@ void main() {
       }
     });
 
-    test('AssetManifest includes Argentina, Australia, Belarus, Brazil, Canada, China, Egypt, France, Germany, Italy, Japan, Mexico, New Zealand, Poland, Russia, South Africa, South Korea, Spain, Switzerland, Turkey, UK, USA, and Vietnam language files',
+    test(
+        'AssetManifest includes Argentina, Australia, Belarus, Brazil, Bulgaria, Canada, China, Egypt, France, Germany, Greece, Italy, Japan, Kazakhstan, Kyrgyzstan, Mexico, New Zealand, Poland, Romania, Russia, South Africa, South Korea, Spain, Switzerland, Tajikistan, Turkey, UK, USA, Uzbekistan, and Vietnam language files',
         () async {
       final manifestBin = File('build/unit_test_assets/AssetManifest.bin');
       expect(manifestBin.existsSync(), isTrue);
@@ -62,24 +63,31 @@ void main() {
         'australia',
         'belarus',
         'brazil',
+        'bulgaria',
         'canada',
         'china',
         'egypt',
         'france',
         'germany',
+        'greece',
         'italy',
         'japan',
+        'kazakhstan',
+        'kyrgyzstan',
         'mexico',
         'new_zealand',
         'poland',
+        'romania',
         'russia',
         'south_africa',
         'south_korea',
         'spain',
         'switzerland',
+        'tajikistan',
         'turkey',
         'uk',
         'usa',
+        'uzbekistan',
         'vietnam',
       ];
       const languages = <String>['en', 'ru', 'sah'];
@@ -173,31 +181,38 @@ void main() {
     });
 
     test(
-        'loads Argentina, Australia, Belarus, Brazil, Canada, China, Egypt, France, Germany, Italy, Japan, Mexico, New Zealand, Poland, Russia, South Africa, South Korea, Spain, Switzerland, Turkey, UK, USA, and Vietnam categories for all app languages',
+        'loads Argentina, Australia, Belarus, Brazil, Bulgaria, Canada, China, Egypt, France, Germany, Greece, Italy, Japan, Kazakhstan, Kyrgyzstan, Mexico, New Zealand, Poland, Romania, Russia, South Africa, South Korea, Spain, Switzerland, Tajikistan, Turkey, UK, USA, Uzbekistan, and Vietnam categories for all app languages',
         () async {
       for (final country in const <String>[
         'argentina',
         'australia',
         'belarus',
         'brazil',
+        'bulgaria',
         'canada',
         'china',
         'egypt',
         'france',
         'germany',
+        'greece',
         'italy',
         'japan',
+        'kazakhstan',
+        'kyrgyzstan',
         'mexico',
         'new_zealand',
         'poland',
+        'romania',
         'russia',
         'south_africa',
         'south_korea',
         'spain',
         'switzerland',
+        'tajikistan',
         'turkey',
         'uk',
         'usa',
+        'uzbekistan',
         'vietnam',
       ]) {
         for (final category in const <String>[

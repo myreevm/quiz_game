@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "What is the capital of Uzbekistan?",
+    "answers": [
+      { "text": "Tashkent", "score": 1 },
+      { "text": "Samarkand", "score": 0 },
+      { "text": "Bukhara", "score": 0 },
+      { "text": "Khiva", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Uzbekistan declare independence from the USSR?",
+    "answers": [
+      { "text": "1991", "score": 1 },
+      { "text": "1989", "score": 0 },
+      { "text": "1995", "score": 0 },
+      { "text": "2000", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which ruler born in Shahrisabz founded the Timurid Empire?",
+    "answers": [
+      { "text": "Amir Timur", "score": 1 },
+      { "text": "Babur", "score": 0 },
+      { "text": "Nader Shah", "score": 0 },
+      { "text": "Sultan Baybars", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the name of the famous square with three madrasas in Samarkand?",
+    "answers": [
+      { "text": "Registan", "score": 1 },
+      { "text": "Independence Square", "score": 0 },
+      { "text": "Icherisheher", "score": 0 },
+      { "text": "Rustaveli Square", "score": 0 }
+    ]
+  }
+]

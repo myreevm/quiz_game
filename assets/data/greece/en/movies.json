@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Greek director made films such as \"The Favourite\" and \"Poor Things\"?",
+    "answers": [
+      { "text": "Yorgos Lanthimos", "score": 1 },
+      { "text": "Theo Angelopoulos", "score": 0 },
+      { "text": "Costa-Gavras", "score": 0 },
+      { "text": "Michael Cacoyannis", "score": 0 }
+    ]
+  },
+  {
+    "question": "The film \"Zorba the Greek\" is based on a novel by which author?",
+    "answers": [
+      { "text": "Nikos Kazantzakis", "score": 1 },
+      { "text": "Yannis Ritsos", "score": 0 },
+      { "text": "Constantine Cavafy", "score": 0 },
+      { "text": "Odysseas Elytis", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Greek-born filmmaker directed the political thriller \"Z\" (1969)?",
+    "answers": [
+      { "text": "Costa-Gavras", "score": 1 },
+      { "text": "Yorgos Lanthimos", "score": 0 },
+      { "text": "Nikos Koundouros", "score": 0 },
+      { "text": "Pantelis Voulgaris", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Greek city hosts the Thessaloniki International Film Festival?",
+    "answers": [
+      { "text": "Thessaloniki", "score": 1 },
+      { "text": "Patras", "score": 0 },
+      { "text": "Heraklion", "score": 0 },
+      { "text": "Volos", "score": 0 }
+    ]
+  }
+]

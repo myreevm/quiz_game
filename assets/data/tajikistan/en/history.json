@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "What is the capital of Tajikistan?",
+    "answers": [
+      { "text": "Dushanbe", "score": 1 },
+      { "text": "Khujand", "score": 0 },
+      { "text": "Kulob", "score": 0 },
+      { "text": "Bokhtar", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Tajikistan declare independence from the USSR?",
+    "answers": [
+      { "text": "1991", "score": 1 },
+      { "text": "1987", "score": 0 },
+      { "text": "1994", "score": 0 },
+      { "text": "2000", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which archaeological site in Tajikistan is listed as a UNESCO World Heritage Site?",
+    "answers": [
+      { "text": "Sarazm", "score": 1 },
+      { "text": "Merv", "score": 0 },
+      { "text": "Derbent", "score": 0 },
+      { "text": "Persepolis", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which mountain system occupies much of eastern Tajikistan?",
+    "answers": [
+      { "text": "Pamir", "score": 1 },
+      { "text": "Alps", "score": 0 },
+      { "text": "Carpathians", "score": 0 },
+      { "text": "Andes", "score": 0 }
+    ]
+  }
+]

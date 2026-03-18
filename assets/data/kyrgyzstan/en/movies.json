@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "What is the name of Kyrgyzstan's national film studio?",
+    "answers": [
+      { "text": "Kyrgyzfilm", "score": 1 },
+      { "text": "Tajikfilm", "score": 0 },
+      { "text": "Kazakhfilm", "score": 0 },
+      { "text": "Uzbekfilm", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Kyrgyz director is known for the film \"The Red Apple\"?",
+    "answers": [
+      { "text": "Tolomush Okeev", "score": 1 },
+      { "text": "Ali Khamraev", "score": 0 },
+      { "text": "Shaken Aimanov", "score": 0 },
+      { "text": "Yuri Bykov", "score": 0 }
+    ]
+  },
+  {
+    "question": "Works of which writer are often adapted in Kyrgyz cinema?",
+    "answers": [
+      { "text": "Chingiz Aitmatov", "score": 1 },
+      { "text": "Nikolai Gogol", "score": 0 },
+      { "text": "Leo Tolstoy", "score": 0 },
+      { "text": "Ernest Hemingway", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which actor and painter is considered a symbol of Kyrgyz cinema?",
+    "answers": [
+      { "text": "Suymenkul Chokmorov", "score": 1 },
+      { "text": "Aleksey Batalov", "score": 0 },
+      { "text": "Takhir Sabirov", "score": 0 },
+      { "text": "Oleg Yankovsky", "score": 0 }
+    ]
+  }
+]

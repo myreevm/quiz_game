@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Bulgarian choir became globally known as \"Le Mystere des Voix Bulgares\"?",
+    "answers": [
+      { "text": "Bulgarian State Television Female Vocal Choir", "score": 1 },
+      { "text": "Sofia Boys Choir", "score": 0 },
+      { "text": "Plovdiv Chamber Choir", "score": 0 },
+      { "text": "Varna Symphony Choir", "score": 0 }
+    ]
+  },
+  {
+    "question": "Who composed the famous Bulgarian rhapsody \"Vardar\"?",
+    "answers": [
+      { "text": "Pancho Vladigerov", "score": 1 },
+      { "text": "Mikis Theodorakis", "score": 0 },
+      { "text": "Zoltan Kodaly", "score": 0 },
+      { "text": "Aram Khachaturian", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which traditional Bulgarian instrument is a type of bagpipe?",
+    "answers": [
+      { "text": "Gaida", "score": 1 },
+      { "text": "Kaval", "score": 0 },
+      { "text": "Gudulka", "score": 0 },
+      { "text": "Tambura", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which duo represented Bulgaria at Eurovision 2007 with the song \"Water\"?",
+    "answers": [
+      { "text": "Elitsa Todorova and Stoyan Yankoulov", "score": 1 },
+      { "text": "Poli Genova and Kristian Kostov", "score": 0 },
+      { "text": "Azis and Galena", "score": 0 },
+      { "text": "Lili Ivanova and Vasil Naydenov", "score": 0 }
+    ]
+  }
+]

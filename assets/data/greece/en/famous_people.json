@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which ancient Greek philosopher taught Plato?",
+    "answers": [
+      { "text": "Socrates", "score": 1 },
+      { "text": "Aristotle", "score": 0 },
+      { "text": "Pythagoras", "score": 0 },
+      { "text": "Democritus", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Greek poet is traditionally credited with \"The Iliad\" and \"The Odyssey\"?",
+    "answers": [
+      { "text": "Homer", "score": 1 },
+      { "text": "Sophocles", "score": 0 },
+      { "text": "Euripides", "score": 0 },
+      { "text": "Aeschylus", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Greek-American soprano became one of the most famous opera singers of the 20th century?",
+    "answers": [
+      { "text": "Maria Callas", "score": 1 },
+      { "text": "Montserrat Caballe", "score": 0 },
+      { "text": "Renata Tebaldi", "score": 0 },
+      { "text": "Joan Sutherland", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Greek writer is the author of the novel \"Zorba the Greek\"?",
+    "answers": [
+      { "text": "Nikos Kazantzakis", "score": 1 },
+      { "text": "Odysseas Elytis", "score": 0 },
+      { "text": "George Seferis", "score": 0 },
+      { "text": "Yannis Ritsos", "score": 0 }
+    ]
+  }
+]

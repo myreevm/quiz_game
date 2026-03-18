@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "What is the capital of Kazakhstan?",
+    "answers": [
+      { "text": "Astana", "score": 1 },
+      { "text": "Almaty", "score": 0 },
+      { "text": "Shymkent", "score": 0 },
+      { "text": "Aktobe", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Kazakhstan declare independence from the USSR?",
+    "answers": [
+      { "text": "1991", "score": 1 },
+      { "text": "1986", "score": 0 },
+      { "text": "1993", "score": 0 },
+      { "text": "2001", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which city was the capital of Kazakhstan before Astana?",
+    "answers": [
+      { "text": "Almaty", "score": 1 },
+      { "text": "Karaganda", "score": 0 },
+      { "text": "Turkistan", "score": 0 },
+      { "text": "Pavlodar", "score": 0 }
+    ]
+  },
+  {
+    "question": "The \"Golden Man\" found near Issyk is most closely linked to which ancient people?",
+    "answers": [
+      { "text": "Saka", "score": 1 },
+      { "text": "Huns", "score": 0 },
+      { "text": "Mongols", "score": 0 },
+      { "text": "Sarmatians", "score": 0 }
+    ]
+  }
+]

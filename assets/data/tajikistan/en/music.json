@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which string instrument is common in Tajik traditional music?",
+    "answers": [
+      { "text": "Rubob", "score": 1 },
+      { "text": "Balalaika", "score": 0 },
+      { "text": "Bagpipe", "score": 0 },
+      { "text": "Banjo", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the name of the classical musical tradition shared by Tajiks and Uzbeks and recognized by UNESCO?",
+    "answers": [
+      { "text": "Shashmaqom", "score": 1 },
+      { "text": "Aitysh", "score": 0 },
+      { "text": "Flamenco", "score": 0 },
+      { "text": "Samba", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which frame drum is widely used in Tajik music?",
+    "answers": [
+      { "text": "Doira", "score": 1 },
+      { "text": "Djembe", "score": 0 },
+      { "text": "Bongo", "score": 0 },
+      { "text": "Tabla", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the name of the traditional lyrical genre in Tajik music associated with mountain regions?",
+    "answers": [
+      { "text": "Falak", "score": 1 },
+      { "text": "Fado", "score": 0 },
+      { "text": "Chanson", "score": 0 },
+      { "text": "Tarantella", "score": 0 }
+    ]
+  }
+]

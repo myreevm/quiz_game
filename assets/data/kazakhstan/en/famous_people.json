@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which poet and philosopher wrote the \"Book of Words\"?",
+    "answers": [
+      { "text": "Abai Kunanbayuly", "score": 1 },
+      { "text": "Mukhtar Auezov", "score": 0 },
+      { "text": "Magzhan Zhumabayev", "score": 0 },
+      { "text": "Olzhas Suleimenov", "score": 0 }
+    ]
+  },
+  {
+    "question": "Who was the first Kazakh cosmonaut?",
+    "answers": [
+      { "text": "Toktar Aubakirov", "score": 1 },
+      { "text": "Talgat Musabayev", "score": 0 },
+      { "text": "Yuri Gagarin", "score": 0 },
+      { "text": "Aydyn Aimbetov", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which boxer from Kazakhstan is nicknamed \"GGG\"?",
+    "answers": [
+      { "text": "Gennady Golovkin", "score": 1 },
+      { "text": "Serik Sapiyev", "score": 0 },
+      { "text": "Vasiliy Lomachenko", "score": 0 },
+      { "text": "Kostya Tszyu", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which medieval scholar from Farab is known as Al-Farabi?",
+    "answers": [
+      { "text": "Abu Nasr al-Farabi", "score": 1 },
+      { "text": "Al-Biruni", "score": 0 },
+      { "text": "Ibn Khaldun", "score": 0 },
+      { "text": "Al-Ghazali", "score": 0 }
+    ]
+  }
+]

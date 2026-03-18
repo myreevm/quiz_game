@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Romanian composer wrote the \"Romanian Rhapsodies\"?",
+    "answers": [
+      { "text": "George Enescu", "score": 1 },
+      { "text": "Bela Bartok", "score": 0 },
+      { "text": "Franz Liszt", "score": 0 },
+      { "text": "Dmitri Shostakovich", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Romanian pop singer is known for the hit song \"Hot\"?",
+    "answers": [
+      { "text": "Inna", "score": 1 },
+      { "text": "Alexandra Stan", "score": 0 },
+      { "text": "Antonia", "score": 0 },
+      { "text": "Delia", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Romanian pan flute virtuoso became famous worldwide?",
+    "answers": [
+      { "text": "Gheorghe Zamfir", "score": 1 },
+      { "text": "Ion Voicu", "score": 0 },
+      { "text": "Grigoras Dinicu", "score": 0 },
+      { "text": "Dinu Lipatti", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the name of the traditional lyrical Romanian folk song style recognized by UNESCO?",
+    "answers": [
+      { "text": "Doina", "score": 1 },
+      { "text": "Fado", "score": 0 },
+      { "text": "Flamenco", "score": 0 },
+      { "text": "Rebetiko", "score": 0 }
+    ]
+  }
+]

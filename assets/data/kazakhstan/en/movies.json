@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "What is the name of the national film studio of Kazakhstan?",
+    "answers": [
+      { "text": "Kazakhfilm", "score": 1 },
+      { "text": "Uzbekfilm", "score": 0 },
+      { "text": "Mosfilm", "score": 0 },
+      { "text": "Lenfilm", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which city is Kazakhfilm studio located?",
+    "answers": [
+      { "text": "Almaty", "score": 1 },
+      { "text": "Astana", "score": 0 },
+      { "text": "Aktau", "score": 0 },
+      { "text": "Semey", "score": 0 }
+    ]
+  },
+  {
+    "question": "Kazakhfilm studio is named after which filmmaker?",
+    "answers": [
+      { "text": "Shaken Aimanov", "score": 1 },
+      { "text": "Timur Bekmambetov", "score": 0 },
+      { "text": "Andrei Tarkovsky", "score": 0 },
+      { "text": "Sergei Eisenstein", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which historical figure is portrayed in the Kazakh film \"Tomiris\"?",
+    "answers": [
+      { "text": "Queen Tomyris", "score": 1 },
+      { "text": "Cleopatra", "score": 0 },
+      { "text": "Joan of Arc", "score": 0 },
+      { "text": "Empress Wu", "score": 0 }
+    ]
+  }
+]
