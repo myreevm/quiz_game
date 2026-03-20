@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Who was the first major national leader of modern Tunisia after independence?",
+    "answers": [
+      {
+        "text": "Habib Bourguiba",
+        "score": 1
+      },
+      {
+        "text": "Mohammed V",
+        "score": 0
+      },
+      {
+        "text": "Idris I",
+        "score": 0
+      },
+      {
+        "text": "Ahmed Ben Bella",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which famous person is strongly associated with Tunisia in sports or exploration history?",
+    "answers": [
+      {
+        "text": "Tarak Dhiab",
+        "score": 1
+      },
+      {
+        "text": "Ibn Battuta",
+        "score": 0
+      },
+      {
+        "text": "Muammar Gaddafi",
+        "score": 0
+      },
+      {
+        "text": "Albert Camus",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which public figure is connected with the modern political and social history of Tunisia?",
+    "answers": [
+      {
+        "text": "Ouided Bouchamaoui",
+        "score": 1
+      },
+      {
+        "text": "Hicham El Guerrouj",
+        "score": 0
+      },
+      {
+        "text": "Omar Mukhtar",
+        "score": 0
+      },
+      {
+        "text": "Rabah Madjer",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which filmmaker, writer, or artist is widely linked to Tunisia?",
+    "answers": [
+      {
+        "text": "Moufida Tlatli",
+        "score": 1
+      },
+      {
+        "text": "Nabil Ayouch",
+        "score": 0
+      },
+      {
+        "text": "Ibrahim al-Koni",
+        "score": 0
+      },
+      {
+        "text": "Cheb Khaled",
+        "score": 0
+      }
+    ]
+  }
+]

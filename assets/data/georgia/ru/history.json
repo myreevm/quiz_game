@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "V kakom godu Gruziya vosstanovila nezavisimost posle sovetskogo perioda?",
+        "answers":  [
+                        {
+                            "text":  "1991",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1986",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1997",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2003",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakoy gorod yavlyaetsya stolitsey Gruzii?",
+        "answers":  [
+                        {
+                            "text":  "Tbilisi",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Batumi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kutaisi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rustavi",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakoe drevnee tsarstvo na vostochnom poberezhye Chernogo morya svyazyvayut s istoriyey Gruzii i mifom ob Argonavtakh?",
+        "answers":  [
+                        {
+                            "text":  "Kolkhida",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lidiya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Epir",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Baktriya",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "S kakim godom obychno svyazyvayut Revolyuciyu roz v Gruzii?",
+        "answers":  [
+                        {
+                            "text":  "2003",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1991",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2008",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2012",
+                            "score":  0
+                        }
+                    ]
+    }
+]

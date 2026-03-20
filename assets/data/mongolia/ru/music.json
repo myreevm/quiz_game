@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Kak nazyvaetsya mongolskiy smychkovyy instrument s golovoy loshadi?",
+        "answers":  [
+                        {
+                            "text":  "Morin khuur",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Dombra",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Erhu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sitar",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kak nazyvaetsya traditsionnoe mongolskoe gorlovoe penie?",
+        "answers":  [
+                        {
+                            "text":  "Khoomei",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bel canto",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fado",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Qawwali",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakaya gruppa iz Mongolii proslavilas trekom \u0027Wolf Totem\u0027?",
+        "answers":  [
+                        {
+                            "text":  "The HU",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Imagine Dragons",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Altan Urag",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Scorpions",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Chto oznachaet termin \u0027urtiin duu\u0027 v mongolskoy muzyke?",
+        "answers":  [
+                        {
+                            "text":  "Traditsiya dlinnoy pesni",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Voennyy marsh",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Barabannoe solo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Opernaya ariya",
+                            "score":  0
+                        }
+                    ]
+    }
+]

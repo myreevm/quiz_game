@@ -71,6 +71,30 @@ flutter:
     - assets/data/france/en/
     - assets/data/france/ru/
     - assets/data/france/sah/
+    - assets/data/czechia/en/
+    - assets/data/czechia/ru/
+    - assets/data/czechia/sah/
+    - assets/data/slovakia/en/
+    - assets/data/slovakia/ru/
+    - assets/data/slovakia/sah/
+    - assets/data/hungary/en/
+    - assets/data/hungary/ru/
+    - assets/data/hungary/sah/
+    - assets/data/serbia/en/
+    - assets/data/serbia/ru/
+    - assets/data/serbia/sah/
+    - assets/data/norway/en/
+    - assets/data/norway/ru/
+    - assets/data/norway/sah/
+    - assets/data/sweden/en/
+    - assets/data/sweden/ru/
+    - assets/data/sweden/sah/
+    - assets/data/finland/en/
+    - assets/data/finland/ru/
+    - assets/data/finland/sah/
+    - assets/data/iceland/en/
+    - assets/data/iceland/ru/
+    - assets/data/iceland/sah/
     - assets/data/romania/en/
     - assets/data/romania/ru/
     - assets/data/romania/sah/
@@ -80,6 +104,66 @@ flutter:
     - assets/data/greece/en/
     - assets/data/greece/ru/
     - assets/data/greece/sah/
+    - assets/data/portugal/en/
+    - assets/data/portugal/ru/
+    - assets/data/portugal/sah/
+    - assets/data/austria/en/
+    - assets/data/austria/ru/
+    - assets/data/austria/sah/
+    - assets/data/slovenia/en/
+    - assets/data/slovenia/ru/
+    - assets/data/slovenia/sah/
+    - assets/data/croatia/en/
+    - assets/data/croatia/ru/
+    - assets/data/croatia/sah/
+    - assets/data/malaysia/en/
+    - assets/data/malaysia/ru/
+    - assets/data/malaysia/sah/
+    - assets/data/singapore/en/
+    - assets/data/singapore/ru/
+    - assets/data/singapore/sah/
+    - assets/data/indonesia/en/
+    - assets/data/indonesia/ru/
+    - assets/data/indonesia/sah/
+    - assets/data/papua_new_guinea/en/
+    - assets/data/papua_new_guinea/ru/
+    - assets/data/papua_new_guinea/sah/
+    - assets/data/india/en/
+    - assets/data/india/ru/
+    - assets/data/india/sah/
+    - assets/data/myanmar/en/
+    - assets/data/myanmar/ru/
+    - assets/data/myanmar/sah/
+    - assets/data/laos/en/
+    - assets/data/laos/ru/
+    - assets/data/laos/sah/
+    - assets/data/thailand/en/
+    - assets/data/thailand/ru/
+    - assets/data/thailand/sah/
+    - assets/data/tunisia/en/
+    - assets/data/tunisia/ru/
+    - assets/data/tunisia/sah/
+    - assets/data/morocco/en/
+    - assets/data/morocco/ru/
+    - assets/data/morocco/sah/
+    - assets/data/libya/en/
+    - assets/data/libya/ru/
+    - assets/data/libya/sah/
+    - assets/data/algeria/en/
+    - assets/data/algeria/ru/
+    - assets/data/algeria/sah/
+    - assets/data/mongolia/en/
+    - assets/data/mongolia/ru/
+    - assets/data/mongolia/sah/
+    - assets/data/azerbaijan/en/
+    - assets/data/azerbaijan/ru/
+    - assets/data/azerbaijan/sah/
+    - assets/data/armenia/en/
+    - assets/data/armenia/ru/
+    - assets/data/armenia/sah/
+    - assets/data/georgia/en/
+    - assets/data/georgia/ru/
+    - assets/data/georgia/sah/
     - assets/data/australia/en/
     - assets/data/australia/ru/
     - assets/data/australia/sah/

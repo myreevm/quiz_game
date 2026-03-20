@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In what year did Georgia restore independence after the Soviet era?",
+        "answers":  [
+                        {
+                            "text":  "1991",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1986",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1997",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2003",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the capital city of Georgia?",
+        "answers":  [
+                        {
+                            "text":  "Tbilisi",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Batumi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kutaisi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rustavi",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which ancient kingdom on the eastern Black Sea is linked to Georgian history and the Argonaut myth?",
+        "answers":  [
+                        {
+                            "text":  "Colchis",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lydia",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Epirus",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bactria",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which year is associated with Georgia\u0027s Rose Revolution?",
+        "answers":  [
+                        {
+                            "text":  "2003",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1991",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2008",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2012",
+                            "score":  0
+                        }
+                    ]
+    }
+]

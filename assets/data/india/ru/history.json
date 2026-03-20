@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "RU: In which year did India gain independence from British rule?",
+        "answers":  [
+                        {
+                            "text":  "1947",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1935",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1950",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1962",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Which empire was ruled by Emperor Ashoka?",
+        "answers":  [
+                        {
+                            "text":  "Maurya Empire",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Gupta Empire",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mughal Empire",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chola Empire",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: When did the Constitution of India come into effect?",
+        "answers":  [
+                        {
+                            "text":  "26 January 1950",
+                            "score":  1
+                        },
+                        {
+                            "text":  "15 August 1947",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2 October 1949",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1 January 1951",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Which city served as the capital of British India before New Delhi?",
+        "answers":  [
+                        {
+                            "text":  "Calcutta",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bombay",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Madras",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lahore",
+                            "score":  0
+                        }
+                    ]
+    }
+]

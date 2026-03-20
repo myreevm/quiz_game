@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which music style is traditionally associated with Morocco?",
+    "answers": [
+      {
+        "text": "Gnawa",
+        "score": 1
+      },
+      {
+        "text": "Malouf",
+        "score": 0
+      },
+      {
+        "text": "Maluf",
+        "score": 0
+      },
+      {
+        "text": "Rai",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which instrument is commonly used in traditional music of Morocco?",
+    "answers": [
+      {
+        "text": "Guembri",
+        "score": 1
+      },
+      {
+        "text": "Mandole",
+        "score": 0
+      },
+      {
+        "text": "Oud",
+        "score": 0
+      },
+      {
+        "text": "Violin",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the national anthem title of Morocco?",
+    "answers": [
+      {
+        "text": "Cherifian Anthem",
+        "score": 1
+      },
+      {
+        "text": "Humat al-Hima",
+        "score": 0
+      },
+      {
+        "text": "Libya, Libya, Libya",
+        "score": 0
+      },
+      {
+        "text": "Qassaman",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which city is an important modern music center in Morocco?",
+    "answers": [
+      {
+        "text": "Essaouira",
+        "score": 1
+      },
+      {
+        "text": "Tunis",
+        "score": 0
+      },
+      {
+        "text": "Tripoli",
+        "score": 0
+      },
+      {
+        "text": "Oran",
+        "score": 0
+      }
+    ]
+  }
+]

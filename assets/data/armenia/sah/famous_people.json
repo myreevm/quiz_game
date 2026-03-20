@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Kakoy kompozitor napisal znamenityy fragment baleta \u0027Sabre Dance\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Aram Khachaturyan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Komitas",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tigran Mansuryan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Arno Babadzhanyan",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakoy pevec armyanskogo proiskhozhdeniya proslavilsya vo Frantsii kak shansonye?",
+        "answers":  [
+                        {
+                            "text":  "Sharl Aznavur",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Joe Dassin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Enriko Masias",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Andrea Bocelli",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakoy armyanskiy shakhmatist stal chempionom mira v 1963 godu?",
+        "answers":  [
+                        {
+                            "text":  "Tigran Petrosyan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Levon Aronyan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Boris Spasskiy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mikhail Tal",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kto iz muzykantov armyanskogo proiskhozhdeniya yavlyaetsya vokalistom System of a Down?",
+        "answers":  [
+                        {
+                            "text":  "Serj Tankyan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Daron Malakyan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dave Grol",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tom York",
+                            "score":  0
+                        }
+                    ]
+    }
+]

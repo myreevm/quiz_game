@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Hungarian composer researched folk music and wrote \"Concerto for Orchestra\"?",
+    "answers": [
+      { "text": "Bela Bartok", "score": 1 },
+      { "text": "Franz Liszt", "score": 0 },
+      { "text": "Zoltan Kodaly", "score": 0 },
+      { "text": "Gyorgy Kurtag", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Hungarian composer and pianist is famous for the \"Hungarian Rhapsodies\"?",
+    "answers": [
+      { "text": "Franz Liszt", "score": 1 },
+      { "text": "Bela Bartok", "score": 0 },
+      { "text": "Erno Dohnanyi", "score": 0 },
+      { "text": "Leo Weiner", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Hungarian music educator developed a famous method of music teaching?",
+    "answers": [
+      { "text": "Zoltan Kodaly", "score": 1 },
+      { "text": "Franz Liszt", "score": 0 },
+      { "text": "Miklós Rózsa", "score": 0 },
+      { "text": "Gyorgy Ligeti", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which hammered dulcimer instrument is iconic in traditional Hungarian folk ensembles?",
+    "answers": [
+      { "text": "Cimbalom", "score": 1 },
+      { "text": "Nyckelharpa", "score": 0 },
+      { "text": "Kantele", "score": 0 },
+      { "text": "Baglama", "score": 0 }
+    ]
+  }
+]

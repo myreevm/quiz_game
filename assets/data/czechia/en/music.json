@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Czech composer wrote the symphonic poem \"The Moldau\"?",
+    "answers": [
+      { "text": "Bedrich Smetana", "score": 1 },
+      { "text": "Antonin Dvorak", "score": 0 },
+      { "text": "Leos Janacek", "score": 0 },
+      { "text": "Gustav Mahler", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which major classical music festival is held in Prague every year?",
+    "answers": [
+      { "text": "Prague Spring International Music Festival", "score": 1 },
+      { "text": "Smetana Days", "score": 0 },
+      { "text": "Dvorak Autumn", "score": 0 },
+      { "text": "Bohemia Sounds", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Czech singer was known as the \"Golden Voice of Prague\"?",
+    "answers": [
+      { "text": "Karel Gott", "score": 1 },
+      { "text": "Miro Zbirka", "score": 0 },
+      { "text": "Lucie Bila", "score": 0 },
+      { "text": "Marta Kubisova", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Czech composer is famous for the opera \"The Cunning Little Vixen\"?",
+    "answers": [
+      { "text": "Leos Janacek", "score": 1 },
+      { "text": "Bedrich Smetana", "score": 0 },
+      { "text": "Antonin Dvorak", "score": 0 },
+      { "text": "Josef Suk", "score": 0 }
+    ]
+  }
+]

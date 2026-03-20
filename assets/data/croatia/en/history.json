@@ -1,0 +1,86 @@
+[
+  {
+    "question": "What is the capital of Croatia?",
+    "answers": [
+      {
+        "text": "Zagreb",
+        "score": 1
+      },
+      {
+        "text": "Split",
+        "score": 0
+      },
+      {
+        "text": "Rijeka",
+        "score": 0
+      },
+      {
+        "text": "Zadar",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In which year did Croatia declare independence from Yugoslavia?",
+    "answers": [
+      {
+        "text": "1991",
+        "score": 1
+      },
+      {
+        "text": "1989",
+        "score": 0
+      },
+      {
+        "text": "1995",
+        "score": 0
+      },
+      {
+        "text": "2001",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which currency did Croatia adopt in 2023?",
+    "answers": [
+      {
+        "text": "Euro",
+        "score": 1
+      },
+      {
+        "text": "Kuna",
+        "score": 0
+      },
+      {
+        "text": "Dinar",
+        "score": 0
+      },
+      {
+        "text": "Forint",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Adriatic city is known as the \"Pearl of the Adriatic\"?",
+    "answers": [
+      {
+        "text": "Dubrovnik",
+        "score": 1
+      },
+      {
+        "text": "Pula",
+        "score": 0
+      },
+      {
+        "text": "Sibenik",
+        "score": 0
+      },
+      {
+        "text": "Varazdin",
+        "score": 0
+      }
+    ]
+  }
+]

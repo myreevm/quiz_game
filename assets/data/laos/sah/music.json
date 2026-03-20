@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "RU: Which bamboo mouth organ is central to traditional Lao music?",
+        "answers":  [
+                        {
+                            "text":  "Khene",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Saung gauk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shamisen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ranat ek",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Which folk singing style is strongly associated with Laos and Isan?",
+        "answers":  [
+                        {
+                            "text":  "Mor lam",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Enka",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Qawwali",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fado",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Which social dance music style is common at Lao celebrations?",
+        "answers":  [
+                        {
+                            "text":  "Lamvong",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Samba",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Flamenco",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Polka",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: In 2017, UNESCO recognized which Lao musical tradition?",
+        "answers":  [
+                        {
+                            "text":  "Khene music of the Lao people",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lao opera of Luang Prabang",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Royal drum code of Vientiane",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mekong symphonic tradition",
+                            "score":  0
+                        }
+                    ]
+    }
+]

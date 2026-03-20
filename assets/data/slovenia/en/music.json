@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which Slovenian avant-garde/industrial group became internationally famous?",
+    "answers": [
+      {
+        "text": "Laibach",
+        "score": 1
+      },
+      {
+        "text": "Siddharta",
+        "score": 0
+      },
+      {
+        "text": "Big Foot Mama",
+        "score": 0
+      },
+      {
+        "text": "Dan D",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which instrument is central in much Slovenian folk music?",
+    "answers": [
+      {
+        "text": "Accordion",
+        "score": 1
+      },
+      {
+        "text": "Saxophone",
+        "score": 0
+      },
+      {
+        "text": "Sitar",
+        "score": 0
+      },
+      {
+        "text": "Bandoneon",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Slovenian city hosts the major music event Festival Lent?",
+    "answers": [
+      {
+        "text": "Maribor",
+        "score": 1
+      },
+      {
+        "text": "Ljubljana",
+        "score": 0
+      },
+      {
+        "text": "Celje",
+        "score": 0
+      },
+      {
+        "text": "Ptuj",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Slovenian musician is strongly linked with the Avsenik polka tradition?",
+    "answers": [
+      {
+        "text": "Slavko Avsenik",
+        "score": 1
+      },
+      {
+        "text": "Zoran Predin",
+        "score": 0
+      },
+      {
+        "text": "Magnifico",
+        "score": 0
+      },
+      {
+        "text": "Tomaz Domicelj",
+        "score": 0
+      }
+    ]
+  }
+]

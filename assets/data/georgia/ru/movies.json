@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Kto postavil izvestnyy gruzinskiy film \u0027Repentance\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Tengiz Abuladze",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Otar Ioseliani",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Zaza Urushadze",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sergey Paradzhanov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakoy gruzinskiy film byl nominovan na Oskar v kategorii inostrannogo filma v 2015 godu?",
+        "answers":  [
+                        {
+                            "text":  "Tangerines",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Corn Island",
+                            "score":  0
+                        },
+                        {
+                            "text":  "In Bloom",
+                            "score":  0
+                        },
+                        {
+                            "text":  "My Happy Family",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kak nazyvaetsya istoricheskaya natsionalnaya kinostudiya Gruzii v Tbilisi?",
+        "answers":  [
+                        {
+                            "text":  "Georgia-Film",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Armenfilm",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Riga Film Studio",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Odessa Film Studio",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakoy gorod yavlyaetsya glavnoy lokatsiey mnogikh sovremennykh gruzinskikh dram, vklyuchaya \u0027My Happy Family\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Tbilisi",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Zugdidi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Telavi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Poti",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Mongolian documentary was nominated for an Academy Award in 2005?",
+        "answers":  [
+                        {
+                            "text":  "The Story of the Weeping Camel",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mongol",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Cave of the Yellow Dog",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Urga",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who directed the historical film \u0027Mongol\u0027 (2007)?",
+        "answers":  [
+                        {
+                            "text":  "Sergei Bodrov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Akira Kurosawa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Zhang Yimou",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Timur Bekmambetov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which film by Byambasuren Davaa follows a nomadic family and their dog?",
+        "answers":  [
+                        {
+                            "text":  "The Cave of the Yellow Dog",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hero",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Eagle Huntress",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nomadland",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city hosts Mongolia\u0027s main national film archive and studios?",
+        "answers":  [
+                        {
+                            "text":  "Ulaanbaatar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Darkhan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Erdenet",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Choibalsan",
+                            "score":  0
+                        }
+                    ]
+    }
+]

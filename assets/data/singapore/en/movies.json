@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which Singaporean film won the Camera d'Or at Cannes in 2013?",
+    "answers": [
+      {
+        "text": "Ilo Ilo",
+        "score": 1
+      },
+      {
+        "text": "Ah Boys to Men",
+        "score": 0
+      },
+      {
+        "text": "881",
+        "score": 0
+      },
+      {
+        "text": "The Apprentice",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What does SGIFF stand for?",
+    "answers": [
+      {
+        "text": "Singapore International Film Festival",
+        "score": 1
+      },
+      {
+        "text": "South Global Indie Film Forum",
+        "score": 0
+      },
+      {
+        "text": "Screen Guild of Indie Film Fellows",
+        "score": 0
+      },
+      {
+        "text": "Singapore Graphic Image Fair and Forum",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Singaporean director is known for 12 Storeys and Be with Me?",
+    "answers": [
+      {
+        "text": "Eric Khoo",
+        "score": 1
+      },
+      {
+        "text": "Royston Tan",
+        "score": 0
+      },
+      {
+        "text": "K. Rajagopal",
+        "score": 0
+      },
+      {
+        "text": "Kelvin Tong",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which city hosts Singapore's major international film events?",
+    "answers": [
+      {
+        "text": "Singapore",
+        "score": 1
+      },
+      {
+        "text": "Kuala Lumpur",
+        "score": 0
+      },
+      {
+        "text": "Jakarta",
+        "score": 0
+      },
+      {
+        "text": "Bangkok",
+        "score": 0
+      }
+    ]
+  }
+]

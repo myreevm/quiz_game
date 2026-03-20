@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Kakoy muzykalnyy stil traditsionno associruyetsya so stranoy Alzhir?",
+    "answers": [
+      {
+        "text": "Rai",
+        "score": 1
+      },
+      {
+        "text": "Gnawa",
+        "score": 0
+      },
+      {
+        "text": "Malouf",
+        "score": 0
+      },
+      {
+        "text": "Maluf",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Kakoy instrument chasto ispolzuetsya v traditsionnoy muzyke strany Alzhir?",
+    "answers": [
+      {
+        "text": "Mandole",
+        "score": 1
+      },
+      {
+        "text": "Guembri",
+        "score": 0
+      },
+      {
+        "text": "Oud",
+        "score": 0
+      },
+      {
+        "text": "Violin",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Kak nazyvaetsya gosudarstvennyy gimn strany Alzhir?",
+    "answers": [
+      {
+        "text": "Qassaman",
+        "score": 1
+      },
+      {
+        "text": "Humat al-Hima",
+        "score": 0
+      },
+      {
+        "text": "Cherifian Anthem",
+        "score": 0
+      },
+      {
+        "text": "Libya, Libya, Libya",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Kakoy gorod yavlyaetsya vazhnym sovremennym muzykalnym centrom v strane Alzhir?",
+    "answers": [
+      {
+        "text": "Oran",
+        "score": 1
+      },
+      {
+        "text": "Tunis",
+        "score": 0
+      },
+      {
+        "text": "Essaouira",
+        "score": 0
+      },
+      {
+        "text": "Tripoli",
+        "score": 0
+      }
+    ]
+  }
+]

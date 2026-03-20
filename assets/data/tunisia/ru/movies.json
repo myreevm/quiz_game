@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Kakoe kino-sobytie ili nazvanie svyazano so stranoy Tunisa?",
+    "answers": [
+      {
+        "text": "Carthage Film Festival",
+        "score": 1
+      },
+      {
+        "text": "Marrakech International Film Festival",
+        "score": 0
+      },
+      {
+        "text": "Lion of the Desert",
+        "score": 0
+      },
+      {
+        "text": "The Battle of Algiers",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Kakoy rezhisser svyazan s kino, otnosyashchimsya k strane Tunisa?",
+    "answers": [
+      {
+        "text": "Kaouther Ben Hania",
+        "score": 1
+      },
+      {
+        "text": "Nabil Ayouch",
+        "score": 0
+      },
+      {
+        "text": "Moustapha Akkad",
+        "score": 0
+      },
+      {
+        "text": "Gillo Pontecorvo",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Kakaya lokaciya v strane Tunisa chasto svyazyvaetsya so syomkami ili izvestnymi kino-lokaciyami?",
+    "answers": [
+      {
+        "text": "Tunis",
+        "score": 1
+      },
+      {
+        "text": "Ouarzazate",
+        "score": 0
+      },
+      {
+        "text": "Benghazi",
+        "score": 0
+      },
+      {
+        "text": "Algiers",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Kakoy gorod v strane Tunisa yavlyaetsya vazhnym centrom nacionalnyh kinoinstituciy?",
+    "answers": [
+      {
+        "text": "Tunis",
+        "score": 1
+      },
+      {
+        "text": "Rabat",
+        "score": 0
+      },
+      {
+        "text": "Tripoli",
+        "score": 0
+      },
+      {
+        "text": "Algiers",
+        "score": 0
+      }
+    ]
+  }
+]

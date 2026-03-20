@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Swedish inventor founded the Nobel Prizes?",
+    "answers": [
+      { "text": "Alfred Nobel", "score": 1 },
+      { "text": "Carl Linnaeus", "score": 0 },
+      { "text": "Anders Celsius", "score": 0 },
+      { "text": "Sven Hedin", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Swedish footballer is famous for playing for clubs like AC Milan, PSG, and Barcelona?",
+    "answers": [
+      { "text": "Zlatan Ibrahimovic", "score": 1 },
+      { "text": "Henrik Larsson", "score": 0 },
+      { "text": "Freddie Ljungberg", "score": 0 },
+      { "text": "Emil Forsberg", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Swedish actress became a Hollywood icon in the classic era of cinema?",
+    "answers": [
+      { "text": "Greta Garbo", "score": 1 },
+      { "text": "Ingrid Bergman", "score": 0 },
+      { "text": "Bibi Andersson", "score": 0 },
+      { "text": "Lena Olin", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Swedish film director made \"The Seventh Seal\"?",
+    "answers": [
+      { "text": "Ingmar Bergman", "score": 1 },
+      { "text": "Lasse Hallstrom", "score": 0 },
+      { "text": "Ruben Ostlund", "score": 0 },
+      { "text": "Bo Widerberg", "score": 0 }
+    ]
+  }
+]

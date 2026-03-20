@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "What is the capital city of Slovakia?",
+    "answers": [
+      { "text": "Bratislava", "score": 1 },
+      { "text": "Kosice", "score": 0 },
+      { "text": "Zilina", "score": 0 },
+      { "text": "Nitra", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Slovakia become an independent state after Czechoslovakia split?",
+    "answers": [
+      { "text": "1993", "score": 1 },
+      { "text": "1989", "score": 0 },
+      { "text": "1991", "score": 0 },
+      { "text": "2004", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Slovakia join the European Union?",
+    "answers": [
+      { "text": "2004", "score": 1 },
+      { "text": "1999", "score": 0 },
+      { "text": "2007", "score": 0 },
+      { "text": "2010", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Slovakia adopt the euro as its currency?",
+    "answers": [
+      { "text": "2009", "score": 1 },
+      { "text": "2004", "score": 0 },
+      { "text": "2012", "score": 0 },
+      { "text": "2015", "score": 0 }
+    ]
+  }
+]

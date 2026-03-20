@@ -1,0 +1,86 @@
+[
+  {
+    "question": "RU: What is the national anthem of Singapore?",
+    "answers": [
+      {
+        "text": "Majulah Singapura",
+        "score": 1
+      },
+      {
+        "text": "Negaraku",
+        "score": 0
+      },
+      {
+        "text": "Indonesia Raya",
+        "score": 0
+      },
+      {
+        "text": "Lupang Hinirang",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Which Singaporean Mandopop singer is known as Stefanie Sun?",
+    "answers": [
+      {
+        "text": "Sun Yanzi",
+        "score": 1
+      },
+      {
+        "text": "Kit Chan",
+        "score": 0
+      },
+      {
+        "text": "Joi Chua",
+        "score": 0
+      },
+      {
+        "text": "Olivia Ong",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Which school-song movement became popular in Singapore in the 1980s?",
+    "answers": [
+      {
+        "text": "Xinyao",
+        "score": 1
+      },
+      {
+        "text": "K-pop",
+        "score": 0
+      },
+      {
+        "text": "Cantopop",
+        "score": 0
+      },
+      {
+        "text": "Bossa nova",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: What is one of the main languages used in Singapore's multilingual pop scene?",
+    "answers": [
+      {
+        "text": "English",
+        "score": 1
+      },
+      {
+        "text": "Polish",
+        "score": 0
+      },
+      {
+        "text": "Portuguese",
+        "score": 0
+      },
+      {
+        "text": "Swedish",
+        "score": 0
+      }
+    ]
+  }
+]

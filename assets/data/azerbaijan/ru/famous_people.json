@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Kto napisal operu \u0027Leyli i Medzhnun\u0027 v 1908 godu?",
+        "answers":  [
+                        {
+                            "text":  "Uzeyir Gadzhibekov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kara Karaev",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fikret Amirov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Arif Melikov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakoy chempion mira po shakhmatam rodilsya v Baku v 1963 godu?",
+        "answers":  [
+                        {
+                            "text":  "Garri Kasparov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Anatoliy Karpov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Magnus Karlsen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vishvanatan Anand",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "S kakim byvshim prezidentom svyazyvayut politicheskoe nasledie sovremennogo Azerbaydzhana?",
+        "answers":  [
+                        {
+                            "text":  "Geydar Aliev",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Abulfaz Elchibey",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Levon Ter-Petrosyan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eduard Shevardnadze",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakogo poeta iz Gyandzhi schitayut klassikom kulturnogo naslediya Azerbaydzhana?",
+        "answers":  [
+                        {
+                            "text":  "Nizami Gyandzhevi",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Omar Khayyam",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Firdousi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alisher Navoi",
+                            "score":  0
+                        }
+                    ]
+    }
+]

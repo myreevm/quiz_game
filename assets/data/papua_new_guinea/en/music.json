@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which drum is a key traditional instrument in Papua New Guinea music?",
+    "answers": [
+      {
+        "text": "Kundu",
+        "score": 1
+      },
+      {
+        "text": "Tabla",
+        "score": 0
+      },
+      {
+        "text": "Cajon",
+        "score": 0
+      },
+      {
+        "text": "Bongos",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What popular acoustic style is widespread in PNG local music scenes?",
+    "answers": [
+      {
+        "text": "Stringband music",
+        "score": 1
+      },
+      {
+        "text": "Samba reggae",
+        "score": 0
+      },
+      {
+        "text": "Bluegrass",
+        "score": 0
+      },
+      {
+        "text": "Opera buffa",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which lingua franca is commonly heard in many PNG contemporary songs?",
+    "answers": [
+      {
+        "text": "Tok Pisin",
+        "score": 1
+      },
+      {
+        "text": "Italian",
+        "score": 0
+      },
+      {
+        "text": "Dutch",
+        "score": 0
+      },
+      {
+        "text": "Norwegian",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which genre often combines PNG local rhythms with church harmonies?",
+    "answers": [
+      {
+        "text": "Gospel stringband",
+        "score": 1
+      },
+      {
+        "text": "Fado-rock",
+        "score": 0
+      },
+      {
+        "text": "Salsa-metal",
+        "score": 0
+      },
+      {
+        "text": "Techno polka",
+        "score": 0
+      }
+    ]
+  }
+]

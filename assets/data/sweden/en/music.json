@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Swedish pop group won Eurovision in 1974 with \"Waterloo\"?",
+    "answers": [
+      { "text": "ABBA", "score": 1 },
+      { "text": "Roxette", "score": 0 },
+      { "text": "Ace of Base", "score": 0 },
+      { "text": "The Cardigans", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Swedish producer has written many global pop hits for artists like Taylor Swift and The Weeknd?",
+    "answers": [
+      { "text": "Max Martin", "score": 1 },
+      { "text": "Avicii", "score": 0 },
+      { "text": "Benny Andersson", "score": 0 },
+      { "text": "Timbuktu", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Swedish singer won Eurovision for Sweden with \"Euphoria\"?",
+    "answers": [
+      { "text": "Loreen", "score": 1 },
+      { "text": "Sanna Nielsen", "score": 0 },
+      { "text": "Molly Sanden", "score": 0 },
+      { "text": "Dotter", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the name of the traditional Swedish keyed fiddle?",
+    "answers": [
+      { "text": "Nyckelharpa", "score": 1 },
+      { "text": "Hardanger fiddle", "score": 0 },
+      { "text": "Kantele", "score": 0 },
+      { "text": "Balalaika", "score": 0 }
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which film set on Bougainville helped bring attention to Papua New Guinea in world cinema?",
+    "answers": [
+      {
+        "text": "Mr. Pip",
+        "score": 1
+      },
+      {
+        "text": "The Beach",
+        "score": 0
+      },
+      {
+        "text": "Slumdog Millionaire",
+        "score": 0
+      },
+      {
+        "text": "Roma",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the main official language often used in PNG films for wider distribution?",
+    "answers": [
+      {
+        "text": "English",
+        "score": 1
+      },
+      {
+        "text": "Japanese",
+        "score": 0
+      },
+      {
+        "text": "Korean",
+        "score": 0
+      },
+      {
+        "text": "French",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which PNG cultural event is frequently featured in documentaries?",
+    "answers": [
+      {
+        "text": "Mount Hagen Cultural Show",
+        "score": 1
+      },
+      {
+        "text": "Carnival of Venice",
+        "score": 0
+      },
+      {
+        "text": "Rio Carnival",
+        "score": 0
+      },
+      {
+        "text": "Oktoberfest",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In which city are many PNG film screenings and media premieres held?",
+    "answers": [
+      {
+        "text": "Port Moresby",
+        "score": 1
+      },
+      {
+        "text": "Wewak",
+        "score": 0
+      },
+      {
+        "text": "Kokopo",
+        "score": 0
+      },
+      {
+        "text": "Daru",
+        "score": 0
+      }
+    ]
+  }
+]

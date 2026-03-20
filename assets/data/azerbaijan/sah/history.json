@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "V kakom godu Azerbaydzhan vosstanovil nezavisimost posle sovetskogo perioda?",
+        "answers":  [
+                        {
+                            "text":  "1991",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1985",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1995",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2001",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakoy gorod yavlyaetsya stolitsey Azerbaydzhana?",
+        "answers":  [
+                        {
+                            "text":  "Baku",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Gyandzha",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tbilisi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Erevan",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakoe gosudarstvo bylo provozglasheno v Azerbaydzhane v 1918 godu?",
+        "answers":  [
+                        {
+                            "text":  "Azerbaydzhanskaya Demokraticheskaya Respublika",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Zakavkazskaya Federaciya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bakinskaya Kommuna",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shirvanskoe khanstvo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakoe more omyvaet Azerbaydzhan s vostoka?",
+        "answers":  [
+                        {
+                            "text":  "Kaspiyskoe more",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Chernoe more",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sredizemnoe more",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Aralskoe more",
+                            "score":  0
+                        }
+                    ]
+    }
+]

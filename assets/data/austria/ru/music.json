@@ -1,0 +1,87 @@
+[
+  {
+    "question": "RU: Which Austrian composer is known as the \"Waltz King\"?",
+    "answers": [
+      {
+        "text": "Johann Strauss II",
+        "score": 1
+      },
+      {
+        "text": "Franz Liszt",
+        "score": 0
+      },
+      {
+        "text": "Anton Webern",
+        "score": 0
+      },
+      {
+        "text": "Arnold Schonberg",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Which Austrian singer released the hit \"Rock Me Amadeus\"?",
+    "answers": [
+      {
+        "text": "Falco",
+        "score": 1
+      },
+      {
+        "text": "Udo Jurgens",
+        "score": 0
+      },
+      {
+        "text": "Reinhard Fendrich",
+        "score": 0
+      },
+      {
+        "text": "Andreas Gabalier",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Which Austrian artist won Eurovision 2014 with \"Rise Like a Phoenix\"?",
+    "answers": [
+      {
+        "text": "Conchita Wurst",
+        "score": 1
+      },
+      {
+        "text": "Cesar Sampson",
+        "score": 0
+      },
+      {
+        "text": "Nadine Beiler",
+        "score": 0
+      },
+      {
+        "text": "Zoe Straub",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Which orchestra performs the traditional New Year's Concert in Vienna?",
+    "answers": [
+      {
+        "text": "Vienna Philharmonic",
+        "score": 1
+      },
+      {
+        "text": "Berlin Philharmonic",
+        "score": 0
+      },
+      {
+        "text": "London Symphony Orchestra",
+        "score": 0
+      },
+      {
+        "text": "Vienna Boys Choir",
+        "score": 0
+      }
+    ]
+  }
+]
+

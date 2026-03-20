@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In what year did Mongolia declare independence from the Qing Empire?",
+        "answers":  [
+                        {
+                            "text":  "1911",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1905",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1921",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1945",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What was the name of the capital of the Mongol Empire under Ogedei Khan?",
+        "answers":  [
+                        {
+                            "text":  "Karakorum",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Samarkand",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kashgar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bukhara",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year was the Mongolian People\u0027s Republic proclaimed?",
+        "answers":  [
+                        {
+                            "text":  "1924",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1911",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1936",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1949",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which year marks Mongolia\u0027s peaceful democratic revolution?",
+        "answers":  [
+                        {
+                            "text":  "1990",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1984",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1995",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2001",
+                            "score":  0
+                        }
+                    ]
+    }
+]

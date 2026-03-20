@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#FFFFFF"/>
+  <rect width="1200" height="266.67" y="0" fill="#C6363C"/>
+  <rect width="1200" height="266.67" y="266.67" fill="#0C4076"/>
+
+  <g transform="translate(360 390)">
+    <path fill="#E5B335" d="M0 -205 L36 -158 L96 -150 L58 -104 L66 -46 L0 -72 L-66 -46 L-58 -104 L-96 -150 L-36 -158 Z"/>
+    <path fill="#E5B335" d="M-94 -120 H94 V-88 H-94 Z"/>
+    <path fill="#E5B335" d="M-74 -88 H74 V-54 H-74 Z"/>
+
+    <path fill="#FFFFFF" d="M-108 -54 H108 V108 C108 184 60 252 0 292 C-60 252 -108 184 -108 108 Z"/>
+    <path fill="#C6363C" d="M-88 -34 H88 V102 C88 165 50 219 0 252 C-50 219 -88 165 -88 102 Z"/>
+
+    <path fill="#FFFFFF" d="M-18 8 H18 V212 H-18 Z"/>
+    <path fill="#FFFFFF" d="M-72 102 H72 V138 H-72 Z"/>
+
+    <path fill="#FFFFFF" d="M-52 40 C-22 44 -22 88 -52 92 C-24 96 -24 138 -52 142 C-26 142 -8 125 -8 102 C-8 79 -26 62 -52 62 Z"/>
+    <path fill="#FFFFFF" d="M52 40 C22 44 22 88 52 92 C24 96 24 138 52 142 C26 142 8 125 8 102 C8 79 26 62 52 62 Z"/>
+    <path fill="#FFFFFF" d="M-32 54 C-2 58 -2 84 -32 88 C-6 90 -6 114 -32 118 C-12 118 2 108 2 88 C2 68 -12 58 -32 58 Z"/>
+    <path fill="#FFFFFF" d="M32 54 C2 58 2 84 32 88 C6 90 6 114 32 118 C12 118 -2 108 -2 88 C-2 68 12 58 32 58 Z"/>
+  </g>
+</svg>

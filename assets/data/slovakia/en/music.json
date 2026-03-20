@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "What is the name of the traditional Slovak shepherd's flute recognized by UNESCO?",
+    "answers": [
+      { "text": "Fujara", "score": 1 },
+      { "text": "Kantele", "score": 0 },
+      { "text": "Nyckelharpa", "score": 0 },
+      { "text": "Gusle", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the title of Slovakia's national anthem?",
+    "answers": [
+      { "text": "Nad Tatrou sa blyska", "score": 1 },
+      { "text": "Hej Slovaci", "score": 0 },
+      { "text": "Boze pravdy", "score": 0 },
+      { "text": "Moja domovina", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which mountain range is strongly associated with Slovak folk songs?",
+    "answers": [
+      { "text": "Tatra Mountains", "score": 1 },
+      { "text": "Carpathian Bend", "score": 0 },
+      { "text": "Alps", "score": 0 },
+      { "text": "Dinaric Alps", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which classical composer was born in Pressburg (today Bratislava) and studied with Mozart?",
+    "answers": [
+      { "text": "Johann Nepomuk Hummel", "score": 1 },
+      { "text": "Franz Liszt", "score": 0 },
+      { "text": "Leos Janacek", "score": 0 },
+      { "text": "Antonin Dvorak", "score": 0 }
+    ]
+  }
+]

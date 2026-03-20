@@ -1,0 +1,86 @@
+[
+  {
+    "question": "RU: Which Austrian director made \"Amour\" and \"The White Ribbon\"?",
+    "answers": [
+      {
+        "text": "Michael Haneke",
+        "score": 1
+      },
+      {
+        "text": "Stefan Ruzowitzky",
+        "score": 0
+      },
+      {
+        "text": "Ulrich Seidl",
+        "score": 0
+      },
+      {
+        "text": "Jessica Hausner",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Which city hosts the Vienna International Film Festival (Viennale)?",
+    "answers": [
+      {
+        "text": "Vienna",
+        "score": 1
+      },
+      {
+        "text": "Salzburg",
+        "score": 0
+      },
+      {
+        "text": "Innsbruck",
+        "score": 0
+      },
+      {
+        "text": "Klagenfurt",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: \"The Sound of Music\" is set mainly in which Austrian city?",
+    "answers": [
+      {
+        "text": "Salzburg",
+        "score": 1
+      },
+      {
+        "text": "Vienna",
+        "score": 0
+      },
+      {
+        "text": "Graz",
+        "score": 0
+      },
+      {
+        "text": "Bregenz",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Which Austrian actor won two Academy Awards in the 2010s?",
+    "answers": [
+      {
+        "text": "Christoph Waltz",
+        "score": 1
+      },
+      {
+        "text": "Tobias Moretti",
+        "score": 0
+      },
+      {
+        "text": "Karlheinz Bohm",
+        "score": 0
+      },
+      {
+        "text": "Peter Simonischek",
+        "score": 0
+      }
+    ]
+  }
+]

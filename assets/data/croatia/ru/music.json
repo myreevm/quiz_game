@@ -1,0 +1,86 @@
+[
+  {
+    "question": "RU: What traditional Croatian multipart a cappella singing style is UNESCO-listed?",
+    "answers": [
+      {
+        "text": "Klapa singing",
+        "score": 1
+      },
+      {
+        "text": "Yodeling",
+        "score": 0
+      },
+      {
+        "text": "Fado",
+        "score": 0
+      },
+      {
+        "text": "Rebetiko",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Which Croatian artist performed \"Rim Tim Tagi Dim\" at Eurovision 2024?",
+    "answers": [
+      {
+        "text": "Baby Lasagna",
+        "score": 1
+      },
+      {
+        "text": "Damir Kedzo",
+        "score": 0
+      },
+      {
+        "text": "Jacques Houdek",
+        "score": 0
+      },
+      {
+        "text": "Nina Kraljic",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Which instrument family is central to many folk ensembles in Slavonia?",
+    "answers": [
+      {
+        "text": "Tamburica",
+        "score": 1
+      },
+      {
+        "text": "Bagpipe",
+        "score": 0
+      },
+      {
+        "text": "Sitar",
+        "score": 0
+      },
+      {
+        "text": "Balalaika",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Which Croatian cellist is one half of the duo 2CELLOS?",
+    "answers": [
+      {
+        "text": "Stjepan Hauser",
+        "score": 1
+      },
+      {
+        "text": "Maksim Mrvica",
+        "score": 0
+      },
+      {
+        "text": "Goran Bregovic",
+        "score": 0
+      },
+      {
+        "text": "Darko Rundek",
+        "score": 0
+      }
+    ]
+  }
+]

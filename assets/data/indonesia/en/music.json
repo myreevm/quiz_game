@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which Indonesian ensemble tradition uses metallophones and gongs?",
+    "answers": [
+      {
+        "text": "Gamelan",
+        "score": 1
+      },
+      {
+        "text": "Mariachi",
+        "score": 0
+      },
+      {
+        "text": "Qawwali",
+        "score": 0
+      },
+      {
+        "text": "Flamenco",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which popular Indonesian genre blends Malay, Indian, and local influences?",
+    "answers": [
+      {
+        "text": "Dangdut",
+        "score": 1
+      },
+      {
+        "text": "Bossa nova",
+        "score": 0
+      },
+      {
+        "text": "Kizomba",
+        "score": 0
+      },
+      {
+        "text": "Bluegrass",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which bamboo instrument from Indonesia is recognized by UNESCO heritage lists?",
+    "answers": [
+      {
+        "text": "Angklung",
+        "score": 1
+      },
+      {
+        "text": "Didgeridoo",
+        "score": 0
+      },
+      {
+        "text": "Pan flute",
+        "score": 0
+      },
+      {
+        "text": "Kora",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the national anthem of Indonesia?",
+    "answers": [
+      {
+        "text": "Indonesia Raya",
+        "score": 1
+      },
+      {
+        "text": "Majulah Singapura",
+        "score": 0
+      },
+      {
+        "text": "Negaraku",
+        "score": 0
+      },
+      {
+        "text": "Advance Australia Fair",
+        "score": 0
+      }
+    ]
+  }
+]

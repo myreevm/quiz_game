@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "What was the former international name of Thailand until 1939?",
+        "answers":  [
+                        {
+                            "text":  "Siam",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ayutthaya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lan Na",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sukhothai",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did Thailand become a constitutional monarchy?",
+        "answers":  [
+                        {
+                            "text":  "1932",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1910",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1946",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1957",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city became the capital of Thailand in 1782?",
+        "answers":  [
+                        {
+                            "text":  "Bangkok",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ayutthaya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chiang Mai",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sukhothai",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which statement about Thailand in the colonial era is correct?",
+        "answers":  [
+                        {
+                            "text":  "It was never formally colonized by European powers",
+                            "score":  1
+                        },
+                        {
+                            "text":  "It was colonized by Spain",
+                            "score":  0
+                        },
+                        {
+                            "text":  "It was colonized by Portugal",
+                            "score":  0
+                        },
+                        {
+                            "text":  "It was jointly colonized by Britain and France",
+                            "score":  0
+                        }
+                    ]
+    }
+]

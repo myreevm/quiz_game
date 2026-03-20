@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which film event or title is associated with Algeria?",
+    "answers": [
+      {
+        "text": "The Battle of Algiers",
+        "score": 1
+      },
+      {
+        "text": "Carthage Film Festival",
+        "score": 0
+      },
+      {
+        "text": "Marrakech International Film Festival",
+        "score": 0
+      },
+      {
+        "text": "Lion of the Desert",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which director is linked to cinema related to Algeria?",
+    "answers": [
+      {
+        "text": "Gillo Pontecorvo",
+        "score": 1
+      },
+      {
+        "text": "Kaouther Ben Hania",
+        "score": 0
+      },
+      {
+        "text": "Nabil Ayouch",
+        "score": 0
+      },
+      {
+        "text": "Moustapha Akkad",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which location in Algeria is often tied to film production or famous movie settings?",
+    "answers": [
+      {
+        "text": "Algiers",
+        "score": 1
+      },
+      {
+        "text": "Tunis",
+        "score": 0
+      },
+      {
+        "text": "Ouarzazate",
+        "score": 0
+      },
+      {
+        "text": "Benghazi",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which city in Algeria is an important center for national cinema institutions?",
+    "answers": [
+      {
+        "text": "Algiers",
+        "score": 1
+      },
+      {
+        "text": "Tunis",
+        "score": 0
+      },
+      {
+        "text": "Rabat",
+        "score": 0
+      },
+      {
+        "text": "Tripoli",
+        "score": 0
+      }
+    ]
+  }
+]

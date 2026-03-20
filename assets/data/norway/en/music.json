@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Norwegian band is known worldwide for the hit \"Take On Me\"?",
+    "answers": [
+      { "text": "a-ha", "score": 1 },
+      { "text": "Roxette", "score": 0 },
+      { "text": "D-A-D", "score": 0 },
+      { "text": "Mew", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Norwegian composer wrote the music for \"Peer Gynt\"?",
+    "answers": [
+      { "text": "Edvard Grieg", "score": 1 },
+      { "text": "Jean Sibelius", "score": 0 },
+      { "text": "Carl Nielsen", "score": 0 },
+      { "text": "Niels Gade", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which instrument is central to traditional Norwegian Hardanger folk music?",
+    "answers": [
+      { "text": "Hardanger fiddle", "score": 1 },
+      { "text": "Nyckelharpa", "score": 0 },
+      { "text": "Kantele", "score": 0 },
+      { "text": "Bouzouki", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which artist won Eurovision 2009 representing Norway with \"Fairytale\"?",
+    "answers": [
+      { "text": "Alexander Rybak", "score": 1 },
+      { "text": "Didrik Solli-Tangen", "score": 0 },
+      { "text": "Måns Zelmerlöw", "score": 0 },
+      { "text": "Loreen", "score": 0 }
+    ]
+  }
+]

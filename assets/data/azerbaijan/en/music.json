@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "What is the traditional modal art music of Azerbaijan called?",
+        "answers":  [
+                        {
+                            "text":  "Mugham",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Flamenco",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rai",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Son cubano",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which string instrument is central in Azerbaijani mugham ensembles?",
+        "answers":  [
+                        {
+                            "text":  "Tar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Violin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Banjo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Harp",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which duo won the Eurovision Song Contest 2011 for Azerbaijan?",
+        "answers":  [
+                        {
+                            "text":  "Ell \u0026 Nikki",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jedward",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lena \u0026 Nico",
+                            "score":  0
+                        },
+                        {
+                            "text":  "MaNga",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Azerbaijani baritone became a Soviet and international music star in the 20th century?",
+        "answers":  [
+                        {
+                            "text":  "Muslim Magomayev",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Placido Domingo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ilham Nazarov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Polad Bulbuloglu",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Who is known as the Father of the Nation in India?",
+        "answers":  [
+                        {
+                            "text":  "Mahatma Gandhi",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jawaharlal Nehru",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Subhas Chandra Bose",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sardar Vallabhbhai Patel",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Indian writer won the Nobel Prize in Literature in 1913?",
+        "answers":  [
+                        {
+                            "text":  "Rabindranath Tagore",
+                            "score":  1
+                        },
+                        {
+                            "text":  "R. K. Narayan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mulk Raj Anand",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bankim Chandra Chatterjee",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Indian cricketer is nicknamed the Master Blaster?",
+        "answers":  [
+                        {
+                            "text":  "Sachin Tendulkar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Virat Kohli",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rahul Dravid",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sourav Ganguly",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Indian scientist became the 11th President and was called the Missile Man?",
+        "answers":  [
+                        {
+                            "text":  "A. P. J. Abdul Kalam",
+                            "score":  1
+                        },
+                        {
+                            "text":  "C. V. Raman",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Homi J. Bhabha",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vikram Sarabhai",
+                            "score":  0
+                        }
+                    ]
+    }
+]

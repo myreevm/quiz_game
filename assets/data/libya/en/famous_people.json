@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Who was the first major national leader of modern Libya after independence?",
+    "answers": [
+      {
+        "text": "Idris I",
+        "score": 1
+      },
+      {
+        "text": "Habib Bourguiba",
+        "score": 0
+      },
+      {
+        "text": "Mohammed V",
+        "score": 0
+      },
+      {
+        "text": "Ahmed Ben Bella",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which famous person is strongly associated with Libya in sports or exploration history?",
+    "answers": [
+      {
+        "text": "Muammar Gaddafi",
+        "score": 1
+      },
+      {
+        "text": "Tarak Dhiab",
+        "score": 0
+      },
+      {
+        "text": "Ibn Battuta",
+        "score": 0
+      },
+      {
+        "text": "Albert Camus",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which public figure is connected with the modern political and social history of Libya?",
+    "answers": [
+      {
+        "text": "Omar Mukhtar",
+        "score": 1
+      },
+      {
+        "text": "Ouided Bouchamaoui",
+        "score": 0
+      },
+      {
+        "text": "Hicham El Guerrouj",
+        "score": 0
+      },
+      {
+        "text": "Rabah Madjer",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which filmmaker, writer, or artist is widely linked to Libya?",
+    "answers": [
+      {
+        "text": "Ibrahim al-Koni",
+        "score": 1
+      },
+      {
+        "text": "Moufida Tlatli",
+        "score": 0
+      },
+      {
+        "text": "Nabil Ayouch",
+        "score": 0
+      },
+      {
+        "text": "Cheb Khaled",
+        "score": 0
+      }
+    ]
+  }
+]

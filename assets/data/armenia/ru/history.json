@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "V kakom godu Armeniya prinyala khristianstvo kak gosudarstvennuyu religiyu?",
+        "answers":  [
+                        {
+                            "text":  "301",
+                            "score":  1
+                        },
+                        {
+                            "text":  "451",
+                            "score":  0
+                        },
+                        {
+                            "text":  "988",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1054",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakaya stolitsa Armenii?",
+        "answers":  [
+                        {
+                            "text":  "Erevan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Gyumri",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vanadzor",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kutaisi",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kto sozdal armyanskiy alfavit v nachale V veka?",
+        "answers":  [
+                        {
+                            "text":  "Mesrop Mashtots",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Movses Khorenatsi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Grigor Narekatsi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vardan Mamikonyan",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "V kakom godu Armeniya obyavila nezavisimost ot SSSR?",
+        "answers":  [
+                        {
+                            "text":  "1991",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1988",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1995",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2004",
+                            "score":  0
+                        }
+                    ]
+    }
+]

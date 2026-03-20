@@ -1,0 +1,86 @@
+[
+  {
+    "question": "RU: What is the capital of Portugal?",
+    "answers": [
+      {
+        "text": "Lisbon",
+        "score": 1
+      },
+      {
+        "text": "Porto",
+        "score": 0
+      },
+      {
+        "text": "Coimbra",
+        "score": 0
+      },
+      {
+        "text": "Braga",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: In which year did the Carnation Revolution happen in Portugal?",
+    "answers": [
+      {
+        "text": "1974",
+        "score": 1
+      },
+      {
+        "text": "1968",
+        "score": 0
+      },
+      {
+        "text": "1986",
+        "score": 0
+      },
+      {
+        "text": "1999",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Which Portuguese explorer reached India by sea in 1498?",
+    "answers": [
+      {
+        "text": "Vasco da Gama",
+        "score": 1
+      },
+      {
+        "text": "Ferdinand Magellan",
+        "score": 0
+      },
+      {
+        "text": "Pedro Alvares Cabral",
+        "score": 0
+      },
+      {
+        "text": "Henry the Navigator",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Which country gained independence from Portugal in 1822?",
+    "answers": [
+      {
+        "text": "Brazil",
+        "score": 1
+      },
+      {
+        "text": "Angola",
+        "score": 0
+      },
+      {
+        "text": "Mozambique",
+        "score": 0
+      },
+      {
+        "text": "Cape Verde",
+        "score": 0
+      }
+    ]
+  }
+]

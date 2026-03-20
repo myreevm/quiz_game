@@ -1,0 +1,86 @@
+[
+  {
+    "question": "RU: Which music genre is most associated with Portugal?",
+    "answers": [
+      {
+        "text": "Fado",
+        "score": 1
+      },
+      {
+        "text": "Flamenco",
+        "score": 0
+      },
+      {
+        "text": "Samba",
+        "score": 0
+      },
+      {
+        "text": "Tango",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Which Portuguese singer won Eurovision 2017 with \"Amar pelos dois\"?",
+    "answers": [
+      {
+        "text": "Salvador Sobral",
+        "score": 1
+      },
+      {
+        "text": "Fernando Daniel",
+        "score": 0
+      },
+      {
+        "text": "Diogo Picarra",
+        "score": 0
+      },
+      {
+        "text": "Rui Reininho",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Which instrument is central in traditional fado ensembles?",
+    "answers": [
+      {
+        "text": "Portuguese guitar",
+        "score": 1
+      },
+      {
+        "text": "Bagpipe",
+        "score": 0
+      },
+      {
+        "text": "Accordion",
+        "score": 0
+      },
+      {
+        "text": "Mandolin",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Along with Lisbon, which city is strongly linked with the fado tradition?",
+    "answers": [
+      {
+        "text": "Coimbra",
+        "score": 1
+      },
+      {
+        "text": "Faro",
+        "score": 0
+      },
+      {
+        "text": "Setubal",
+        "score": 0
+      },
+      {
+        "text": "Aveiro",
+        "score": 0
+      }
+    ]
+  }
+]

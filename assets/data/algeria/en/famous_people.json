@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Who was the first major national leader of modern Algeria after independence?",
+    "answers": [
+      {
+        "text": "Ahmed Ben Bella",
+        "score": 1
+      },
+      {
+        "text": "Habib Bourguiba",
+        "score": 0
+      },
+      {
+        "text": "Mohammed V",
+        "score": 0
+      },
+      {
+        "text": "Idris I",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which famous person is strongly associated with Algeria in sports or exploration history?",
+    "answers": [
+      {
+        "text": "Albert Camus",
+        "score": 1
+      },
+      {
+        "text": "Tarak Dhiab",
+        "score": 0
+      },
+      {
+        "text": "Ibn Battuta",
+        "score": 0
+      },
+      {
+        "text": "Muammar Gaddafi",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which public figure is connected with the modern political and social history of Algeria?",
+    "answers": [
+      {
+        "text": "Rabah Madjer",
+        "score": 1
+      },
+      {
+        "text": "Ouided Bouchamaoui",
+        "score": 0
+      },
+      {
+        "text": "Hicham El Guerrouj",
+        "score": 0
+      },
+      {
+        "text": "Omar Mukhtar",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which filmmaker, writer, or artist is widely linked to Algeria?",
+    "answers": [
+      {
+        "text": "Cheb Khaled",
+        "score": 1
+      },
+      {
+        "text": "Moufida Tlatli",
+        "score": 0
+      },
+      {
+        "text": "Nabil Ayouch",
+        "score": 0
+      },
+      {
+        "text": "Ibrahim al-Koni",
+        "score": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which composer born in Salzburg in 1756 became a symbol of classical music?",
+    "answers": [
+      {
+        "text": "Wolfgang Amadeus Mozart",
+        "score": 1
+      },
+      {
+        "text": "Franz Schubert",
+        "score": 0
+      },
+      {
+        "text": "Joseph Haydn",
+        "score": 0
+      },
+      {
+        "text": "Anton Bruckner",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Austrian-born thinker founded psychoanalysis?",
+    "answers": [
+      {
+        "text": "Sigmund Freud",
+        "score": 1
+      },
+      {
+        "text": "Alfred Adler",
+        "score": 0
+      },
+      {
+        "text": "Viktor Frankl",
+        "score": 0
+      },
+      {
+        "text": "Karl Popper",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Austrian-born actor later became Governor of California?",
+    "answers": [
+      {
+        "text": "Arnold Schwarzenegger",
+        "score": 1
+      },
+      {
+        "text": "Christoph Waltz",
+        "score": 0
+      },
+      {
+        "text": "Klaus Maria Brandauer",
+        "score": 0
+      },
+      {
+        "text": "Helmut Berger",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Austrian painter created \"The Kiss\"?",
+    "answers": [
+      {
+        "text": "Gustav Klimt",
+        "score": 1
+      },
+      {
+        "text": "Egon Schiele",
+        "score": 0
+      },
+      {
+        "text": "Oskar Kokoschka",
+        "score": 0
+      },
+      {
+        "text": "Friedensreich Hundertwasser",
+        "score": 0
+      }
+    ]
+  }
+]

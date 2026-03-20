@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "RU: Who played the lead role in the Thai film Ong-Bak (2003)?",
+        "answers":  [
+                        {
+                            "text":  "Tony Jaa",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ananda Everingham",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mario Maurer",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Petchtai Wongkamlao",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Which Thai director won the Palme d\u0027Or in 2010 for Uncle Boonmee Who Can Recall His Past Lives?",
+        "answers":  [
+                        {
+                            "text":  "Apichatpong Weerasethakul",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nonzee Nimibutr",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pen-Ek Ratanaruang",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Banjong Pisanthanakun",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Which 2004 Thai horror film became an international hit?",
+        "answers":  [
+                        {
+                            "text":  "Shutter",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Eye",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pee Mak",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bad Genius",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Thailand\u0027s film industry is primarily centered in which city?",
+        "answers":  [
+                        {
+                            "text":  "Bangkok",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Phuket",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chiang Rai",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pattaya",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Finnish director is known for films like \"The Man Without a Past\"?",
+    "answers": [
+      { "text": "Aki Kaurismaki", "score": 1 },
+      { "text": "Mika Kaurismaki", "score": 0 },
+      { "text": "Renny Harlin", "score": 0 },
+      { "text": "Antti Jokinen", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Finnish city hosts the Helsinki International Film Festival (Love & Anarchy)?",
+    "answers": [
+      { "text": "Helsinki", "score": 1 },
+      { "text": "Turku", "score": 0 },
+      { "text": "Lahti", "score": 0 },
+      { "text": "Jyväskylä", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Finnish director made the action film \"Cliffhanger\"?",
+    "answers": [
+      { "text": "Renny Harlin", "score": 1 },
+      { "text": "Aki Kaurismaki", "score": 0 },
+      { "text": "Dome Karukoski", "score": 0 },
+      { "text": "Klaus Haro", "score": 0 }
+    ]
+  },
+  {
+    "question": "\"The Unknown Soldier\" is a famous Finnish war story by which author?",
+    "answers": [
+      { "text": "Vaino Linna", "score": 1 },
+      { "text": "Mika Waltari", "score": 0 },
+      { "text": "Aleksis Kivi", "score": 0 },
+      { "text": "Arto Paasilinna", "score": 0 }
+    ]
+  }
+]

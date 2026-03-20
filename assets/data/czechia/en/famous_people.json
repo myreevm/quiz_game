@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which writer from Prague is the author of \"The Trial\"?",
+    "answers": [
+      { "text": "Franz Kafka", "score": 1 },
+      { "text": "Milan Kundera", "score": 0 },
+      { "text": "Jaroslav Hasek", "score": 0 },
+      { "text": "Karel Capek", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Czech composer wrote the \"New World Symphony\"?",
+    "answers": [
+      { "text": "Antonin Dvorak", "score": 1 },
+      { "text": "Bedrich Smetana", "score": 0 },
+      { "text": "Leos Janacek", "score": 0 },
+      { "text": "Bohuslav Martinu", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Czech statesman became the first president after the Velvet Revolution?",
+    "answers": [
+      { "text": "Vaclav Havel", "score": 1 },
+      { "text": "Alexander Dubcek", "score": 0 },
+      { "text": "Edvard Benes", "score": 0 },
+      { "text": "Vaclav Klaus", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which tennis star was born in Prague and later became a global champion?",
+    "answers": [
+      { "text": "Martina Navratilova", "score": 1 },
+      { "text": "Petra Kvitova", "score": 0 },
+      { "text": "Karolina Pliskova", "score": 0 },
+      { "text": "Marketa Vondrousova", "score": 0 }
+    ]
+  }
+]

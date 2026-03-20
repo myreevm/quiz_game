@@ -1,0 +1,86 @@
+[
+  {
+    "question": "RU: In which year did Singapore become independent?",
+    "answers": [
+      {
+        "text": "1965",
+        "score": 1
+      },
+      {
+        "text": "1959",
+        "score": 0
+      },
+      {
+        "text": "1945",
+        "score": 0
+      },
+      {
+        "text": "1973",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: What is the capital of Singapore?",
+    "answers": [
+      {
+        "text": "Singapore",
+        "score": 1
+      },
+      {
+        "text": "Jurong",
+        "score": 0
+      },
+      {
+        "text": "Sentosa",
+        "score": 0
+      },
+      {
+        "text": "Woodlands",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Which symbol is widely associated with Singapore tourism?",
+    "answers": [
+      {
+        "text": "Merlion",
+        "score": 1
+      },
+      {
+        "text": "Garuda",
+        "score": 0
+      },
+      {
+        "text": "Komodo dragon",
+        "score": 0
+      },
+      {
+        "text": "Dragon Gate",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Singapore is a founding member of which regional organization established in 1967?",
+    "answers": [
+      {
+        "text": "ASEAN",
+        "score": 1
+      },
+      {
+        "text": "SAARC",
+        "score": 0
+      },
+      {
+        "text": "APEC",
+        "score": 0
+      },
+      {
+        "text": "OPEC",
+        "score": 0
+      }
+    ]
+  }
+]

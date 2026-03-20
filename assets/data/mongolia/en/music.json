@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "What is the name of Mongolia\u0027s horsehead fiddle?",
+        "answers":  [
+                        {
+                            "text":  "Morin khuur",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Dombra",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Erhu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sitar",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the traditional Mongolian throat-singing style called?",
+        "answers":  [
+                        {
+                            "text":  "Khoomei",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bel canto",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fado",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Qawwali",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Mongolian rock band became globally known with the song \u0027Wolf Totem\u0027?",
+        "answers":  [
+                        {
+                            "text":  "The HU",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Imagine Dragons",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Altan Urag",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Scorpions",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What does \u0027urtiin duu\u0027 refer to in Mongolian music?",
+        "answers":  [
+                        {
+                            "text":  "Long song tradition",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Military march",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Drum solo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Opera aria",
+                            "score":  0
+                        }
+                    ]
+    }
+]

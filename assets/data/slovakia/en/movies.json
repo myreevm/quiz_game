@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Slovak-born director co-directed the Oscar-winning film \"The Shop on Main Street\"?",
+    "answers": [
+      { "text": "Jan Kadar", "score": 1 },
+      { "text": "Juraj Jakubisko", "score": 0 },
+      { "text": "Martin Sulik", "score": 0 },
+      { "text": "Peter Solan", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Slovak city currently hosts Art Film Fest?",
+    "answers": [
+      { "text": "Kosice", "score": 1 },
+      { "text": "Bratislava", "score": 0 },
+      { "text": "Nitra", "score": 0 },
+      { "text": "Trnava", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Slovak director is known for films like \"Perinbaba\"?",
+    "answers": [
+      { "text": "Juraj Jakubisko", "score": 1 },
+      { "text": "Jan Sverak", "score": 0 },
+      { "text": "Agnieszka Holland", "score": 0 },
+      { "text": "Karel Kachyna", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which city is the main center of Slovak film and television production?",
+    "answers": [
+      { "text": "Bratislava", "score": 1 },
+      { "text": "Kosice", "score": 0 },
+      { "text": "Presov", "score": 0 },
+      { "text": "Banska Bystrica", "score": 0 }
+    ]
+  }
+]

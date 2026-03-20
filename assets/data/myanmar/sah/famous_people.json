@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "RU: Which Myanmar leader won the Nobel Peace Prize in 1991?",
+        "answers":  [
+                        {
+                            "text":  "Aung San Suu Kyi",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Aung San",
+                            "score":  0
+                        },
+                        {
+                            "text":  "U Thant",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ne Win",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Who is regarded as the father of Myanmar independence?",
+        "answers":  [
+                        {
+                            "text":  "Aung San",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Thibaw Min",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bogyoke Aung Gyi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ba Maw",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Which Burmese diplomat served as UN Secretary-General from 1961 to 1971?",
+        "answers":  [
+                        {
+                            "text":  "U Thant",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kofi Annan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Boutros Boutros-Ghali",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ban Ki-moon",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Which poet and nationalist was known as Thakin Kodaw Hmaing?",
+        "answers":  [
+                        {
+                            "text":  "Thakin Kodaw Hmaing",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Min Thu Wun",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tin Moe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Zawgyi",
+                            "score":  0
+                        }
+                    ]
+    }
+]

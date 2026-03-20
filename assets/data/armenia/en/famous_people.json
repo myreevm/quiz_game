@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which composer wrote the famous ballet piece \u0027Sabre Dance\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Aram Khachaturian",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Komitas",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tigran Mansurian",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Arno Babajanian",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which singer of Armenian origin became world-famous as a French chansonnier?",
+        "answers":  [
+                        {
+                            "text":  "Charles Aznavour",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Joe Dassin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Enrico Macias",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Andrea Bocelli",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which chess player from Armenia became world champion in 1963?",
+        "answers":  [
+                        {
+                            "text":  "Tigran Petrosian",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Levon Aronian",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Boris Spassky",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mikhail Tal",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which musician of Armenian heritage is the lead vocalist of System of a Down?",
+        "answers":  [
+                        {
+                            "text":  "Serj Tankian",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Daron Malakian",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dave Grohl",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Thom Yorke",
+                            "score":  0
+                        }
+                    ]
+    }
+]

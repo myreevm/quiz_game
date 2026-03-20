@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Finnish rock band won Eurovision 2006 with \"Hard Rock Hallelujah\"?",
+    "answers": [
+      { "text": "Lordi", "score": 1 },
+      { "text": "Nightwish", "score": 0 },
+      { "text": "The Rasmus", "score": 0 },
+      { "text": "Apocalyptica", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Finnish symphonic metal band is led by keyboardist Tuomas Holopainen?",
+    "answers": [
+      { "text": "Nightwish", "score": 1 },
+      { "text": "Children of Bodom", "score": 0 },
+      { "text": "HIM", "score": 0 },
+      { "text": "Amorphis", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the traditional Finnish string instrument associated with the Kalevala?",
+    "answers": [
+      { "text": "Kantele", "score": 1 },
+      { "text": "Nyckelharpa", "score": 0 },
+      { "text": "Bouzouki", "score": 0 },
+      { "text": "Gaida", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Finnish composer wrote the violin concerto in D minor, Op. 47?",
+    "answers": [
+      { "text": "Jean Sibelius", "score": 1 },
+      { "text": "Einojuhani Rautavaara", "score": 0 },
+      { "text": "Kaija Saariaho", "score": 0 },
+      { "text": "Magnus Lindberg", "score": 0 }
+    ]
+  }
+]

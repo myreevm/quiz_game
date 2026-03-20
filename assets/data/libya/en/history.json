@@ -1,0 +1,86 @@
+[
+  {
+    "question": "In which year did Libya gain independence in its modern form?",
+    "answers": [
+      {
+        "text": "1951",
+        "score": 1
+      },
+      {
+        "text": "1956",
+        "score": 0
+      },
+      {
+        "text": "1962",
+        "score": 0
+      },
+      {
+        "text": "1948",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the capital of Libya?",
+    "answers": [
+      {
+        "text": "Tripoli",
+        "score": 1
+      },
+      {
+        "text": "Tunis",
+        "score": 0
+      },
+      {
+        "text": "Rabat",
+        "score": 0
+      },
+      {
+        "text": "Algiers",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which year is a key turning point in the recent history of Libya?",
+    "answers": [
+      {
+        "text": "1969",
+        "score": 1
+      },
+      {
+        "text": "1954",
+        "score": 0
+      },
+      {
+        "text": "1975",
+        "score": 0
+      },
+      {
+        "text": "2011",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which historical site is located in Libya?",
+    "answers": [
+      {
+        "text": "Leptis Magna",
+        "score": 1
+      },
+      {
+        "text": "Carthage",
+        "score": 0
+      },
+      {
+        "text": "Fez",
+        "score": 0
+      },
+      {
+        "text": "Timgad",
+        "score": 0
+      }
+    ]
+  }
+]

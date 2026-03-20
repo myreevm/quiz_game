@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "What is the capital city of Serbia?",
+    "answers": [
+      { "text": "Belgrade", "score": 1 },
+      { "text": "Novi Sad", "score": 0 },
+      { "text": "Nis", "score": 0 },
+      { "text": "Kragujevac", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Serbia become an independent state after the dissolution of the State Union of Serbia and Montenegro?",
+    "answers": [
+      { "text": "2006", "score": 1 },
+      { "text": "1999", "score": 0 },
+      { "text": "2003", "score": 0 },
+      { "text": "2010", "score": 0 }
+    ]
+  },
+  {
+    "question": "The Battle of Kosovo, an important medieval event in Serbian history, took place in which year?",
+    "answers": [
+      { "text": "1389", "score": 1 },
+      { "text": "1241", "score": 0 },
+      { "text": "1453", "score": 0 },
+      { "text": "1526", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which medieval dynasty founded by Stefan Nemanja ruled Serbia for centuries?",
+    "answers": [
+      { "text": "Nemanjic dynasty", "score": 1 },
+      { "text": "Karadjordjevic dynasty", "score": 0 },
+      { "text": "Obrenovic dynasty", "score": 0 },
+      { "text": "Brankovic dynasty", "score": 0 }
+    ]
+  }
+]

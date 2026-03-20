@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which medieval Georgian poet wrote \u0027The Knight in the Panther\u0027s Skin\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Shota Rustaveli",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ilia Chavchavadze",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nizami Ganjavi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Taras Shevchenko",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Soviet leader was born in the Georgian town of Gori?",
+        "answers":  [
+                        {
+                            "text":  "Joseph Stalin",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nikita Khrushchev",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Leon Trotsky",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Georgy Malenkov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Georgian chess legend became women\u0027s world champion in 1962?",
+        "answers":  [
+                        {
+                            "text":  "Nona Gaprindashvili",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Maia Chiburdanidze",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Judit Polgar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vera Menchik",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Georgian fashion designer founded Vetements and led Balenciaga?",
+        "answers":  [
+                        {
+                            "text":  "Demna Gvasalia",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tom Ford",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hedi Slimane",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pierpaolo Piccioli",
+                            "score":  0
+                        }
+                    ]
+    }
+]

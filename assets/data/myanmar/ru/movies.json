@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "RU: Which city is the main center of Myanmar film production?",
+        "answers":  [
+                        {
+                            "text":  "Yangon",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Naypyidaw",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mandalay",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Taunggyi",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Most Myanmar films are primarily produced in which language?",
+        "answers":  [
+                        {
+                            "text":  "Burmese",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Thai",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hindi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vietnamese",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Which theme is common in many classic Myanmar films?",
+        "answers":  [
+                        {
+                            "text":  "Family and social drama",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Only science fiction",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Only western cowboy stories",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Only silent experimental films",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: What is the most prestigious annual film award in Myanmar?",
+        "answers":  [
+                        {
+                            "text":  "Myanmar Academy Awards",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Golden Peacock Awards",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Irrawaddy Cinema Cup",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bagan Film Medal",
+                            "score":  0
+                        }
+                    ]
+    }
+]

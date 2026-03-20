@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Georgian vocal tradition is listed by UNESCO as Intangible Cultural Heritage?",
+        "answers":  [
+                        {
+                            "text":  "Polyphonic singing",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yodeling",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Canto a tenore",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tuvan throat singing",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which string instrument is common in Georgian folk music?",
+        "answers":  [
+                        {
+                            "text":  "Panduri",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Shamisen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bouzouki",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Balalaika",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Georgian-born singer is known internationally for songs like \u0027Nine Million Bicycles\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Katie Melua",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bjork",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lorde",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dido",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the name of a famous Georgian war dance often accompanied by energetic music?",
+        "answers":  [
+                        {
+                            "text":  "Khorumi",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sirtaki",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tarantella",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Czardas",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which inventor of Serbian origin is known for AC power systems and many electrical patents?",
+    "answers": [
+      { "text": "Nikola Tesla", "score": 1 },
+      { "text": "Mihajlo Pupin", "score": 0 },
+      { "text": "Milutin Milankovic", "score": 0 },
+      { "text": "Ruđer Boscovich", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Serbian tennis player has won multiple Grand Slam titles and held world No. 1 for many weeks?",
+    "answers": [
+      { "text": "Novak Djokovic", "score": 1 },
+      { "text": "Janko Tipsarevic", "score": 0 },
+      { "text": "Viktor Troicki", "score": 0 },
+      { "text": "Dusan Lajovic", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Yugoslav writer born in present-day Bosnia won the Nobel Prize in Literature in 1961 and is linked with Serbian culture?",
+    "answers": [
+      { "text": "Ivo Andric", "score": 1 },
+      { "text": "Danilo Kis", "score": 0 },
+      { "text": "Mesa Selimovic", "score": 0 },
+      { "text": "Milos Crnjanski", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Serbian scientist developed long-term climate cycle theories known as Milankovitch cycles?",
+    "answers": [
+      { "text": "Milutin Milankovic", "score": 1 },
+      { "text": "Mihajlo Pupin", "score": 0 },
+      { "text": "Jovan Cvijic", "score": 0 },
+      { "text": "Sava Tekelija", "score": 0 }
+    ]
+  }
+]

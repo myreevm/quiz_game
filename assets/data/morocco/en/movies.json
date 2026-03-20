@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which film event or title is associated with Morocco?",
+    "answers": [
+      {
+        "text": "Marrakech International Film Festival",
+        "score": 1
+      },
+      {
+        "text": "Carthage Film Festival",
+        "score": 0
+      },
+      {
+        "text": "Lion of the Desert",
+        "score": 0
+      },
+      {
+        "text": "The Battle of Algiers",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which director is linked to cinema related to Morocco?",
+    "answers": [
+      {
+        "text": "Nabil Ayouch",
+        "score": 1
+      },
+      {
+        "text": "Kaouther Ben Hania",
+        "score": 0
+      },
+      {
+        "text": "Moustapha Akkad",
+        "score": 0
+      },
+      {
+        "text": "Gillo Pontecorvo",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which location in Morocco is often tied to film production or famous movie settings?",
+    "answers": [
+      {
+        "text": "Ouarzazate",
+        "score": 1
+      },
+      {
+        "text": "Tunis",
+        "score": 0
+      },
+      {
+        "text": "Benghazi",
+        "score": 0
+      },
+      {
+        "text": "Algiers",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which city in Morocco is an important center for national cinema institutions?",
+    "answers": [
+      {
+        "text": "Rabat",
+        "score": 1
+      },
+      {
+        "text": "Tunis",
+        "score": 0
+      },
+      {
+        "text": "Tripoli",
+        "score": 0
+      },
+      {
+        "text": "Algiers",
+        "score": 0
+      }
+    ]
+  }
+]

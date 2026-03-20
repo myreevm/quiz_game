@@ -1,0 +1,86 @@
+[
+  {
+    "question": "RU: Who is known as the founding father and first prime minister of Papua New Guinea?",
+    "answers": [
+      {
+        "text": "Michael Somare",
+        "score": 1
+      },
+      {
+        "text": "Julius Chan",
+        "score": 0
+      },
+      {
+        "text": "Peter O'Neill",
+        "score": 0
+      },
+      {
+        "text": "James Marape",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Which Papua New Guinean singer is internationally known for blending local and world music?",
+    "answers": [
+      {
+        "text": "George Telek",
+        "score": 1
+      },
+      {
+        "text": "O-Shen",
+        "score": 0
+      },
+      {
+        "text": "Anslom",
+        "score": 0
+      },
+      {
+        "text": "Saii Kay",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Which PNG rugby league player became a well-known international representative in the UK?",
+    "answers": [
+      {
+        "text": "Stanley Gene",
+        "score": 1
+      },
+      {
+        "text": "Alex Johnston",
+        "score": 0
+      },
+      {
+        "text": "Johnathan Thurston",
+        "score": 0
+      },
+      {
+        "text": "Kalyn Ponga",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Which current PNG political leader has served as prime minister since 2019?",
+    "answers": [
+      {
+        "text": "James Marape",
+        "score": 1
+      },
+      {
+        "text": "Paias Wingti",
+        "score": 0
+      },
+      {
+        "text": "Rabbie Namaliu",
+        "score": 0
+      },
+      {
+        "text": "Mekere Morauta",
+        "score": 0
+      }
+    ]
+  }
+]

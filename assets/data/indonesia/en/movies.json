@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which Indonesian action film brought Iko Uwais to global attention?",
+    "answers": [
+      {
+        "text": "The Raid",
+        "score": 1
+      },
+      {
+        "text": "Headshot",
+        "score": 0
+      },
+      {
+        "text": "Merantau",
+        "score": 0
+      },
+      {
+        "text": "Marlina the Murderer in Four Acts",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who directed the Indonesian horror hit Satan's Slaves?",
+    "answers": [
+      {
+        "text": "Joko Anwar",
+        "score": 1
+      },
+      {
+        "text": "Garin Nugroho",
+        "score": 0
+      },
+      {
+        "text": "Mouly Surya",
+        "score": 0
+      },
+      {
+        "text": "Timo Tjahjanto",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of Indonesia's major national film awards?",
+    "answers": [
+      {
+        "text": "Citra Awards",
+        "score": 1
+      },
+      {
+        "text": "Lotus Awards",
+        "score": 0
+      },
+      {
+        "text": "Archipelago Awards",
+        "score": 0
+      },
+      {
+        "text": "Garuda Awards",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Indonesian city is a key center for film production and festivals?",
+    "answers": [
+      {
+        "text": "Jakarta",
+        "score": 1
+      },
+      {
+        "text": "Makassar",
+        "score": 0
+      },
+      {
+        "text": "Padang",
+        "score": 0
+      },
+      {
+        "text": "Pontianak",
+        "score": 0
+      }
+    ]
+  }
+]

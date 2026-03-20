@@ -1,0 +1,86 @@
+[
+  {
+    "question": "V kakom godu strana Alzhir poluchila nezavisimost v sovremennom vide?",
+    "answers": [
+      {
+        "text": "1962",
+        "score": 1
+      },
+      {
+        "text": "1951",
+        "score": 0
+      },
+      {
+        "text": "1956",
+        "score": 0
+      },
+      {
+        "text": "1948",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Kakaya stolitsa u strany Alzhir?",
+    "answers": [
+      {
+        "text": "Algiers",
+        "score": 1
+      },
+      {
+        "text": "Tunis",
+        "score": 0
+      },
+      {
+        "text": "Rabat",
+        "score": 0
+      },
+      {
+        "text": "Tripoli",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Kakoy god schitaetsya vazhnym povorotnym momentom v noveyshey istorii strany Alzhir?",
+    "answers": [
+      {
+        "text": "1954",
+        "score": 1
+      },
+      {
+        "text": "1969",
+        "score": 0
+      },
+      {
+        "text": "1975",
+        "score": 0
+      },
+      {
+        "text": "2011",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Kakoy istoricheskiy obekt nakhoditsya v strane Alzhir?",
+    "answers": [
+      {
+        "text": "Timgad",
+        "score": 1
+      },
+      {
+        "text": "Carthage",
+        "score": 0
+      },
+      {
+        "text": "Fez",
+        "score": 0
+      },
+      {
+        "text": "Leptis Magna",
+        "score": 0
+      }
+    ]
+  }
+]

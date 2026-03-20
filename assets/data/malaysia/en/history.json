@@ -1,0 +1,86 @@
+[
+  {
+    "question": "In which year did the Federation of Malaya gain independence?",
+    "answers": [
+      {
+        "text": "1957",
+        "score": 1
+      },
+      {
+        "text": "1948",
+        "score": 0
+      },
+      {
+        "text": "1963",
+        "score": 0
+      },
+      {
+        "text": "1971",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In which year was Malaysia formed with Sabah and Sarawak joining?",
+    "answers": [
+      {
+        "text": "1963",
+        "score": 1
+      },
+      {
+        "text": "1957",
+        "score": 0
+      },
+      {
+        "text": "1969",
+        "score": 0
+      },
+      {
+        "text": "1975",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the administrative capital of Malaysia?",
+    "answers": [
+      {
+        "text": "Putrajaya",
+        "score": 1
+      },
+      {
+        "text": "Kuala Lumpur",
+        "score": 0
+      },
+      {
+        "text": "Johor Bahru",
+        "score": 0
+      },
+      {
+        "text": "George Town",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which strategic strait between Malaysia and Indonesia is one of the busiest shipping lanes?",
+    "answers": [
+      {
+        "text": "Strait of Malacca",
+        "score": 1
+      },
+      {
+        "text": "Sunda Strait",
+        "score": 0
+      },
+      {
+        "text": "Lombok Strait",
+        "score": 0
+      },
+      {
+        "text": "Makassar Strait",
+        "score": 0
+      }
+    ]
+  }
+]

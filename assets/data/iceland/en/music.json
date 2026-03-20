@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Icelandic post-rock band is known for atmospheric songs like \"Hoppípolla\"?",
+    "answers": [
+      { "text": "Sigur Rós", "score": 1 },
+      { "text": "Múm", "score": 0 },
+      { "text": "Kaleo", "score": 0 },
+      { "text": "Of Monsters and Men", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Icelandic band became globally popular with the song \"Little Talks\"?",
+    "answers": [
+      { "text": "Of Monsters and Men", "score": 1 },
+      { "text": "Sigur Rós", "score": 0 },
+      { "text": "Kaleo", "score": 0 },
+      { "text": "GusGus", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the traditional Icelandic narrative song-poetry style called?",
+    "answers": [
+      { "text": "Rímur", "score": 1 },
+      { "text": "Fado", "score": 0 },
+      { "text": "Doina", "score": 0 },
+      { "text": "Rebetiko", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Icelandic singer collaborated with The Sugarcubes before her solo career?",
+    "answers": [
+      { "text": "Björk", "score": 1 },
+      { "text": "Emiliana Torrini", "score": 0 },
+      { "text": "Laufey", "score": 0 },
+      { "text": "Ásgeir", "score": 0 }
+    ]
+  }
+]

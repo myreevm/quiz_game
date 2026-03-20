@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Kto osnoval Mongolskuyu imperiyu v 1206 godu?",
+        "answers":  [
+                        {
+                            "text":  "Chingis Khan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kublay Khan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tamerlan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Batu Khan",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakogo mongolskogo dzyudoista svyazyvayut s pervym olympiyskim zolotom strany v 2008 godu?",
+        "answers":  [
+                        {
+                            "text":  "Naydangiin Tuvshinbayar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Dorjsuren Sumiya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Otgontsetseg Galbadrakh",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Saeid Mollaei",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kto schitaetsya odnim iz osnovateley sovremennoy mongolskoy literatury?",
+        "answers":  [
+                        {
+                            "text":  "Dashdorjiin Natsagdorj",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Chingiz Aytmatov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rabindranat Tagor",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Orhan Pamuk",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kto stal prezidentom Mongolii v 2017 godu?",
+        "answers":  [
+                        {
+                            "text":  "Khaltmaagiin Battulga",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nambaryn Enkhbayar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ukhnaagiin Khurelsukh",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tsakhiagiin Elbegdorj",
+                            "score":  0
+                        }
+                    ]
+    }
+]

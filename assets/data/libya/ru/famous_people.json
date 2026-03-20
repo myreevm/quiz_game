@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Kto byl pervym krupnym nacionalnym liderom sovremennoy strany Liviya posle nezavisimosti?",
+    "answers": [
+      {
+        "text": "Idris I",
+        "score": 1
+      },
+      {
+        "text": "Habib Bourguiba",
+        "score": 0
+      },
+      {
+        "text": "Mohammed V",
+        "score": 0
+      },
+      {
+        "text": "Ahmed Ben Bella",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Kakaya izvestnaya lichnost svyazana so stranoy Liviya v sporte ili istorii puteshestviy?",
+    "answers": [
+      {
+        "text": "Muammar Gaddafi",
+        "score": 1
+      },
+      {
+        "text": "Tarak Dhiab",
+        "score": 0
+      },
+      {
+        "text": "Ibn Battuta",
+        "score": 0
+      },
+      {
+        "text": "Albert Camus",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Kakoy obshchestvennyy deyatel svyazan s noveyshey politicheskoy i socialnoy istoriyey strany Liviya?",
+    "answers": [
+      {
+        "text": "Omar Mukhtar",
+        "score": 1
+      },
+      {
+        "text": "Ouided Bouchamaoui",
+        "score": 0
+      },
+      {
+        "text": "Hicham El Guerrouj",
+        "score": 0
+      },
+      {
+        "text": "Rabah Madjer",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Kakoy rezhisser, pisatel ili artist shiroko svyazan so stranoy Liviya?",
+    "answers": [
+      {
+        "text": "Ibrahim al-Koni",
+        "score": 1
+      },
+      {
+        "text": "Moufida Tlatli",
+        "score": 0
+      },
+      {
+        "text": "Nabil Ayouch",
+        "score": 0
+      },
+      {
+        "text": "Cheb Khaled",
+        "score": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Kakoy dokumentalnyy film iz Mongolii byl nominovan na Oskar v 2005 godu?",
+        "answers":  [
+                        {
+                            "text":  "The Story of the Weeping Camel",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mongol",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Cave of the Yellow Dog",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Urga",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kto rezhisser filma \u0027Mongol\u0027 (2007)?",
+        "answers":  [
+                        {
+                            "text":  "Sergey Bodrov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Akira Kurosava",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chzhan Imou",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Timur Bekmambetov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "V kakom filme Byambasuren Davaa pokazana zhizn kochevoy semi i ikh sobaki?",
+        "answers":  [
+                        {
+                            "text":  "The Cave of the Yellow Dog",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hero",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Eagle Huntress",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nomadland",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "V kakom gorode raspolozheny glavnye kinostudii i kinoarkhiv Mongolii?",
+        "answers":  [
+                        {
+                            "text":  "Ulaanbaatar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Darkhan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Erdenet",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Choibalsan",
+                            "score":  0
+                        }
+                    ]
+    }
+]

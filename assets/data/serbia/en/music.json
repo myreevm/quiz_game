@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Serbian singer won Eurovision Song Contest 2007 with \"Molitva\"?",
+    "answers": [
+      { "text": "Marija Serifovic", "score": 1 },
+      { "text": "Jelena Tomasevic", "score": 0 },
+      { "text": "Nina Badric", "score": 0 },
+      { "text": "Konstrakta", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which traditional one-string instrument is iconic in Serbian epic singing?",
+    "answers": [
+      { "text": "Gusle", "score": 1 },
+      { "text": "Kantele", "score": 0 },
+      { "text": "Nyckelharpa", "score": 0 },
+      { "text": "Fujara", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Serbian town hosts the famous Guca Trumpet Festival?",
+    "answers": [
+      { "text": "Guca", "score": 1 },
+      { "text": "Nis", "score": 0 },
+      { "text": "Subotica", "score": 0 },
+      { "text": "Kraljevo", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Serbian composer is known for collecting and arranging choral church music in the \"Garlands\" cycle?",
+    "answers": [
+      { "text": "Stevan Stojanovic Mokranjac", "score": 1 },
+      { "text": "Josif Marinkovic", "score": 0 },
+      { "text": "Kornelije Stankovic", "score": 0 },
+      { "text": "Petar Konjovic", "score": 0 }
+    ]
+  }
+]

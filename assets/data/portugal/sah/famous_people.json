@@ -1,0 +1,86 @@
+[
+  {
+    "question": "RU: Which Portuguese footballer won the Ballon d'Or five times?",
+    "answers": [
+      {
+        "text": "Cristiano Ronaldo",
+        "score": 1
+      },
+      {
+        "text": "Eusebio",
+        "score": 0
+      },
+      {
+        "text": "Luis Figo",
+        "score": 0
+      },
+      {
+        "text": "Rui Costa",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Which Portuguese writer won the Nobel Prize in Literature in 1998?",
+    "answers": [
+      {
+        "text": "Jose Saramago",
+        "score": 1
+      },
+      {
+        "text": "Fernando Pessoa",
+        "score": 0
+      },
+      {
+        "text": "Eca de Queiros",
+        "score": 0
+      },
+      {
+        "text": "Miguel Torga",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Which navigator led the first expedition to sail around the world?",
+    "answers": [
+      {
+        "text": "Ferdinand Magellan",
+        "score": 1
+      },
+      {
+        "text": "Bartolomeu Dias",
+        "score": 0
+      },
+      {
+        "text": "Vasco da Gama",
+        "score": 0
+      },
+      {
+        "text": "Pedro Alvares Cabral",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Which singer is often called the \"Queen of Fado\"?",
+    "answers": [
+      {
+        "text": "Amalia Rodrigues",
+        "score": 1
+      },
+      {
+        "text": "Mariza",
+        "score": 0
+      },
+      {
+        "text": "Ana Moura",
+        "score": 0
+      },
+      {
+        "text": "Dulce Pontes",
+        "score": 0
+      }
+    ]
+  }
+]

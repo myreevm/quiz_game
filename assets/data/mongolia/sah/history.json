@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "V kakom godu Mongoliya obyavila nezavisimost ot imperii Cin?",
+        "answers":  [
+                        {
+                            "text":  "1911",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1905",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1921",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1945",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kak nazyvalas stolitsa Mongolskoy imperii pri Ogodee-khane?",
+        "answers":  [
+                        {
+                            "text":  "Karakorum",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Samarkand",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kashgar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bukhara",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "V kakom godu byla provozglashena Mongolskaya Narodnaya Respublika?",
+        "answers":  [
+                        {
+                            "text":  "1924",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1911",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1936",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1949",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakoy god prinyato schitat nachalom mirnoy demokraticheskoy revolyucii v Mongolii?",
+        "answers":  [
+                        {
+                            "text":  "1990",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1984",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1995",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2001",
+                            "score":  0
+                        }
+                    ]
+    }
+]

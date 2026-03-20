@@ -1,0 +1,87 @@
+﻿[
+    {
+        "question":  "Kakaya klassicheskaya azerbaydzhanskaya muzykalnaya komediya snyata po operette Gadzhibekova?",
+        "answers":  [
+                        {
+                            "text":  "Arshin mal alan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Brilliantovaya ruka",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mimino",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Beloe solntse pustyni",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kak nazyvaetsya glavnaya istoricheskaya kinostudiya Azerbaydzhana v Baku?",
+        "answers":  [
+                        {
+                            "text":  "Azerbaydzhanfilm",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mosfilm",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lenfilm",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Armenfilm",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakoy film Azerbaydzhana byl vydvinut na Oskar v kategorii mezhdunarodnogo filma za 2015 god?",
+        "answers":  [
+                        {
+                            "text":  "Nabat",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ali and Nino",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Buta",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Knife",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakoy gorod chashche vsego stanovitsya centralnoy lokaciey sovremennogo kino Azerbaydzhana?",
+        "answers":  [
+                        {
+                            "text":  "Baku",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sumgayit",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lankaran",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nakhichevan",
+                            "score":  0
+                        }
+                    ]
+    }
+]
+

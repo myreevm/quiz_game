@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Who directed the internationally known Georgian film \u0027Repentance\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Tengiz Abuladze",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Otar Iosseliani",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Zaza Urushadze",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sergei Parajanov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Georgian film was nominated for the Academy Award for Best Foreign Language Film in 2015?",
+        "answers":  [
+                        {
+                            "text":  "Tangerines",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Corn Island",
+                            "score":  0
+                        },
+                        {
+                            "text":  "In Bloom",
+                            "score":  0
+                        },
+                        {
+                            "text":  "My Happy Family",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the name of Georgia\u0027s historic national film studio in Tbilisi?",
+        "answers":  [
+                        {
+                            "text":  "Georgia-Film",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Armenfilm",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Riga Film Studio",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Odessa Film Studio",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city is the main setting of many modern Georgian dramas, including \u0027My Happy Family\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Tbilisi",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Zugdidi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Telavi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Poti",
+                            "score":  0
+                        }
+                    ]
+    }
+]

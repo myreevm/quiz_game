@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which classic Azerbaijani musical comedy film is based on Uzeyir Hajibeyov\u0027s operetta?",
+        "answers":  [
+                        {
+                            "text":  "Arshin Mal Alan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Diamond Arm",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mimino",
+                            "score":  0
+                        },
+                        {
+                            "text":  "White Sun of the Desert",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the name of Azerbaijan\u0027s main historic film studio in Baku?",
+        "answers":  [
+                        {
+                            "text":  "Azerbaijanfilm",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mosfilm",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lenfilm",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Armenfilm",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Azerbaijani film was submitted to the Academy Awards for Best International Feature for 2015?",
+        "answers":  [
+                        {
+                            "text":  "Nabat",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ali and Nino",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Buta",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Knife",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city is most often used as the central setting of Azerbaijani contemporary films?",
+        "answers":  [
+                        {
+                            "text":  "Baku",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sumqayit",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lankaran",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nakhchivan",
+                            "score":  0
+                        }
+                    ]
+    }
+]

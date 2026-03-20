@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Czech-born director won two Academy Awards for Best Director?",
+    "answers": [
+      { "text": "Milos Forman", "score": 1 },
+      { "text": "Jiri Menzel", "score": 0 },
+      { "text": "Jan Sverak", "score": 0 },
+      { "text": "Vera Chytilova", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Czech city hosts the famous Karlovy Vary International Film Festival?",
+    "answers": [
+      { "text": "Karlovy Vary", "score": 1 },
+      { "text": "Prague", "score": 0 },
+      { "text": "Brno", "score": 0 },
+      { "text": "Olomouc", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Czech film won the Academy Award for Best Foreign Language Film in 1997?",
+    "answers": [
+      { "text": "Kolya", "score": 1 },
+      { "text": "Closely Watched Trains", "score": 0 },
+      { "text": "Divided We Fall", "score": 0 },
+      { "text": "The Cremator", "score": 0 }
+    ]
+  },
+  {
+    "question": "Who directed the Czech New Wave classic \"Closely Watched Trains\"?",
+    "answers": [
+      { "text": "Jiri Menzel", "score": 1 },
+      { "text": "Milos Forman", "score": 0 },
+      { "text": "Jan Nemec", "score": 0 },
+      { "text": "Karel Zeman", "score": 0 }
+    ]
+  }
+]

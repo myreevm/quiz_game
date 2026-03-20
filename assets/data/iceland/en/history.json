@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "In which year did Iceland become a republic and fully independent from Denmark?",
+    "answers": [
+      { "text": "1944", "score": 1 },
+      { "text": "1918", "score": 0 },
+      { "text": "1905", "score": 0 },
+      { "text": "1968", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the name of Iceland's parliament, founded around 930?",
+    "answers": [
+      { "text": "Althing", "score": 1 },
+      { "text": "Thingvellir Council", "score": 0 },
+      { "text": "Nordic Assembly", "score": 0 },
+      { "text": "Folketing", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Icelandic volcano eruption in 2010 disrupted European air travel?",
+    "answers": [
+      { "text": "Eyjafjallajökull", "score": 1 },
+      { "text": "Hekla", "score": 0 },
+      { "text": "Katla", "score": 0 },
+      { "text": "Askja", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the capital of Iceland?",
+    "answers": [
+      { "text": "Reykjavik", "score": 1 },
+      { "text": "Akureyri", "score": 0 },
+      { "text": "Keflavik", "score": 0 },
+      { "text": "Selfoss", "score": 0 }
+    ]
+  }
+]

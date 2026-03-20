@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Какая финская рок-группа победила на Евровидении-2006 с песней \"Hard Rock Hallelujah\"?",
+    "answers": [
+      { "text": "Lordi", "score": 1 },
+      { "text": "Nightwish", "score": 0 },
+      { "text": "The Rasmus", "score": 0 },
+      { "text": "Apocalyptica", "score": 0 }
+    ]
+  },
+  {
+    "question": "Какую финскую симфо-метал группу возглавляет клавишник Туомас Холопайнен?",
+    "answers": [
+      { "text": "Nightwish", "score": 1 },
+      { "text": "Children of Bodom", "score": 0 },
+      { "text": "HIM", "score": 0 },
+      { "text": "Amorphis", "score": 0 }
+    ]
+  },
+  {
+    "question": "Как называется традиционный финский струнный инструмент, связанный с эпосом \"Калевала\"?",
+    "answers": [
+      { "text": "Кантеле", "score": 1 },
+      { "text": "Нюкельхарпа", "score": 0 },
+      { "text": "Бузуки", "score": 0 },
+      { "text": "Гайда", "score": 0 }
+    ]
+  },
+  {
+    "question": "Какой финский композитор написал Скрипичный концерт ре минор, op. 47?",
+    "answers": [
+      { "text": "Ян Сибелиус", "score": 1 },
+      { "text": "Эйноюхани Раутаваара", "score": 0 },
+      { "text": "Кайя Саариахо", "score": 0 },
+      { "text": "Магнус Линдберг", "score": 0 }
+    ]
+  }
+]

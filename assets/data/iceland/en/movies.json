@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Icelandic director made the survival drama \"Everest\" (2015)?",
+    "answers": [
+      { "text": "Baltasar Kormákur", "score": 1 },
+      { "text": "Dagur Kári", "score": 0 },
+      { "text": "Grímur Hákonarson", "score": 0 },
+      { "text": "Hlynur Pálmason", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Icelandic city hosts the Reykjavik International Film Festival?",
+    "answers": [
+      { "text": "Reykjavik", "score": 1 },
+      { "text": "Akureyri", "score": 0 },
+      { "text": "Keflavik", "score": 0 },
+      { "text": "Hafnarfjordur", "score": 0 }
+    ]
+  },
+  {
+    "question": "The Icelandic film \"Rams\" (Hrútar) is primarily set in what type of Icelandic rural life?",
+    "answers": [
+      { "text": "Sheep farming", "score": 1 },
+      { "text": "Fishing fleets", "score": 0 },
+      { "text": "Whale tourism", "score": 0 },
+      { "text": "Geothermal plants", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Icelandic actress played in \"The Secret Life of Walter Mitty\"?",
+    "answers": [
+      { "text": "Ólafía Hrönn Jónsdóttir", "score": 1 },
+      { "text": "Anita Briem", "score": 0 },
+      { "text": "Hera Hilmar", "score": 0 },
+      { "text": "Nína Dögg Filippusdóttir", "score": 0 }
+    ]
+  }
+]

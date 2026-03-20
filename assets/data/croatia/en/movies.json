@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which Croatian city was used as King's Landing in \"Game of Thrones\"?",
+    "answers": [
+      {
+        "text": "Dubrovnik",
+        "score": 1
+      },
+      {
+        "text": "Split",
+        "score": 0
+      },
+      {
+        "text": "Porec",
+        "score": 0
+      },
+      {
+        "text": "Karlovac",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In which city is the Pula Film Festival held?",
+    "answers": [
+      {
+        "text": "Pula",
+        "score": 1
+      },
+      {
+        "text": "Zagreb",
+        "score": 0
+      },
+      {
+        "text": "Rijeka",
+        "score": 0
+      },
+      {
+        "text": "Osijek",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which animated short from the Zagreb School won an Oscar in 1962?",
+    "answers": [
+      {
+        "text": "Surogat (Ersatz)",
+        "score": 1
+      },
+      {
+        "text": "The Little Umbrella",
+        "score": 0
+      },
+      {
+        "text": "Inspector Returns Home",
+        "score": 0
+      },
+      {
+        "text": "Plop",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who directed the Croatian film \"The High Sun\" (2015)?",
+    "answers": [
+      {
+        "text": "Dalibor Matanic",
+        "score": 1
+      },
+      {
+        "text": "Vinko Bresan",
+        "score": 0
+      },
+      {
+        "text": "Rajko Grlic",
+        "score": 0
+      },
+      {
+        "text": "Lordan Zafranovic",
+        "score": 0
+      }
+    ]
+  }
+]

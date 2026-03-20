@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Kakoy muzykalnyy stil traditsionno associruyetsya so stranoy Liviya?",
+    "answers": [
+      {
+        "text": "Maluf",
+        "score": 1
+      },
+      {
+        "text": "Gnawa",
+        "score": 0
+      },
+      {
+        "text": "Malouf",
+        "score": 0
+      },
+      {
+        "text": "Rai",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Kakoy instrument chasto ispolzuetsya v traditsionnoy muzyke strany Liviya?",
+    "answers": [
+      {
+        "text": "Oud",
+        "score": 1
+      },
+      {
+        "text": "Guembri",
+        "score": 0
+      },
+      {
+        "text": "Mandole",
+        "score": 0
+      },
+      {
+        "text": "Violin",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Kak nazyvaetsya gosudarstvennyy gimn strany Liviya?",
+    "answers": [
+      {
+        "text": "Libya, Libya, Libya",
+        "score": 1
+      },
+      {
+        "text": "Humat al-Hima",
+        "score": 0
+      },
+      {
+        "text": "Cherifian Anthem",
+        "score": 0
+      },
+      {
+        "text": "Qassaman",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Kakoy gorod yavlyaetsya vazhnym sovremennym muzykalnym centrom v strane Liviya?",
+    "answers": [
+      {
+        "text": "Tripoli",
+        "score": 1
+      },
+      {
+        "text": "Tunis",
+        "score": 0
+      },
+      {
+        "text": "Essaouira",
+        "score": 0
+      },
+      {
+        "text": "Oran",
+        "score": 0
+      }
+    ]
+  }
+]

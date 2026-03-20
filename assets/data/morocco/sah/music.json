@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Kakoy muzykalnyy stil traditsionno associruyetsya so stranoy Marokko?",
+    "answers": [
+      {
+        "text": "Gnawa",
+        "score": 1
+      },
+      {
+        "text": "Malouf",
+        "score": 0
+      },
+      {
+        "text": "Maluf",
+        "score": 0
+      },
+      {
+        "text": "Rai",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Kakoy instrument chasto ispolzuetsya v traditsionnoy muzyke strany Marokko?",
+    "answers": [
+      {
+        "text": "Guembri",
+        "score": 1
+      },
+      {
+        "text": "Mandole",
+        "score": 0
+      },
+      {
+        "text": "Oud",
+        "score": 0
+      },
+      {
+        "text": "Violin",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Kak nazyvaetsya gosudarstvennyy gimn strany Marokko?",
+    "answers": [
+      {
+        "text": "Cherifian Anthem",
+        "score": 1
+      },
+      {
+        "text": "Humat al-Hima",
+        "score": 0
+      },
+      {
+        "text": "Libya, Libya, Libya",
+        "score": 0
+      },
+      {
+        "text": "Qassaman",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Kakoy gorod yavlyaetsya vazhnym sovremennym muzykalnym centrom v strane Marokko?",
+    "answers": [
+      {
+        "text": "Essaouira",
+        "score": 1
+      },
+      {
+        "text": "Tunis",
+        "score": 0
+      },
+      {
+        "text": "Tripoli",
+        "score": 0
+      },
+      {
+        "text": "Oran",
+        "score": 0
+      }
+    ]
+  }
+]

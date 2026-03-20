@@ -545,10 +545,90 @@ class _CountryMapViewport {
           alignment: Alignment(0.54, -0.29),
           scale: 7.0,
         );
+      case 'mongolia':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.64, -0.56),
+          scale: 5.4,
+        );
+      case 'india':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.50, -0.36),
+          scale: 4.6,
+        );
+      case 'myanmar':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.62, -0.30),
+          scale: 6.2,
+        );
+      case 'laos':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.70, -0.26),
+          scale: 7.0,
+        );
+      case 'thailand':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.67, -0.28),
+          scale: 6.6,
+        );
+      case 'morocco':
+        return const _CountryMapViewport(
+          alignment: Alignment(-0.08, -0.40),
+          scale: 6.4,
+        );
+      case 'algeria':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.02, -0.37),
+          scale: 5.2,
+        );
+      case 'tunisia':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.10, -0.36),
+          scale: 7.6,
+        );
+      case 'libya':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.18, -0.35),
+          scale: 5.8,
+        );
+      case 'georgia':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.30, -0.58),
+          scale: 7.6,
+        );
+      case 'armenia':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.33, -0.52),
+          scale: 8.2,
+        );
+      case 'azerbaijan':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.37, -0.53),
+          scale: 7.4,
+        );
       case 'vietnam':
         return const _CountryMapViewport(
           alignment: Alignment(0.74, -0.20),
           scale: 5.0,
+        );
+      case 'malaysia':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.72, -0.25),
+          scale: 7.4,
+        );
+      case 'singapore':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.73, -0.22),
+          scale: 10.0,
+        );
+      case 'indonesia':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.82, 0.02),
+          scale: 4.8,
+        );
+      case 'papua_new_guinea':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.98, 0.10),
+          scale: 6.2,
         );
       case 'poland':
         return const _CountryMapViewport(
@@ -559,6 +639,46 @@ class _CountryMapViewport {
         return const _CountryMapViewport(
           alignment: Alignment(0.01, -0.57),
           scale: 10.0,
+        );
+      case 'czechia':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.10, -0.61),
+          scale: 8.2,
+        );
+      case 'slovakia':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.14, -0.56),
+          scale: 8.2,
+        );
+      case 'hungary':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.12, -0.48),
+          scale: 7.8,
+        );
+      case 'serbia':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.16, -0.42),
+          scale: 7.4,
+        );
+      case 'norway':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.08, -0.70),
+          scale: 6.4,
+        );
+      case 'sweden':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.12, -0.67),
+          scale: 6.2,
+        );
+      case 'finland':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.20, -0.66),
+          scale: 6.1,
+        );
+      case 'iceland':
+        return const _CountryMapViewport(
+          alignment: Alignment(-0.15, -0.76),
+          scale: 7.2,
         );
       case 'romania':
         return const _CountryMapViewport(
@@ -574,6 +694,26 @@ class _CountryMapViewport {
         return const _CountryMapViewport(
           alignment: Alignment(0.10, -0.40),
           scale: 6.6,
+        );
+      case 'portugal':
+        return const _CountryMapViewport(
+          alignment: Alignment(-0.11, -0.54),
+          scale: 6.4,
+        );
+      case 'austria':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.10, -0.58),
+          scale: 8.4,
+        );
+      case 'slovenia':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.11, -0.50),
+          scale: 9.2,
+        );
+      case 'croatia':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.14, -0.45),
+          scale: 7.8,
         );
       case 'australia':
         return const _CountryMapViewport(

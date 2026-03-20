@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Hungarian-born inventor created the Rubik's Cube?",
+    "answers": [
+      { "text": "Erno Rubik", "score": 1 },
+      { "text": "Gabor Dénes", "score": 0 },
+      { "text": "Laszlo Biro", "score": 0 },
+      { "text": "Janos Neumann", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which famous illusionist was born in Budapest as Erik Weisz?",
+    "answers": [
+      { "text": "Harry Houdini", "score": 1 },
+      { "text": "David Copperfield", "score": 0 },
+      { "text": "Criss Angel", "score": 0 },
+      { "text": "Penn Jillette", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Hungarian poet is one of the main figures of the 1848 revolution?",
+    "answers": [
+      { "text": "Sandor Petofi", "score": 1 },
+      { "text": "Endre Ady", "score": 0 },
+      { "text": "Mihaly Vorosmarty", "score": 0 },
+      { "text": "Attila Jozsef", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Hungarian composer and virtuoso pianist wrote the \"Hungarian Rhapsodies\"?",
+    "answers": [
+      { "text": "Franz Liszt", "score": 1 },
+      { "text": "Bela Bartok", "score": 0 },
+      { "text": "Zoltan Kodaly", "score": 0 },
+      { "text": "Gyorgy Ligeti", "score": 0 }
+    ]
+  }
+]

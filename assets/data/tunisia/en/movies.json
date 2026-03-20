@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which film event or title is associated with Tunisia?",
+    "answers": [
+      {
+        "text": "Carthage Film Festival",
+        "score": 1
+      },
+      {
+        "text": "Marrakech International Film Festival",
+        "score": 0
+      },
+      {
+        "text": "Lion of the Desert",
+        "score": 0
+      },
+      {
+        "text": "The Battle of Algiers",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which director is linked to cinema related to Tunisia?",
+    "answers": [
+      {
+        "text": "Kaouther Ben Hania",
+        "score": 1
+      },
+      {
+        "text": "Nabil Ayouch",
+        "score": 0
+      },
+      {
+        "text": "Moustapha Akkad",
+        "score": 0
+      },
+      {
+        "text": "Gillo Pontecorvo",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which location in Tunisia is often tied to film production or famous movie settings?",
+    "answers": [
+      {
+        "text": "Tunis",
+        "score": 1
+      },
+      {
+        "text": "Ouarzazate",
+        "score": 0
+      },
+      {
+        "text": "Benghazi",
+        "score": 0
+      },
+      {
+        "text": "Algiers",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which city in Tunisia is an important center for national cinema institutions?",
+    "answers": [
+      {
+        "text": "Tunis",
+        "score": 1
+      },
+      {
+        "text": "Rabat",
+        "score": 0
+      },
+      {
+        "text": "Tripoli",
+        "score": 0
+      },
+      {
+        "text": "Algiers",
+        "score": 0
+      }
+    ]
+  }
+]

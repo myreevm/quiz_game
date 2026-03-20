@@ -1,0 +1,86 @@
+[
+  {
+    "question": "RU: What is the capital city of Papua New Guinea?",
+    "answers": [
+      {
+        "text": "Port Moresby",
+        "score": 1
+      },
+      {
+        "text": "Lae",
+        "score": 0
+      },
+      {
+        "text": "Madang",
+        "score": 0
+      },
+      {
+        "text": "Mount Hagen",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: In which year did Papua New Guinea gain independence?",
+    "answers": [
+      {
+        "text": "1975",
+        "score": 1
+      },
+      {
+        "text": "1965",
+        "score": 0
+      },
+      {
+        "text": "1981",
+        "score": 0
+      },
+      {
+        "text": "1990",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Papua New Guinea shares the island of New Guinea with which country?",
+    "answers": [
+      {
+        "text": "Indonesia",
+        "score": 1
+      },
+      {
+        "text": "Malaysia",
+        "score": 0
+      },
+      {
+        "text": "Philippines",
+        "score": 0
+      },
+      {
+        "text": "Timor-Leste",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: What is the currency of Papua New Guinea?",
+    "answers": [
+      {
+        "text": "Kina",
+        "score": 1
+      },
+      {
+        "text": "Rupiah",
+        "score": 0
+      },
+      {
+        "text": "Ringgit",
+        "score": 0
+      },
+      {
+        "text": "Singapore dollar",
+        "score": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Kto snyal film \u0027The Color of Pomegranates\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Sergey Paradzhanov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Atom Egoyan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Frunze Dovlatyan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Andrey Tarkovskiy",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kak nazyvaetsya istoricheskaya gosudarstvennaya kinostudiya Armenii?",
+        "answers":  [
+                        {
+                            "text":  "Armenfilm",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Azerbaydzhanfilm",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Georgia-Film",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Belarusfilm",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakoy armyano-kanadskiy rezhisser postavil film \u0027Ararat\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Atom Egoyan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Deni Arkan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Asgar Farhadi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Emir Kusturitsa",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakoy rannyy nemoy armyanskiy film svyazyvayut s rezhisserom Amo Beknazaryanom?",
+        "answers":  [
+                        {
+                            "text":  "Namus",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Cranes Are Flying",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Repentance",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Time of the Gypsies",
+                            "score":  0
+                        }
+                    ]
+    }
+]

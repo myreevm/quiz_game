@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Who was the first major national leader of modern Morocco after independence?",
+    "answers": [
+      {
+        "text": "Mohammed V",
+        "score": 1
+      },
+      {
+        "text": "Habib Bourguiba",
+        "score": 0
+      },
+      {
+        "text": "Idris I",
+        "score": 0
+      },
+      {
+        "text": "Ahmed Ben Bella",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which famous person is strongly associated with Morocco in sports or exploration history?",
+    "answers": [
+      {
+        "text": "Ibn Battuta",
+        "score": 1
+      },
+      {
+        "text": "Tarak Dhiab",
+        "score": 0
+      },
+      {
+        "text": "Muammar Gaddafi",
+        "score": 0
+      },
+      {
+        "text": "Albert Camus",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which public figure is connected with the modern political and social history of Morocco?",
+    "answers": [
+      {
+        "text": "Hicham El Guerrouj",
+        "score": 1
+      },
+      {
+        "text": "Ouided Bouchamaoui",
+        "score": 0
+      },
+      {
+        "text": "Omar Mukhtar",
+        "score": 0
+      },
+      {
+        "text": "Rabah Madjer",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which filmmaker, writer, or artist is widely linked to Morocco?",
+    "answers": [
+      {
+        "text": "Nabil Ayouch",
+        "score": 1
+      },
+      {
+        "text": "Moufida Tlatli",
+        "score": 0
+      },
+      {
+        "text": "Ibrahim al-Koni",
+        "score": 0
+      },
+      {
+        "text": "Cheb Khaled",
+        "score": 0
+      }
+    ]
+  }
+]

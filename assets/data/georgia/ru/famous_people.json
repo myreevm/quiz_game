@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Kakoy srednevekovyy gruzinskiy poet napisal poemu \u0027Vityaz v tigrovoy shkure\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Shota Rustaveli",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ilia Chavchavadze",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nizami Gyandzhevi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Taras Shevchenko",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakoy sovetskiy lider rodilsya v gruzinskom gorode Gori?",
+        "answers":  [
+                        {
+                            "text":  "Iosif Stalin",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nikita Khrushchev",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lev Trotskiy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Georgiy Malenkov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakaya legendarnaya gruzinskaya shakhmatistka stala chempionkoy mira v 1962 godu?",
+        "answers":  [
+                        {
+                            "text":  "Nona Gaprindashvili",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Maya Chiburdanidze",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yudit Polgar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vera Menchik",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakoy gruzinskiy dizayner osnoval Vetements i vozglavlyal Balenciaga?",
+        "answers":  [
+                        {
+                            "text":  "Demna Gvasalia",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tom Ford",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hedi Slimane",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pierpaolo Piccioli",
+                            "score":  0
+                        }
+                    ]
+    }
+]

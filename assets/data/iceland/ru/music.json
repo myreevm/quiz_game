@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Какая исландская пост-рок группа известна атмосферными песнями, например \"Hoppípolla\"?",
+    "answers": [
+      { "text": "Sigur Rós", "score": 1 },
+      { "text": "Múm", "score": 0 },
+      { "text": "Kaleo", "score": 0 },
+      { "text": "Of Monsters and Men", "score": 0 }
+    ]
+  },
+  {
+    "question": "Какая исландская группа стала всемирно популярной с песней \"Little Talks\"?",
+    "answers": [
+      { "text": "Of Monsters and Men", "score": 1 },
+      { "text": "Sigur Rós", "score": 0 },
+      { "text": "Kaleo", "score": 0 },
+      { "text": "GusGus", "score": 0 }
+    ]
+  },
+  {
+    "question": "Как называется традиционный исландский жанр повествовательной песенной поэзии?",
+    "answers": [
+      { "text": "Римур", "score": 1 },
+      { "text": "Фаду", "score": 0 },
+      { "text": "Дойна", "score": 0 },
+      { "text": "Ребетико", "score": 0 }
+    ]
+  },
+  {
+    "question": "Какая исландская певица выступала в группе The Sugarcubes до сольной карьеры?",
+    "answers": [
+      { "text": "Бьорк", "score": 1 },
+      { "text": "Эмилиана Торрини", "score": 0 },
+      { "text": "Laufey", "score": 0 },
+      { "text": "Аусгейр", "score": 0 }
+    ]
+  }
+]

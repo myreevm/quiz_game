@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which 2008 film is often credited with reviving modern Lao commercial cinema?",
+        "answers":  [
+                        {
+                            "text":  "Sabaidee Luang Prabang",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Rocket",
+                            "score":  0
+                        },
+                        {
+                            "text":  "At the Horizon",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chanthaly",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city is prominently featured in the film Sabaidee Luang Prabang?",
+        "answers":  [
+                        {
+                            "text":  "Luang Prabang",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vientiane",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pakse",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Thakhek",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who directed the Lao sci-fi drama The Long Walk (2019)?",
+        "answers":  [
+                        {
+                            "text":  "Mattie Do",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Apichatpong Weerasethakul",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rithy Panh",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tran Anh Hung",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Mattie Do is widely recognized as the first what in Laos?",
+        "answers":  [
+                        {
+                            "text":  "Female feature-film director",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Oscar-winning actress",
+                            "score":  0
+                        },
+                        {
+                            "text":  "National film censor",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Animation studio founder",
+                            "score":  0
+                        }
+                    ]
+    }
+]

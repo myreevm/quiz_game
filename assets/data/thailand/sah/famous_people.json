@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "RU: Which Thai monarch is known as Rama IX?",
+        "answers":  [
+                        {
+                            "text":  "Bhumibol Adulyadej",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mongkut",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vajiralongkorn",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ananda Mahidol",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Which Thai action star became internationally known for Ong-Bak?",
+        "answers":  [
+                        {
+                            "text":  "Tony Jaa",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Iko Uwais",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Donnie Yen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jet Li",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Which Thai-born BLACKPINK member performs under the name Lisa?",
+        "answers":  [
+                        {
+                            "text":  "Lalisa Manobal",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jennie Kim",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kim Ji-soo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rosé Park",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Who founded the Chakri dynasty in Thailand?",
+        "answers":  [
+                        {
+                            "text":  "King Rama I",
+                            "score":  1
+                        },
+                        {
+                            "text":  "King Rama V",
+                            "score":  0
+                        },
+                        {
+                            "text":  "King Taksin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "King Narai",
+                            "score":  0
+                        }
+                    ]
+    }
+]

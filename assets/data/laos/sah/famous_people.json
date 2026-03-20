@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "RU: Who founded the Lan Xang Kingdom in the 14th century?",
+        "answers":  [
+                        {
+                            "text":  "Fa Ngum",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Setthathirath",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Anouvong",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sisavang Vong",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Who was the first prime minister of the Lao People\u0027s Democratic Republic?",
+        "answers":  [
+                        {
+                            "text":  "Kaysone Phomvihane",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Souphanouvong",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Boun Oum",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Souvanna Phouma",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Which Lao leader was known as the Red Prince?",
+        "answers":  [
+                        {
+                            "text":  "Souphanouvong",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Savang Vatthana",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Phoumi Nosavan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bounnhang Vorachith",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Which king is remembered for moving the Lao capital to Vientiane in the 16th century?",
+        "answers":  [
+                        {
+                            "text":  "Setthathirath",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fa Ngum",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Anouvong",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sisavang Vong",
+                            "score":  0
+                        }
+                    ]
+    }
+]

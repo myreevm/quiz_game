@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "In which year did Norway dissolve its union with Sweden?",
+    "answers": [
+      { "text": "1905", "score": 1 },
+      { "text": "1814", "score": 0 },
+      { "text": "1945", "score": 0 },
+      { "text": "1994", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which place was the Norwegian constitution signed in 1814?",
+    "answers": [
+      { "text": "Eidsvoll", "score": 1 },
+      { "text": "Bergen", "score": 0 },
+      { "text": "Trondheim", "score": 0 },
+      { "text": "Stavanger", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the capital of Norway?",
+    "answers": [
+      { "text": "Oslo", "score": 1 },
+      { "text": "Bergen", "score": 0 },
+      { "text": "Tromso", "score": 0 },
+      { "text": "Kristiansand", "score": 0 }
+    ]
+  },
+  {
+    "question": "Is Norway a member of the European Union?",
+    "answers": [
+      { "text": "No", "score": 1 },
+      { "text": "Yes, since 1995", "score": 0 },
+      { "text": "Yes, since 2004", "score": 0 },
+      { "text": "Yes, since 2013", "score": 0 }
+    ]
+  }
+]

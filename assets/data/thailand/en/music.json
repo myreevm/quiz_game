@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "What is the name of Thai country-style popular music?",
+        "answers":  [
+                        {
+                            "text":  "Luk Thung",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mor lam",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dangdut",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pansori",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which instrument is a traditional Thai xylophone?",
+        "answers":  [
+                        {
+                            "text":  "Ranat ek",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Koto",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Erhu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sitar",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which classical ensemble accompanies ceremonies and khon performances in Thailand?",
+        "answers":  [
+                        {
+                            "text":  "Piphat",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Gamelan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Orkes gambus",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Noh ensemble",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "How is Thailand\u0027s modern pop scene commonly branded?",
+        "answers":  [
+                        {
+                            "text":  "T-pop",
+                            "score":  1
+                        },
+                        {
+                            "text":  "J-pop",
+                            "score":  0
+                        },
+                        {
+                            "text":  "K-pop",
+                            "score":  0
+                        },
+                        {
+                            "text":  "C-pop",
+                            "score":  0
+                        }
+                    ]
+    }
+]

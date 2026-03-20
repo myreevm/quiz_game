@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which Malaysian singer is internationally known for songs like Crush?",
+    "answers": [
+      {
+        "text": "Yuna",
+        "score": 1
+      },
+      {
+        "text": "Siti Nurhaliza",
+        "score": 0
+      },
+      {
+        "text": "Shila Amzah",
+        "score": 0
+      },
+      {
+        "text": "Dayang Nurfaizah",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What traditional frame drum is commonly used in Malay cultural performances?",
+    "answers": [
+      {
+        "text": "Kompang",
+        "score": 1
+      },
+      {
+        "text": "Taiko",
+        "score": 0
+      },
+      {
+        "text": "Djembe",
+        "score": 0
+      },
+      {
+        "text": "Bodhran",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which traditional vocal genre is strongly linked with Kelantan in Malaysia?",
+    "answers": [
+      {
+        "text": "Dikir barat",
+        "score": 1
+      },
+      {
+        "text": "Fado",
+        "score": 0
+      },
+      {
+        "text": "Rebetiko",
+        "score": 0
+      },
+      {
+        "text": "Flamenco",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Malaysian pop star is often called the Voice of Asia?",
+    "answers": [
+      {
+        "text": "Siti Nurhaliza",
+        "score": 1
+      },
+      {
+        "text": "Sheila Majid",
+        "score": 0
+      },
+      {
+        "text": "Aina Abdul",
+        "score": 0
+      },
+      {
+        "text": "Ning Baizura",
+        "score": 0
+      }
+    ]
+  }
+]

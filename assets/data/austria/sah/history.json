@@ -1,0 +1,86 @@
+[
+  {
+    "question": "RU: What is the capital of Austria?",
+    "answers": [
+      {
+        "text": "Vienna",
+        "score": 1
+      },
+      {
+        "text": "Salzburg",
+        "score": 0
+      },
+      {
+        "text": "Graz",
+        "score": 0
+      },
+      {
+        "text": "Linz",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: In which year did the Austrian State Treaty restore full sovereignty?",
+    "answers": [
+      {
+        "text": "1955",
+        "score": 1
+      },
+      {
+        "text": "1945",
+        "score": 0
+      },
+      {
+        "text": "1961",
+        "score": 0
+      },
+      {
+        "text": "1973",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Which empire included Austria and Hungary until 1918?",
+    "answers": [
+      {
+        "text": "Austro-Hungarian Empire",
+        "score": 1
+      },
+      {
+        "text": "Holy Roman Empire",
+        "score": 0
+      },
+      {
+        "text": "Ottoman Empire",
+        "score": 0
+      },
+      {
+        "text": "German Empire",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Which major European river flows through Vienna?",
+    "answers": [
+      {
+        "text": "Danube",
+        "score": 1
+      },
+      {
+        "text": "Rhine",
+        "score": 0
+      },
+      {
+        "text": "Seine",
+        "score": 0
+      },
+      {
+        "text": "Po",
+        "score": 0
+      }
+    ]
+  }
+]

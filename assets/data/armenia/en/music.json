@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which wind instrument is strongly associated with Armenian traditional music?",
+        "answers":  [
+                        {
+                            "text":  "Duduk",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Clarinet",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Koto",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pan flute",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which priest-composer is a foundational figure of Armenian sacred and folk music?",
+        "answers":  [
+                        {
+                            "text":  "Komitas",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Arno Babajanian",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sayat-Nova",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kara Karayev",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Armenian song by Rosa Linn became a global streaming hit in 2022?",
+        "answers":  [
+                        {
+                            "text":  "Snap",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Euphoria",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Arcade",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fairytale",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the name of the ancient Armenian monodic chant tradition?",
+        "answers":  [
+                        {
+                            "text":  "Sharakan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mugham",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fado",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Canto jondo",
+                            "score":  0
+                        }
+                    ]
+    }
+]

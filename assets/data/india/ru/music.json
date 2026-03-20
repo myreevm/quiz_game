@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "RU: Which two traditions are the main systems of Indian classical music?",
+        "answers":  [
+                        {
+                            "text":  "Hindustani and Carnatic",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bhangra and Ghazal",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Qawwali and Sufi Rock",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Folk and Devotional only",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Which instrument is closely associated with Ravi Shankar?",
+        "answers":  [
+                        {
+                            "text":  "Sitar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tabla",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Veena",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sarod",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Which singer is often called the Nightingale of India?",
+        "answers":  [
+                        {
+                            "text":  "Lata Mangeshkar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Asha Bhosle",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shreya Ghoshal",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alka Yagnik",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Bhangra music and dance originated in which region?",
+        "answers":  [
+                        {
+                            "text":  "Punjab",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Goa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kerala",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Assam",
+                            "score":  0
+                        }
+                    ]
+    }
+]

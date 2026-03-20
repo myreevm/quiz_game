@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Какая шведская поп-группа победила на Евровидении в 1974 году с песней \"Waterloo\"?",
+    "answers": [
+      { "text": "ABBA", "score": 1 },
+      { "text": "Roxette", "score": 0 },
+      { "text": "Ace of Base", "score": 0 },
+      { "text": "The Cardigans", "score": 0 }
+    ]
+  },
+  {
+    "question": "Какого шведского продюсера знают по мировым поп-хитам для Taylor Swift и The Weeknd?",
+    "answers": [
+      { "text": "Max Martin", "score": 1 },
+      { "text": "Avicii", "score": 0 },
+      { "text": "Benny Andersson", "score": 0 },
+      { "text": "Timbuktu", "score": 0 }
+    ]
+  },
+  {
+    "question": "Какая шведская певица победила на Евровидении от Швеции с песней \"Euphoria\"?",
+    "answers": [
+      { "text": "Loreen", "score": 1 },
+      { "text": "Sanna Nielsen", "score": 0 },
+      { "text": "Molly Sanden", "score": 0 },
+      { "text": "Dotter", "score": 0 }
+    ]
+  },
+  {
+    "question": "Как называется традиционный шведский струнный клавишный смычковый инструмент?",
+    "answers": [
+      { "text": "Нюкельхарпа", "score": 1 },
+      { "text": "Хардангер-фиддл", "score": 0 },
+      { "text": "Кантеле", "score": 0 },
+      { "text": "Балалайка", "score": 0 }
+    ]
+  }
+]

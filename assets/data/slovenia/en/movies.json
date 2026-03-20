@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which city hosts LIFFe (Ljubljana International Film Festival)?",
+    "answers": [
+      {
+        "text": "Ljubljana",
+        "score": 1
+      },
+      {
+        "text": "Maribor",
+        "score": 0
+      },
+      {
+        "text": "Novo Mesto",
+        "score": 0
+      },
+      {
+        "text": "Kranj",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who directed the Slovenian film \"Class Enemy\" (Razredni sovraznik)?",
+    "answers": [
+      {
+        "text": "Rok Bicek",
+        "score": 1
+      },
+      {
+        "text": "Janez Burger",
+        "score": 0
+      },
+      {
+        "text": "Metod Pevec",
+        "score": 0
+      },
+      {
+        "text": "Damjan Kozole",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "\"No Man's Land\" was co-produced by Bosnia and which neighboring country?",
+    "answers": [
+      {
+        "text": "Slovenia",
+        "score": 1
+      },
+      {
+        "text": "Austria",
+        "score": 0
+      },
+      {
+        "text": "Hungary",
+        "score": 0
+      },
+      {
+        "text": "Croatia",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the primary language of most Slovenian national films?",
+    "answers": [
+      {
+        "text": "Slovene",
+        "score": 1
+      },
+      {
+        "text": "Croatian",
+        "score": 0
+      },
+      {
+        "text": "Serbian",
+        "score": 0
+      },
+      {
+        "text": "Italian",
+        "score": 0
+      }
+    ]
+  }
+]

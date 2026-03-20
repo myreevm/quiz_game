@@ -1,0 +1,86 @@
+[
+  {
+    "question": "RU: Which Portuguese director made the film \"Tabu\" (2012)?",
+    "answers": [
+      {
+        "text": "Miguel Gomes",
+        "score": 1
+      },
+      {
+        "text": "Paulo Rocha",
+        "score": 0
+      },
+      {
+        "text": "Pedro Costa",
+        "score": 0
+      },
+      {
+        "text": "Joao Botelho",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Which city hosts the Fantasporto film festival?",
+    "answers": [
+      {
+        "text": "Porto",
+        "score": 1
+      },
+      {
+        "text": "Lisbon",
+        "score": 0
+      },
+      {
+        "text": "Coimbra",
+        "score": 0
+      },
+      {
+        "text": "Braga",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Who directed the Portuguese classic \"Aniki-Bobo\"?",
+    "answers": [
+      {
+        "text": "Manoel de Oliveira",
+        "score": 1
+      },
+      {
+        "text": "Rita Azevedo Gomes",
+        "score": 0
+      },
+      {
+        "text": "Joao Cesar Monteiro",
+        "score": 0
+      },
+      {
+        "text": "Teresa Villaverde",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: What is the primary language of most films produced in Portugal?",
+    "answers": [
+      {
+        "text": "Portuguese",
+        "score": 1
+      },
+      {
+        "text": "Spanish",
+        "score": 0
+      },
+      {
+        "text": "French",
+        "score": 0
+      },
+      {
+        "text": "English",
+        "score": 0
+      }
+    ]
+  }
+]

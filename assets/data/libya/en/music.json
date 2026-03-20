@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which music style is traditionally associated with Libya?",
+    "answers": [
+      {
+        "text": "Maluf",
+        "score": 1
+      },
+      {
+        "text": "Gnawa",
+        "score": 0
+      },
+      {
+        "text": "Malouf",
+        "score": 0
+      },
+      {
+        "text": "Rai",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which instrument is commonly used in traditional music of Libya?",
+    "answers": [
+      {
+        "text": "Oud",
+        "score": 1
+      },
+      {
+        "text": "Guembri",
+        "score": 0
+      },
+      {
+        "text": "Mandole",
+        "score": 0
+      },
+      {
+        "text": "Violin",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the national anthem title of Libya?",
+    "answers": [
+      {
+        "text": "Libya, Libya, Libya",
+        "score": 1
+      },
+      {
+        "text": "Humat al-Hima",
+        "score": 0
+      },
+      {
+        "text": "Cherifian Anthem",
+        "score": 0
+      },
+      {
+        "text": "Qassaman",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which city is an important modern music center in Libya?",
+    "answers": [
+      {
+        "text": "Tripoli",
+        "score": 1
+      },
+      {
+        "text": "Tunis",
+        "score": 0
+      },
+      {
+        "text": "Essaouira",
+        "score": 0
+      },
+      {
+        "text": "Oran",
+        "score": 0
+      }
+    ]
+  }
+]

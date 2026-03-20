@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Hungarian director won the Academy Award for Best Foreign Language Film with \"Mephisto\"?",
+    "answers": [
+      { "text": "Istvan Szabo", "score": 1 },
+      { "text": "Bela Tarr", "score": 0 },
+      { "text": "Kornel Mundruczo", "score": 0 },
+      { "text": "Nimrod Antal", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Hungarian film won the Oscar for Best Foreign Language Film in 2016?",
+    "answers": [
+      { "text": "Son of Saul", "score": 1 },
+      { "text": "On Body and Soul", "score": 0 },
+      { "text": "White God", "score": 0 },
+      { "text": "Taxidermia", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which city hosts one of Hungary's main film events, the Budapest International Documentary Festival?",
+    "answers": [
+      { "text": "Budapest", "score": 1 },
+      { "text": "Miskolc", "score": 0 },
+      { "text": "Szeged", "score": 0 },
+      { "text": "Győr", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Hungarian-born actor became famous for playing Dracula in classic horror cinema?",
+    "answers": [
+      { "text": "Bela Lugosi", "score": 1 },
+      { "text": "Peter Lorre", "score": 0 },
+      { "text": "Christopher Lee", "score": 0 },
+      { "text": "Lon Chaney", "score": 0 }
+    ]
+  }
+]

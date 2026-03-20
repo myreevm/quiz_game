@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Who was Singapore's first prime minister?",
+    "answers": [
+      {
+        "text": "Lee Kuan Yew",
+        "score": 1
+      },
+      {
+        "text": "Goh Chok Tong",
+        "score": 0
+      },
+      {
+        "text": "S. R. Nathan",
+        "score": 0
+      },
+      {
+        "text": "Tharman Shanmugaratnam",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Singaporean swimmer won Olympic gold in Rio 2016?",
+    "answers": [
+      {
+        "text": "Joseph Schooling",
+        "score": 1
+      },
+      {
+        "text": "Quah Zheng Wen",
+        "score": 0
+      },
+      {
+        "text": "Mark Chay",
+        "score": 0
+      },
+      {
+        "text": "Tao Li",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Singaporean singer-songwriter is known across Asia as JJ Lin?",
+    "answers": [
+      {
+        "text": "Lin Junjie",
+        "score": 1
+      },
+      {
+        "text": "Nathan Hartono",
+        "score": 0
+      },
+      {
+        "text": "Taufik Batisah",
+        "score": 0
+      },
+      {
+        "text": "Kit Chan",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Singaporean filmmaker directed Ilo Ilo?",
+    "answers": [
+      {
+        "text": "Anthony Chen",
+        "score": 1
+      },
+      {
+        "text": "Eric Khoo",
+        "score": 0
+      },
+      {
+        "text": "Boo Junfeng",
+        "score": 0
+      },
+      {
+        "text": "Jack Neo",
+        "score": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Finnish composer wrote the symphonic poem \"Finlandia\"?",
+    "answers": [
+      { "text": "Jean Sibelius", "score": 1 },
+      { "text": "Edvard Grieg", "score": 0 },
+      { "text": "Carl Nielsen", "score": 0 },
+      { "text": "Arvo Part", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Finnish military leader and statesman later became president?",
+    "answers": [
+      { "text": "Carl Gustaf Emil Mannerheim", "score": 1 },
+      { "text": "Urho Kekkonen", "score": 0 },
+      { "text": "Juho Paasikivi", "score": 0 },
+      { "text": "Risto Ryti", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Finnish software engineer created the Linux kernel?",
+    "answers": [
+      { "text": "Linus Torvalds", "score": 1 },
+      { "text": "Dennis Ritchie", "score": 0 },
+      { "text": "Bjarne Stroustrup", "score": 0 },
+      { "text": "Guido van Rossum", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Finnish writer created the Moomin characters?",
+    "answers": [
+      { "text": "Tove Jansson", "score": 1 },
+      { "text": "Astrid Lindgren", "score": 0 },
+      { "text": "Selma Lagerlof", "score": 0 },
+      { "text": "Sofi Oksanen", "score": 0 }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Norwegian actor played the lead in \"Headhunters\" (2011)?",
+    "answers": [
+      { "text": "Aksel Hennie", "score": 1 },
+      { "text": "Kristofer Hivju", "score": 0 },
+      { "text": "Nicolai Cleve Broch", "score": 0 },
+      { "text": "Pål Sverre Hagen", "score": 0 }
+    ]
+  },
+  {
+    "question": "\"Kon-Tiki\" (2012) tells the expedition story of which Norwegian explorer?",
+    "answers": [
+      { "text": "Thor Heyerdahl", "score": 1 },
+      { "text": "Roald Amundsen", "score": 0 },
+      { "text": "Fridtjof Nansen", "score": 0 },
+      { "text": "Erling Kagge", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Norwegian filmmaker directed \"The Worst Person in the World\"?",
+    "answers": [
+      { "text": "Joachim Trier", "score": 1 },
+      { "text": "Bent Hamer", "score": 0 },
+      { "text": "Erik Poppe", "score": 0 },
+      { "text": "Morten Tyldum", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which city hosts the Tromso International Film Festival?",
+    "answers": [
+      { "text": "Tromso", "score": 1 },
+      { "text": "Oslo", "score": 0 },
+      { "text": "Bergen", "score": 0 },
+      { "text": "Trondheim", "score": 0 }
+    ]
+  }
+]

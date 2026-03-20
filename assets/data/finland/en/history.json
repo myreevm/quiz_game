@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "In which year did Finland declare independence?",
+    "answers": [
+      { "text": "1917", "score": 1 },
+      { "text": "1905", "score": 0 },
+      { "text": "1939", "score": 0 },
+      { "text": "1945", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which country did Finland fight in the Winter War of 1939-1940?",
+    "answers": [
+      { "text": "Soviet Union", "score": 1 },
+      { "text": "Germany", "score": 0 },
+      { "text": "Sweden", "score": 0 },
+      { "text": "United Kingdom", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the capital of Finland?",
+    "answers": [
+      { "text": "Helsinki", "score": 1 },
+      { "text": "Turku", "score": 0 },
+      { "text": "Tampere", "score": 0 },
+      { "text": "Oulu", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Finland join the European Union?",
+    "answers": [
+      { "text": "1995", "score": 1 },
+      { "text": "1989", "score": 0 },
+      { "text": "2004", "score": 0 },
+      { "text": "2012", "score": 0 }
+    ]
+  }
+]

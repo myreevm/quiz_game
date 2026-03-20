@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In which year did Armenia adopt Christianity as a state religion?",
+        "answers":  [
+                        {
+                            "text":  "301",
+                            "score":  1
+                        },
+                        {
+                            "text":  "451",
+                            "score":  0
+                        },
+                        {
+                            "text":  "988",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1054",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the capital of Armenia?",
+        "answers":  [
+                        {
+                            "text":  "Yerevan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Gyumri",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vanadzor",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kutaisi",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who created the Armenian alphabet in the early 5th century?",
+        "answers":  [
+                        {
+                            "text":  "Mesrop Mashtots",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Movses Khorenatsi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Grigor Narekatsi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vardan Mamikonian",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In what year did Armenia declare independence from the USSR?",
+        "answers":  [
+                        {
+                            "text":  "1991",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1988",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1995",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2004",
+                            "score":  0
+                        }
+                    ]
+    }
+]

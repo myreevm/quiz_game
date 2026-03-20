@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Norwegian painter created \"The Scream\"?",
+    "answers": [
+      { "text": "Edvard Munch", "score": 1 },
+      { "text": "Gustav Vigeland", "score": 0 },
+      { "text": "Johan Christian Dahl", "score": 0 },
+      { "text": "Peder Balke", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Norwegian playwright wrote \"A Doll's House\"?",
+    "answers": [
+      { "text": "Henrik Ibsen", "score": 1 },
+      { "text": "Knut Hamsun", "score": 0 },
+      { "text": "Bjørnstjerne Bjørnson", "score": 0 },
+      { "text": "Sigrid Undset", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Norwegian explorer led the first expedition to reach the South Pole?",
+    "answers": [
+      { "text": "Roald Amundsen", "score": 1 },
+      { "text": "Fridtjof Nansen", "score": 0 },
+      { "text": "Thor Heyerdahl", "score": 0 },
+      { "text": "Leif Erikson", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Norwegian chess player became World Champion in 2013?",
+    "answers": [
+      { "text": "Magnus Carlsen", "score": 1 },
+      { "text": "Johan Salomon", "score": 0 },
+      { "text": "Aryan Tari", "score": 0 },
+      { "text": "Simen Agdestein", "score": 0 }
+    ]
+  }
+]

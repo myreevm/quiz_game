@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which ruler founded the Mongol Empire in 1206?",
+        "answers":  [
+                        {
+                            "text":  "Genghis Khan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kublai Khan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tamerlane",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Batu Khan",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Mongolian judoka won the country\u0027s first Olympic gold medal in 2008?",
+        "answers":  [
+                        {
+                            "text":  "Naidangiin Tuvshinbayar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Dorjsuren Sumiya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Otgontsetseg Galbadrakh",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Saeid Mollaei",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which writer is considered a founder of modern Mongolian literature?",
+        "answers":  [
+                        {
+                            "text":  "Dashdorjiin Natsagdorj",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Chinghiz Aitmatov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rabindranath Tagore",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Orhan Pamuk",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which politician became President of Mongolia in 2017?",
+        "answers":  [
+                        {
+                            "text":  "Khaltmaagiin Battulga",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nambaryn Enkhbayar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ukhnaagiin Khurelsukh",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tsakhiagiin Elbegdorj",
+                            "score":  0
+                        }
+                    ]
+    }
+]

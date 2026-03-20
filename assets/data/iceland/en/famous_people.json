@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Icelandic singer became globally known with solo hits like \"Human Behaviour\"?",
+    "answers": [
+      { "text": "Björk", "score": 1 },
+      { "text": "Emiliana Torrini", "score": 0 },
+      { "text": "Laufey", "score": 0 },
+      { "text": "Hera Björk", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Icelandic writer won the Nobel Prize in Literature in 1955?",
+    "answers": [
+      { "text": "Halldór Laxness", "score": 1 },
+      { "text": "Sjón", "score": 0 },
+      { "text": "Arnaldur Indriðason", "score": 0 },
+      { "text": "Jón Kalman Stefánsson", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which explorer linked to Icelandic saga heritage is credited with reaching North America before Columbus?",
+    "answers": [
+      { "text": "Leif Erikson", "score": 1 },
+      { "text": "Erik the Red", "score": 0 },
+      { "text": "Snorri Sturluson", "score": 0 },
+      { "text": "Thorvald Kodransson", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Icelandic strongman won the title \"World's Strongest Man\" in 2018?",
+    "answers": [
+      { "text": "Hafthor Bjornsson", "score": 1 },
+      { "text": "Magnus Ver Magnusson", "score": 0 },
+      { "text": "Jon Pall Sigmarsson", "score": 0 },
+      { "text": "Zydrunas Savickas", "score": 0 }
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Bollywood is primarily based in which Indian city?",
+        "answers":  [
+                        {
+                            "text":  "Mumbai",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Delhi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kolkata",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hyderabad",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who directed and produced the 1913 film Raja Harishchandra?",
+        "answers":  [
+                        {
+                            "text":  "Dadasaheb Phalke",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Satyajit Ray",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Raj Kapoor",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Guru Dutt",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Indian film won an Academy Award for the song Naatu Naatu?",
+        "answers":  [
+                        {
+                            "text":  "RRR",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lagaan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dangal",
+                            "score":  0
+                        },
+                        {
+                            "text":  "3 Idiots",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which actor is popularly known as King Khan in Indian cinema?",
+        "answers":  [
+                        {
+                            "text":  "Shah Rukh Khan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Aamir Khan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Salman Khan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hrithik Roshan",
+                            "score":  0
+                        }
+                    ]
+    }
+]

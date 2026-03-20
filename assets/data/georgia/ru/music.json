@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Kakaya vokalnaya traditsiya Gruzii vklyuchena v spisok nematerialnogo naslediya UNESCO?",
+        "answers":  [
+                        {
+                            "text":  "Gruzinskoe mnogogolosie",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yodel",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Canto a tenore",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tuvinskoe gorlovoe penie",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakoy strunnyy instrument rasprostranen v gruzinskoy narodnoy muzyke?",
+        "answers":  [
+                        {
+                            "text":  "Panduri",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Shamisen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Buzuki",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Balalayka",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakaya pevitsa, rozhdennaya v Gruzii, izvestna pesney \u0027Nine Million Bicycles\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Katie Melua",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bjork",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lorde",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dido",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kak nazyvaetsya izvestnyy gruzinskiy voennyy tanets, kotoromu chasto soprovozhdaet energichnaya muzyka?",
+        "answers":  [
+                        {
+                            "text":  "Khorumi",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sirtaki",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tarantella",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chardash",
+                            "score":  0
+                        }
+                    ]
+    }
+]

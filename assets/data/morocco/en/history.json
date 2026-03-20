@@ -1,0 +1,86 @@
+[
+  {
+    "question": "In which year did Morocco gain independence in its modern form?",
+    "answers": [
+      {
+        "text": "1956",
+        "score": 1
+      },
+      {
+        "text": "1951",
+        "score": 0
+      },
+      {
+        "text": "1962",
+        "score": 0
+      },
+      {
+        "text": "1948",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the capital of Morocco?",
+    "answers": [
+      {
+        "text": "Rabat",
+        "score": 1
+      },
+      {
+        "text": "Tunis",
+        "score": 0
+      },
+      {
+        "text": "Tripoli",
+        "score": 0
+      },
+      {
+        "text": "Algiers",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which year is a key turning point in the recent history of Morocco?",
+    "answers": [
+      {
+        "text": "1975",
+        "score": 1
+      },
+      {
+        "text": "1954",
+        "score": 0
+      },
+      {
+        "text": "1969",
+        "score": 0
+      },
+      {
+        "text": "2011",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which historical site is located in Morocco?",
+    "answers": [
+      {
+        "text": "Fez",
+        "score": 1
+      },
+      {
+        "text": "Carthage",
+        "score": 0
+      },
+      {
+        "text": "Leptis Magna",
+        "score": 0
+      },
+      {
+        "text": "Timgad",
+        "score": 0
+      }
+    ]
+  }
+]

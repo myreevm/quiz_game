@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which traditional arched harp is iconic in Myanmar music?",
+        "answers":  [
+                        {
+                            "text":  "Saung gauk",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Koto",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sitar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Erhu",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the name of the classical Myanmar song repertoire?",
+        "answers":  [
+                        {
+                            "text":  "Mahagita",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Luk thung",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gamelan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pansori",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the title of the national anthem of Myanmar?",
+        "answers":  [
+                        {
+                            "text":  "Kaba Ma Kyei",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mingalaba",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Myo Daw",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shwe Ingyin",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which April festival in Myanmar is famous for water celebrations and music?",
+        "answers":  [
+                        {
+                            "text":  "Thingyan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Thadingyut",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tazaungdaing",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Waso",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Serbian director won the Palme d'Or at Cannes for \"Underground\" in 1995?",
+    "answers": [
+      { "text": "Emir Kusturica", "score": 1 },
+      { "text": "Goran Markovic", "score": 0 },
+      { "text": "Srdan Golubovic", "score": 0 },
+      { "text": "Darko Bajic", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which annual film event in Belgrade is one of the biggest in Serbia?",
+    "answers": [
+      { "text": "FEST", "score": 1 },
+      { "text": "Kustendorf Music Week", "score": 0 },
+      { "text": "Belgrade Doc Fair", "score": 0 },
+      { "text": "Serbian Film Expo", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Serbian actor became internationally known for his role in the film \"Montevideo, Taste of a Dream\"?",
+    "answers": [
+      { "text": "Milos Bikovic", "score": 1 },
+      { "text": "Dragan Bjelogrlic", "score": 0 },
+      { "text": "Nikola Ristanovski", "score": 0 },
+      { "text": "Boris Milivojevic", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Serbian village is associated with Kusturica's film festival Kustendorf?",
+    "answers": [
+      { "text": "Drvengrad (Mecavnik)", "score": 1 },
+      { "text": "Sirogojno", "score": 0 },
+      { "text": "Zlatibor", "score": 0 },
+      { "text": "Mokra Gora", "score": 0 }
+    ]
+  }
+]

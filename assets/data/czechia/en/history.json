@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "What is the capital city of Czechia?",
+    "answers": [
+      { "text": "Prague", "score": 1 },
+      { "text": "Brno", "score": 0 },
+      { "text": "Ostrava", "score": 0 },
+      { "text": "Plzen", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Czechoslovakia peacefully split into Czechia and Slovakia?",
+    "answers": [
+      { "text": "1993", "score": 1 },
+      { "text": "1989", "score": 0 },
+      { "text": "1991", "score": 0 },
+      { "text": "1995", "score": 0 }
+    ]
+  },
+  {
+    "question": "The Velvet Revolution in Czechoslovakia took place in which year?",
+    "answers": [
+      { "text": "1989", "score": 1 },
+      { "text": "1968", "score": 0 },
+      { "text": "1977", "score": 0 },
+      { "text": "1993", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Czechia join the European Union?",
+    "answers": [
+      { "text": "2004", "score": 1 },
+      { "text": "1999", "score": 0 },
+      { "text": "2007", "score": 0 },
+      { "text": "2011", "score": 0 }
+    ]
+  }
+]

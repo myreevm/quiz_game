@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Azerbaijani composer wrote the opera \u0027Leyli and Majnun\u0027 in 1908?",
+        "answers":  [
+                        {
+                            "text":  "Uzeyir Hajibeyov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kara Karayev",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fikret Amirov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Arif Melikov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which world chess champion was born in Baku in 1963?",
+        "answers":  [
+                        {
+                            "text":  "Garry Kasparov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Anatoly Karpov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Magnus Carlsen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Viswanathan Anand",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which former president is associated with the political legacy of modern Azerbaijan?",
+        "answers":  [
+                        {
+                            "text":  "Heydar Aliyev",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Abulfaz Elchibey",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Levon Ter-Petrosyan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eduard Shevardnadze",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which classical poet from Ganja is a major figure in Azerbaijani heritage?",
+        "answers":  [
+                        {
+                            "text":  "Nizami Ganjavi",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Omar Khayyam",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ferdowsi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alisher Navoi",
+                            "score":  0
+                        }
+                    ]
+    }
+]

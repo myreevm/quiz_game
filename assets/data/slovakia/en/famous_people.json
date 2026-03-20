@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Slovak politician became a symbol of the Prague Spring reforms in 1968?",
+    "answers": [
+      { "text": "Alexander Dubcek", "score": 1 },
+      { "text": "Vaclav Havel", "score": 0 },
+      { "text": "Gustav Husak", "score": 0 },
+      { "text": "Jozef Tiso", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Slovak-born astronomer and statesman is one of the founders of Czechoslovakia?",
+    "answers": [
+      { "text": "Milan Rastislav Stefanik", "score": 1 },
+      { "text": "Ludovit Stur", "score": 0 },
+      { "text": "Andrej Hlinka", "score": 0 },
+      { "text": "Jozef Miloslav Hurban", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Slovak cyclist won the UCI Road World Championship three times in a row (2015-2017)?",
+    "answers": [
+      { "text": "Peter Sagan", "score": 1 },
+      { "text": "Erik Zabel", "score": 0 },
+      { "text": "Roman Kreuziger", "score": 0 },
+      { "text": "Zdenek Stybar", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which codifier of the modern Slovak literary language was a key national revival figure?",
+    "answers": [
+      { "text": "Ludovit Stur", "score": 1 },
+      { "text": "Pavol Orszagh Hviezdoslav", "score": 0 },
+      { "text": "Janko Kral", "score": 0 },
+      { "text": "Milan Rufus", "score": 0 }
+    ]
+  }
+]

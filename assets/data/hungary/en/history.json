@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "What is the capital city of Hungary?",
+    "answers": [
+      { "text": "Budapest", "score": 1 },
+      { "text": "Debrecen", "score": 0 },
+      { "text": "Szeged", "score": 0 },
+      { "text": "Pecs", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did the Hungarian Revolution against Soviet control take place?",
+    "answers": [
+      { "text": "1956", "score": 1 },
+      { "text": "1945", "score": 0 },
+      { "text": "1968", "score": 0 },
+      { "text": "1981", "score": 0 }
+    ]
+  },
+  {
+    "question": "Who was the first king of Hungary, crowned around the year 1000?",
+    "answers": [
+      { "text": "Stephen I", "score": 1 },
+      { "text": "Matthias Corvinus", "score": 0 },
+      { "text": "Louis the Great", "score": 0 },
+      { "text": "Bela IV", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Hungary join the European Union?",
+    "answers": [
+      { "text": "2004", "score": 1 },
+      { "text": "1999", "score": 0 },
+      { "text": "2007", "score": 0 },
+      { "text": "2013", "score": 0 }
+    ]
+  }
+]

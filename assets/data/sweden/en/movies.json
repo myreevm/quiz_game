@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "Which Swedish director won the Cannes Palme d'Or for \"The Square\"?",
+    "answers": [
+      { "text": "Ruben Ostlund", "score": 1 },
+      { "text": "Ingmar Bergman", "score": 0 },
+      { "text": "Lasse Hallstrom", "score": 0 },
+      { "text": "Jan Troell", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Swedish actress won an Oscar for \"The Danish Girl\"?",
+    "answers": [
+      { "text": "Alicia Vikander", "score": 1 },
+      { "text": "Noomi Rapace", "score": 0 },
+      { "text": "Rebecca Ferguson", "score": 0 },
+      { "text": "Eva Green", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which city hosts the Goteborg Film Festival, one of Scandinavia's largest?",
+    "answers": [
+      { "text": "Gothenburg", "score": 1 },
+      { "text": "Stockholm", "score": 0 },
+      { "text": "Umea", "score": 0 },
+      { "text": "Lund", "score": 0 }
+    ]
+  },
+  {
+    "question": "The film \"Fanny and Alexander\" was directed by which Swedish filmmaker?",
+    "answers": [
+      { "text": "Ingmar Bergman", "score": 1 },
+      { "text": "Tomas Alfredson", "score": 0 },
+      { "text": "Roy Andersson", "score": 0 },
+      { "text": "Lukas Moodysson", "score": 0 }
+    ]
+  }
+]

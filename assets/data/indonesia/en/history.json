@@ -1,0 +1,86 @@
+[
+  {
+    "question": "In which year did Indonesia proclaim independence?",
+    "answers": [
+      {
+        "text": "1945",
+        "score": 1
+      },
+      {
+        "text": "1935",
+        "score": 0
+      },
+      {
+        "text": "1950",
+        "score": 0
+      },
+      {
+        "text": "1965",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the current capital of Indonesia?",
+    "answers": [
+      {
+        "text": "Jakarta",
+        "score": 1
+      },
+      {
+        "text": "Bandung",
+        "score": 0
+      },
+      {
+        "text": "Surabaya",
+        "score": 0
+      },
+      {
+        "text": "Medan",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the currency of Indonesia?",
+    "answers": [
+      {
+        "text": "Rupiah",
+        "score": 1
+      },
+      {
+        "text": "Ringgit",
+        "score": 0
+      },
+      {
+        "text": "Baht",
+        "score": 0
+      },
+      {
+        "text": "Peso",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which island is the most populous in Indonesia?",
+    "answers": [
+      {
+        "text": "Java",
+        "score": 1
+      },
+      {
+        "text": "Sumatra",
+        "score": 0
+      },
+      {
+        "text": "Borneo",
+        "score": 0
+      },
+      {
+        "text": "Sulawesi",
+        "score": 0
+      }
+    ]
+  }
+]

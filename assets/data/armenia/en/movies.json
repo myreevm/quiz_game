@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Who directed the film \u0027The Color of Pomegranates\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Sergei Parajanov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Atom Egoyan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Frunze Dovlatyan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Andrei Tarkovsky",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the name of the historic state film studio of Armenia?",
+        "answers":  [
+                        {
+                            "text":  "Armenfilm",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Azerbaijanfilm",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Georgia-Film",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Belarusfilm",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Armenian-Canadian director made the film \u0027Ararat\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Atom Egoyan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Denys Arcand",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Asghar Farhadi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Emir Kusturica",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which early Armenian silent film is associated with director Hamo Beknazarian?",
+        "answers":  [
+                        {
+                            "text":  "Namus",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Cranes Are Flying",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Repentance",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Time of the Gypsies",
+                            "score":  0
+                        }
+                    ]
+    }
+]

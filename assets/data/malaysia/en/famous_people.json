@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which Malaysian prime minister is known as the father of modernization?",
+    "answers": [
+      {
+        "text": "Mahathir Mohamad",
+        "score": 1
+      },
+      {
+        "text": "Abdullah Ahmad Badawi",
+        "score": 0
+      },
+      {
+        "text": "Najib Razak",
+        "score": 0
+      },
+      {
+        "text": "Anwar Ibrahim",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Malaysian badminton player won Olympic silver medals in 2012, 2016, and 2020?",
+    "answers": [
+      {
+        "text": "Lee Chong Wei",
+        "score": 1
+      },
+      {
+        "text": "Cheah Soon Kit",
+        "score": 0
+      },
+      {
+        "text": "Koo Kien Keat",
+        "score": 0
+      },
+      {
+        "text": "Soh Wooi Yik",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which legendary Malaysian actor and filmmaker is associated with the Bujang Lapok films?",
+    "answers": [
+      {
+        "text": "P. Ramlee",
+        "score": 1
+      },
+      {
+        "text": "Jins Shamsuddin",
+        "score": 0
+      },
+      {
+        "text": "M. Daud Kilau",
+        "score": 0
+      },
+      {
+        "text": "Shah Rukh Khan",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Malaysian squash champion was ranked world number one for many years?",
+    "answers": [
+      {
+        "text": "Nicol David",
+        "score": 1
+      },
+      {
+        "text": "Low Wee Wern",
+        "score": 0
+      },
+      {
+        "text": "Rachel Arnold",
+        "score": 0
+      },
+      {
+        "text": "Delia Arnold",
+        "score": 0
+      }
+    ]
+  }
+]

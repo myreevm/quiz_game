@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which Malaysian director made the film Muallaf and Sepet?",
+    "answers": [
+      {
+        "text": "Yasmin Ahmad",
+        "score": 1
+      },
+      {
+        "text": "James Wan",
+        "score": 0
+      },
+      {
+        "text": "U-Wei Haji Saari",
+        "score": 0
+      },
+      {
+        "text": "Ho Yuhang",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which city hosts the Malaysia International Film Festival events?",
+    "answers": [
+      {
+        "text": "Kuala Lumpur",
+        "score": 1
+      },
+      {
+        "text": "Kuching",
+        "score": 0
+      },
+      {
+        "text": "Ipoh",
+        "score": 0
+      },
+      {
+        "text": "Malacca City",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "P. Ramlee is best known in Malaysia as a major figure in which field?",
+    "answers": [
+      {
+        "text": "Classic cinema",
+        "score": 1
+      },
+      {
+        "text": "Architecture",
+        "score": 0
+      },
+      {
+        "text": "Astronomy",
+        "score": 0
+      },
+      {
+        "text": "Motor racing",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the primary language of many mainstream Malaysian films?",
+    "answers": [
+      {
+        "text": "Malay",
+        "score": 1
+      },
+      {
+        "text": "Thai",
+        "score": 0
+      },
+      {
+        "text": "Korean",
+        "score": 0
+      },
+      {
+        "text": "Arabic",
+        "score": 0
+      }
+    ]
+  }
+]

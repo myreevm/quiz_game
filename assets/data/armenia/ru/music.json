@@ -1,0 +1,87 @@
+﻿[
+    {
+        "question":  "Kakoy dukhovoy instrument silno svyazan s traditsionnoy muzykou Armenii?",
+        "answers":  [
+                        {
+                            "text":  "Duduk",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Klarinet",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Koto",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Panfleyta",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakogo svyashchennika-kompozitora schitayut osnovopolozhnikom armyanskoy dukhovnoy i narodnoy muzyki?",
+        "answers":  [
+                        {
+                            "text":  "Komitas",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Arno Babadzhanyan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sayat-Nova",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kara Karaev",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakaya pesnya Rosy Linn iz Armenii stala mirovym striming-khitom v 2022 godu?",
+        "answers":  [
+                        {
+                            "text":  "Snap",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Euphoria",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Arcade",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fairytale",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kak nazyvaetsya drevnyaya traditsiya odnogolosnogo armyanskogo tserkovnogo peniya?",
+        "answers":  [
+                        {
+                            "text":  "Sharakan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mugam",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fado",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Canto jondo",
+                            "score":  0
+                        }
+                    ]
+    }
+]
+

@@ -1,0 +1,86 @@
+[
+  {
+    "question": "RU: In which present-day Croatian village was Nikola Tesla born?",
+    "answers": [
+      {
+        "text": "Smiljan",
+        "score": 1
+      },
+      {
+        "text": "Split",
+        "score": 0
+      },
+      {
+        "text": "Osijek",
+        "score": 0
+      },
+      {
+        "text": "Rijeka",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Which Croatian footballer captained the team at the 2018 FIFA World Cup final?",
+    "answers": [
+      {
+        "text": "Luka Modric",
+        "score": 1
+      },
+      {
+        "text": "Ivan Rakitic",
+        "score": 0
+      },
+      {
+        "text": "Mario Mandzukic",
+        "score": 0
+      },
+      {
+        "text": "Dejan Lovren",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Which inventor from Croatia created the mechanical pencil known as \"Penkala\"?",
+    "answers": [
+      {
+        "text": "Slavoljub Eduard Penkala",
+        "score": 1
+      },
+      {
+        "text": "Andrija Mohorovicic",
+        "score": 0
+      },
+      {
+        "text": "Faust Vrancic",
+        "score": 0
+      },
+      {
+        "text": "Ivan Lupis",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "RU: Which Croatian basketball legend was nicknamed the \"Mozart of Basketball\"?",
+    "answers": [
+      {
+        "text": "Drazen Petrovic",
+        "score": 1
+      },
+      {
+        "text": "Toni Kukoc",
+        "score": 0
+      },
+      {
+        "text": "Bojan Bogdanovic",
+        "score": 0
+      },
+      {
+        "text": "Kresimir Cosic",
+        "score": 0
+      }
+    ]
+  }
+]

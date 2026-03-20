@@ -1,0 +1,38 @@
+﻿[
+  {
+    "question": "In which year did Sweden leave the Kalmar Union under Gustav Vasa?",
+    "answers": [
+      { "text": "1523", "score": 1 },
+      { "text": "1492", "score": 0 },
+      { "text": "1648", "score": 0 },
+      { "text": "1718", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the capital city of Sweden?",
+    "answers": [
+      { "text": "Stockholm", "score": 1 },
+      { "text": "Gothenburg", "score": 0 },
+      { "text": "Malmo", "score": 0 },
+      { "text": "Uppsala", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which war did Sweden lose Finland to Russia in 1809?",
+    "answers": [
+      { "text": "Finnish War", "score": 1 },
+      { "text": "Great Northern War", "score": 0 },
+      { "text": "Crimean War", "score": 0 },
+      { "text": "Seven Years' War", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Sweden join the European Union?",
+    "answers": [
+      { "text": "1995", "score": 1 },
+      { "text": "1986", "score": 0 },
+      { "text": "2004", "score": 0 },
+      { "text": "2010", "score": 0 }
+    ]
+  }
+]

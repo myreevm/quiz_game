@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "RU: What is the capital city of Laos?",
+        "answers":  [
+                        {
+                            "text":  "Vientiane",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Luang Prabang",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pakse",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Savannakhet",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: In which year did Laos gain full independence from France?",
+        "answers":  [
+                        {
+                            "text":  "1953",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1945",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1961",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1975",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: The phrase Land of a Million Elephants refers to which historical Lao kingdom?",
+        "answers":  [
+                        {
+                            "text":  "Lan Xang",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ayutthaya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sukhothai",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Khmer Empire",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: In which year did Laos become a French protectorate?",
+        "answers":  [
+                        {
+                            "text":  "1893",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1867",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1912",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1939",
+                            "score":  0
+                        }
+                    ]
+    }
+]

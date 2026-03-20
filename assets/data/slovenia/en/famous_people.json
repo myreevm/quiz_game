@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which Slovenian basketball star played for the Dallas Mavericks?",
+    "answers": [
+      {
+        "text": "Luka Doncic",
+        "score": 1
+      },
+      {
+        "text": "Goran Dragic",
+        "score": 0
+      },
+      {
+        "text": "Vlatko Cancar",
+        "score": 0
+      },
+      {
+        "text": "Bostjan Nachbar",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Slovenian philosopher and cultural critic is globally known?",
+    "answers": [
+      {
+        "text": "Slavoj Zizek",
+        "score": 1
+      },
+      {
+        "text": "Mladen Dolar",
+        "score": 0
+      },
+      {
+        "text": "Alenka Zupancic",
+        "score": 0
+      },
+      {
+        "text": "Boris Pahor",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Protestant reformer wrote the first books in Slovene?",
+    "answers": [
+      {
+        "text": "Primoz Trubar",
+        "score": 1
+      },
+      {
+        "text": "France Preseren",
+        "score": 0
+      },
+      {
+        "text": "Ivan Cankar",
+        "score": 0
+      },
+      {
+        "text": "Edvard Kardelj",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Slovenian sport climber became an Olympic champion?",
+    "answers": [
+      {
+        "text": "Janja Garnbret",
+        "score": 1
+      },
+      {
+        "text": "Mina Markovic",
+        "score": 0
+      },
+      {
+        "text": "Natalija Gros",
+        "score": 0
+      },
+      {
+        "text": "Mia Krampl",
+        "score": 0
+      }
+    ]
+  }
+]

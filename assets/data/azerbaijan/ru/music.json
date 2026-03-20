@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Kak nazyvaetsya traditsionnoe modalnoe iskusstvo muzyki Azerbaydzhana?",
+        "answers":  [
+                        {
+                            "text":  "Mugam",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Flamenko",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rai",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Son kubano",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakoy strunnyy instrument yavlyaetsya klyuchevym v ansamblyakh mugama?",
+        "answers":  [
+                        {
+                            "text":  "Tar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Skripka",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Banzho",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Arfa",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakoy duet vyigral Evrovidenie-2011 dlya Azerbaydzhana?",
+        "answers":  [
+                        {
+                            "text":  "Ell \u0026 Nikki",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jedward",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lena \u0026 Nico",
+                            "score":  0
+                        },
+                        {
+                            "text":  "MaNga",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kakogo azerbaydzhanskogo baritona schitayut mezhdunarodnoy zvezdoy XX veka?",
+        "answers":  [
+                        {
+                            "text":  "Muslim Magomaev",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Placido Domingo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ilkham Nazarov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Polad Byulbyulogly",
+                            "score":  0
+                        }
+                    ]
+    }
+]

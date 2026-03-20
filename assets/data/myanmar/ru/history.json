@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "RU: In which year did Myanmar gain independence from Britain?",
+        "answers":  [
+                        {
+                            "text":  "1948",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1945",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1952",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1960",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: In which year was the official name changed from Burma to Myanmar?",
+        "answers":  [
+                        {
+                            "text":  "1989",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1978",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1995",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2001",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Which city became the capital of Myanmar in 2005?",
+        "answers":  [
+                        {
+                            "text":  "Naypyidaw",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yangon",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mandalay",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bagan",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: The Third Anglo-Burmese War ended in which year?",
+        "answers":  [
+                        {
+                            "text":  "1885",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1872",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1899",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1908",
+                            "score":  0
+                        }
+                    ]
+    }
+]
