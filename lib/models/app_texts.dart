@@ -496,6 +496,23 @@ class AppTexts {
             en: 'Serbia',
             ru: '\u0421\u0435\u0440\u0431\u0438\u044F',
             yakut: '\u0421\u0435\u0440\u0431\u0438\u044F');
+      case 'bosnia_and_herzegovina':
+        return _select(
+            en: 'Bosnia and Herzegovina',
+            ru:
+                '\u0411\u043e\u0441\u043d\u0438\u044f \u0438 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430',
+            yakut:
+                '\u0411\u043e\u0441\u043d\u0438\u044f \u0438 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430');
+      case 'albania':
+        return _select(
+            en: 'Albania',
+            ru: '\u0410\u043b\u0431\u0430\u043d\u0438\u044f',
+            yakut: '\u0410\u043b\u0431\u0430\u043d\u0438\u044f');
+      case 'montenegro':
+        return _select(
+            en: 'Montenegro',
+            ru: '\u0427\u0435\u0440\u043d\u043e\u0433\u043e\u0440\u0438\u044f',
+            yakut: '\u0427\u0435\u0440\u043d\u043e\u0433\u043e\u0440\u0438\u044f');
       case 'norway':
         return _select(
             en: 'Norway',
@@ -670,6 +687,102 @@ class AppTexts {
           en: 'Argentina',
           ru: '\u0410\u0440\u0433\u0435\u043D\u0442\u0438\u043D\u0430',
           yakut: '\u0410\u0440\u0433\u0435\u043D\u0442\u0438\u043D\u0430',
+        );
+      case 'chile':
+        return _select(
+          en: 'Chile',
+          ru: 'Р§РёР»Рё',
+          yakut: 'Р§РёР»Рё',
+        );
+      case 'peru':
+        return _select(
+          en: 'Peru',
+          ru: 'РџРµСЂСѓ',
+          yakut: 'РџРµСЂСѓ',
+        );
+      case 'bolivia':
+        return _select(
+          en: 'Bolivia',
+          ru: 'Р‘РѕР»РёРІРёСЏ',
+          yakut: 'Р‘РѕР»РёРІРёСЏ',
+        );
+      case 'cuba':
+        return _select(
+          en: 'Cuba',
+          ru: '\u041A\u0443\u0431\u0430',
+          yakut: '\u041A\u0443\u0443\u0431\u0430',
+        );
+      case 'panama':
+        return _select(
+          en: 'Panama',
+          ru: '\u041F\u0430\u043D\u0430\u043C\u0430',
+          yakut: '\u041F\u0430\u043D\u0430\u043C\u0430',
+        );
+      case 'ecuador':
+        return _select(
+          en: 'Ecuador',
+          ru: '\u042D\u043A\u0432\u0430\u0434\u043E\u0440',
+          yakut: '\u042D\u043A\u0432\u0430\u0434\u043E\u0440',
+        );
+      case 'colombia':
+        return _select(
+          en: 'Colombia',
+          ru: '\u041A\u043E\u043B\u0443\u043C\u0431\u0438\u044F',
+          yakut: '\u041A\u043E\u043B\u0443\u043C\u0431\u0438\u044F',
+        );
+      case 'bhutan':
+        return _select(
+          en: 'Bhutan',
+          ru: '\u0411\u0443\u0442\u0430\u043D',
+          yakut: '\u0411\u0443\u0442\u0430\u043D',
+        );
+      case 'philippines':
+        return _select(
+          en: 'Philippines',
+          ru: '\u0424\u0438\u043B\u0438\u043F\u043F\u0438\u043D\u044B',
+          yakut: '\u0424\u0438\u043B\u0438\u043F\u043F\u0438\u043D\u043D\u044D\u0440',
+        );
+      case 'maldives':
+        return _select(
+          en: 'Maldives',
+          ru: '\u041C\u0430\u043B\u044C\u0434\u0438\u0432\u044B',
+          yakut: '\u041C\u0430\u043B\u044C\u0434\u0438\u0432\u0430',
+        );
+      case 'sri_lanka':
+        return _select(
+          en: 'Sri Lanka',
+          ru: '\u0428\u0440\u0438-\u041B\u0430\u043D\u043A\u0430',
+          yakut: '\u0428\u0440\u0438-\u041B\u0430\u043D\u043A\u0430',
+        );
+      case 'el_salvador':
+        return _select(
+          en: 'El Salvador',
+          ru: '\u0421\u0430\u043B\u044C\u0432\u0430\u0434\u043E\u0440',
+          yakut: '\u0421\u0430\u043B\u044C\u0432\u0430\u0434\u043E\u0440',
+        );
+      case 'nicaragua':
+        return _select(
+          en: 'Nicaragua',
+          ru: '\u041D\u0438\u043A\u0430\u0440\u0430\u0433\u0443\u0430',
+          yakut: '\u041D\u0438\u043A\u0430\u0440\u0430\u0433\u0443\u0430',
+        );
+      case 'guatemala':
+        return _select(
+          en: 'Guatemala',
+          ru: '\u0413\u0432\u0430\u0442\u0435\u043C\u0430\u043B\u0430',
+          yakut: '\u0413\u0432\u0430\u0442\u0435\u043C\u0430\u043B\u0430',
+        );
+      case 'haiti':
+        return _select(
+          en: 'Haiti',
+          ru: '\u0413\u0430\u0438\u0442\u0438',
+          yakut: '\u0413\u0430\u0438\u0442\u0438',
+        );
+      case 'paraguay':
+        return _select(
+          en: 'Paraguay',
+          ru: 'РџР°СЂР°РіРІР°Р№',
+          yakut: 'РџР°СЂР°РіРІР°Р№',
         );
       case 'turkey':
         return _select(
@@ -846,6 +959,30 @@ class AppTexts {
           ru: '\u0421\u0435\u0440\u0431\u0438\u044F: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
           yakut:
               '\u0421\u0435\u0440\u0431\u0438\u044F: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
+        );
+      case 'bosnia_and_herzegovina':
+        return _select(
+          en: 'Bosnia and Herzegovina: history, cinema, music, and famous people',
+          ru:
+              '\u0411\u043e\u0441\u043d\u0438\u044f \u0438 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430: \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u043a\u0438\u043d\u043e, \u043c\u0443\u0437\u044b\u043a\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0435 \u043b\u044e\u0434\u0438',
+          yakut:
+              '\u0411\u043e\u0441\u043d\u0438\u044f \u0438 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430: \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u043a\u0438\u043d\u043e, \u043c\u0443\u0437\u044b\u043a\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0435 \u043b\u044e\u0434\u0438',
+        );
+      case 'albania':
+        return _select(
+          en: 'Albania: history, cinema, music, and famous people',
+          ru:
+              '\u0410\u043b\u0431\u0430\u043d\u0438\u044f: \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u043a\u0438\u043d\u043e, \u043c\u0443\u0437\u044b\u043a\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0435 \u043b\u044e\u0434\u0438',
+          yakut:
+              '\u0410\u043b\u0431\u0430\u043d\u0438\u044f: \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u043a\u0438\u043d\u043e, \u043c\u0443\u0437\u044b\u043a\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0435 \u043b\u044e\u0434\u0438',
+        );
+      case 'montenegro':
+        return _select(
+          en: 'Montenegro: history, cinema, music, and famous people',
+          ru:
+              '\u0427\u0435\u0440\u043d\u043e\u0433\u043e\u0440\u0438\u044f: \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u043a\u0438\u043d\u043e, \u043c\u0443\u0437\u044b\u043a\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0435 \u043b\u044e\u0434\u0438',
+          yakut:
+              '\u0427\u0435\u0440\u043d\u043e\u0433\u043e\u0440\u0438\u044f: \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u043a\u0438\u043d\u043e, \u043c\u0443\u0437\u044b\u043a\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0435 \u043b\u044e\u0434\u0438',
         );
       case 'norway':
         return _select(
@@ -1077,6 +1214,102 @@ class AppTexts {
           ru: '\u0410\u0440\u0433\u0435\u043D\u0442\u0438\u043D\u0430: \u0442\u0430\u043D\u0433\u043E, \u0444\u0443\u0442\u0431\u043E\u043B, \u043A\u0438\u043D\u043E \u0438 \u043A\u043B\u044E\u0447\u0435\u0432\u044B\u0435 \u0438\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0444\u0430\u043A\u0442\u044B',
           yakut:
               '\u0410\u0440\u0433\u0435\u043D\u0442\u0438\u043D\u0430: \u0442\u0430\u043D\u0433\u043E, \u0444\u0443\u0442\u0431\u043E\u043B, \u043A\u0438\u043D\u043E \u0443\u043E\u043D\u043D\u0430 \u0441\u0443\u0440\u0443\u043D \u0438\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u0430\u0439 \u0444\u0430\u043A\u0442\u0430\u0440',
+        );
+      case 'chile':
+        return _select(
+          en: 'Chile: history, cinema, music, and famous people',
+          ru: 'Р§РёР»Рё: РёСЃС‚РѕСЂРёСЏ, РєРёРЅРѕ, РјСѓР·С‹РєР° Рё РёР·РІРµСЃС‚РЅС‹Рµ Р»СЋРґРё',
+          yakut: 'Р§РёР»Рё: РёСЃС‚РѕСЂРёСЏ, РєРёРЅРѕ, РјСѓР·С‹РєР° СѓРѕРЅРЅР° Р±РёР»Р»СЌСЂ РґСЊРѕРЅ',
+        );
+      case 'peru':
+        return _select(
+          en: 'Peru: history, cinema, music, and famous people',
+          ru: 'РџРµСЂСѓ: РёСЃС‚РѕСЂРёСЏ, РєРёРЅРѕ, РјСѓР·С‹РєР° Рё РёР·РІРµСЃС‚РЅС‹Рµ Р»СЋРґРё',
+          yakut: 'РџРµСЂСѓ: РёСЃС‚РѕСЂРёСЏ, РєРёРЅРѕ, РјСѓР·С‹РєР° СѓРѕРЅРЅР° Р±РёР»Р»СЌСЂ РґСЊРѕРЅ',
+        );
+      case 'bolivia':
+        return _select(
+          en: 'Bolivia: history, cinema, music, and famous people',
+          ru: 'Р‘РѕР»РёРІРёСЏ: РёСЃС‚РѕСЂРёСЏ, РєРёРЅРѕ, РјСѓР·С‹РєР° Рё РёР·РІРµСЃС‚РЅС‹Рµ Р»СЋРґРё',
+          yakut: 'Р‘РѕР»РёРІРёСЏ: РёСЃС‚РѕСЂРёСЏ, РєРёРЅРѕ, РјСѓР·С‹РєР° СѓРѕРЅРЅР° Р±РёР»Р»СЌСЂ РґСЊРѕРЅ',
+        );
+      case 'cuba':
+        return _select(
+          en: 'Cuba: history, cinema, music, and famous people',
+          ru: '\u041A\u0443\u0431\u0430: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
+          yakut: '\u041A\u0443\u0443\u0431\u0430: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
+        );
+      case 'panama':
+        return _select(
+          en: 'Panama: history, cinema, music, and famous people',
+          ru: '\u041F\u0430\u043D\u0430\u043C\u0430: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
+          yakut: '\u041F\u0430\u043D\u0430\u043C\u0430: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
+        );
+      case 'ecuador':
+        return _select(
+          en: 'Ecuador: history, cinema, music, and famous people',
+          ru: '\u042D\u043A\u0432\u0430\u0434\u043E\u0440: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
+          yakut: '\u042D\u043A\u0432\u0430\u0434\u043E\u0440: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
+        );
+      case 'colombia':
+        return _select(
+          en: 'Colombia: history, cinema, music, and famous people',
+          ru: '\u041A\u043E\u043B\u0443\u043C\u0431\u0438\u044F: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
+          yakut: '\u041A\u043E\u043B\u0443\u043C\u0431\u0438\u044F: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
+        );
+      case 'bhutan':
+        return _select(
+          en: 'Bhutan: history, cinema, music, and famous people',
+          ru: '\u0411\u0443\u0442\u0430\u043D: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
+          yakut: '\u0411\u0443\u0442\u0430\u043D: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
+        );
+      case 'philippines':
+        return _select(
+          en: 'Philippines: history, cinema, music, and famous people',
+          ru: '\u0424\u0438\u043B\u0438\u043F\u043F\u0438\u043D\u044B: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
+          yakut: '\u0424\u0438\u043B\u0438\u043F\u043F\u0438\u043D\u043D\u044D\u0440: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
+        );
+      case 'maldives':
+        return _select(
+          en: 'Maldives: history, cinema, music, and famous people',
+          ru: '\u041C\u0430\u043B\u044C\u0434\u0438\u0432\u044B: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
+          yakut: '\u041C\u0430\u043B\u044C\u0434\u0438\u0432\u0430: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
+        );
+      case 'sri_lanka':
+        return _select(
+          en: 'Sri Lanka: history, cinema, music, and famous people',
+          ru: '\u0428\u0440\u0438-\u041B\u0430\u043D\u043A\u0430: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
+          yakut: '\u0428\u0440\u0438-\u041B\u0430\u043D\u043A\u0430: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
+        );
+      case 'el_salvador':
+        return _select(
+          en: 'El Salvador: history, cinema, music, and famous people',
+          ru: '\u0421\u0430\u043B\u044C\u0432\u0430\u0434\u043E\u0440: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
+          yakut: '\u0421\u0430\u043B\u044C\u0432\u0430\u0434\u043E\u0440: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
+        );
+      case 'nicaragua':
+        return _select(
+          en: 'Nicaragua: history, cinema, music, and famous people',
+          ru: '\u041D\u0438\u043A\u0430\u0440\u0430\u0433\u0443\u0430: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
+          yakut: '\u041D\u0438\u043A\u0430\u0440\u0430\u0433\u0443\u0430: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
+        );
+      case 'guatemala':
+        return _select(
+          en: 'Guatemala: history, cinema, music, and famous people',
+          ru: '\u0413\u0432\u0430\u0442\u0435\u043C\u0430\u043B\u0430: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
+          yakut: '\u0413\u0432\u0430\u0442\u0435\u043C\u0430\u043B\u0430: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
+        );
+      case 'haiti':
+        return _select(
+          en: 'Haiti: history, cinema, music, and famous people',
+          ru: '\u0413\u0430\u0438\u0442\u0438: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
+          yakut: '\u0413\u0430\u0438\u0442\u0438: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
+        );
+      case 'paraguay':
+        return _select(
+          en: 'Paraguay: history, cinema, music, and famous people',
+          ru: 'РџР°СЂР°РіРІР°Р№: РёСЃС‚РѕСЂРёСЏ, РєРёРЅРѕ, РјСѓР·С‹РєР° Рё РёР·РІРµСЃС‚РЅС‹Рµ Р»СЋРґРё',
+          yakut: 'РџР°СЂР°РіРІР°Р№: РёСЃС‚РѕСЂРёСЏ, РєРёРЅРѕ, РјСѓР·С‹РєР° СѓРѕРЅРЅР° Р±РёР»Р»СЌСЂ РґСЊРѕРЅ',
         );
       case 'turkey':
         return _select(
@@ -1365,52 +1598,52 @@ class AppTexts {
 
   String get quizFeedbackCorrectTitle => _select(
         en: 'Correct!',
-        ru: 'Верно!',
-        yakut: 'Сөп!',
+        ru: 'Р’РµСЂРЅРѕ!',
+        yakut: 'РЎУ©Рї!',
       );
 
   String get quizFeedbackWrongTitle => _select(
         en: 'Incorrect',
-        ru: 'Неверно',
-        yakut: 'Сөп суох',
+        ru: 'РќРµРІРµСЂРЅРѕ',
+        yakut: 'РЎУ©Рї СЃСѓРѕС…',
       );
 
   String get quizFeedbackTimeoutTitle => _select(
         en: "Time's up",
-        ru: 'Время вышло',
-        yakut: 'Кэм бүттэ',
+        ru: 'Р’СЂРµРјСЏ РІС‹С€Р»Рѕ',
+        yakut: 'РљСЌРј Р±ТЇС‚С‚СЌ',
       );
 
   String quizFeedbackCorrectAnswerLabel(String answer) {
     return _select(
       en: 'Correct answer: $answer',
-      ru: 'Правильный ответ: $answer',
-      yakut: 'Сөп эппиэт: $answer',
+      ru: 'РџСЂР°РІРёР»СЊРЅС‹Р№ РѕС‚РІРµС‚: $answer',
+      yakut: 'РЎУ©Рї СЌРїРїРёСЌС‚: $answer',
     );
   }
 
   String get quizFeedbackExplanationLabel => _select(
         en: 'Explanation',
-        ru: 'Объяснение',
-        yakut: 'Быһаарыы',
+        ru: 'РћР±СЉСЏСЃРЅРµРЅРёРµ',
+        yakut: 'Р‘С‹Т»Р°Р°СЂС‹С‹',
       );
 
   String get quizFeedbackNoExplanation => _select(
         en: 'Explanation is not added yet.',
-        ru: 'Объяснение пока не добавлено.',
-        yakut: 'Быһаарыы әлегэ эбиллибэтэх.',
+        ru: 'РћР±СЉСЏСЃРЅРµРЅРёРµ РїРѕРєР° РЅРµ РґРѕР±Р°РІР»РµРЅРѕ.',
+        yakut: 'Р‘С‹Т»Р°Р°СЂС‹С‹ У™Р»РµРіСЌ СЌР±РёР»Р»РёР±СЌС‚СЌС….',
       );
 
   String get quizFeedbackNextButton => _select(
         en: 'Next',
-        ru: 'Далее',
-        yakut: 'Салгыы',
+        ru: 'Р”Р°Р»РµРµ',
+        yakut: 'РЎР°Р»РіС‹С‹',
       );
 
   String get quizFeedbackFinishButton => _select(
         en: 'Finish',
-        ru: 'Завершить',
-        yakut: 'Түмүктээ',
+        ru: 'Р—Р°РІРµСЂС€РёС‚СЊ',
+        yakut: 'РўТЇРјТЇРєС‚СЌСЌ',
       );
 
   String get quizScreenTitle => _select(
@@ -1775,38 +2008,38 @@ class AppTexts {
 
   String get profileAdvancedStatsTitle => _select(
         en: 'Advanced stats',
-        ru: 'Расширенная статистика',
-        yakut: 'Кэҥэтиллибит статистика',
+        ru: 'Р Р°СЃС€РёСЂРµРЅРЅР°СЏ СЃС‚Р°С‚РёСЃС‚РёРєР°',
+        yakut: 'РљСЌТҐСЌС‚РёР»Р»РёР±РёС‚ СЃС‚Р°С‚РёСЃС‚РёРєР°',
       );
 
   String get profileAverageRoundPercentLabel => _select(
         en: 'Average round %',
-        ru: 'Средний % за раунд',
-        yakut: 'Раунд орто %',
+        ru: 'РЎСЂРµРґРЅРёР№ % Р·Р° СЂР°СѓРЅРґ',
+        yakut: 'Р Р°СѓРЅРґ РѕСЂС‚Рѕ %',
       );
 
   String get profileBestRoundPercentLabel => _select(
         en: 'Best round',
-        ru: 'Лучший раунд',
-        yakut: 'Ордук раунд',
+        ru: 'Р›СѓС‡С€РёР№ СЂР°СѓРЅРґ',
+        yakut: 'РћСЂРґСѓРє СЂР°СѓРЅРґ',
       );
 
   String get profileCollectedCountriesLabel => _select(
         en: 'Collected countries',
-        ru: 'Собрано стран',
-        yakut: 'Хомуйуллубут дойдулар',
+        ru: 'РЎРѕР±СЂР°РЅРѕ СЃС‚СЂР°РЅ',
+        yakut: 'РҐРѕРјСѓР№СѓР»Р»СѓР±СѓС‚ РґРѕР№РґСѓР»Р°СЂ',
       );
 
   String get profileTopAccuracyTitle => _select(
         en: 'Top-5 countries by accuracy',
-        ru: 'Топ-5 стран по точности',
-        yakut: 'Төрүттүүринэн топ-5 дойду',
+        ru: 'РўРѕРї-5 СЃС‚СЂР°РЅ РїРѕ С‚РѕС‡РЅРѕСЃС‚Рё',
+        yakut: 'РўУ©СЂТЇС‚С‚ТЇТЇСЂРёРЅСЌРЅ С‚РѕРї-5 РґРѕР№РґСѓ',
       );
 
   String get profileCollectionTitle => _select(
         en: 'Country collection',
-        ru: 'Коллекция стран',
-        yakut: 'Дойду коллекцията',
+        ru: 'РљРѕР»Р»РµРєС†РёСЏ СЃС‚СЂР°РЅ',
+        yakut: 'Р”РѕР№РґСѓ РєРѕР»Р»РµРєС†РёСЏС‚Р°',
       );
 
   String profileCollectionProgress(int collected, int total) {

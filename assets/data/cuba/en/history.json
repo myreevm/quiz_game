@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What is the capital of Cuba?",
+    "answers": [
+      {"text": "Havana", "score": 1},
+      {"text": "Santiago de Cuba", "score": 0},
+      {"text": "Camaguey", "score": 0},
+      {"text": "Trinidad", "score": 0}
+    ]
+  },
+  {
+    "question": "In which year did the Cuban Revolution triumph?",
+    "answers": [
+      {"text": "1959", "score": 1},
+      {"text": "1953", "score": 0},
+      {"text": "1962", "score": 0},
+      {"text": "1970", "score": 0}
+    ]
+  },
+  {
+    "question": "What is the official currency of Cuba?",
+    "answers": [
+      {"text": "Cuban peso", "score": 1},
+      {"text": "US dollar", "score": 0},
+      {"text": "Mexican peso", "score": 0},
+      {"text": "Euro", "score": 0}
+    ]
+  },
+  {
+    "question": "Which country is the largest island in the Caribbean?",
+    "answers": [
+      {"text": "Cuba", "score": 1},
+      {"text": "Jamaica", "score": 0},
+      {"text": "Haiti", "score": 0},
+      {"text": "Dominican Republic", "score": 0}
+    ]
+  }
+]

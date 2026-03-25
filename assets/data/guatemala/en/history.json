@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "What is the capital of Guatemala?",
+        "answers":  [
+                        {
+                            "text":  "Guatemala City",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Antigua Guatemala",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Quetzaltenango",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Escuintla",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did Guatemala gain independence from Spain?",
+        "answers":  [
+                        {
+                            "text":  "1821",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1812",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1839",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1900",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the official currency of Guatemala?",
+        "answers":  [
+                        {
+                            "text":  "Quetzal",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cordoba",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lempira",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bolivar",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which ancient Maya site is one of Guatemala\u0027s best-known heritage symbols?",
+        "answers":  [
+                        {
+                            "text":  "Tikal",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Teotihuacan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Machu Picchu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chichen Itza",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "What is the legislative capital of Sri Lanka?",
+        "answers":  [
+                        {
+                            "text":  "Sri Jayawardenepura Kotte",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Colombo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kandy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Galle",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did Sri Lanka gain independence from Britain?",
+        "answers":  [
+                        {
+                            "text":  "1948",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1935",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1956",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1962",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the official currency of Sri Lanka?",
+        "answers":  [
+                        {
+                            "text":  "Sri Lankan rupee",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Indian rupee",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Taka",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ringgit",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What was the former name of Sri Lanka used in many historical sources?",
+        "answers":  [
+                        {
+                            "text":  "Ceylon",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Serendib",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lanka Major",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Taprobane Republic",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Which lively music style is strongly associated with Sri Lanka?",
+        "answers":  [
+                        {
+                            "text":  "Baila",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fado",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Huayno",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Guarania",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kandyan drumming is most closely tied to which tradition?",
+        "answers":  [
+                        {
+                            "text":  "Hill-country dance and ritual performance",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Naval marching bands",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Opera choruses",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Electronic dance music",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is a rabana in Sri Lankan music?",
+        "answers":  [
+                        {
+                            "text":  "A traditional frame drum",
+                            "score":  1
+                        },
+                        {
+                            "text":  "A bamboo flute",
+                            "score":  0
+                        },
+                        {
+                            "text":  "A brass trumpet",
+                            "score":  0
+                        },
+                        {
+                            "text":  "A string quartet",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which global artist has Sri Lankan roots?",
+        "answers":  [
+                        {
+                            "text":  "M.I.A.",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Adele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shakira",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Beyonce",
+                            "score":  0
+                        }
+                    ]
+    }
+]

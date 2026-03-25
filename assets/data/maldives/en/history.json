@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "What is the capital of the Maldives?",
+        "answers":  [
+                        {
+                            "text":  "Male",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Addu City",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fuvahmulah",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kulhudhuffushi",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did the Maldives gain independence from British protection?",
+        "answers":  [
+                        {
+                            "text":  "1965",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1948",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1972",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1981",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the official currency of the Maldives?",
+        "answers":  [
+                        {
+                            "text":  "Maldivian rufiyaa",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sri Lankan rupee",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Indian rupee",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Taka",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which geographic fact is true about the Maldives?",
+        "answers":  [
+                        {
+                            "text":  "It is the world\u0027s lowest-lying country",
+                            "score":  1
+                        },
+                        {
+                            "text":  "It is the largest island in Asia",
+                            "score":  0
+                        },
+                        {
+                            "text":  "It has no coral reefs",
+                            "score":  0
+                        },
+                        {
+                            "text":  "It is landlocked",
+                            "score":  0
+                        }
+                    ]
+    }
+]

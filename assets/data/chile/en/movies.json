@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Chilean film won the Oscar for Best Foreign Language Film in 2018?",
+        "answers":  [
+                        {
+                            "text":  "A Fantastic Woman",
+                            "score":  1
+                        },
+                        {
+                            "text":  "No",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Neruda",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tony Manero",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "The Chilean film \"No\" is about which historical event?",
+        "answers":  [
+                        {
+                            "text":  "1988 plebiscite",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1973 coup",
+                            "score":  0
+                        },
+                        {
+                            "text":  "War of the Pacific",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2010 earthquake",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Pablo Larrain is best known as a:",
+        "answers":  [
+                        {
+                            "text":  "Film director",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Actor",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Football coach",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Composer",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Pedro Pascal was born in which country?",
+        "answers":  [
+                        {
+                            "text":  "Chile",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Spain",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mexico",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Peru",
+                            "score":  0
+                        }
+                    ]
+    }
+]

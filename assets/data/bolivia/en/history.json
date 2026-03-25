@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "What is the constitutional capital of Bolivia?",
+        "answers":  [
+                        {
+                            "text":  "Sucre",
+                            "score":  1
+                        },
+                        {
+                            "text":  "La Paz",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Santa Cruz",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cochabamba",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did Bolivia gain independence?",
+        "answers":  [
+                        {
+                            "text":  "1825",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1811",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1835",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1860",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the official currency of Bolivia?",
+        "answers":  [
+                        {
+                            "text":  "Boliviano",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Peso",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sol",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Guarani",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Bolivia is best described as which type of country?",
+        "answers":  [
+                        {
+                            "text":  "Landlocked country",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Island country",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Peninsula country",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Archipelago country",
+                            "score":  0
+                        }
+                    ]
+    }
+]

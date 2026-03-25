@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Bolivian film received major international recognition in 2022?",
+        "answers":  [
+                        {
+                            "text":  "Utama",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Even the Rain",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Devil\u0027s Miner",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Zona Sur",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "The film \"Even the Rain\" is closely connected with events near which Bolivian city?",
+        "answers":  [
+                        {
+                            "text":  "Cochabamba",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sucre",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tarija",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Potosi",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who directed the Bolivian classic \"Blood of the Condor\"?",
+        "answers":  [
+                        {
+                            "text":  "Jorge Sanjines",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Claudia Llosa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pablo Larrain",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Walter Salles",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "\"The Devil\u0027s Miner\" is a documentary about miners in which city?",
+        "answers":  [
+                        {
+                            "text":  "Potosi",
+                            "score":  1
+                        },
+                        {
+                            "text":  "La Paz",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Santa Cruz",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Oruro",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Which Panamanian singer-songwriter became a global salsa icon?",
+    "answers": [
+      {"text": "Ruben Blades", "score": 1},
+      {"text": "Marc Anthony", "score": 0},
+      {"text": "Juanes", "score": 0},
+      {"text": "Juan Luis Guerra", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Panamanian urban artist is known for the hit Otro Trago?",
+    "answers": [
+      {"text": "Sech", "score": 1},
+      {"text": "Bad Bunny", "score": 0},
+      {"text": "J Balvin", "score": 0},
+      {"text": "Maluma", "score": 0}
+    ]
+  },
+  {
+    "question": "What is the traditional Panamanian folk genre with drums and dance called?",
+    "answers": [
+      {"text": "Tamborito", "score": 1},
+      {"text": "Cumbia villera", "score": 0},
+      {"text": "Huayno", "score": 0},
+      {"text": "Bachata", "score": 0}
+    ]
+  },
+  {
+    "question": "What is the name of the traditional five-string Panamanian instrument?",
+    "answers": [
+      {"text": "Mejoranera", "score": 1},
+      {"text": "Charango", "score": 0},
+      {"text": "Tres cubano", "score": 0},
+      {"text": "Bandoneon", "score": 0}
+    ]
+  }
+]

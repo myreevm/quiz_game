@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Which Colombian writer won the Nobel Prize in Literature and authored One Hundred Years of Solitude?",
+    "answers": [
+      {"text": "Gabriel Garcia Marquez", "score": 1},
+      {"text": "Mario Vargas Llosa", "score": 0},
+      {"text": "Jorge Luis Borges", "score": 0},
+      {"text": "Pablo Neruda", "score": 0}
+    ]
+  },
+  {
+    "question": "Which independence leader is closely associated with Gran Colombia?",
+    "answers": [
+      {"text": "Simon Bolivar", "score": 1},
+      {"text": "Jose de San Martin", "score": 0},
+      {"text": "Antonio Jose de Sucre", "score": 0},
+      {"text": "Bernardo O'Higgins", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Colombian artist is famous for voluminous figures and sculptures?",
+    "answers": [
+      {"text": "Fernando Botero", "score": 1},
+      {"text": "Diego Rivera", "score": 0},
+      {"text": "Frida Kahlo", "score": 0},
+      {"text": "Oswaldo Guayasamin", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Colombian footballer became top scorer of the 2014 FIFA World Cup?",
+    "answers": [
+      {"text": "James Rodriguez", "score": 1},
+      {"text": "Radamel Falcao", "score": 0},
+      {"text": "Luis Diaz", "score": 0},
+      {"text": "Juan Cuadrado", "score": 0}
+    ]
+  }
+]

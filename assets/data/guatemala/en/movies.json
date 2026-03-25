@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Which Guatemalan film directed by Jayro Bustamante gained major international recognition?",
+        "answers":  [
+                        {
+                            "text":  "Ixcanul",
+                            "score":  1
+                        },
+                        {
+                            "text":  "La Yuma",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Malacrianza",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Moloch Tropical",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which 2019 Guatemalan film reinterprets the legend of La Llorona in a political context?",
+        "answers":  [
+                        {
+                            "text":  "La Llorona",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Comedians",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Innocent Voices",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Carla\u0027s Song",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which film follows Guatemalan siblings migrating to the United States?",
+        "answers":  [
+                        {
+                            "text":  "El Norte",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Heneral Luna",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Monos",
+                            "score":  0
+                        },
+                        {
+                            "text":  "No",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which director is closely associated with both \u0027Ixcanul\u0027 and \u0027La Llorona\u0027 in Guatemala?",
+        "answers":  [
+                        {
+                            "text":  "Jayro Bustamante",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Arturo Menendez",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Raoul Peck",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lester James Peries",
+                            "score":  0
+                        }
+                    ]
+    }
+]

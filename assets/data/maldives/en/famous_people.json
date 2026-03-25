@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Which former Maldivian president is known internationally for climate activism?",
+        "answers":  [
+                        {
+                            "text":  "Mohamed Nasheed",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ibrahim Solih",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Abdulla Yameen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Maumoon Abdul Gayoom",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who served as Maldives president for three decades (1978-2008)?",
+        "answers":  [
+                        {
+                            "text":  "Maumoon Abdul Gayoom",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mohamed Nasheed",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ibrahim Nasir",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mohamed Waheed",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who was the first president after Maldives independence in 1965?",
+        "answers":  [
+                        {
+                            "text":  "Ibrahim Nasir",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Maumoon Abdul Gayoom",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mohamed Nasheed",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ibrahim Solih",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Maldivian politician served as president from 2013 to 2018?",
+        "answers":  [
+                        {
+                            "text":  "Abdulla Yameen",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mohamed Nasheed",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mohamed Waheed",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ahmed Zaki",
+                            "score":  0
+                        }
+                    ]
+    }
+]

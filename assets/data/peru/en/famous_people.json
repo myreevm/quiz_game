@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Peruvian writer won the Nobel Prize in Literature in 2010?",
+        "answers":  [
+                        {
+                            "text":  "Mario Vargas Llosa",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Gabriel Garcia Marquez",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pablo Neruda",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jorge Luis Borges",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Cesar Vallejo is best known as a:",
+        "answers":  [
+                        {
+                            "text":  "Poet",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Film director",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Football player",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Painter",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Javier Perez de Cuellar served as:",
+        "answers":  [
+                        {
+                            "text":  "UN Secretary-General",
+                            "score":  1
+                        },
+                        {
+                            "text":  "President of Peru",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pope",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Olympic champion",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Paolo Guerrero is famous as a:",
+        "answers":  [
+                        {
+                            "text":  "Football player",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Actor",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Scientist",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Composer",
+                            "score":  0
+                        }
+                    ]
+    }
+]

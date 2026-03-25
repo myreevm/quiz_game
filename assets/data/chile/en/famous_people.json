@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Pablo Neruda received which major literary award?",
+        "answers":  [
+                        {
+                            "text":  "Nobel Prize in Literature",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pulitzer Prize",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Booker Prize",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hugo Award",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Gabriela Mistral is famous as a:",
+        "answers":  [
+                        {
+                            "text":  "Poet",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Actor",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Athlete",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Physicist",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Salvador Allende served as:",
+        "answers":  [
+                        {
+                            "text":  "President of Chile",
+                            "score":  1
+                        },
+                        {
+                            "text":  "UN Secretary-General",
+                            "score":  0
+                        },
+                        {
+                            "text":  "King of Spain",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pope",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Alexis Sanchez is known internationally as a:",
+        "answers":  [
+                        {
+                            "text":  "Football player",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Film producer",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tennis player",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chef",
+                            "score":  0
+                        }
+                    ]
+    }
+]

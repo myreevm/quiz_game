@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Which Salvadoran archbishop became a global symbol of human rights?",
+        "answers":  [
+                        {
+                            "text":  "Oscar Romero",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Rigoberta Menchu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Miguel Angel Asturias",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ruben Dario",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who is the current president of El Salvador?",
+        "answers":  [
+                        {
+                            "text":  "Nayib Bukele",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mauricio Funes",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Carlos Alvarado",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Otto Perez Molina",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Salvadoran writer is known by the pen name Claudia Lars?",
+        "answers":  [
+                        {
+                            "text":  "Margarita del Carmen Brannon",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Gioconda Belli",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Edwidge Danticat",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gabriela Mistral",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Salvadoran football legend was nicknamed \u0027Magico\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Jorge Gonzalez",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Paolo Guerrero",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alexis Sanchez",
+                            "score":  0
+                        },
+                        {
+                            "text":  "James Rodriguez",
+                            "score":  0
+                        }
+                    ]
+    }
+]

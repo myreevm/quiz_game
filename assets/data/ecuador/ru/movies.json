@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Какой эквадорский фильм Себастьяна Кордеро стал важной вехой в 1999 году?",
+    "answers": [
+      {"text": "Ratas, ratones, rateros", "score": 1},
+      {"text": "Cronicas", "score": 0},
+      {"text": "Que tan lejos", "score": 0},
+      {"text": "Pescador", "score": 0}
+    ]
+  },
+  {
+    "question": "Какой триллер Себастьяна Кордеро рассказывает о журналисте и серийном убийце в Эквадоре?",
+    "answers": [
+      {"text": "Cronicas", "score": 1},
+      {"text": "Monos", "score": 0},
+      {"text": "Стратегия улитки", "score": 0},
+      {"text": "Город Бога", "score": 0}
+    ]
+  },
+  {
+    "question": "Какой роуд-муви Тани Эрмиды показывает путешествие двух женщин по Эквадору?",
+    "answers": [
+      {"text": "Que tan lejos", "score": 1},
+      {"text": "Rabia", "score": 0},
+      {"text": "Sin muertos no hay carnaval", "score": 0},
+      {"text": "A tus espaldas", "score": 0}
+    ]
+  },
+  {
+    "question": "Какой режиссер известен фильмами Ratas, ratones, rateros и Cronicas?",
+    "answers": [
+      {"text": "Себастьян Кордеро", "score": 1},
+      {"text": "Гильермо дель Торо", "score": 0},
+      {"text": "Сиро Герра", "score": 0},
+      {"text": "Алехандро Аменабар", "score": 0}
+    ]
+  }
+]

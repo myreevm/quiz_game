@@ -1,0 +1,86 @@
+[
+  {
+    "question": "What is the capital of Montenegro?",
+    "answers": [
+      {
+        "text": "Podgorica",
+        "score": 1
+      },
+      {
+        "text": "Sarajevo",
+        "score": 0
+      },
+      {
+        "text": "Tirana",
+        "score": 0
+      },
+      {
+        "text": "Belgrade",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which year of independence/referendum is linked to Montenegro?",
+    "answers": [
+      {
+        "text": "2006",
+        "score": 1
+      },
+      {
+        "text": "1992",
+        "score": 0
+      },
+      {
+        "text": "1912",
+        "score": 0
+      },
+      {
+        "text": "1989",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What currency is used in Montenegro?",
+    "answers": [
+      {
+        "text": "Euro",
+        "score": 1
+      },
+      {
+        "text": "Convertible mark (BAM)",
+        "score": 0
+      },
+      {
+        "text": "Lek",
+        "score": 0
+      },
+      {
+        "text": "US dollar",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which key historical marker is associated with Montenegro?",
+    "answers": [
+      {
+        "text": "Cetinje (old royal capital)",
+        "score": 1
+      },
+      {
+        "text": "Dayton Agreement (1995)",
+        "score": 0
+      },
+      {
+        "text": "Skanderbeg",
+        "score": 0
+      },
+      {
+        "text": "UN Charter",
+        "score": 0
+      }
+    ]
+  }
+]

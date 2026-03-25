@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Which traditional genre from Colombia's Caribbean coast became internationally known?",
+    "answers": [
+      {"text": "Cumbia", "score": 1},
+      {"text": "Fado", "score": 0},
+      {"text": "Cueca", "score": 0},
+      {"text": "Guarania", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Colombian genre is strongly associated with accordion music from Valledupar?",
+    "answers": [
+      {"text": "Vallenato", "score": 1},
+      {"text": "Pasillo", "score": 0},
+      {"text": "Huayno", "score": 0},
+      {"text": "Bolero", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Colombian global pop star is known for the song Hips Don't Lie?",
+    "answers": [
+      {"text": "Shakira", "score": 1},
+      {"text": "Karol G", "score": 0},
+      {"text": "Rosalia", "score": 0},
+      {"text": "Paulina Rubio", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Colombian singer is associated with modern vallenato and songs like La Bicicleta?",
+    "answers": [
+      {"text": "Carlos Vives", "score": 1},
+      {"text": "Juanes", "score": 0},
+      {"text": "Fonseca", "score": 0},
+      {"text": "Maluma", "score": 0}
+    ]
+  }
+]

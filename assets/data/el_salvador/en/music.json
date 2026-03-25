@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "What is a traditional dance music genre of El Salvador?",
+        "answers":  [
+                        {
+                            "text":  "Xuc",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kompa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Baila",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cueca",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which popular rhythm is part of modern Salvadoran urban culture?",
+        "answers":  [
+                        {
+                            "text":  "Cumbia salvadorena",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fado",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Guarania",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rara",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which instrument tradition is important in Salvadoran folk music?",
+        "answers":  [
+                        {
+                            "text":  "Marimba",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sitar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bagpipe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Balalaika",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which artist is a well-known Salvadoran singer-songwriter?",
+        "answers":  [
+                        {
+                            "text":  "Alvaro Torres",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ricardo Arjona",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Juan Luis Guerra",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Carlos Vives",
+                            "score":  0
+                        }
+                    ]
+    }
+]

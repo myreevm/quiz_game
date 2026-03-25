@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Who is credited with creating the genre guarania?",
+        "answers":  [
+                        {
+                            "text":  "Jose Asuncion Flores",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Agustin Barrios",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Luis Alberto del Parana",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Arsenio Erico",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which instrument is a national symbol in Paraguayan music?",
+        "answers":  [
+                        {
+                            "text":  "Paraguayan harp",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bandoneon",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sitar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Balalaika",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Luis Alberto del Parana is best known as a:",
+        "answers":  [
+                        {
+                            "text":  "Singer and guitarist",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Film director",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Football coach",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Poet",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Paraguayan polka is primarily a:",
+        "answers":  [
+                        {
+                            "text":  "Traditional music and dance style",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Type of opera",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Religious chant",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Military anthem",
+                            "score":  0
+                        }
+                    ]
+    }
+]

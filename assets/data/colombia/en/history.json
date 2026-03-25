@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What is the capital of Colombia?",
+    "answers": [
+      {"text": "Bogota", "score": 1},
+      {"text": "Medellin", "score": 0},
+      {"text": "Cali", "score": 0},
+      {"text": "Cartagena", "score": 0}
+    ]
+  },
+  {
+    "question": "Which year is celebrated as the start of Colombia's independence process?",
+    "answers": [
+      {"text": "1810", "score": 1},
+      {"text": "1816", "score": 0},
+      {"text": "1824", "score": 0},
+      {"text": "1831", "score": 0}
+    ]
+  },
+  {
+    "question": "What is the official currency of Colombia?",
+    "answers": [
+      {"text": "Colombian peso", "score": 1},
+      {"text": "US dollar", "score": 0},
+      {"text": "Bolivar", "score": 0},
+      {"text": "Nuevo sol", "score": 0}
+    ]
+  },
+  {
+    "question": "Which two bodies of water does Colombia have coastlines on?",
+    "answers": [
+      {"text": "Caribbean Sea and Pacific Ocean", "score": 1},
+      {"text": "Atlantic and Arctic Oceans", "score": 0},
+      {"text": "Mediterranean and Black Sea", "score": 0},
+      {"text": "Indian and Pacific Oceans", "score": 0}
+    ]
+  }
+]

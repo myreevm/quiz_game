@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Augusto Roa Bastos is famous as a:",
+        "answers":  [
+                        {
+                            "text":  "Writer",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Football player",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Scientist",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Composer",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Jose Gaspar Rodriguez de Francia is remembered as:",
+        "answers":  [
+                        {
+                            "text":  "Early ruler of Paraguay",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Argentine general",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chilean poet",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Peruvian president",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Arsenio Erico gained fame in which sport?",
+        "answers":  [
+                        {
+                            "text":  "Football",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tennis",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Boxing",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cycling",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Jose Asuncion Flores is known in Paraguay as a:",
+        "answers":  [
+                        {
+                            "text":  "Composer",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Actor",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Painter",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Astronaut",
+                            "score":  0
+                        }
+                    ]
+    }
+]

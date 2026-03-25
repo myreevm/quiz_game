@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Who wrote the classic Peruvian song \"La Flor de la Canela\"?",
+        "answers":  [
+                        {
+                            "text":  "Chabuca Granda",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yma Sumac",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eva Ayllon",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Susana Baca",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Peruvian singer became internationally known for her extraordinary vocal range?",
+        "answers":  [
+                        {
+                            "text":  "Yma Sumac",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mon Laferte",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mercedes Sosa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Violeta Parra",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the traditional Peruvian percussion instrument widely used in Afro-Peruvian music?",
+        "answers":  [
+                        {
+                            "text":  "Cajon",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bandoneon",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Charango",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Quena",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which music genre is strongly associated with the Peruvian Andes?",
+        "answers":  [
+                        {
+                            "text":  "Huayno",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Samba",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bossa nova",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Reggaeton",
+                            "score":  0
+                        }
+                    ]
+    }
+]

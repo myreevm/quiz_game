@@ -660,6 +660,21 @@ class _CountryMapViewport {
           alignment: Alignment(0.16, -0.42),
           scale: 7.4,
         );
+      case 'bosnia_and_herzegovina':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.13, -0.45),
+          scale: 8.6,
+        );
+      case 'montenegro':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.13, -0.40),
+          scale: 10.0,
+        );
+      case 'albania':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.11, -0.37),
+          scale: 9.0,
+        );
       case 'norway':
         return const _CountryMapViewport(
           alignment: Alignment(0.08, -0.70),
@@ -729,6 +744,86 @@ class _CountryMapViewport {
         return const _CountryMapViewport(
           alignment: Alignment(-0.34, 0.26),
           scale: 4.0,
+        );
+      case 'cuba':
+        return const _CountryMapViewport(
+          alignment: Alignment(-0.56, -0.20),
+          scale: 8.2,
+        );
+      case 'panama':
+        return const _CountryMapViewport(
+          alignment: Alignment(-0.55, -0.04),
+          scale: 8.0,
+        );
+      case 'colombia':
+        return const _CountryMapViewport(
+          alignment: Alignment(-0.47, 0.03),
+          scale: 6.4,
+        );
+      case 'ecuador':
+        return const _CountryMapViewport(
+          alignment: Alignment(-0.50, 0.08),
+          scale: 7.6,
+        );
+      case 'guatemala':
+        return const _CountryMapViewport(
+          alignment: Alignment(-0.56, -0.10),
+          scale: 8.6,
+        );
+      case 'el_salvador':
+        return const _CountryMapViewport(
+          alignment: Alignment(-0.56, -0.06),
+          scale: 10.0,
+        );
+      case 'nicaragua':
+        return const _CountryMapViewport(
+          alignment: Alignment(-0.55, -0.03),
+          scale: 8.5,
+        );
+      case 'haiti':
+        return const _CountryMapViewport(
+          alignment: Alignment(-0.53, -0.18),
+          scale: 8.8,
+        );
+      case 'bhutan':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.54, -0.44),
+          scale: 8.0,
+        );
+      case 'philippines':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.76, -0.34),
+          scale: 6.0,
+        );
+      case 'maldives':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.42, -0.18),
+          scale: 9.0,
+        );
+      case 'sri_lanka':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.52, -0.22),
+          scale: 8.2,
+        );
+      case 'peru':
+        return const _CountryMapViewport(
+          alignment: Alignment(-0.50, 0.14),
+          scale: 5.4,
+        );
+      case 'chile':
+        return const _CountryMapViewport(
+          alignment: Alignment(-0.50, 0.32),
+          scale: 5.0,
+        );
+      case 'bolivia':
+        return const _CountryMapViewport(
+          alignment: Alignment(-0.42, 0.22),
+          scale: 6.0,
+        );
+      case 'paraguay':
+        return const _CountryMapViewport(
+          alignment: Alignment(-0.38, 0.23),
+          scale: 7.0,
         );
       case 'uk':
         return const _CountryMapViewport(

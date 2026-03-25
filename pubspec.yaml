@@ -116,6 +116,15 @@ flutter:
     - assets/data/croatia/en/
     - assets/data/croatia/ru/
     - assets/data/croatia/sah/
+    - assets/data/bosnia_and_herzegovina/en/
+    - assets/data/bosnia_and_herzegovina/ru/
+    - assets/data/bosnia_and_herzegovina/sah/
+    - assets/data/albania/en/
+    - assets/data/albania/ru/
+    - assets/data/albania/sah/
+    - assets/data/montenegro/en/
+    - assets/data/montenegro/ru/
+    - assets/data/montenegro/sah/
     - assets/data/malaysia/en/
     - assets/data/malaysia/ru/
     - assets/data/malaysia/sah/
@@ -182,6 +191,54 @@ flutter:
     - assets/data/argentina/en/
     - assets/data/argentina/ru/
     - assets/data/argentina/sah/
+    - assets/data/bolivia/en/
+    - assets/data/bolivia/ru/
+    - assets/data/bolivia/sah/
+    - assets/data/chile/en/
+    - assets/data/chile/ru/
+    - assets/data/chile/sah/
+    - assets/data/paraguay/en/
+    - assets/data/paraguay/ru/
+    - assets/data/paraguay/sah/
+    - assets/data/peru/en/
+    - assets/data/peru/ru/
+    - assets/data/peru/sah/
+    - assets/data/cuba/en/
+    - assets/data/cuba/ru/
+    - assets/data/cuba/sah/
+    - assets/data/panama/en/
+    - assets/data/panama/ru/
+    - assets/data/panama/sah/
+    - assets/data/ecuador/en/
+    - assets/data/ecuador/ru/
+    - assets/data/ecuador/sah/
+    - assets/data/colombia/en/
+    - assets/data/colombia/ru/
+    - assets/data/colombia/sah/
+    - assets/data/bhutan/en/
+    - assets/data/bhutan/ru/
+    - assets/data/bhutan/sah/
+    - assets/data/philippines/en/
+    - assets/data/philippines/ru/
+    - assets/data/philippines/sah/
+    - assets/data/maldives/en/
+    - assets/data/maldives/ru/
+    - assets/data/maldives/sah/
+    - assets/data/sri_lanka/en/
+    - assets/data/sri_lanka/ru/
+    - assets/data/sri_lanka/sah/
+    - assets/data/el_salvador/en/
+    - assets/data/el_salvador/ru/
+    - assets/data/el_salvador/sah/
+    - assets/data/nicaragua/en/
+    - assets/data/nicaragua/ru/
+    - assets/data/nicaragua/sah/
+    - assets/data/guatemala/en/
+    - assets/data/guatemala/ru/
+    - assets/data/guatemala/sah/
+    - assets/data/haiti/en/
+    - assets/data/haiti/ru/
+    - assets/data/haiti/sah/
     - assets/data/turkey/en/
     - assets/data/turkey/ru/
     - assets/data/turkey/sah/

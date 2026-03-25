@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Which Filipino historical film centers on General Antonio Luna?",
+        "answers":  [
+                        {
+                            "text":  "Heneral Luna",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Norte, the End of History",
+                            "score":  0
+                        },
+                        {
+                            "text":  "On the Job",
+                            "score":  0
+                        },
+                        {
+                            "text":  "BuyBust",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which classic 1982 Filipino film stars Nora Aunor as Elsa?",
+        "answers":  [
+                        {
+                            "text":  "Himala",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Anak",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kisapmata",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Insiang",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Lav Diaz film won the Golden Lion at Venice?",
+        "answers":  [
+                        {
+                            "text":  "The Woman Who Left",
+                            "score":  1
+                        },
+                        {
+                            "text":  "A Lullaby to the Sorrowful Mystery",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Norte, the End of History",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Evolution of a Filipino Family",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who directed the Filipino film \u0027Kinatay\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Brillante Mendoza",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lav Diaz",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lino Brocka",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ishmael Bernal",
+                            "score":  0
+                        }
+                    ]
+    }
+]

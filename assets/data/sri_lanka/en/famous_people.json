@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Who became the world\u0027s first female prime minister in 1960?",
+        "answers":  [
+                        {
+                            "text":  "Sirimavo Bandaranaike",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Chandrika Kumaratunga",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Indira Gandhi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Benazir Bhutto",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Sri Lankan cricketer is one of Test cricket\u0027s top wicket-takers?",
+        "answers":  [
+                        {
+                            "text":  "Muttiah Muralitharan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sanath Jayasuriya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lasith Malinga",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Aravinda de Silva",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Sri Lankan cricketer is renowned as a wicketkeeper-batsman and statesman?",
+        "answers":  [
+                        {
+                            "text":  "Kumar Sangakkara",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mahela Jayawardene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dimuth Karunaratne",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rangana Herath",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Sri Lankan thinker and reformer is associated with Buddhist revival?",
+        "answers":  [
+                        {
+                            "text":  "Anagarika Dharmapala",
+                            "score":  1
+                        },
+                        {
+                            "text":  "A.T. Ariyaratne",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lakshman Kadirgamar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Martin Wickramasinghe",
+                            "score":  0
+                        }
+                    ]
+    }
+]

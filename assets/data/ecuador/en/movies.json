@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Which Ecuadorian film directed by Sebastian Cordero became a landmark in 1999?",
+    "answers": [
+      {"text": "Ratas, ratones, rateros", "score": 1},
+      {"text": "Cronicas", "score": 0},
+      {"text": "Que tan lejos", "score": 0},
+      {"text": "Pescador", "score": 0}
+    ]
+  },
+  {
+    "question": "Which thriller by Sebastian Cordero follows a journalist and a serial killer in Ecuador?",
+    "answers": [
+      {"text": "Cronicas", "score": 1},
+      {"text": "Monos", "score": 0},
+      {"text": "La estrategia del caracol", "score": 0},
+      {"text": "City of God", "score": 0}
+    ]
+  },
+  {
+    "question": "Which road movie by Tania Hermida follows two women traveling across Ecuador?",
+    "answers": [
+      {"text": "Que tan lejos", "score": 1},
+      {"text": "Rabia", "score": 0},
+      {"text": "Sin muertos no hay carnaval", "score": 0},
+      {"text": "A tus espaldas", "score": 0}
+    ]
+  },
+  {
+    "question": "Which filmmaker is known for both Ratas, ratones, rateros and Cronicas?",
+    "answers": [
+      {"text": "Sebastian Cordero", "score": 1},
+      {"text": "Guillermo del Toro", "score": 0},
+      {"text": "Ciro Guerra", "score": 0},
+      {"text": "Alejandro Amenabar", "score": 0}
+    ]
+  }
+]

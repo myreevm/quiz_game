@@ -1,0 +1,38 @@
+[
+  {
+    "question": "1999 сыллаах Себастьян Кордеро уруйдаабыт Эквадорга бэлиэ фильм ханнык?",
+    "answers": [
+      {"text": "Ratas, ratones, rateros", "score": 1},
+      {"text": "Cronicas", "score": 0},
+      {"text": "Que tan lejos", "score": 0},
+      {"text": "Pescador", "score": 0}
+    ]
+  },
+  {
+    "question": "Эквадорга журналист уонна серийнай өлөрөөччү туһунан Себастьян Кордеро триллера ханнык?",
+    "answers": [
+      {"text": "Cronicas", "score": 1},
+      {"text": "Monos", "score": 0},
+      {"text": "Стратегия улитки", "score": 0},
+      {"text": "Город Бога", "score": 0}
+    ]
+  },
+  {
+    "question": "Тания Эрмида икки дьахтар Эквадорнан айанныыр роуд-мувита ханнык?",
+    "answers": [
+      {"text": "Que tan lejos", "score": 1},
+      {"text": "Rabia", "score": 0},
+      {"text": "Sin muertos no hay carnaval", "score": 0},
+      {"text": "A tus espaldas", "score": 0}
+    ]
+  },
+  {
+    "question": "Ratas, ratones, rateros уонна Cronicas фильмнарын ким режиссердаабытай?",
+    "answers": [
+      {"text": "Себастьян Кордеро", "score": 1},
+      {"text": "Гильермо дель Торо", "score": 0},
+      {"text": "Сиро Герра", "score": 0},
+      {"text": "Алехандро Аменабар", "score": 0}
+    ]
+  }
+]

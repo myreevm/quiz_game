@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Which Cuban poet and thinker is considered a national hero?",
+    "answers": [
+      {"text": "Jose Marti", "score": 1},
+      {"text": "Nicolas Guillen", "score": 0},
+      {"text": "Alejo Carpentier", "score": 0},
+      {"text": "Lezama Lima", "score": 0}
+    ]
+  },
+  {
+    "question": "Who led the Cuban Revolution and became the country's leader in 1959?",
+    "answers": [
+      {"text": "Fidel Castro", "score": 1},
+      {"text": "Fulgencio Batista", "score": 0},
+      {"text": "Raul Castro", "score": 0},
+      {"text": "Carlos Prio", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Argentine-born revolutionary became one of the symbols of the Cuban Revolution?",
+    "answers": [
+      {"text": "Che Guevara", "score": 1},
+      {"text": "Juan Peron", "score": 0},
+      {"text": "Augusto Pinochet", "score": 0},
+      {"text": "Jose de San Martin", "score": 0}
+    ]
+  },
+  {
+    "question": "Which world-famous Cuban ballerina founded the National Ballet of Cuba?",
+    "answers": [
+      {"text": "Alicia Alonso", "score": 1},
+      {"text": "Ana de Armas", "score": 0},
+      {"text": "Chavela Vargas", "score": 0},
+      {"text": "Silvio Rodriguez", "score": 0}
+    ]
+  }
+]

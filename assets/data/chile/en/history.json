@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "What is the capital of Chile?",
+        "answers":  [
+                        {
+                            "text":  "Santiago",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Valparaiso",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Concepcion",
+                            "score":  0
+                        },
+                        {
+                            "text":  "La Serena",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did Chile proclaim independence?",
+        "answers":  [
+                        {
+                            "text":  "1818",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1808",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1825",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1851",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the official currency of Chile?",
+        "answers":  [
+                        {
+                            "text":  "Chilean peso",
+                            "score":  1
+                        },
+                        {
+                            "text":  "US dollar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Peruvian sol",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Boliviano",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Where is the Atacama Desert located?",
+        "answers":  [
+                        {
+                            "text":  "Northern Chile",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Southern Chile",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Central Peru",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Western Argentina",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "What is the capital of El Salvador?",
+        "answers":  [
+                        {
+                            "text":  "San Salvador",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Santa Ana",
+                            "score":  0
+                        },
+                        {
+                            "text":  "San Miguel",
+                            "score":  0
+                        },
+                        {
+                            "text":  "La Libertad",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did El Salvador gain independence from Spain?",
+        "answers":  [
+                        {
+                            "text":  "1821",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1810",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1838",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1845",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What official currency is used in El Salvador today?",
+        "answers":  [
+                        {
+                            "text":  "US dollar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Salvadoran colon",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Guatemalan quetzal",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Honduran lempira",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which statement about El Salvador is correct?",
+        "answers":  [
+                        {
+                            "text":  "It is the smallest country in mainland Central America",
+                            "score":  1
+                        },
+                        {
+                            "text":  "It is the largest country in Central America",
+                            "score":  0
+                        },
+                        {
+                            "text":  "It is an island nation",
+                            "score":  0
+                        },
+                        {
+                            "text":  "It is in South America",
+                            "score":  0
+                        }
+                    ]
+    }
+]

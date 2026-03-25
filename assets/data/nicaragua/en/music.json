@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "What Afro-Caribbean festival rhythm is strongly associated with Nicaragua\u0027s Caribbean coast?",
+        "answers":  [
+                        {
+                            "text":  "Palo de mayo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kompa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Xuc",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Baila",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which traditional instrument is central to \u0027marimba de arco\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Bow-played marimba",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Steel drum",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sitar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Trumpet",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Nicaraguan musician is linked with socially engaged songs of the Sandinista era?",
+        "answers":  [
+                        {
+                            "text":  "Carlos Mejia Godoy",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Wyclef Jean",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alvaro Torres",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ricardo Arjona",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which singer known as \u0027El Principe de la Salsa\u0027 is from Nicaragua?",
+        "answers":  [
+                        {
+                            "text":  "Luis Enrique",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Marc Anthony",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Victor Manuelle",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ruben Blades",
+                            "score":  0
+                        }
+                    ]
+    }
+]

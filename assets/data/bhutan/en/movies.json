@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Which Bhutanese film about a teacher in a remote village was Oscar-nominated?",
+        "answers":  [
+                        {
+                            "text":  "Lunana: A Yak in the Classroom",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Cup",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Himalaya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Village Rockstars",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who directed the film \u0027The Monk and the Gun\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Pawo Choyning Dorji",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Khyentse Norbu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Asif Kapadia",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ritesh Batra",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which film is widely cited as Bhutan\u0027s first feature film?",
+        "answers":  [
+                        {
+                            "text":  "Travelers and Magicians",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lunana: A Yak in the Classroom",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Monk and the Gun",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Honeygiver Among the Dogs",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Bhutanese director made both \u0027Lunana\u0027 and \u0027The Monk and the Gun\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Pawo Choyning Dorji",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Khyentse Norbu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Martin Scorsese",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ang Lee",
+                            "score":  0
+                        }
+                    ]
+    }
+]

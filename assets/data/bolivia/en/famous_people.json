@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Evo Morales is known for serving as:",
+        "answers":  [
+                        {
+                            "text":  "President of Bolivia",
+                            "score":  1
+                        },
+                        {
+                            "text":  "UN Secretary-General",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Prime Minister of Chile",
+                            "score":  0
+                        },
+                        {
+                            "text":  "President of Peru",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Bolivia was named after which historical figure?",
+        "answers":  [
+                        {
+                            "text":  "Simon Bolivar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jose de San Martin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bernardo O\u0027Higgins",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Francisco Pizarro",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Jaime Escalante became famous as a:",
+        "answers":  [
+                        {
+                            "text":  "Math teacher",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Film director",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Football player",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Composer",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Juana Azurduy is remembered as a:",
+        "answers":  [
+                        {
+                            "text":  "Heroine of independence",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Opera singer",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Scientist",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Olympic athlete",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "What is a traditional Bhutanese classical vocal style?",
+        "answers":  [
+                        {
+                            "text":  "Zhungdra",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Qawwali",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fado",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Samba",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Bhutanese music-and-dance style has courtly roots?",
+        "answers":  [
+                        {
+                            "text":  "Boedra",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Rigsar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bodu beru",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kundiman",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is a dramnyen in Bhutanese music?",
+        "answers":  [
+                        {
+                            "text":  "A lute-like string instrument",
+                            "score":  1
+                        },
+                        {
+                            "text":  "A drum rhythm",
+                            "score":  0
+                        },
+                        {
+                            "text":  "A choral style",
+                            "score":  0
+                        },
+                        {
+                            "text":  "A bamboo flute",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is rigsar in Bhutan?",
+        "answers":  [
+                        {
+                            "text":  "Modern popular Bhutanese music",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ancient temple chant",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Military march music",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Opera tradition",
+                            "score":  0
+                        }
+                    ]
+    }
+]

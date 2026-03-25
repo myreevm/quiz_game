@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Which Colombian film directed by Ciro Guerra was nominated for an Oscar in 2016?",
+    "answers": [
+      {"text": "Embrace of the Serpent", "score": 1},
+      {"text": "Monos", "score": 0},
+      {"text": "Maria Full of Grace", "score": 0},
+      {"text": "Birds of Passage", "score": 0}
+    ]
+  },
+  {
+    "question": "Which film tells the story of a young Colombian woman forced into drug trafficking?",
+    "answers": [
+      {"text": "Maria Full of Grace", "score": 1},
+      {"text": "Rosario Tijeras", "score": 0},
+      {"text": "La estrategia del caracol", "score": 0},
+      {"text": "The Snitch Cartel", "score": 0}
+    ]
+  },
+  {
+    "question": "Which 2019 Colombian film follows armed teenagers in a remote mountain camp?",
+    "answers": [
+      {"text": "Monos", "score": 1},
+      {"text": "Satanas", "score": 0},
+      {"text": "Paraiso Travel", "score": 0},
+      {"text": "La vendedora de rosas", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Colombian director is known for Embrace of the Serpent and co-directing Birds of Passage?",
+    "answers": [
+      {"text": "Ciro Guerra", "score": 1},
+      {"text": "Patricia Cardoso", "score": 0},
+      {"text": "Sergio Cabrera", "score": 0},
+      {"text": "Victor Gaviria", "score": 0}
+    ]
+  }
+]

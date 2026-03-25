@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Which Panamanian boxer is nicknamed Hands of Stone?",
+    "answers": [
+      {"text": "Roberto Duran", "score": 1},
+      {"text": "Julio Cesar Chavez", "score": 0},
+      {"text": "Manny Pacquiao", "score": 0},
+      {"text": "Oscar De La Hoya", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Panamanian baseball player became MLB's all-time saves leader?",
+    "answers": [
+      {"text": "Mariano Rivera", "score": 1},
+      {"text": "David Ortiz", "score": 0},
+      {"text": "Miguel Cabrera", "score": 0},
+      {"text": "Albert Pujols", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Panamanian leader is associated with the Torrijos-Carter Treaties?",
+    "answers": [
+      {"text": "Omar Torrijos", "score": 1},
+      {"text": "Manuel Noriega", "score": 0},
+      {"text": "Arnulfo Arias", "score": 0},
+      {"text": "Ricardo Martinelli", "score": 0}
+    ]
+  },
+  {
+    "question": "Who was the first female president of Panama?",
+    "answers": [
+      {"text": "Mireya Moscoso", "score": 1},
+      {"text": "Violeta Chamorro", "score": 0},
+      {"text": "Laura Chinchilla", "score": 0},
+      {"text": "Cristina Fernandez de Kirchner", "score": 0}
+    ]
+  }
+]

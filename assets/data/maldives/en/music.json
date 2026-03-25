@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "What is the famous traditional drumming-and-dance genre of the Maldives?",
+        "answers":  [
+                        {
+                            "text":  "Bodu beru",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Qawwali",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fado",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cumbia",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which traditional Maldivian music form is often linked to ceremonial performance?",
+        "answers":  [
+                        {
+                            "text":  "Thaara",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Rigsar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kundiman",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Baila",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What does \u0027Dhivehi pop\u0027 refer to?",
+        "answers":  [
+                        {
+                            "text":  "Modern popular songs in the Dhivehi language",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ancient Buddhist chants",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Military brass bands",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Opera from Europe",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which instruments are central in many Maldivian traditional ensembles?",
+        "answers":  [
+                        {
+                            "text":  "Drums and percussion",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pipe organs",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bagpipes",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sitars only",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Which traditional romantic song genre is strongly associated with Ecuador?",
+    "answers": [
+      {"text": "Pasillo", "score": 1},
+      {"text": "Vallenato", "score": 0},
+      {"text": "Bolero son", "score": 0},
+      {"text": "Fado", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Ecuadorian singer was known as El Ruisenor de America?",
+    "answers": [
+      {"text": "Julio Jaramillo", "score": 1},
+      {"text": "Carlos Vives", "score": 0},
+      {"text": "Juan Gabriel", "score": 0},
+      {"text": "Ruben Blades", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Andean music and dance style is common in Ecuadorian highlands?",
+    "answers": [
+      {"text": "Sanjuanito", "score": 1},
+      {"text": "Cueca", "score": 0},
+      {"text": "Samba", "score": 0},
+      {"text": "Tango", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Afro-Ecuadorian style from the Esmeraldas region is famous for marimba rhythms?",
+    "answers": [
+      {"text": "Marimba esmeraldena", "score": 1},
+      {"text": "Nueva trova", "score": 0},
+      {"text": "Huapango", "score": 0},
+      {"text": "Bossa nova", "score": 0}
+    ]
+  }
+]

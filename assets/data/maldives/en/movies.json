@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Which documentary follows Maldivian president Mohamed Nasheed and climate diplomacy?",
+        "answers":  [
+                        {
+                            "text":  "The Island President",
+                            "score":  1
+                        },
+                        {
+                            "text":  "An Inconvenient Truth",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Before the Flood",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2040",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who directed the documentary \u0027The Island President\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Jon Shenk",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Davis Guggenheim",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Werner Herzog",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ava DuVernay",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What major global issue is often highlighted in films about the Maldives?",
+        "answers":  [
+                        {
+                            "text":  "Climate change and sea-level rise",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Arctic oil drilling",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Deforestation in the Amazon",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Urban subway expansion",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Why do international productions often use Maldives locations?",
+        "answers":  [
+                        {
+                            "text":  "Scenic atolls and tropical beaches",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Large mountain ranges",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Snow deserts",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Historic Roman ruins",
+                            "score":  0
+                        }
+                    ]
+    }
+]

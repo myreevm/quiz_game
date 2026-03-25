@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "What is the capital of Peru?",
+        "answers":  [
+                        {
+                            "text":  "Lima",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cusco",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Arequipa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Trujillo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did Peru declare independence?",
+        "answers":  [
+                        {
+                            "text":  "1821",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1810",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1830",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1850",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the official currency of Peru?",
+        "answers":  [
+                        {
+                            "text":  "Peruvian sol",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Chilean peso",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Boliviano",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Guarani",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Machu Picchu was built by which civilization?",
+        "answers":  [
+                        {
+                            "text":  "Inca civilization",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Maya civilization",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Aztec civilization",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Olmec civilization",
+                            "score":  0
+                        }
+                    ]
+    }
+]

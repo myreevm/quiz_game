@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Who directed the Cuban classic Memories of Underdevelopment?",
+    "answers": [
+      {"text": "Tomas Gutierrez Alea", "score": 1},
+      {"text": "Humberto Solas", "score": 0},
+      {"text": "Fernando Perez", "score": 0},
+      {"text": "Juan Carlos Cremata", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Cuban film was nominated for the Academy Award for Best Foreign Language Film in 1994?",
+    "answers": [
+      {"text": "Fresa y Chocolate", "score": 1},
+      {"text": "Suite Habana", "score": 0},
+      {"text": "Conducta", "score": 0},
+      {"text": "Viva Cuba", "score": 0}
+    ]
+  },
+  {
+    "question": "Which 1964 film set in pre-revolutionary Havana is also known as I Am Cuba?",
+    "answers": [
+      {"text": "Soy Cuba", "score": 1},
+      {"text": "Lucia", "score": 0},
+      {"text": "The Last Supper", "score": 0},
+      {"text": "Guantanamera", "score": 0}
+    ]
+  },
+  {
+    "question": "Which documentary revived global interest in veteran Cuban musicians in 1999?",
+    "answers": [
+      {"text": "Buena Vista Social Club", "score": 1},
+      {"text": "Habana Blues", "score": 0},
+      {"text": "Un Traductor", "score": 0},
+      {"text": "Juan of the Dead", "score": 0}
+    ]
+  }
+]

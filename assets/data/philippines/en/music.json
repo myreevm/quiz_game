@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "What is the traditional Filipino romantic song style called?",
+        "answers":  [
+                        {
+                            "text":  "Kundiman",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cueca",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Baila",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Guarania",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is kulintang in Philippine culture?",
+        "answers":  [
+                        {
+                            "text":  "A gong-chime ensemble tradition",
+                            "score":  1
+                        },
+                        {
+                            "text":  "A bamboo flute",
+                            "score":  0
+                        },
+                        {
+                            "text":  "A choral genre",
+                            "score":  0
+                        },
+                        {
+                            "text":  "A dance costume",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Filipino performer became famous on Broadway and in Disney musicals?",
+        "answers":  [
+                        {
+                            "text":  "Lea Salonga",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Regine Velasquez",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sarah Geronimo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sharon Cuneta",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What does OPM stand for in Philippine music?",
+        "answers":  [
+                        {
+                            "text":  "Original Pilipino Music",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Official Pop Movement",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Orchestral Philippine Melodies",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Open Performance Mode",
+                            "score":  0
+                        }
+                    ]
+    }
+]

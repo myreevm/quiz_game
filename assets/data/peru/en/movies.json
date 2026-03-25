@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "From which country does Paddington Bear come from in the films?",
+        "answers":  [
+                        {
+                            "text":  "Peru",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Chile",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bolivia",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ecuador",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "The film \"The Motorcycle Diaries\" includes scenes from which famous place in Peru?",
+        "answers":  [
+                        {
+                            "text":  "Machu Picchu",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nazca Lines",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lake Titicaca",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Colca Canyon",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who directed the Peruvian film \"The Milk of Sorrow\"?",
+        "answers":  [
+                        {
+                            "text":  "Claudia Llosa",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lucrecia Martel",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Patricia Riggen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sofia Coppola",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Peruvian film won the Golden Bear at the Berlin Film Festival in 2009?",
+        "answers":  [
+                        {
+                            "text":  "The Milk of Sorrow",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Undertow",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Retablo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Wiñaypacha",
+                            "score":  0
+                        }
+                    ]
+    }
+]

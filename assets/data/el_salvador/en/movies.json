@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Which film tells the story of children during the Salvadoran Civil War?",
+        "answers":  [
+                        {
+                            "text":  "Innocent Voices",
+                            "score":  1
+                        },
+                        {
+                            "text":  "La Yuma",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ixcanul",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Moloch Tropical",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which international 1986 film is set during conflict in El Salvador?",
+        "answers":  [
+                        {
+                            "text":  "Salvador",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Comedians",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ghosts of Cite Soleil",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Carla\u0027s Song",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who directed the Salvadoran film \u0027Malacrianza\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Arturo Menendez",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jayro Bustamante",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Raoul Peck",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Florence Jaugey",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who directed the film \u0027Innocent Voices\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Luis Mandoki",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Arturo Menendez",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Oliver Stone",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Walter Salles",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Which genre from eastern Cuba became one of the roots of salsa?",
+    "answers": [
+      {"text": "Son cubano", "score": 1},
+      {"text": "Tango", "score": 0},
+      {"text": "Bossa nova", "score": 0},
+      {"text": "Reggae", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Cuban singer is known worldwide as the Queen of Salsa?",
+    "answers": [
+      {"text": "Celia Cruz", "score": 1},
+      {"text": "Omara Portuondo", "score": 0},
+      {"text": "Gloria Estefan", "score": 0},
+      {"text": "La Lupe", "score": 0}
+    ]
+  },
+  {
+    "question": "Which ensemble became internationally famous after the album and film Buena Vista Social Club?",
+    "answers": [
+      {"text": "Buena Vista Social Club", "score": 1},
+      {"text": "Los Van Van", "score": 0},
+      {"text": "Gente de Zona", "score": 0},
+      {"text": "Irakere", "score": 0}
+    ]
+  },
+  {
+    "question": "What is the traditional Cuban instrument with three pairs of strings called?",
+    "answers": [
+      {"text": "Tres cubano", "score": 1},
+      {"text": "Charango", "score": 0},
+      {"text": "Cuatro", "score": 0},
+      {"text": "Bandurria", "score": 0}
+    ]
+  }
+]

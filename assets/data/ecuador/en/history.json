@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What is the capital of Ecuador?",
+    "answers": [
+      {"text": "Quito", "score": 1},
+      {"text": "Guayaquil", "score": 0},
+      {"text": "Cuenca", "score": 0},
+      {"text": "Loja", "score": 0}
+    ]
+  },
+  {
+    "question": "In which year did the Battle of Pichincha secure Ecuador's independence process?",
+    "answers": [
+      {"text": "1822", "score": 1},
+      {"text": "1810", "score": 0},
+      {"text": "1830", "score": 0},
+      {"text": "1859", "score": 0}
+    ]
+  },
+  {
+    "question": "What is the official currency of Ecuador today?",
+    "answers": [
+      {"text": "US dollar", "score": 1},
+      {"text": "Ecuadorian sucre", "score": 0},
+      {"text": "Colombian peso", "score": 0},
+      {"text": "Euro", "score": 0}
+    ]
+  },
+  {
+    "question": "Which famous archipelago belongs to Ecuador in the Pacific Ocean?",
+    "answers": [
+      {"text": "Galapagos Islands", "score": 1},
+      {"text": "Canary Islands", "score": 0},
+      {"text": "Azores", "score": 0},
+      {"text": "Balearic Islands", "score": 0}
+    ]
+  }
+]

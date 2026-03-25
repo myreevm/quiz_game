@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Who is considered a national hero of the Philippines and wrote \u0027Noli Me Tangere\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Jose Rizal",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Andres Bonifacio",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Emilio Aguinaldo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Apolinario Mabini",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Filipino athlete became an eight-division world boxing champion?",
+        "answers":  [
+                        {
+                            "text":  "Manny Pacquiao",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nonito Donaire",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Efren Reyes",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hidilyn Diaz",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who became the first female president of the Philippines in 1986?",
+        "answers":  [
+                        {
+                            "text":  "Corazon Aquino",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Gloria Macapagal Arroyo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Imelda Marcos",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sara Duterte",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Filipino chieftain is known for resisting Magellan in 1521?",
+        "answers":  [
+                        {
+                            "text":  "Lapu-Lapu",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Raja Humabon",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Diego Silang",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sultan Kudarat",
+                            "score":  0
+                        }
+                    ]
+    }
+]

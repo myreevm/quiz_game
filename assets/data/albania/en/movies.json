@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which film is associated with Albania?",
+    "answers": [
+      {
+        "text": "The Forgiveness of Blood",
+        "score": 1
+      },
+      {
+        "text": "No Man's Land",
+        "score": 0
+      },
+      {
+        "text": "The Black Pin",
+        "score": 0
+      },
+      {
+        "text": "Underground",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which second movie linked to Albania appears in this set?",
+    "answers": [
+      {
+        "text": "Bota",
+        "score": 1
+      },
+      {
+        "text": "Quo Vadis, Aida?",
+        "score": 0
+      },
+      {
+        "text": "You Have the Night",
+        "score": 0
+      },
+      {
+        "text": "Hamaca Paraguaya",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which mixed-cinema title connected to Albania appears here?",
+    "answers": [
+      {
+        "text": "Slogans",
+        "score": 1
+      },
+      {
+        "text": "Welcome to Sarajevo",
+        "score": 0
+      },
+      {
+        "text": "Casino Royale (Montenegro setting)",
+        "score": 0
+      },
+      {
+        "text": "Embrace of the Serpent",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which director/creator is linked to Albania cinema in this set?",
+    "answers": [
+      {
+        "text": "Tirana International Film Festival",
+        "score": 1
+      },
+      {
+        "text": "Danis Tanovic",
+        "score": 0
+      },
+      {
+        "text": "Ivan Marinovic",
+        "score": 0
+      },
+      {
+        "text": "Pablo Larrain",
+        "score": 0
+      }
+    ]
+  }
+]

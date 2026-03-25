@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which music tradition is associated with Montenegro?",
+    "answers": [
+      {
+        "text": "Gusle",
+        "score": 1
+      },
+      {
+        "text": "Sevdalinka",
+        "score": 0
+      },
+      {
+        "text": "Iso-polyphony",
+        "score": 0
+      },
+      {
+        "text": "Cumbia",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which instrument/style is associated with Montenegro?",
+    "answers": [
+      {
+        "text": "Oro dance",
+        "score": 1
+      },
+      {
+        "text": "Saz",
+        "score": 0
+      },
+      {
+        "text": "Cifteli",
+        "score": 0
+      },
+      {
+        "text": "Charango",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which artist/group is associated with Montenegro?",
+    "answers": [
+      {
+        "text": "Knez",
+        "score": 1
+      },
+      {
+        "text": "Bijelo Dugme",
+        "score": 0
+      },
+      {
+        "text": "Vace Zela",
+        "score": 0
+      },
+      {
+        "text": "Carlos Vives",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which fourth music item is associated with Montenegro?",
+    "answers": [
+      {
+        "text": "Epic singing tradition",
+        "score": 1
+      },
+      {
+        "text": "Amira Medunjanin",
+        "score": 0
+      },
+      {
+        "text": "Dua Lipa (Albanian roots)",
+        "score": 0
+      },
+      {
+        "text": "Bodu beru",
+        "score": 0
+      }
+    ]
+  }
+]

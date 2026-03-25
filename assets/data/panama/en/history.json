@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What is the capital of Panama?",
+    "answers": [
+      {"text": "Panama City", "score": 1},
+      {"text": "Colon", "score": 0},
+      {"text": "David", "score": 0},
+      {"text": "Santiago", "score": 0}
+    ]
+  },
+  {
+    "question": "In which year did Panama declare independence from Colombia?",
+    "answers": [
+      {"text": "1903", "score": 1},
+      {"text": "1898", "score": 0},
+      {"text": "1910", "score": 0},
+      {"text": "1821", "score": 0}
+    ]
+  },
+  {
+    "question": "Which national currency is used in Panama alongside the US dollar?",
+    "answers": [
+      {"text": "Balboa", "score": 1},
+      {"text": "Peso", "score": 0},
+      {"text": "Quetzal", "score": 0},
+      {"text": "Cordoba", "score": 0}
+    ]
+  },
+  {
+    "question": "Which major waterway in Panama connects the Atlantic and Pacific Oceans?",
+    "answers": [
+      {"text": "Panama Canal", "score": 1},
+      {"text": "Suez Canal", "score": 0},
+      {"text": "Kiel Canal", "score": 0},
+      {"text": "Corinth Canal", "score": 0}
+    ]
+  }
+]

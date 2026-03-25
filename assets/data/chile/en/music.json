@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Who wrote the song \"Gracias a la Vida\"?",
+        "answers":  [
+                        {
+                            "text":  "Violeta Parra",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mon Laferte",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mercedes Sosa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shakira",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the traditional national dance and music style of Chile?",
+        "answers":  [
+                        {
+                            "text":  "Cueca",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tango",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Samba",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cumbia",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Mon Laferte is known as a:",
+        "answers":  [
+                        {
+                            "text":  "Singer-songwriter",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Film director",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Painter",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Scientist",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Los Prisioneros are an influential Chilean:",
+        "answers":  [
+                        {
+                            "text":  "Rock band",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Folk dance group",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Symphony orchestra",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jazz trio",
+                            "score":  0
+                        }
+                    ]
+    }
+]

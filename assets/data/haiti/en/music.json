@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "What is the most internationally known modern dance music genre from Haiti?",
+        "answers":  [
+                        {
+                            "text":  "Kompa",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Xuc",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cueca",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Baila",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is rara in Haitian culture?",
+        "answers":  [
+                        {
+                            "text":  "A street-procession musical tradition",
+                            "score":  1
+                        },
+                        {
+                            "text":  "A chamber orchestra style",
+                            "score":  0
+                        },
+                        {
+                            "text":  "A solo piano genre",
+                            "score":  0
+                        },
+                        {
+                            "text":  "A military march",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What does \u0027mizik rasin\u0027 (roots music) in Haiti combine?",
+        "answers":  [
+                        {
+                            "text":  "Vodou rhythms with rock and traditional forms",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Only classical European opera",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Only electronic dance beats",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Only jazz standards",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which globally known artist has strong Haitian roots?",
+        "answers":  [
+                        {
+                            "text":  "Wyclef Jean",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Shakira",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mon Laferte",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lea Salonga",
+                            "score":  0
+                        }
+                    ]
+    }
+]

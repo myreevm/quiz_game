@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "What is the capital of Paraguay?",
+        "answers":  [
+                        {
+                            "text":  "Asuncion",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ciudad del Este",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Encarnacion",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Luque",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did Paraguay declare independence?",
+        "answers":  [
+                        {
+                            "text":  "1811",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1801",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1830",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1864",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the official currency of Paraguay?",
+        "answers":  [
+                        {
+                            "text":  "Guarani",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Peso",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Real",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Boliviano",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which pair are the official languages of Paraguay?",
+        "answers":  [
+                        {
+                            "text":  "Spanish and Guarani",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Spanish and Portuguese",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Guarani and English",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Spanish and Quechua",
+                            "score":  0
+                        }
+                    ]
+    }
+]

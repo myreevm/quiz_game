@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Who is the current King of Bhutan?",
+        "answers":  [
+                        {
+                            "text":  "Jigme Khesar Namgyel Wangchuck",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jigme Singye Wangchuck",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ugyen Wangchuck",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tshering Tobgay",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Bhutanese king promoted Gross National Happiness globally?",
+        "answers":  [
+                        {
+                            "text":  "Jigme Singye Wangchuck",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jigme Khesar Namgyel Wangchuck",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ugyen Wangchuck",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jigme Dorji Wangchuck",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who is Bhutan\u0027s Queen (Gyaltsuen)?",
+        "answers":  [
+                        {
+                            "text":  "Jetsun Pema",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Aum Dorji Wangmo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sangay Choden",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pema Choden",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Bhutanese filmmaker directed \u0027The Monk and the Gun\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Pawo Choyning Dorji",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Khyentse Norbu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rima Das",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Asghar Farhadi",
+                            "score":  0
+                        }
+                    ]
+    }
+]

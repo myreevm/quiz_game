@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Paraguayan thriller set in a market became an international hit?",
+        "answers":  [
+                        {
+                            "text":  "7 Boxes",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Heiresses",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hamaca Paraguaya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Luna de Cigarras",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who directed the Paraguayan film \"The Heiresses\"?",
+        "answers":  [
+                        {
+                            "text":  "Marcelo Martinessi",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Paz Encina",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Juan Carlos Maneglia",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pablo Larrain",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "\"Hamaca Paraguaya\" is known for which style?",
+        "answers":  [
+                        {
+                            "text":  "Slow contemplative style",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Action comedy style",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Musical style",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Science-fiction style",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which actress from \"The Heiresses\" won a Silver Bear at Berlin?",
+        "answers":  [
+                        {
+                            "text":  "Ana Brun",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Daniela Vega",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Natalia Oreiro",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Penelope Cruz",
+                            "score":  0
+                        }
+                    ]
+    }
+]

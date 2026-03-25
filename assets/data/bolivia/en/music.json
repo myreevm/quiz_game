@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Bolivian group created the original song \"Llorando se fue\"?",
+        "answers":  [
+                        {
+                            "text":  "Los Kjarkas",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Los Prisioneros",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Illapu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Inti-Illimani",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which traditional Andean string instrument is strongly associated with Bolivia?",
+        "answers":  [
+                        {
+                            "text":  "Charango",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bandoneon",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Violin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cello",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Caporales is mainly known in Bolivia as a:",
+        "answers":  [
+                        {
+                            "text":  "Dance and music style",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Opera style",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Military march",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Electronic genre",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which instrument is central in many Bolivian folk ensembles?",
+        "answers":  [
+                        {
+                            "text":  "Pan flute (zampona)",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Electric guitar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Drum machine",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Piano",
+                            "score":  0
+                        }
+                    ]
+    }
+]

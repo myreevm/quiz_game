@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Which Ecuadorian liberal leader is known for major reforms at the turn of the 20th century?",
+    "answers": [
+      {"text": "Eloy Alfaro", "score": 1},
+      {"text": "Rafael Correa", "score": 0},
+      {"text": "Juan Montalvo", "score": 0},
+      {"text": "Abdon Calderon", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Ecuadorian painter is famous for socially engaged works and expressive portraits?",
+    "answers": [
+      {"text": "Oswaldo Guayasamin", "score": 1},
+      {"text": "Fernando Botero", "score": 0},
+      {"text": "Diego Rivera", "score": 0},
+      {"text": "Wifredo Lam", "score": 0}
+    ]
+  },
+  {
+    "question": "Who became Ecuador's first Olympic gold medalist in race walking?",
+    "answers": [
+      {"text": "Jefferson Perez", "score": 1},
+      {"text": "Andres Gomez", "score": 0},
+      {"text": "Antonio Valencia", "score": 0},
+      {"text": "Richard Carapaz", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Ecuadorian football captain played for Manchester United?",
+    "answers": [
+      {"text": "Antonio Valencia", "score": 1},
+      {"text": "Enner Valencia", "score": 0},
+      {"text": "Agustin Delgado", "score": 0},
+      {"text": "Felipe Caicedo", "score": 0}
+    ]
+  }
+]

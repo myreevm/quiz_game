@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "What is the capital of Bhutan?",
+        "answers":  [
+                        {
+                            "text":  "Thimphu",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Paro",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Punakha",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Phuentsholing",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year was the hereditary monarchy established in Bhutan?",
+        "answers":  [
+                        {
+                            "text":  "1907",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1912",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1949",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1968",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the official currency of Bhutan?",
+        "answers":  [
+                        {
+                            "text":  "Ngultrum",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Rupee",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Taka",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kyat",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which development concept is strongly associated with Bhutan?",
+        "answers":  [
+                        {
+                            "text":  "Gross National Happiness",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Green New Deal",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Five-Year Plan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Human Development Index",
+                            "score":  0
+                        }
+                    ]
+    }
+]

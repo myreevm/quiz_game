@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Which biographical sports film tells the story of Panamanian boxer Roberto Duran?",
+    "answers": [
+      {"text": "Hands of Stone", "score": 1},
+      {"text": "Raging Bull", "score": 0},
+      {"text": "Ali", "score": 0},
+      {"text": "Southpaw", "score": 0}
+    ]
+  },
+  {
+    "question": "Which spy film based on a John le Carre novel is set in Panama?",
+    "answers": [
+      {"text": "The Tailor of Panama", "score": 1},
+      {"text": "Tinker Tailor Soldier Spy", "score": 0},
+      {"text": "The Constant Gardener", "score": 0},
+      {"text": "A Most Wanted Man", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Panamanian drama film was Panama's entry for the Academy Awards in 2021?",
+    "answers": [
+      {"text": "Plaza Catedral", "score": 1},
+      {"text": "Chance", "score": 0},
+      {"text": "Salsipuedes", "score": 0},
+      {"text": "Invasion", "score": 0}
+    ]
+  },
+  {
+    "question": "Which Panamanian filmmaker is known for the documentary Invasion?",
+    "answers": [
+      {"text": "Abner Benaim", "score": 1},
+      {"text": "Guillermo del Toro", "score": 0},
+      {"text": "Alejandro Amenabar", "score": 0},
+      {"text": "Alfonso Cuaron", "score": 0}
+    ]
+  }
+]

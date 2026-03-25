@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Which film is often named as a landmark of realist Sinhala cinema?",
+        "answers":  [
+                        {
+                            "text":  "Rekava",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Gamperaliya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nidhanaya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Purahanda Kaluwara",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which international classic had major filming in Sri Lanka?",
+        "answers":  [
+                        {
+                            "text":  "The Bridge on the River Kwai",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lawrence of Arabia",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Casablanca",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Godfather",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who is one of the most celebrated Sri Lankan film directors?",
+        "answers":  [
+                        {
+                            "text":  "Lester James Peries",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Satyajit Ray",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Asghar Farhadi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Wong Kar-wai",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Why is Sri Lanka frequently chosen for international shoots?",
+        "answers":  [
+                        {
+                            "text":  "Diverse tropical landscapes and colonial-era locations",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Permanent winter climate",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Only desert scenery",
+                            "score":  0
+                        },
+                        {
+                            "text":  "No coastline",
+                            "score":  0
+                        }
+                    ]
+    }
+]

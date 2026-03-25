@@ -1,0 +1,86 @@
+[
+  {
+    "question": "What is the capital of Bosnia and Herzegovina?",
+    "answers": [
+      {
+        "text": "Sarajevo",
+        "score": 1
+      },
+      {
+        "text": "Tirana",
+        "score": 0
+      },
+      {
+        "text": "Podgorica",
+        "score": 0
+      },
+      {
+        "text": "Belgrade",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which year of independence/referendum is linked to Bosnia and Herzegovina?",
+    "answers": [
+      {
+        "text": "1992",
+        "score": 1
+      },
+      {
+        "text": "1912",
+        "score": 0
+      },
+      {
+        "text": "2006",
+        "score": 0
+      },
+      {
+        "text": "1989",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What currency is used in Bosnia and Herzegovina?",
+    "answers": [
+      {
+        "text": "Convertible mark (BAM)",
+        "score": 1
+      },
+      {
+        "text": "Lek",
+        "score": 0
+      },
+      {
+        "text": "Euro",
+        "score": 0
+      },
+      {
+        "text": "US dollar",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which key historical marker is associated with Bosnia and Herzegovina?",
+    "answers": [
+      {
+        "text": "Dayton Agreement (1995)",
+        "score": 1
+      },
+      {
+        "text": "Skanderbeg",
+        "score": 0
+      },
+      {
+        "text": "Cetinje (old royal capital)",
+        "score": 0
+      },
+      {
+        "text": "UN Charter",
+        "score": 0
+      }
+    ]
+  }
+]

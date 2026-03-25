@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Which Nicaraguan poet is a leading figure of modernismo in Spanish literature?",
+        "answers":  [
+                        {
+                            "text":  "Ruben Dario",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pablo Neruda",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cesar Vallejo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Octavio Paz",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Nicaraguan revolutionary leader became a symbol of anti-imperialist struggle?",
+        "answers":  [
+                        {
+                            "text":  "Augusto C. Sandino",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Anastasio Somoza",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Daniel Ortega",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jose Marti",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Nicaraguan writer and activist is known for novels and poetry?",
+        "answers":  [
+                        {
+                            "text":  "Gioconda Belli",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Claudia Lars",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Edwidge Danticat",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gabriela Mistral",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Nicaraguan boxing champion was nicknamed \u0027The Explosive Thin Man\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Alexis Arguello",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Manny Pacquiao",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Roberto Duran",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Julio Cesar Chavez",
+                            "score":  0
+                        }
+                    ]
+    }
+]

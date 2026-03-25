@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Which documentary by Haitian director Raoul Peck was Oscar-nominated?",
+        "answers":  [
+                        {
+                            "text":  "I Am Not Your Negro",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ghosts of Cite Soleil",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Comedians",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Salvador",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which political drama film by Raoul Peck is set in Haiti?",
+        "answers":  [
+                        {
+                            "text":  "Moloch Tropical",
+                            "score":  1
+                        },
+                        {
+                            "text":  "El Norte",
+                            "score":  0
+                        },
+                        {
+                            "text":  "La Yuma",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ixcanul",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which documentary explores gang and political dynamics in Port-au-Prince?",
+        "answers":  [
+                        {
+                            "text":  "Ghosts of Cite Soleil",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Carla\u0027s Song",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Innocent Voices",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Monos",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which classic film adaptation based on Graham Greene\u0027s novel is set in Haiti?",
+        "answers":  [
+                        {
+                            "text":  "The Comedians",
+                            "score":  1
+                        },
+                        {
+                            "text":  "No",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Himala",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Heneral Luna",
+                            "score":  0
+                        }
+                    ]
+    }
+]

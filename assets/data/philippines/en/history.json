@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "What is the capital of the Philippines?",
+        "answers":  [
+                        {
+                            "text":  "Manila",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cebu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Davao",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Quezon City",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did the Philippines declare independence from Spain?",
+        "answers":  [
+                        {
+                            "text":  "1898",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1901",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1946",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1965",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the official currency of the Philippines?",
+        "answers":  [
+                        {
+                            "text":  "Philippine peso",
+                            "score":  1
+                        },
+                        {
+                            "text":  "US dollar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ringgit",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Baht",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "The Philippines is best described as what kind of country?",
+        "answers":  [
+                        {
+                            "text":  "An archipelago of 7000+ islands",
+                            "score":  1
+                        },
+                        {
+                            "text":  "A landlocked federation",
+                            "score":  0
+                        },
+                        {
+                            "text":  "A peninsula with two islands",
+                            "score":  0
+                        },
+                        {
+                            "text":  "A desert kingdom",
+                            "score":  0
+                        }
+                    ]
+    }
+]

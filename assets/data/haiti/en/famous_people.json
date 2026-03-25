@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Which leader of the Haitian Revolution is known for anti-slavery struggle before independence?",
+        "answers":  [
+                        {
+                            "text":  "Toussaint Louverture",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Simon Bolivar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jean-Jacques Rousseau",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ruben Dario",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who is recognized as a founding father and first ruler of independent Haiti?",
+        "answers":  [
+                        {
+                            "text":  "Jean-Jacques Dessalines",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Henri Christophe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Francois Duvalier",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Raoul Cedras",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Haitian-American writer is known for works like \u0027Breath, Eyes, Memory\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Edwidge Danticat",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Gioconda Belli",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rigoberta Menchu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Claudia Lars",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Haitian-born musician became globally famous as part of The Fugees?",
+        "answers":  [
+                        {
+                            "text":  "Wyclef Jean",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sean Paul",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Luis Enrique",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Carlos Vives",
+                            "score":  0
+                        }
+                    ]
+    }
+]

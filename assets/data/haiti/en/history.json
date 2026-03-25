@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "What is the capital of Haiti?",
+        "answers":  [
+                        {
+                            "text":  "Port-au-Prince",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cap-Haitien",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Les Cayes",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jacmel",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did Haiti declare independence?",
+        "answers":  [
+                        {
+                            "text":  "1804",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1789",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1821",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1844",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the official currency of Haiti?",
+        "answers":  [
+                        {
+                            "text":  "Gourde",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Peso",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Quetzal",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cordoba",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which statement about Haiti\u0027s geography is correct?",
+        "answers":  [
+                        {
+                            "text":  "It shares the island of Hispaniola with the Dominican Republic",
+                            "score":  1
+                        },
+                        {
+                            "text":  "It is located in Central America mainland",
+                            "score":  0
+                        },
+                        {
+                            "text":  "It has no Caribbean coast",
+                            "score":  0
+                        },
+                        {
+                            "text":  "It is a Pacific island",
+                            "score":  0
+                        }
+                    ]
+    }
+]
