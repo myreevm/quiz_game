@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Who became the first president of independent Niger?",
+        "answers":  [
+                        {
+                            "text":  "Hamani Diori",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mahamadou Issoufou",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mohamed Bazoum",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Boubou Hama",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Nigerien president served from 2011 to 2021?",
+        "answers":  [
+                        {
+                            "text":  "Mahamadou Issoufou",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hamani Diori",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mohamed Bazoum",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Seyni Kountche",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who became president of Niger in 2021?",
+        "answers":  [
+                        {
+                            "text":  "Mohamed Bazoum",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mahamadou Issoufou",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hamani Diori",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bombino",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Nigerien intellectual and writer is a major historical cultural figure?",
+        "answers":  [
+                        {
+                            "text":  "Boubou Hama",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Oumarou Ganda",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Moustapha Alassane",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bombino",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Nigerien musician is internationally known for Tuareg guitar style?",
+        "answers":  [
+                        {
+                            "text":  "Bombino",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tinariwen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ali Farka Toure",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Salif Keita",
+                            "score":  0
+                        }
+                    ]
+    }
+]

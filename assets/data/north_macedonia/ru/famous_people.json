@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Какая лауреатка Нобелевской премии мира родилась в Скопье?",
+        "answers":  [
+                        {
+                            "text":  "Mother Teresa",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Indira Gandhi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Angela Merkel",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Aung San Suu Kyi",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой футболист стал символом футбола Северной Македонии и капитаном сборной?",
+        "answers":  [
+                        {
+                            "text":  "Goran Pandev",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Elif Elmas",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Darko Pancev",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ilija Nestorovski",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какого поп-певца из Крушево помнят по всему Балканскому региону?",
+        "answers":  [
+                        {
+                            "text":  "Tose Proeski",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vlatko Lozanoski",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Karolina Goceva",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lambe Alabakovski",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой лингвист и поэт помог кодифицировать современный македонский литературный язык?",
+        "answers":  [
+                        {
+                            "text":  "Blaze Koneski",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Krste Misirkov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kocho Racin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Petre M Andreevski",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Кто стал первым президентом независимой Северной Македонии?",
+        "answers":  [
+                        {
+                            "text":  "Kiro Gligorov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Boris Trajkovski",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gjorge Ivanov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Stevo Pendarovski",
+                            "score":  0
+                        }
+                    ]
+    }
+]

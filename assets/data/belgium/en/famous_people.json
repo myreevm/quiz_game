@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Who invented the saxophone?",
+    "answers": [
+      { "text": "Adolphe Sax", "score": 1 },
+      { "text": "Victor Horta", "score": 0 },
+      { "text": "Rene Magritte", "score": 0 },
+      { "text": "Georges Simenon", "score": 0 }
+    ]
+  },
+  {
+    "question": "Who created the comic character Tintin?",
+    "answers": [
+      { "text": "Herge", "score": 1 },
+      { "text": "Peyo", "score": 0 },
+      { "text": "Morris", "score": 0 },
+      { "text": "Hugo Claus", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which Belgian city was Audrey Hepburn born?",
+    "answers": [
+      { "text": "Brussels", "score": 1 },
+      { "text": "Antwerp", "score": 0 },
+      { "text": "Liege", "score": 0 },
+      { "text": "Ghent", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which sport made Justine Henin famous?",
+    "answers": [
+      { "text": "Tennis", "score": 1 },
+      { "text": "Cycling", "score": 0 },
+      { "text": "Athletics", "score": 0 },
+      { "text": "Swimming", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Belgian writer created detective Jules Maigret?",
+    "answers": [
+      { "text": "Georges Simenon", "score": 1 },
+      { "text": "Amelie Nothomb", "score": 0 },
+      { "text": "Hugo Claus", "score": 0 },
+      { "text": "Maurice Maeterlinck", "score": 0 }
+    ]
+  }
+]

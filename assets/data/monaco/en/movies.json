@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which event is known as a key cinema showcase in Monaco?",
+        "answers":  [
+                        {
+                            "text":  "Monaco International Film Festival",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cannes Classic Awards",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Venice Coastal Film Week",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nice Global Screen Expo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Monte Carlo event is strongly tied to television and screen culture?",
+        "answers":  [
+                        {
+                            "text":  "Monte Carlo Television Festival",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Monaco Jazz Summit",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Riviera Theatre Forum",
+                            "score":  0
+                        },
+                        {
+                            "text":  "European Media Expo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which 2014 biographical film focuses on Princess Grace of Monaco?",
+        "answers":  [
+                        {
+                            "text":  "Grace of Monaco",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Princess Diaries",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Roman Holiday",
+                            "score":  0
+                        },
+                        {
+                            "text":  "To Catch a Thief",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which historical figure is central to Monaco\u0027s cinematic image and legacy?",
+        "answers":  [
+                        {
+                            "text":  "Grace Kelly",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Maria Callas",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Edith Piaf",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Brigitte Bardot",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Monaco is often shown in imagery linked to which spy franchise?",
+        "answers":  [
+                        {
+                            "text":  "James Bond",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mission Impossible",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bourne",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kingsman",
+                            "score":  0
+                        }
+                    ]
+    }
+]

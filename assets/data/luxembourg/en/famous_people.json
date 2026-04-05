@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Who is the current Grand Duke of Luxembourg?",
+        "answers":  [
+                        {
+                            "text":  "Henri",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jean",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Xavier Bettel",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Albert II",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Luxembourger served as prime minister and later President of the European Commission?",
+        "answers":  [
+                        {
+                            "text":  "Jean-Claude Juncker",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Robert Schuman",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Henri",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Luc Frieden",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which EU founding figure was born in Luxembourg City?",
+        "answers":  [
+                        {
+                            "text":  "Robert Schuman",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Konrad Adenauer",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alcide De Gasperi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Paul Henri Spaak",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who served as Prime Minister of Luxembourg from 2013 to 2023?",
+        "answers":  [
+                        {
+                            "text":  "Xavier Bettel",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jean-Claude Juncker",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Luc Frieden",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pierre Werner",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which actress from Luxembourg is internationally known for major film roles?",
+        "answers":  [
+                        {
+                            "text":  "Vicky Krieps",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nina Hoss",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Marion Cotillard",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Noomi Rapace",
+                            "score":  0
+                        }
+                    ]
+    }
+]

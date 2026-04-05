@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "What is the name of Malta\u0027s traditional folk singing style?",
+        "answers":  [
+                        {
+                            "text":  "Ghana",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fado",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Flamenco",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Morna",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which local music institutions are central to Maltese village festas?",
+        "answers":  [
+                        {
+                            "text":  "Band clubs",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Opera guilds",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jazz unions",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Choir ministries",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Maltese performer is an internationally known operatic tenor?",
+        "answers":  [
+                        {
+                            "text":  "Joseph Calleja",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ira Losco",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gianluca Bezzina",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Travellers",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Maltese pop artist represented Malta twice at Eurovision?",
+        "answers":  [
+                        {
+                            "text":  "Ira Losco",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Destiny Chukunyere",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chiara",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Michela",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Maltese singer won Junior Eurovision in 2015?",
+        "answers":  [
+                        {
+                            "text":  "Destiny Chukunyere",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ira Losco",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Emma Muscat",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Thea Garrett",
+                            "score":  0
+                        }
+                    ]
+    }
+]

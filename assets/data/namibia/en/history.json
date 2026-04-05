@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What is the capital city of Namibia?",
+    "answers": [
+      { "text": "Windhoek", "score": 1 },
+      { "text": "Walvis Bay", "score": 0 },
+      { "text": "Swakopmund", "score": 0 },
+      { "text": "Luderitz", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Namibia gain independence?",
+    "answers": [
+      { "text": "1990", "score": 1 },
+      { "text": "1975", "score": 0 },
+      { "text": "1960", "score": 0 },
+      { "text": "2001", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which famous desert stretches along much of Namibia's Atlantic coast?",
+    "answers": [
+      { "text": "Namib Desert", "score": 1 },
+      { "text": "Sahara", "score": 0 },
+      { "text": "Karakum", "score": 0 },
+      { "text": "Atacama", "score": 0 }
+    ]
+  },
+  {
+    "question": "Before World War I, most of present-day Namibia was ruled as which colony?",
+    "answers": [
+      { "text": "German South West Africa", "score": 1 },
+      { "text": "French Equatorial Africa", "score": 0 },
+      { "text": "Belgian Congo", "score": 0 },
+      { "text": "Portuguese West Africa", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the official currency of Namibia?",
+    "answers": [
+      { "text": "Namibian dollar (NAD)", "score": 1 },
+      { "text": "South African rand only", "score": 0 },
+      { "text": "Zambian kwacha (ZMW)", "score": 0 },
+      { "text": "US dollar (USD)", "score": 0 }
+    ]
+  }
+]

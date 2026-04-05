@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "What is the capital of Samoa?",
+        "answers":  [
+                        {
+                            "text":  "Apia",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Suva",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nuku alofa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pago Pago",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did Samoa gain independence?",
+        "answers":  [
+                        {
+                            "text":  "1962",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1957",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1975",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1984",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year was the name changed from Western Samoa to Samoa?",
+        "answers":  [
+                        {
+                            "text":  "1997",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1991",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1987",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2001",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the currency of Samoa?",
+        "answers":  [
+                        {
+                            "text":  "Samoan tala (WST)",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fijian dollar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "US dollar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "New Zealand dollar",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which pair are the two main islands of Samoa?",
+        "answers":  [
+                        {
+                            "text":  "Upolu and Savaii",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Viti Levu and Vanua Levu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tongatapu and Eua",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tahiti and Moorea",
+                            "score":  0
+                        }
+                    ]
+    }
+]

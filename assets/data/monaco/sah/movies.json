@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Монакону киин киноплощадка диэн ханнык событиени ааттыылларый?",
+        "answers":  [
+                        {
+                            "text":  "Monaco International Film Festival",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cannes Classic Awards",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Venice Coastal Film Week",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nice Global Screen Expo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Монте Карлоҕо ханнык событие телевизионнай уонна экраннай культуратын кытта ситимнээх?",
+        "answers":  [
+                        {
+                            "text":  "Monte Carlo Television Festival",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Monaco Jazz Summit",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Riviera Theatre Forum",
+                            "score":  0
+                        },
+                        {
+                            "text":  "European Media Expo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "2014 сыллаах княгиня Грейс туһунан биографическай фильм аата ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Grace of Monaco",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Princess Diaries",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Roman Holiday",
+                            "score":  0
+                        },
+                        {
+                            "text":  "To Catch a Thief",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Монакону экран образыгар уонна наследиетигэр ким сүрүн историческай киьи буоларый?",
+        "answers":  [
+                        {
+                            "text":  "Грейс Келли",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Мария Каллас",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Эдит Пиаф",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Брижит Бардо",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Монакону экранна хантан дьүөрэлээх шпион франшизатыгар элбэхтэ кытта сыһыарыылларый?",
+        "answers":  [
+                        {
+                            "text":  "James Bond",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mission Impossible",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bourne",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kingsman",
+                            "score":  0
+                        }
+                    ]
+    }
+]

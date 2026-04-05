@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Монтевидео карнавал культуратыгар афро-уругвай ритмын сурун бэлиэтэ ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Candombe",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Samba",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bossa nova",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Reggae",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Уругвай карнавалыгар ойнууллар театр-музыка жанра ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Murga",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Son",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Merengue",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fado",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Уругвай уонна Аргентина иккиһигэр ортақ танец-музыка традицията ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Tango",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Flamenco",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Polka",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Calypso",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Al otro lado del rio ырыатаан Оскар ылбыт уругвай ыллааччы-суруйааччы кимий?",
+        "answers":  [
+                        {
+                            "text":  "Jorge Drexler",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ruben Rada",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jaime Roos",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Daniel Drexler",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Кандомбе уонна афро-уругвай фьюжннаан күүһүрүк сибээстээх уругвай музыканта кимий?",
+        "answers":  [
+                        {
+                            "text":  "Ruben Rada",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jorge Drexler",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eduardo Mateo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fernando Cabrera",
+                            "score":  0
+                        }
+                    ]
+    }
+]

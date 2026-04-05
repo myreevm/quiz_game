@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Какое событие считается важной киноплощадкой Монако?",
+        "answers":  [
+                        {
+                            "text":  "Monaco International Film Festival",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cannes Classic Awards",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Venice Coastal Film Week",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nice Global Screen Expo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какое событие в Монте Карло тесно связано с телевизионной и экранной культурой?",
+        "answers":  [
+                        {
+                            "text":  "Monte Carlo Television Festival",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Monaco Jazz Summit",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Riviera Theatre Forum",
+                            "score":  0
+                        },
+                        {
+                            "text":  "European Media Expo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Как называется биографический фильм 2014 года о княгине Грейс?",
+        "answers":  [
+                        {
+                            "text":  "Grace of Monaco",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Princess Diaries",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Roman Holiday",
+                            "score":  0
+                        },
+                        {
+                            "text":  "To Catch a Thief",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какая историческая фигура является ключевой для кинообраза и наследия Монако?",
+        "answers":  [
+                        {
+                            "text":  "Грейс Келли",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Мария Каллас",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Эдит Пиаф",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Брижит Бардо",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "С образом какой шпионской франшизы часто связывают Монако на экране?",
+        "answers":  [
+                        {
+                            "text":  "James Bond",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mission Impossible",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bourne",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kingsman",
+                            "score":  0
+                        }
+                    ]
+    }
+]

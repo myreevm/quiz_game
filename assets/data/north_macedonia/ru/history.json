@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Какая столица Северной Македонии?",
+        "answers":  [
+                        {
+                            "text":  "Skopje",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bitola",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ohrid",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tetovo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "В каком году Северная Македония провозгласила независимость от Югославии?",
+        "answers":  [
+                        {
+                            "text":  "1991",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1989",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1995",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2001",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какое соглашение напрямую связано с принятием названия Северная Македония?",
+        "answers":  [
+                        {
+                            "text":  "Prespa Agreement",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Dayton Agreement",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lisbon Treaty",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ohrid Framework Agreement",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какая официальная валюта Северной Македонии?",
+        "answers":  [
+                        {
+                            "text":  "Macedonian denar (MKD)",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Euro (EUR)",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Serbian dinar (RSD)",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bulgarian lev (BGN)",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какое известное озеро Северной Македонии разделяется с Албанией?",
+        "answers":  [
+                        {
+                            "text":  "Lake Ohrid",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lake Prespa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lake Dojran",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lake Skadar",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which Mauritanian director is most associated with internationally recognized art house cinema?",
+        "answers":  [
+                        {
+                            "text":  "Abderrahmane Sissako",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Khalid Al Siddiq",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Zeze Gamboa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rungano Nyoni",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which film by Sissako is linked to themes in the Sahel and Mauritania\u0027s broader region?",
+        "answers":  [
+                        {
+                            "text":  "Timbuktu",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yeelen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Wadjda",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Theeb",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Sissako film is also known by the title Heremakono (Waiting for Happiness)?",
+        "answers":  [
+                        {
+                            "text":  "Waiting for Happiness",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bamako",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sambizanga",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ady Gasy",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What type of partnerships are common in Mauritanian filmmaking?",
+        "answers":  [
+                        {
+                            "text":  "Francophone co productions",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hollywood only studio deals",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bollywood remakes",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Silent era unions",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city is the main center of Mauritania\u0027s film activity?",
+        "answers":  [
+                        {
+                            "text":  "Nouakchott",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Zouerate",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rosso",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tidjikja",
+                            "score":  0
+                        }
+                    ]
+    }
+]

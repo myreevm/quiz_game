@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which major film event is held in Montevideo?",
+        "answers":  [
+                        {
+                            "text":  "Uruguay International Film Festival",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Venice Film Festival",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Locarno Film Festival",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Toronto International Film Festival",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Uruguayan director became internationally known after Ataque de panico!?",
+        "answers":  [
+                        {
+                            "text":  "Fede Alvarez",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pablo Stoll",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alvaro Brechner",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cesar Charlone",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Uruguayan film tells the story of a toilet built for a papal visit?",
+        "answers":  [
+                        {
+                            "text":  "The Popes Toilet",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Whisky",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gigante",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mr Kaplan",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which film from Uruguay focuses on political prisoners during the dictatorship era?",
+        "answers":  [
+                        {
+                            "text":  "A Twelve-Year Night",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Silent House",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mal dia para pescar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "25 Watts",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What production model is common in Uruguayan cinema?",
+        "answers":  [
+                        {
+                            "text":  "International co-productions",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Only state studios",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Only silent films",
+                            "score":  0
+                        },
+                        {
+                            "text":  "No foreign partnerships",
+                            "score":  0
+                        }
+                    ]
+    }
+]

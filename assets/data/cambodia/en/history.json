@@ -1,0 +1,107 @@
+[
+  {
+    "question": "What is the capital city of Cambodia?",
+    "answers": [
+      {
+        "text": "Phnom Penh",
+        "score": 1
+      },
+      {
+        "text": "Siem Reap",
+        "score": 0
+      },
+      {
+        "text": "Battambang",
+        "score": 0
+      },
+      {
+        "text": "Sihanoukville",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In which year did Cambodia gain independence from France?",
+    "answers": [
+      {
+        "text": "1953",
+        "score": 1
+      },
+      {
+        "text": "1945",
+        "score": 0
+      },
+      {
+        "text": "1963",
+        "score": 0
+      },
+      {
+        "text": "1975",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which regime ruled Cambodia from 1975 to 1979?",
+    "answers": [
+      {
+        "text": "Khmer Rouge",
+        "score": 1
+      },
+      {
+        "text": "French Union",
+        "score": 0
+      },
+      {
+        "text": "Lon Nol monarchy",
+        "score": 0
+      },
+      {
+        "text": "Siamese administration",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Angkor Wat is the famous monument of which historical empire?",
+    "answers": [
+      {
+        "text": "Khmer Empire",
+        "score": 1
+      },
+      {
+        "text": "Mongol Empire",
+        "score": 0
+      },
+      {
+        "text": "Ottoman Empire",
+        "score": 0
+      },
+      {
+        "text": "Majapahit Empire",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the official currency of Cambodia?",
+    "answers": [
+      {
+        "text": "Cambodian riel (KHR)",
+        "score": 1
+      },
+      {
+        "text": "Thai baht (THB)",
+        "score": 0
+      },
+      {
+        "text": "Vietnamese dong (VND)",
+        "score": 0
+      },
+      {
+        "text": "US dollar (USD)",
+        "score": 0
+      }
+    ]
+  }
+]

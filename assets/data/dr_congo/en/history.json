@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What is the capital city of the Democratic Republic of the Congo?",
+    "answers": [
+      { "text": "Kinshasa", "score": 1 },
+      { "text": "Brazzaville", "score": 0 },
+      { "text": "Lusaka", "score": 0 },
+      { "text": "Windhoek", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did DR Congo gain independence from Belgium?",
+    "answers": [
+      { "text": "1960", "score": 1 },
+      { "text": "1951", "score": 0 },
+      { "text": "1971", "score": 0 },
+      { "text": "1990", "score": 0 }
+    ]
+  },
+  {
+    "question": "Under which name was DR Congo officially known between 1971 and 1997?",
+    "answers": [
+      { "text": "Zaire", "score": 1 },
+      { "text": "Belgian Congo", "score": 0 },
+      { "text": "Upper Congo Republic", "score": 0 },
+      { "text": "Central Africa Union", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which major river is one of the most important geographic features of DR Congo?",
+    "answers": [
+      { "text": "Congo River", "score": 1 },
+      { "text": "Nile River", "score": 0 },
+      { "text": "Orange River", "score": 0 },
+      { "text": "Limpopo River", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the official currency of DR Congo?",
+    "answers": [
+      { "text": "Congolese franc (CDF)", "score": 1 },
+      { "text": "Central African CFA franc (XAF)", "score": 0 },
+      { "text": "Zambian kwacha (ZMW)", "score": 0 },
+      { "text": "Namibian dollar (NAD)", "score": 0 }
+    ]
+  }
+]

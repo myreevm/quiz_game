@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "In which city was the Riga Film Studio based?",
+    "answers": [
+      { "text": "Riga", "score": 1 },
+      { "text": "Ventspils", "score": 0 },
+      { "text": "Liepaja", "score": 0 },
+      { "text": "Jurmala", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which pioneering filmmaker was born in Riga in 1898?",
+    "answers": [
+      { "text": "Sergei Eisenstein", "score": 1 },
+      { "text": "Andrei Tarkovsky", "score": 0 },
+      { "text": "Dziga Vertov", "score": 0 },
+      { "text": "Mikhail Kalatozov", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the common abbreviation of the Riga International Film Festival?",
+    "answers": [
+      { "text": "RIGA IFF", "score": 1 },
+      { "text": "RFF", "score": 0 },
+      { "text": "LATIFF", "score": 0 },
+      { "text": "BALT IFF", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Latvian animated feature by Gints Zilbalodis became widely known internationally?",
+    "answers": [
+      { "text": "Away", "score": 1 },
+      { "text": "Rocks in My Pockets", "score": 0 },
+      { "text": "Rocks and Rivers", "score": 0 },
+      { "text": "The Pagan King", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which field of cinema is Latvia especially known for?",
+    "answers": [
+      { "text": "Animation", "score": 1 },
+      { "text": "Westerns", "score": 0 },
+      { "text": "Martial arts films", "score": 0 },
+      { "text": "Silent comedies", "score": 0 }
+    ]
+  }
+]

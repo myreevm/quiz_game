@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Нигерия бэйэтинэн турар сирин бастакы президентата ким этэй?",
+        "answers":  [
+                        {
+                            "text":  "Nnamdi Azikiwe",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Wole Soyinka",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chinua Achebe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fela Kuti",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ханнык Нигерия суруйааччыта Нобель литература премиятын ыларый?",
+        "answers":  [
+                        {
+                            "text":  "Wole Soyinka",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Chinua Achebe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nnamdi Azikiwe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ngozi Okonjo-Iweala",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Things Fall Apart романы ким сурутта?",
+        "answers":  [
+                        {
+                            "text":  "Chinua Achebe",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Wole Soyinka",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fela Kuti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Burna Boy",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ханнык музыканны афробит пионера диэн ааттыылларый?",
+        "answers":  [
+                        {
+                            "text":  "Fela Kuti",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Wizkid",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Davido",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Burna Boy",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "2021 сылла ВТО уһулдьутунан ханнык Нигерия экономистка тахсыбытай?",
+        "answers":  [
+                        {
+                            "text":  "Ngozi Okonjo-Iweala",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Amina Mohammed",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ngozi Ezeonu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Arunma Oteh",
+                            "score":  0
+                        }
+                    ]
+    }
+]

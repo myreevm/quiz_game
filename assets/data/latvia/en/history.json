@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "What is the capital of Latvia?",
+    "answers": [
+      { "text": "Riga", "score": 1 },
+      { "text": "Daugavpils", "score": 0 },
+      { "text": "Liepaja", "score": 0 },
+      { "text": "Jelgava", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Latvia first proclaim independence?",
+    "answers": [
+      { "text": "1918", "score": 1 },
+      { "text": "1905", "score": 0 },
+      { "text": "1940", "score": 0 },
+      { "text": "1991", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Latvia restore independence from the USSR?",
+    "answers": [
+      { "text": "1991", "score": 1 },
+      { "text": "1988", "score": 0 },
+      { "text": "1993", "score": 0 },
+      { "text": "2004", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did the Baltic Way human chain take place?",
+    "answers": [
+      { "text": "1989", "score": 1 },
+      { "text": "1986", "score": 0 },
+      { "text": "1991", "score": 0 },
+      { "text": "2004", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Latvia join both the EU and NATO?",
+    "answers": [
+      { "text": "2004", "score": 1 },
+      { "text": "1999", "score": 0 },
+      { "text": "2007", "score": 0 },
+      { "text": "2014", "score": 0 }
+    ]
+  }
+]

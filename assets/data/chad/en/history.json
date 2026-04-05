@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Choose the correct answer for Chad: capital city.",
+        "answers":  [
+                        {
+                            "text":  "N\u0027Djamena",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vaiaku on Funafuti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1978",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nine atolls",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Choose the correct answer for Chad: year of independence.",
+        "answers":  [
+                        {
+                            "text":  "1960",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vaiaku on Funafuti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1978",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nine atolls",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Choose the correct answer for Chad: major lake shared with neighbors.",
+        "answers":  [
+                        {
+                            "text":  "Lake Chad",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vaiaku on Funafuti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1978",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nine atolls",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Choose the correct answer for Chad: currency code in CEMAC.",
+        "answers":  [
+                        {
+                            "text":  "Central African CFA franc (XAF)",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vaiaku on Funafuti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1978",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nine atolls",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Choose the correct answer for Chad: official language pair.",
+        "answers":  [
+                        {
+                            "text":  "Arabic and French",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vaiaku on Funafuti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1978",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nine atolls",
+                            "score":  0
+                        }
+                    ]
+    }
+]

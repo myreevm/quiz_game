@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "What is the capital city of Mali?",
+        "answers":  [
+                        {
+                            "text":  "Bamako",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sikasso",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kayes",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Segou",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did Mali gain independence from France?",
+        "answers":  [
+                        {
+                            "text":  "1960",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1956",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1965",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1970",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which major river flows through Mali?",
+        "answers":  [
+                        {
+                            "text":  "Niger River",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Congo River",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Zambezi River",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Orange River",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which historic city in Mali became a famous center of learning in the Mali Empire period?",
+        "answers":  [
+                        {
+                            "text":  "Timbuktu",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Gao",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kidal",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mopti",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the currency code used in Mali?",
+        "answers":  [
+                        {
+                            "text":  "XOF",
+                            "score":  1
+                        },
+                        {
+                            "text":  "MAD",
+                            "score":  0
+                        },
+                        {
+                            "text":  "DZD",
+                            "score":  0
+                        },
+                        {
+                            "text":  "MRU",
+                            "score":  0
+                        }
+                    ]
+    }
+]

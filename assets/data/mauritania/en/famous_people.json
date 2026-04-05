@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Who was the first president of independent Mauritania?",
+        "answers":  [
+                        {
+                            "text":  "Moktar Ould Daddah",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mohamed Ould Ghazouani",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Maaouya Ould Sid\u0027Ahmed Taya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sidi Ould Cheikh Abdallahi",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who is the current president of Mauritania?",
+        "answers":  [
+                        {
+                            "text":  "Mohamed Ould Ghazouani",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Moktar Ould Daddah",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Aziz Akhannouch",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kais Saied",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Mauritanian filmmaker directed internationally acclaimed films such as Timbuktu?",
+        "answers":  [
+                        {
+                            "text":  "Abderrahmane Sissako",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Souleymane Cisse",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rithy Panh",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nouri Bouzid",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which singer is considered one of Mauritania\u0027s legendary vocalists?",
+        "answers":  [
+                        {
+                            "text":  "Dimi Mint Abba",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nawal Al Kuwaitia",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Oumou Sangare",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fairuz",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Mauritanian artist is known both as a singer and a public political figure?",
+        "answers":  [
+                        {
+                            "text":  "Maalouma Mint El Meidah",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ahlam",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Asma Lmnawar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Latifa",
+                            "score":  0
+                        }
+                    ]
+    }
+]

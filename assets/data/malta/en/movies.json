@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which national body promotes and supports film production in Malta?",
+        "answers":  [
+                        {
+                            "text":  "Malta Film Commission",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Maltese Screen Council",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Valletta Cinema Office",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Island Film Board",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which studio complex in Malta is known for large water tanks for filming?",
+        "answers":  [
+                        {
+                            "text":  "Mediterranean Film Studios",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pinewood Malta",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Valletta Studios",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fort St Elmo Studios",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which 1980 musical fantasy film was shot in Malta?",
+        "answers":  [
+                        {
+                            "text":  "Popeye",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Grease",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Flash Gordon",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Annie",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which 2000 historical epic used locations in Malta?",
+        "answers":  [
+                        {
+                            "text":  "Gladiator",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kingdom of Heaven",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alexander",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Centurion",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which 2004 epic film used Maltese locations for ancient city scenes?",
+        "answers":  [
+                        {
+                            "text":  "Troy",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ben Hur",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Last Samurai",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cleopatra",
+                            "score":  0
+                        }
+                    ]
+    }
+]

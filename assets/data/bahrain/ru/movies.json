@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Какое главное национальное кинособытие продвигает местное и региональное кино в Бахрейне?",
+    "answers": [
+      { "text": "Bahrain Film Festival", "score": 1 },
+      { "text": "Dubai International Film Festival", "score": 0 },
+      { "text": "Kino Pavasaris", "score": 0 },
+      { "text": "PÖFF", "score": 0 }
+    ]
+  },
+  {
+    "question": "Какая организация в Бахрейне давно поддерживает кинокультуру, показы и обсуждения?",
+    "answers": [
+      { "text": "Bahrain Cinema Club", "score": 1 },
+      { "text": "Doha Film Institute", "score": 0 },
+      { "text": "Image Nation Abu Dhabi", "score": 0 },
+      { "text": "Red Sea Society", "score": 0 }
+    ]
+  },
+  {
+    "question": "Какой бахрейнский фильм Мохаммеда Рашеда Буали часто упоминается на международном уровне?",
+    "answers": [
+      { "text": "The Sleeping Tree", "score": 1 },
+      { "text": "City of Life", "score": 0 },
+      { "text": "Wadjda", "score": 0 },
+      { "text": "Truth and Justice", "score": 0 }
+    ]
+  },
+  {
+    "question": "Какой город является центром современной киносцены Бахрейна?",
+    "answers": [
+      { "text": "Манама", "score": 1 },
+      { "text": "Риффа", "score": 0 },
+      { "text": "Мухаррак", "score": 0 },
+      { "text": "Иса-Таун", "score": 0 }
+    ]
+  },
+  {
+    "question": "В рамках какого регионального объединения бахрейнские кинематографисты часто делают совместные проекты?",
+    "answers": [
+      { "text": "GCC (Совет сотрудничества арабских государств Персидского залива)", "score": 1 },
+      { "text": "ASEAN", "score": 0 },
+      { "text": "MERCOSUR", "score": 0 },
+      { "text": "Северный совет", "score": 0 }
+    ]
+  }
+]

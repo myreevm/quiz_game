@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Тиесто в первую очередь известен как...",
+    "answers": [
+      { "text": "DJ и продюсер", "score": 1 },
+      { "text": "Классический пианист", "score": 0 },
+      { "text": "Оперный певец", "score": 0 },
+      { "text": "Кинокомпозитор", "score": 0 }
+    ]
+  },
+  {
+    "question": "Армин ван Бюрен — звезда какого жанра?",
+    "answers": [
+      { "text": "Транс", "score": 1 },
+      { "text": "Регги", "score": 0 },
+      { "text": "Фламенко", "score": 0 },
+      { "text": "Блюз", "score": 0 }
+    ]
+  },
+  {
+    "question": "Какая песня принесла Нидерландам победу на Евровидении-2019?",
+    "answers": [
+      { "text": "Arcade", "score": 1 },
+      { "text": "Euphoria", "score": 0 },
+      { "text": "Heroes", "score": 0 },
+      { "text": "Tattoo", "score": 0 }
+    ]
+  },
+  {
+    "question": "Какая нидерландская рок-группа известна хитом «Radar Love»?",
+    "answers": [
+      { "text": "Golden Earring", "score": 1 },
+      { "text": "Within Temptation", "score": 0 },
+      { "text": "Kensington", "score": 0 },
+      { "text": "Vengaboys", "score": 0 }
+    ]
+  },
+  {
+    "question": "В каком нидерландском городе родился Андре Рьё?",
+    "answers": [
+      { "text": "Маастрихт", "score": 1 },
+      { "text": "Роттердам", "score": 0 },
+      { "text": "Леуварден", "score": 0 },
+      { "text": "Делфт", "score": 0 }
+    ]
+  }
+]

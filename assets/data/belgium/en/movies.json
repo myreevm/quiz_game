@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What are the Dardenne brothers known for?",
+    "answers": [
+      { "text": "Film directing", "score": 1 },
+      { "text": "Opera composing", "score": 0 },
+      { "text": "Architecture", "score": 0 },
+      { "text": "Painting", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Belgian film was nominated for the Oscar in 2014?",
+    "answers": [
+      { "text": "The Broken Circle Breakdown", "score": 1 },
+      { "text": "Rosetta", "score": 0 },
+      { "text": "Bullhead", "score": 0 },
+      { "text": "Man Bites Dog", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which 1992 Belgian cult mockumentary is a black comedy?",
+    "answers": [
+      { "text": "Man Bites Dog", "score": 1 },
+      { "text": "The Vanishing", "score": 0 },
+      { "text": "Coco Before Chanel", "score": 0 },
+      { "text": "The Artist", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which comic hero created by Herge was adapted by Spielberg in 2011?",
+    "answers": [
+      { "text": "Tintin", "score": 1 },
+      { "text": "Asterix", "score": 0 },
+      { "text": "Lucky Luke", "score": 0 },
+      { "text": "Spirou", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which blue characters created by Belgian artist Peyo became a film franchise?",
+    "answers": [
+      { "text": "The Smurfs", "score": 1 },
+      { "text": "The Minions", "score": 0 },
+      { "text": "The Chipmunks", "score": 0 },
+      { "text": "The Trolls", "score": 0 }
+    ]
+  }
+]

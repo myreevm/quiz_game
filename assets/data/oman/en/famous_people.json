@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Which Omani ruler led major modernization reforms starting in 1970?",
+    "answers": [
+      {
+        "text": "Sultan Qaboos",
+        "score": 1
+      },
+      {
+        "text": "Sultan Haitham",
+        "score": 0
+      },
+      {
+        "text": "Ahmed bin Majid",
+        "score": 0
+      },
+      {
+        "text": "Ali Al-Habsi",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who is the current Sultan of Oman?",
+    "answers": [
+      {
+        "text": "Sultan Haitham",
+        "score": 1
+      },
+      {
+        "text": "Sultan Qaboos",
+        "score": 0
+      },
+      {
+        "text": "Jokha Alharthi",
+        "score": 0
+      },
+      {
+        "text": "Mohammed bin Salman",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which famous Omani navigator is linked to Indian Ocean seafaring knowledge?",
+    "answers": [
+      {
+        "text": "Ahmed bin Majid",
+        "score": 1
+      },
+      {
+        "text": "Nasser Al-Attiyah",
+        "score": 0
+      },
+      {
+        "text": "Mutaz Barshim",
+        "score": 0
+      },
+      {
+        "text": "Fahad Al Kubaisi",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Omani writer won global recognition for the novel Celestial Bodies?",
+    "answers": [
+      {
+        "text": "Jokha Alharthi",
+        "score": 1
+      },
+      {
+        "text": "Loung Ung",
+        "score": 0
+      },
+      {
+        "text": "Kerli",
+        "score": 0
+      },
+      {
+        "text": "Ahlam",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Omani athlete is known as an international football goalkeeper?",
+    "answers": [
+      {
+        "text": "Ali Al-Habsi",
+        "score": 1
+      },
+      {
+        "text": "Ahmed Zaki Yamani",
+        "score": 0
+      },
+      {
+        "text": "Kurban Berdyev",
+        "score": 0
+      },
+      {
+        "text": "Hussain Al Jassmi",
+        "score": 0
+      }
+    ]
+  }
+]

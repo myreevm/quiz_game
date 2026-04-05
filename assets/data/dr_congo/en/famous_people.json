@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Who became the first prime minister of independent Congo in 1960?",
+    "answers": [
+      { "text": "Patrice Lumumba", "score": 1 },
+      { "text": "Denis Sassou Nguesso", "score": 0 },
+      { "text": "Mobutu Sese Seko", "score": 0 },
+      { "text": "Sam Nujoma", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Congolese doctor won the Nobel Peace Prize in 2018 for work with survivors of violence?",
+    "answers": [
+      { "text": "Denis Mukwege", "score": 1 },
+      { "text": "Dambisa Moyo", "score": 0 },
+      { "text": "Hage Geingob", "score": 0 },
+      { "text": "Alain Mabanckou", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which NBA star from DR Congo was famous for shot-blocking and humanitarian work?",
+    "answers": [
+      { "text": "Dikembe Mutombo", "score": 1 },
+      { "text": "Serge Ibaka", "score": 0 },
+      { "text": "Kalusha Bwalya", "score": 0 },
+      { "text": "Frankie Fredericks", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which singer is widely remembered as one of the great icons of Congolese rumba and soukous?",
+    "answers": [
+      { "text": "Papa Wemba", "score": 1 },
+      { "text": "Fally Ipupa", "score": 0 },
+      { "text": "The Dogg", "score": 0 },
+      { "text": "B-Flow", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which modern Congolese artist is known for songs like Eloko Oyo and international collaborations?",
+    "answers": [
+      { "text": "Fally Ipupa", "score": 1 },
+      { "text": "Papa Wemba", "score": 0 },
+      { "text": "Franklin Boukaka", "score": 0 },
+      { "text": "Wezi", "score": 0 }
+    ]
+  }
+]

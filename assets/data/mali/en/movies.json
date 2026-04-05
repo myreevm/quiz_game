@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which director is one of the most celebrated figures in Malian cinema?",
+        "answers":  [
+                        {
+                            "text":  "Souleymane Cisse",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Abderrahmane Sissako",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ousmane Sembene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mahamat-Saleh Haroun",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Malian film by Souleymane Cisse won major international acclaim?",
+        "answers":  [
+                        {
+                            "text":  "Yeelen",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sambizanga",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Timbuktu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hyenes",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who directed the film Timbuktu, set in Mali?",
+        "answers":  [
+                        {
+                            "text":  "Abderrahmane Sissako",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Souleymane Cisse",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Haile Gerima",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Djibril Diop Mambety",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the title of Sissako\u0027s 2006 film named after Mali\u0027s capital?",
+        "answers":  [
+                        {
+                            "text":  "Bamako",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nouakchott",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dakar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Conakry",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city is the main center of Mali\u0027s contemporary film scene?",
+        "answers":  [
+                        {
+                            "text":  "Bamako",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Timbuktu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gao",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Segou",
+                            "score":  0
+                        }
+                    ]
+    }
+]

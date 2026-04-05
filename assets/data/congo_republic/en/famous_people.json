@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Who has served for many years as a leading political figure and president of the Republic of the Congo?",
+    "answers": [
+      { "text": "Denis Sassou Nguesso", "score": 1 },
+      { "text": "Patrice Lumumba", "score": 0 },
+      { "text": "Hakainde Hichilema", "score": 0 },
+      { "text": "Sam Nujoma", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which writer from Congo-Brazzaville is widely known in contemporary French-language literature?",
+    "answers": [
+      { "text": "Alain Mabanckou", "score": 1 },
+      { "text": "Ghazi Algosaibi", "score": 0 },
+      { "text": "Jaan Kross", "score": 0 },
+      { "text": "Jonas Mekas", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which basketball player was born in Brazzaville before becoming an NBA champion and international star?",
+    "answers": [
+      { "text": "Serge Ibaka", "score": 1 },
+      { "text": "Dikembe Mutombo", "score": 0 },
+      { "text": "Frankie Fredericks", "score": 0 },
+      { "text": "Kalusha Bwalya", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Congolese poet is known under the literary name Tchicaya U Tam'si?",
+    "answers": [
+      { "text": "Gerald-Felix Tchicaya", "score": 1 },
+      { "text": "Patrice Lumumba", "score": 0 },
+      { "text": "Franklin Boukaka", "score": 0 },
+      { "text": "Alain Delon", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which singer-songwriter from the Republic of the Congo became known for socially engaged songs in the 1960s and 1970s?",
+    "answers": [
+      { "text": "Franklin Boukaka", "score": 1 },
+      { "text": "Papa Wemba", "score": 0 },
+      { "text": "Fally Ipupa", "score": 0 },
+      { "text": "B-Flow", "score": 0 }
+    ]
+  }
+]

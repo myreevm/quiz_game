@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Which Irish film won an Oscar for the song 'Falling Slowly'?",
+    "answers": [
+      { "text": "Once", "score": 1 },
+      { "text": "Brooklyn", "score": 0 },
+      { "text": "The Commitments", "score": 0 },
+      { "text": "Calvary", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which film about the Irish War of Independence won the Palme d'Or in 2006?",
+    "answers": [
+      { "text": "The Wind That Shakes the Barley", "score": 1 },
+      { "text": "Michael Collins", "score": 0 },
+      { "text": "In the Name of the Father", "score": 0 },
+      { "text": "Hunger", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which Irish city is the animation studio Cartoon Saloon based?",
+    "answers": [
+      { "text": "Kilkenny", "score": 1 },
+      { "text": "Dublin", "score": 0 },
+      { "text": "Belfast", "score": 0 },
+      { "text": "Cork", "score": 0 }
+    ]
+  },
+  {
+    "question": "Cillian Murphy is an actor from which country?",
+    "answers": [
+      { "text": "Ireland", "score": 1 },
+      { "text": "Scotland", "score": 0 },
+      { "text": "Wales", "score": 0 },
+      { "text": "Australia", "score": 0 }
+    ]
+  },
+  {
+    "question": "The film 'The Banshees of Inisherin' is set on...",
+    "answers": [
+      { "text": "A fictional Irish island", "score": 1 },
+      { "text": "The Aran Islands documentary route", "score": 0 },
+      { "text": "An English countryside estate", "score": 0 },
+      { "text": "A New York suburb", "score": 0 }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Who co-founded the Dogme 95 movement with Lars von Trier?",
+    "answers": [
+      { "text": "Thomas Vinterberg", "score": 1 },
+      { "text": "Nicolas Winding Refn", "score": 0 },
+      { "text": "Bille August", "score": 0 },
+      { "text": "Susanne Bier", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Danish film won the Oscar for Best International Feature in 2021?",
+    "answers": [
+      { "text": "Another Round", "score": 1 },
+      { "text": "The Hunt", "score": 0 },
+      { "text": "A Royal Affair", "score": 0 },
+      { "text": "Land of Mine", "score": 0 }
+    ]
+  },
+  {
+    "question": "Who directed the film 'The Hunt' (2012)?",
+    "answers": [
+      { "text": "Thomas Vinterberg", "score": 1 },
+      { "text": "Lars von Trier", "score": 0 },
+      { "text": "Niels Arden Oplev", "score": 0 },
+      { "text": "Ole Bornedal", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Danish actor played Le Chiffre in 'Casino Royale' (2006)?",
+    "answers": [
+      { "text": "Mads Mikkelsen", "score": 1 },
+      { "text": "Nikolaj Coster-Waldau", "score": 0 },
+      { "text": "Pilou Asbaek", "score": 0 },
+      { "text": "Ulrich Thomsen", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Danish documentary-animated film was nominated for three Oscars in 2022?",
+    "answers": [
+      { "text": "Flee", "score": 1 },
+      { "text": "The Act of Killing", "score": 0 },
+      { "text": "A Hijacking", "score": 0 },
+      { "text": "Riders of Justice", "score": 0 }
+    ]
+  }
+]

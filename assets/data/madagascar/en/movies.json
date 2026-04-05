@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Which Malagasy director made the film Tabataba?",
+    "answers": [
+      {
+        "text": "Raymond Rajaonarivelo",
+        "score": 1
+      },
+      {
+        "text": "Rithy Panh",
+        "score": 0
+      },
+      {
+        "text": "Haifaa Al-Mansour",
+        "score": 0
+      },
+      {
+        "text": "Jonas Mekas",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which documentary from Madagascar is known for showing everyday ingenuity in Antananarivo?",
+    "answers": [
+      {
+        "text": "Ady Gasy",
+        "score": 1
+      },
+      {
+        "text": "The Missing Picture",
+        "score": 0
+      },
+      {
+        "text": "Wadjda",
+        "score": 0
+      },
+      {
+        "text": "Virunga",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Madagascar festival focuses on short films and is known as RFC?",
+    "answers": [
+      {
+        "text": "Rencontres du Film Court",
+        "score": 1
+      },
+      {
+        "text": "Red Sea IFF",
+        "score": 0
+      },
+      {
+        "text": "Ajyal Film Festival",
+        "score": 0
+      },
+      {
+        "text": "P?FF",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which city is the main hub of Madagascar's film scene?",
+    "answers": [
+      {
+        "text": "Antananarivo",
+        "score": 1
+      },
+      {
+        "text": "Nosy Be",
+        "score": 0
+      },
+      {
+        "text": "Fianarantsoa",
+        "score": 0
+      },
+      {
+        "text": "Morondava",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What theme is central to many modern Malagasy films such as Ady Gasy?",
+    "answers": [
+      {
+        "text": "Everyday resilience and ingenuity",
+        "score": 1
+      },
+      {
+        "text": "Space exploration",
+        "score": 0
+      },
+      {
+        "text": "Medieval Europe",
+        "score": 0
+      },
+      {
+        "text": "Arctic expeditions",
+        "score": 0
+      }
+    ]
+  }
+]

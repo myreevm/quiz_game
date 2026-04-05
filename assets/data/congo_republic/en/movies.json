@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Which city is the primary center of film events and screen culture in the Republic of the Congo?",
+    "answers": [
+      { "text": "Brazzaville", "score": 1 },
+      { "text": "Pointe-Noire", "score": 0 },
+      { "text": "Dolisie", "score": 0 },
+      { "text": "Owando", "score": 0 }
+    ]
+  },
+  {
+    "question": "Filmmakers from Congo-Brazzaville often collaborate in francophone co-productions mainly with which countries?",
+    "answers": [
+      { "text": "France and Belgium", "score": 1 },
+      { "text": "Japan and South Korea", "score": 0 },
+      { "text": "Brazil and Argentina", "score": 0 },
+      { "text": "India and Nepal", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which type of storytelling is especially common in many films connected to Congo-Brazzaville?",
+    "answers": [
+      { "text": "Documentary and social drama", "score": 1 },
+      { "text": "Only science fiction", "score": 0 },
+      { "text": "Only silent films", "score": 0 },
+      { "text": "Only animation for children", "score": 0 }
+    ]
+  },
+  {
+    "question": "Congo-Brazzaville cinema most often develops through partnerships with which regional context?",
+    "answers": [
+      { "text": "Central African and francophone networks", "score": 1 },
+      { "text": "Nordic-only film networks", "score": 0 },
+      { "text": "Only Hollywood studios", "score": 0 },
+      { "text": "Only East Asian broadcasters", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which language is commonly used in films from the Republic of the Congo alongside French?",
+    "answers": [
+      { "text": "Lingala", "score": 1 },
+      { "text": "Icelandic", "score": 0 },
+      { "text": "Finnish", "score": 0 },
+      { "text": "Korean", "score": 0 }
+    ]
+  }
+]

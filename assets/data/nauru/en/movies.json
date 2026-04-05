@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "How is Nauru domestic film industry best described today?",
+        "answers":  [
+                        {
+                            "text":  "Limited in scale",
+                            "score":  1
+                        },
+                        {
+                            "text":  "One of the largest in Oceania",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fully export-driven",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Focused on animation megastudios",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What type of local screen activity is common in Nauru communities?",
+        "answers":  [
+                        {
+                            "text":  "Community screenings",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Daily red-carpet premieres",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nationwide arthouse chains",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Large studio backlots",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Nauru filmmakers most often develop projects through collaboration with which partners?",
+        "answers":  [
+                        {
+                            "text":  "Pacific regional co-productions and training programs",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Only Hollywood major studios",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Only European public broadcasters",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Only domestic private platforms",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Documentary storytelling about Nauru often focuses on which themes?",
+        "answers":  [
+                        {
+                            "text":  "Phosphate legacy and climate challenges",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Medieval castles and knight tournaments",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Arctic exploration routes",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Renaissance court drama",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Nauru screen culture is most strongly connected to which wider context?",
+        "answers":  [
+                        {
+                            "text":  "Regional Pacific media networks",
+                            "score":  1
+                        },
+                        {
+                            "text":  "South American telenovela market",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nordic noir TV ecosystem",
+                            "score":  0
+                        },
+                        {
+                            "text":  "West African studio block",
+                            "score":  0
+                        }
+                    ]
+    }
+]

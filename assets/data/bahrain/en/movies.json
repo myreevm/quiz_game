@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What is the main national film event that promotes local and regional cinema in Bahrain?",
+    "answers": [
+      { "text": "Bahrain Film Festival", "score": 1 },
+      { "text": "Dubai International Film Festival", "score": 0 },
+      { "text": "Kino Pavasaris", "score": 0 },
+      { "text": "PÖFF", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which long-standing organization in Bahrain supports film culture, screenings, and discussion?",
+    "answers": [
+      { "text": "Bahrain Cinema Club", "score": 1 },
+      { "text": "Doha Film Institute", "score": 0 },
+      { "text": "Image Nation Abu Dhabi", "score": 0 },
+      { "text": "Red Sea Society", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Bahraini film by Mohammed Rashed Buali is often cited internationally?",
+    "answers": [
+      { "text": "The Sleeping Tree", "score": 1 },
+      { "text": "City of Life", "score": 0 },
+      { "text": "Wadjda", "score": 0 },
+      { "text": "Truth and Justice", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which city is the center of Bahrain's modern cinema scene?",
+    "answers": [
+      { "text": "Manama", "score": 1 },
+      { "text": "Riffa", "score": 0 },
+      { "text": "Muharraq", "score": 0 },
+      { "text": "Isa Town", "score": 0 }
+    ]
+  },
+  {
+    "question": "Bahraini filmmakers often cooperate through co-productions within which regional bloc?",
+    "answers": [
+      { "text": "GCC (Gulf Cooperation Council)", "score": 1 },
+      { "text": "ASEAN", "score": 0 },
+      { "text": "MERCOSUR", "score": 0 },
+      { "text": "Nordic Council", "score": 0 }
+    ]
+  }
+]

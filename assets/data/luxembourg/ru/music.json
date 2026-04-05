@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Как называется государственный гимн Люксембурга?",
+        "answers":  [
+                        {
+                            "text":  "Ons Heemecht",
+                            "score":  1
+                        },
+                        {
+                            "text":  "La Brabanconne",
+                            "score":  0
+                        },
+                        {
+                            "text":  "De Wilhelmus",
+                            "score":  0
+                        },
+                        {
+                            "text":  "O Canada",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Как называется главный концертный зал Люксембурга?",
+        "answers":  [
+                        {
+                            "text":  "Philharmonie Luxembourg",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Royal Albert Hall",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Musikverein",
+                            "score":  0
+                        },
+                        {
+                            "text":  "KKL Luzern",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Сколько раз Люксембург выигрывал конкурс Евровидение?",
+        "answers":  [
+                        {
+                            "text":  "5",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1",
+                            "score":  0
+                        },
+                        {
+                            "text":  "3",
+                            "score":  0
+                        },
+                        {
+                            "text":  "7",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "В каком году Корин Эрмес выиграла Евровидение для Люксембурга?",
+        "answers":  [
+                        {
+                            "text":  "1983",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1973",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1993",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2003",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Как обычно описывают современную музыкальную сцену Люксембурга?",
+        "answers":  [
+                        {
+                            "text":  "Многоязычная и международная",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Только фольклорная",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Только классическая",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Только электронная",
+                            "score":  0
+                        }
+                    ]
+    }
+]

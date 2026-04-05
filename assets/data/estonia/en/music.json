@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "What is the name of Estonia's nationwide song festival tradition?",
+    "answers": [
+      { "text": "Laulupidu", "score": 1 },
+      { "text": "Jaanipaev", "score": 0 },
+      { "text": "Seto Festival", "score": 0 },
+      { "text": "Baltica", "score": 0 }
+    ]
+  },
+  {
+    "question": "Arvo Part is internationally known for which compositional style?",
+    "answers": [
+      { "text": "Tintinnabuli", "score": 1 },
+      { "text": "Serialism", "score": 0 },
+      { "text": "Verismo", "score": 0 },
+      { "text": "Minimal techno", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Estonian singer became known internationally with songs like Walking on Air?",
+    "answers": [
+      { "text": "Kerli", "score": 1 },
+      { "text": "Maarja", "score": 0 },
+      { "text": "Getter Jaani", "score": 0 },
+      { "text": "Tanja", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which country won Eurovision 2001 with Tanel Padar, Dave Benton and 2XL?",
+    "answers": [
+      { "text": "Estonia", "score": 1 },
+      { "text": "Latvia", "score": 0 },
+      { "text": "Lithuania", "score": 0 },
+      { "text": "Finland", "score": 0 }
+    ]
+  },
+  {
+    "question": "What musical tradition is a hallmark of Estonian culture?",
+    "answers": [
+      { "text": "Large choral song festivals", "score": 1 },
+      { "text": "Flamenco guitar schools", "score": 0 },
+      { "text": "Bagpipe military marches", "score": 0 },
+      { "text": "Steel drum bands", "score": 0 }
+    ]
+  }
+]

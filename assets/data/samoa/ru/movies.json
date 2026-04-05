@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Кто снял самоанский фильм The Orator?",
+        "answers":  [
+                        {
+                            "text":  "Tusi Tamasese",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Taika Waititi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lee Tamahori",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ava DuVernay",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "На каком языке в основном снят The Orator?",
+        "answers":  [
+                        {
+                            "text":  "Samoan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "English",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Maori",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tongan",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой город является главным экранным и медийным центром Самоа?",
+        "answers":  [
+                        {
+                            "text":  "Apia",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vaitele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Asau",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mulifanua",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "С каким регионом чаще всего сотрудничает самоанское кино?",
+        "answers":  [
+                        {
+                            "text":  "Тихоокеанскими копродукциями",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Скандинавскими копродукциями",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Андскими копродукциями",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Балтийскими копродукциями",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой важный этап для самоаноязычного кино произошел в 2010-х?",
+        "answers":  [
+                        {
+                            "text":  "Международное признание фильма The Orator",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Основание Nollywood",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Первая Золотая пальмовая ветвь Канн для Самоа",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Создание только государственной студийной системы",
+                            "score":  0
+                        }
+                    ]
+    }
+]

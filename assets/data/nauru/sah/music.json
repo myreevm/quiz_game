@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Науру государство гимнын аата ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Nauru Bwiema",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nauru Mo Te Atua",
+                            "score":  0
+                        },
+                        {
+                            "text":  "God Defend Nauru",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Song of Ocean Republic",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Науру уонна кыра микронезия культураларыгар ханнык дорҕоон традицията суолталаах?",
+        "answers":  [
+                        {
+                            "text":  "Choral singing",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Opera bel canto",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yodeling",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Throat singing",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Науру үҥкүү ырыаларыгар ханнык ритм элбэхтик түһэрий?",
+        "answers":  [
+                        {
+                            "text":  "Percussion patterns",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pipe organ ostinatos",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Symphonic strings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Harpsichord riffs",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Бүгүҥҥү Науру оҕо аймах музыкагар ханнык инструментар элбэх?",
+        "answers":  [
+                        {
+                            "text":  "Guitar and ukulele",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bagpipe and lute",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bassoon and oboe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sitar and sarod",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Науру бырааһынньык музыката ханнык быһыытынан элбэх ылланарый?",
+        "answers":  [
+                        {
+                            "text":  "Community gatherings",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Grand opera houses",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Symphonic concert tours",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Underground techno clubs",
+                            "score":  0
+                        }
+                    ]
+    }
+]

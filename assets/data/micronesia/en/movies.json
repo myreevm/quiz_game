@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Choose the correct answer for Federated States of Micronesia: domestic industry scale.",
+        "answers":  [
+                        {
+                            "text":  "Limited local industry",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Community screenings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Choose the correct answer for Federated States of Micronesia: common local viewing format.",
+        "answers":  [
+                        {
+                            "text":  "Community screenings",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Climate documentaries",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Choose the correct answer for Federated States of Micronesia: typical regional collaboration.",
+        "answers":  [
+                        {
+                            "text":  "Pacific documentary collaborations",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Community screenings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Choose the correct answer for Federated States of Micronesia: common storytelling theme.",
+        "answers":  [
+                        {
+                            "text":  "Heritage and island life films",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Community screenings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Choose the correct answer for Federated States of Micronesia: focus of media training.",
+        "answers":  [
+                        {
+                            "text":  "Youth media training",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Community screenings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        }
+                    ]
+    }
+]

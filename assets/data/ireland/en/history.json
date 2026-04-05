@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What is the capital of Ireland?",
+    "answers": [
+      { "text": "Dublin", "score": 1 },
+      { "text": "Cork", "score": 0 },
+      { "text": "Galway", "score": 0 },
+      { "text": "Limerick", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did the Easter Rising take place?",
+    "answers": [
+      { "text": "1916", "score": 1 },
+      { "text": "1905", "score": 0 },
+      { "text": "1921", "score": 0 },
+      { "text": "1937", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Ireland become a republic by law?",
+    "answers": [
+      { "text": "1949", "score": 1 },
+      { "text": "1931", "score": 0 },
+      { "text": "1919", "score": 0 },
+      { "text": "1960", "score": 0 }
+    ]
+  },
+  {
+    "question": "The Great Irish Famine is mainly associated with which period?",
+    "answers": [
+      { "text": "1845-1852", "score": 1 },
+      { "text": "1789-1795", "score": 0 },
+      { "text": "1880-1886", "score": 0 },
+      { "text": "1914-1918", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year was the Good Friday Agreement signed?",
+    "answers": [
+      { "text": "1998", "score": 1 },
+      { "text": "1989", "score": 0 },
+      { "text": "2005", "score": 0 },
+      { "text": "2012", "score": 0 }
+    ]
+  }
+]

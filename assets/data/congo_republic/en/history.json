@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What is the capital city of the Republic of the Congo?",
+    "answers": [
+      { "text": "Brazzaville", "score": 1 },
+      { "text": "Kinshasa", "score": 0 },
+      { "text": "Lusaka", "score": 0 },
+      { "text": "Libreville", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did the Republic of the Congo gain independence from France?",
+    "answers": [
+      { "text": "1960", "score": 1 },
+      { "text": "1954", "score": 0 },
+      { "text": "1975", "score": 0 },
+      { "text": "1990", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the official currency used in the Republic of the Congo?",
+    "answers": [
+      { "text": "Central African CFA franc (XAF)", "score": 1 },
+      { "text": "Congolese franc (CDF)", "score": 0 },
+      { "text": "Zambian kwacha (ZMW)", "score": 0 },
+      { "text": "Namibian dollar (NAD)", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which historic railway links Brazzaville with Pointe-Noire?",
+    "answers": [
+      { "text": "Congo-Ocean Railway", "score": 1 },
+      { "text": "Tazara Railway", "score": 0 },
+      { "text": "Benguela Railway", "score": 0 },
+      { "text": "Trans-Kalahari Railway", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which river separates Brazzaville from Kinshasa across the international border?",
+    "answers": [
+      { "text": "Congo River", "score": 1 },
+      { "text": "Niger River", "score": 0 },
+      { "text": "Zambezi River", "score": 0 },
+      { "text": "Orange River", "score": 0 }
+    ]
+  }
+]

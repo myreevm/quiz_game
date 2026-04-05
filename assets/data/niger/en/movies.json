@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which Nigerien filmmaker directed Cabascabo?",
+        "answers":  [
+                        {
+                            "text":  "Oumarou Ganda",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Moustapha Alassane",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Licinio Azevedo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Souleymane Cisse",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Nigerien director is known as a pioneer of animation in West Africa?",
+        "answers":  [
+                        {
+                            "text":  "Moustapha Alassane",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Oumarou Ganda",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mahamat Saleh Haroun",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jean Rouch",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Cabascabo is part of cinema history of which country?",
+        "answers":  [
+                        {
+                            "text":  "Niger",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mali",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Senegal",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chad",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Nigerien cinema has long connections with which major regional festival?",
+        "answers":  [
+                        {
+                            "text":  "FESPACO",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cannes",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Berlinale",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sundance",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city is the main contemporary screen hub in Niger?",
+        "answers":  [
+                        {
+                            "text":  "Niamey",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Agadez",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Diffa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tahoua",
+                            "score":  0
+                        }
+                    ]
+    }
+]

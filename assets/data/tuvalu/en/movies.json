@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Choose the correct answer for Tuvalu: size of domestic film industry.",
+        "answers":  [
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Community screenings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Climate documentaries",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Choose the correct answer for Tuvalu: most common way films are shown.",
+        "answers":  [
+                        {
+                            "text":  "Community screenings",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Climate documentaries",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Choose the correct answer for Tuvalu: typical regional cooperation model.",
+        "answers":  [
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Community screenings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Climate documentaries",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Choose the correct answer for Tuvalu: frequent documentary focus.",
+        "answers":  [
+                        {
+                            "text":  "Climate documentaries",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Community screenings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Choose the correct answer for Tuvalu: main local media hub.",
+        "answers":  [
+                        {
+                            "text":  "Funafuti media hub",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Community screenings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        }
+                    ]
+    }
+]

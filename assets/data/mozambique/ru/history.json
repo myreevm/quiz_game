@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Какая столица Мозамбика?",
+        "answers":  [
+                        {
+                            "text":  "Maputo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Beira",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nampula",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Quelimane",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "В каком году Мозамбик получил независимость?",
+        "answers":  [
+                        {
+                            "text":  "1975",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1960",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1980",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1992",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой код валюты Мозамбика?",
+        "answers":  [
+                        {
+                            "text":  "MZN",
+                            "score":  1
+                        },
+                        {
+                            "text":  "AOA",
+                            "score":  0
+                        },
+                        {
+                            "text":  "TZS",
+                            "score":  0
+                        },
+                        {
+                            "text":  "ZMW",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "На побережье какого океана расположен Мозамбик?",
+        "answers":  [
+                        {
+                            "text":  "Indian Ocean",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Atlantic Ocean",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific Ocean",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Arctic Ocean",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой пролив отделяет Мозамбик от Мадагаскара?",
+        "answers":  [
+                        {
+                            "text":  "Mozambique Channel",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bab el-Mandeb",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Strait of Malacca",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bosporus",
+                            "score":  0
+                        }
+                    ]
+    }
+]

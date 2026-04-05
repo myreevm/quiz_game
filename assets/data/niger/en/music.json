@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which guitar style is strongly associated with Tuareg musicians in Niger?",
+        "answers":  [
+                        {
+                            "text":  "Desert blues",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Flamenco",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bluegrass",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bossa nova",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Nigerien artist is one of the best-known modern Tuareg guitar performers?",
+        "answers":  [
+                        {
+                            "text":  "Bombino",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ali Farka Toure",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tinariwen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rokia Traore",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which language-cultural traditions are major in Niger popular and folk music?",
+        "answers":  [
+                        {
+                            "text":  "Hausa and Zarma",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Swahili and Amharic",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Wolof and Bambara",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Arabic and Berber only",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which percussion tradition is often linked with Tuareg communities in Niger?",
+        "answers":  [
+                        {
+                            "text":  "Tende percussion",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Samba bateria",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Taiko drumming",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Darbuka ensemble",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Music festivals in Niger most often combine what elements?",
+        "answers":  [
+                        {
+                            "text":  "Traditional and modern performance styles",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Only military marches",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Only classical opera",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Only electronic DJ sets",
+                            "score":  0
+                        }
+                    ]
+    }
+]

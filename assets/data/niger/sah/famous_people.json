@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Бэйэ Нигер бастакы президентата ким буолла?",
+        "answers":  [
+                        {
+                            "text":  "Hamani Diori",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mahamadou Issoufou",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mohamed Bazoum",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Boubou Hama",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "2011-тэн 2021-гэ диэри Нигерга президент буолбут кимий?",
+        "answers":  [
+                        {
+                            "text":  "Mahamadou Issoufou",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hamani Diori",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mohamed Bazoum",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Seyni Kountche",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "2021 сылла Нигер президентата ким буолла?",
+        "answers":  [
+                        {
+                            "text":  "Mohamed Bazoum",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mahamadou Issoufou",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hamani Diori",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bombino",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Нигер историятын уонна культуратыгар суолталаах интеллектуал-суруйааччы кимий?",
+        "answers":  [
+                        {
+                            "text":  "Boubou Hama",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Oumarou Ganda",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Moustapha Alassane",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bombino",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Туарег гитара стилинэн аан дойдуга биллэр Нигер музыканта кимий?",
+        "answers":  [
+                        {
+                            "text":  "Bombino",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tinariwen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ali Farka Toure",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Salif Keita",
+                            "score":  0
+                        }
+                    ]
+    }
+]

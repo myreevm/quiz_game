@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which Angolan genre is considered a major precursor to modern kizomba?",
+        "answers":  [
+                        {
+                            "text":  "Semba",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Morna",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Highlife",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Benga",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which dance music style from Angola became globally popular in Lusophone communities?",
+        "answers":  [
+                        {
+                            "text":  "Kizomba",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Soca",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Reggaeton",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Makossa",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which energetic urban genre is closely associated with modern Luanda?",
+        "answers":  [
+                        {
+                            "text":  "Kuduro",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Gnawa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rai",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gqom",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which musician is one of the best known ambassadors of Angolan music abroad?",
+        "answers":  [
+                        {
+                            "text":  "Bonga",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cesaria Evora",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Youssou N\u0027Dour",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fela Kuti",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city is the center of Angola\u0027s modern popular music industry?",
+        "answers":  [
+                        {
+                            "text":  "Luanda",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Malanje",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Uige",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dundo",
+                            "score":  0
+                        }
+                    ]
+    }
+]

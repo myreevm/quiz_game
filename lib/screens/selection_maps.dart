@@ -1,11 +1,14 @@
 import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
+import 'package:flutter_svg/flutter_svg.dart';
 
 import '../models/app_texts.dart';
 import 'flag_badge.dart';
 
-const _worldMapAssetPath = 'output/imagegen/world_map_no_labels_8k.png';
+const _worldMapAssetPath = 'assets/world-map-no-labels.svg';
+const _worldMapRasterFallbackAssetPath =
+    'output/imagegen/world_map_no_labels_8k.png';
 const _mapAspectRatio = 2.0;
 const _mapMinScale = 1.0;
 const _mapMaxScale = 10.0;
@@ -29,6 +32,41 @@ class MapPinData {
     required this.code,
     required this.position,
   });
+}
+
+Future<String?> openWorldMapPicker(
+  BuildContext context, {
+  required String hint,
+  required List<MapPinData> countries,
+  required String Function(String code) labelBuilder,
+}) {
+  return openSelectionMapPicker(
+    context,
+    hint: hint,
+    pins: countries,
+    labelBuilder: labelBuilder,
+    backgroundBuilder: (_) => const _WorldMapBackground(),
+  );
+}
+
+Future<String?> openSelectionMapPicker(
+  BuildContext context, {
+  required String hint,
+  required List<MapPinData> pins,
+  required String Function(String code) labelBuilder,
+  required WidgetBuilder backgroundBuilder,
+}) {
+  return Navigator.of(context).push<String>(
+    MaterialPageRoute(
+      fullscreenDialog: true,
+      builder: (_) => SelectionMapPickerScreen(
+        hint: hint,
+        pins: pins,
+        labelBuilder: labelBuilder,
+        backgroundBuilder: backgroundBuilder,
+      ),
+    ),
+  );
 }
 
 class WorldSelectionMap extends StatelessWidget {
@@ -106,16 +144,12 @@ class _SelectionMapCard extends StatefulWidget {
 
 class _SelectionMapCardState extends State<_SelectionMapCard> {
   Future<void> _openFullscreenMap() async {
-    final selectedCode = await Navigator.of(context).push<String>(
-      MaterialPageRoute(
-        fullscreenDialog: true,
-        builder: (_) => _FullscreenMapScreen(
-          hint: widget.hint,
-          pins: widget.pins,
-          labelBuilder: widget.labelBuilder,
-          backgroundBuilder: widget.backgroundBuilder,
-        ),
-      ),
+    final selectedCode = await openSelectionMapPicker(
+      context,
+      hint: widget.hint,
+      pins: widget.pins,
+      labelBuilder: widget.labelBuilder,
+      backgroundBuilder: widget.backgroundBuilder,
     );
 
     if (!mounted || selectedCode == null) {
@@ -221,13 +255,13 @@ class _MapCanvas extends StatelessWidget {
   }
 }
 
-class _FullscreenMapScreen extends StatefulWidget {
+class SelectionMapPickerScreen extends StatefulWidget {
   final String hint;
   final List<MapPinData> pins;
   final String Function(String code) labelBuilder;
   final WidgetBuilder backgroundBuilder;
 
-  const _FullscreenMapScreen({
+  const SelectionMapPickerScreen({
     required this.hint,
     required this.pins,
     required this.labelBuilder,
@@ -235,10 +269,11 @@ class _FullscreenMapScreen extends StatefulWidget {
   });
 
   @override
-  State<_FullscreenMapScreen> createState() => _FullscreenMapScreenState();
+  State<SelectionMapPickerScreen> createState() =>
+      _SelectionMapPickerScreenState();
 }
 
-class _FullscreenMapScreenState extends State<_FullscreenMapScreen> {
+class _SelectionMapPickerScreenState extends State<SelectionMapPickerScreen> {
   final TransformationController _transformController =
       TransformationController();
   double _currentScale = 1.0;
@@ -451,11 +486,8 @@ class _WorldMapBackground extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Image.asset(
-      _worldMapAssetPath,
-      fit: BoxFit.cover,
+    return const _WorldMapAssetBackground(
       alignment: Alignment.center,
-      errorBuilder: (_, __, ___) => const _MapFallbackBackground(),
     );
   }
 }
@@ -473,12 +505,32 @@ class _CountryZoomMapBackground extends StatelessWidget {
       child: Transform.scale(
         scale: viewport.scale,
         alignment: viewport.alignment,
-        child: Image.asset(
-          _worldMapAssetPath,
-          fit: BoxFit.cover,
+        child: _WorldMapAssetBackground(
           alignment: viewport.alignment,
-          errorBuilder: (_, __, ___) => const _MapFallbackBackground(),
         ),
+      ),
+    );
+  }
+}
+
+class _WorldMapAssetBackground extends StatelessWidget {
+  final Alignment alignment;
+
+  const _WorldMapAssetBackground({
+    required this.alignment,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return SvgPicture.asset(
+      _worldMapAssetPath,
+      fit: BoxFit.cover,
+      alignment: alignment,
+      errorBuilder: (_, __, ___) => Image.asset(
+        _worldMapRasterFallbackAssetPath,
+        fit: BoxFit.cover,
+        alignment: alignment,
+        errorBuilder: (_, __, ___) => const _MapFallbackBackground(),
       ),
     );
   }
@@ -525,6 +577,11 @@ class _CountryMapViewport {
           alignment: Alignment(0.40, -0.48),
           scale: 5.0,
         );
+      case 'turkmenistan':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.35, -0.33),
+          scale: 6.2,
+        );
       case 'japan':
         return const _CountryMapViewport(
           alignment: Alignment(0.92, -0.48),
@@ -565,6 +622,11 @@ class _CountryMapViewport {
           alignment: Alignment(0.70, -0.26),
           scale: 7.0,
         );
+      case 'cambodia':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.71, -0.19),
+          scale: 7.4,
+        );
       case 'thailand':
         return const _CountryMapViewport(
           alignment: Alignment(0.67, -0.28),
@@ -574,6 +636,31 @@ class _CountryMapViewport {
         return const _CountryMapViewport(
           alignment: Alignment(-0.08, -0.40),
           scale: 6.4,
+        );
+      case 'mauritania':
+        return const _CountryMapViewport(
+          alignment: Alignment(-0.12, -0.28),
+          scale: 7.0,
+        );
+      case 'mali':
+        return const _CountryMapViewport(
+          alignment: Alignment(-0.03, -0.16),
+          scale: 7.0,
+        );
+      case 'nigeria':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.08, -0.08),
+          scale: 6.8,
+        );
+      case 'niger':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.09, -0.18),
+          scale: 6.8,
+        );
+      case 'chad':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.15, -0.14),
+          scale: 6.7,
         );
       case 'algeria':
         return const _CountryMapViewport(
@@ -629,6 +716,26 @@ class _CountryMapViewport {
         return const _CountryMapViewport(
           alignment: Alignment(0.98, 0.10),
           scale: 6.2,
+        );
+      case 'nauru':
+        return const _CountryMapViewport(
+          alignment: Alignment(1.05, 0.02),
+          scale: 10.0,
+        );
+      case 'micronesia':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.99, -0.05),
+          scale: 9.2,
+        );
+      case 'tuvalu':
+        return const _CountryMapViewport(
+          alignment: Alignment(1.07, 0.14),
+          scale: 10.0,
+        );
+      case 'samoa':
+        return const _CountryMapViewport(
+          alignment: Alignment(1.10, 0.22),
+          scale: 10.0,
         );
       case 'poland':
         return const _CountryMapViewport(
@@ -710,6 +817,11 @@ class _CountryMapViewport {
           alignment: Alignment(0.10, -0.40),
           scale: 6.6,
         );
+      case 'north_macedonia':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.14, -0.41),
+          scale: 10.0,
+        );
       case 'portugal':
         return const _CountryMapViewport(
           alignment: Alignment(-0.11, -0.54),
@@ -785,6 +897,11 @@ class _CountryMapViewport {
           alignment: Alignment(-0.53, -0.18),
           scale: 8.8,
         );
+      case 'nepal':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.49, -0.42),
+          scale: 10.0,
+        );
       case 'bhutan':
         return const _CountryMapViewport(
           alignment: Alignment(0.54, -0.44),
@@ -825,14 +942,149 @@ class _CountryMapViewport {
           alignment: Alignment(-0.38, 0.23),
           scale: 7.0,
         );
+      case 'uruguay':
+        return const _CountryMapViewport(
+          alignment: Alignment(-0.35, 0.37),
+          scale: 8.5,
+        );
       case 'uk':
         return const _CountryMapViewport(
           alignment: Alignment(-0.01, -0.65),
           scale: 6.0,
         );
+      case 'ireland':
+        return const _CountryMapViewport(
+          alignment: Alignment(-0.08, -0.66),
+          scale: 7.0,
+        );
       case 'belarus':
         return const _CountryMapViewport(
           alignment: Alignment(0.17, -0.66),
+          scale: 10.0,
+        );
+      case 'estonia':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.17, -0.75),
+          scale: 10.0,
+        );
+      case 'latvia':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.17, -0.70),
+          scale: 10.0,
+        );
+      case 'lithuania':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.16, -0.64),
+          scale: 9.8,
+        );
+      case 'moldova':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.22, -0.54),
+          scale: 10.0,
+        );
+      case 'saudi_arabia':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.36, -0.34),
+          scale: 5.8,
+        );
+      case 'qatar':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.44, -0.38),
+          scale: 10.0,
+        );
+      case 'bahrain':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.43, -0.36),
+          scale: 10.0,
+        );
+      case 'kuwait':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.39, -0.43),
+          scale: 10.0,
+        );
+      case 'uae':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.47, -0.37),
+          scale: 9.5,
+        );
+      case 'oman':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.52, -0.30),
+          scale: 8.2,
+        );
+      case 'belgium':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.04, -0.63),
+          scale: 10.0,
+        );
+      case 'netherlands':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.07, -0.68),
+          scale: 10.0,
+        );
+      case 'luxembourg':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.05, -0.62),
+          scale: 10.0,
+        );
+      case 'liechtenstein':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.11, -0.58),
+          scale: 10.0,
+        );
+      case 'monaco':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.09, -0.55),
+          scale: 10.0,
+        );
+      case 'denmark':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.13, -0.72),
+          scale: 8.5,
+        );
+      case 'malta':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.11, -0.34),
+          scale: 10.0,
+        );
+      case 'congo_republic':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.20, -0.02),
+          scale: 8.0,
+        );
+      case 'dr_congo':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.24, 0.02),
+          scale: 5.7,
+        );
+      case 'zambia':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.22, 0.16),
+          scale: 6.6,
+        );
+      case 'namibia':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.12, 0.25),
+          scale: 6.3,
+        );
+      case 'angola':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.16, 0.18),
+          scale: 6.2,
+        );
+      case 'mozambique':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.28, 0.22),
+          scale: 6.4,
+        );
+      case 'madagascar':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.31, 0.31),
+          scale: 6.8,
+        );
+      case 'mauritius':
+        return const _CountryMapViewport(
+          alignment: Alignment(0.45, 0.22),
           scale: 10.0,
         );
       case 'argentina':

@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "What is the name of Monaco\u0027s national anthem?",
+        "answers":  [
+                        {
+                            "text":  "Hymne Monegasque",
+                            "score":  1
+                        },
+                        {
+                            "text":  "La Marseillaise",
+                            "score":  0
+                        },
+                        {
+                            "text":  "God Save the King",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fratelli d Italia",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the name of Monaco\u0027s principal symphony orchestra?",
+        "answers":  [
+                        {
+                            "text":  "Orchestre Philharmonique de Monte-Carlo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vienna Philharmonic",
+                            "score":  0
+                        },
+                        {
+                            "text":  "London Symphony Orchestra",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Orchestre de Paris",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which historic opera venue is based in Monaco?",
+        "answers":  [
+                        {
+                            "text":  "Opera de Monte-Carlo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "La Scala",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Royal Opera House",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Teatro Colon",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which artist is a famous Monegasque singer and poet?",
+        "answers":  [
+                        {
+                            "text":  "Leo Ferre",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Charles Trenet",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Georges Brassens",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yves Montand",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did Monaco win the Eurovision Song Contest?",
+        "answers":  [
+                        {
+                            "text":  "1971",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1965",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1983",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1999",
+                            "score":  0
+                        }
+                    ]
+    }
+]

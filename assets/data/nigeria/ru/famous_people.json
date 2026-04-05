@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Кто был первым президентом независимой Нигерии?",
+        "answers":  [
+                        {
+                            "text":  "Nnamdi Azikiwe",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Wole Soyinka",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chinua Achebe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fela Kuti",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой нигерийский писатель получил Нобелевскую премию по литературе?",
+        "answers":  [
+                        {
+                            "text":  "Wole Soyinka",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Chinua Achebe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nnamdi Azikiwe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ngozi Okonjo-Iweala",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Кто написал роман Things Fall Apart?",
+        "answers":  [
+                        {
+                            "text":  "Chinua Achebe",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Wole Soyinka",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fela Kuti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Burna Boy",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какого музыканта часто называют пионером афробита?",
+        "answers":  [
+                        {
+                            "text":  "Fela Kuti",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Wizkid",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Davido",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Burna Boy",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какая нигерийская экономистка стала гендиректором ВТО в 2021 году?",
+        "answers":  [
+                        {
+                            "text":  "Ngozi Okonjo-Iweala",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Amina Mohammed",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ngozi Ezeonu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Arunma Oteh",
+                            "score":  0
+                        }
+                    ]
+    }
+]

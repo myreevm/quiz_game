@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Какого лидера часто называют основателем президентской традиции независимого Науру?",
+        "answers":  [
+                        {
+                            "text":  "Hammer DeRoburt",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Marcus Stephen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Baron Waqa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Russ Kun",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой бывший президент Науру ранее получил олимпийскую медаль по тяжелой атлетике?",
+        "answers":  [
+                        {
+                            "text":  "Marcus Stephen",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hammer DeRoburt",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lionel Aingimea",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Baron Waqa",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Кто был президентом Науру до Лайонела Аингимея?",
+        "answers":  [
+                        {
+                            "text":  "Baron Waqa",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Marcus Stephen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Russ Kun",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sprent Dabwido",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой политик стал президентом Науру в 2019 году?",
+        "answers":  [
+                        {
+                            "text":  "Lionel Aingimea",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Baron Waqa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Marcus Stephen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hammer DeRoburt",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Кто стал президентом Науру в 2022 году?",
+        "answers":  [
+                        {
+                            "text":  "Russ Kun",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lionel Aingimea",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Baron Waqa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Marcus Stephen",
+                            "score":  0
+                        }
+                    ]
+    }
+]

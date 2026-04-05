@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Кто стал первым президентом независимого Нигера?",
+        "answers":  [
+                        {
+                            "text":  "Hamani Diori",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mahamadou Issoufou",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mohamed Bazoum",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Boubou Hama",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой президент Нигера руководил страной с 2011 по 2021 год?",
+        "answers":  [
+                        {
+                            "text":  "Mahamadou Issoufou",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hamani Diori",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mohamed Bazoum",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Seyni Kountche",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Кто стал президентом Нигера в 2021 году?",
+        "answers":  [
+                        {
+                            "text":  "Mohamed Bazoum",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mahamadou Issoufou",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hamani Diori",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bombino",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой нигерский интеллектуал и писатель считается важной исторической культурной фигурой?",
+        "answers":  [
+                        {
+                            "text":  "Boubou Hama",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Oumarou Ganda",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Moustapha Alassane",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bombino",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой музыкант из Нигера всемирно известен туарегским гитарным стилем?",
+        "answers":  [
+                        {
+                            "text":  "Bombino",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tinariwen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ali Farka Toure",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Salif Keita",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Which guitar-driven style is considered a classic traditional-pop genre of Zambia?",
+    "answers": [
+      { "text": "Kalindula", "score": 1 },
+      { "text": "Fidjeri", "score": 0 },
+      { "text": "Sutartines", "score": 0 },
+      { "text": "Ardha", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the name of Zambia's influential 1970s rock movement?",
+    "answers": [
+      { "text": "Zamrock", "score": 1 },
+      { "text": "Kwaito", "score": 0 },
+      { "text": "Soukous", "score": 0 },
+      { "text": "Highlife", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Zambian artist is known for socially conscious hip-hop and community activism?",
+    "answers": [
+      { "text": "B-Flow", "score": 1 },
+      { "text": "Fally Ipupa", "score": 0 },
+      { "text": "The Dogg", "score": 0 },
+      { "text": "Franklin Boukaka", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Zambian singer-songwriter is known for contemporary Afro-pop tracks and live vocal performances?",
+    "answers": [
+      { "text": "Wezi", "score": 1 },
+      { "text": "Ahlam", "score": 0 },
+      { "text": "Hala Al Turk", "score": 0 },
+      { "text": "Kerli", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which group of instruments is central to many Zambian popular and traditional styles?",
+    "answers": [
+      { "text": "Drums and guitars", "score": 1 },
+      { "text": "Bagpipes and harpsichords", "score": 0 },
+      { "text": "Cellos and bassoons only", "score": 0 },
+      { "text": "Didgeridoos and sitars", "score": 0 }
+    ]
+  }
+]

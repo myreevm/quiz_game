@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Кто режиссер фильма Before the Rain?",
+        "answers":  [
+                        {
+                            "text":  "Milcho Manchevski",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ivo Trajkov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Teona Mitevska",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Stole Popov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой документальный фильм из Северной Македонии получил большое признание на Оскаре в 2020 году?",
+        "answers":  [
+                        {
+                            "text":  "Honeyland",
+                            "score":  1
+                        },
+                        {
+                            "text":  "God Exists Her Name Is Petrunya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Secret Ingredient",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Willow",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Как называется известный фестиваль кинооператорского искусства в Битоле?",
+        "answers":  [
+                        {
+                            "text":  "Manaki Brothers International Film Festival",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Skopje Film Week",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Balkan Screen Forum",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ohrid Cinema Days",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой город является главным центром кино- и телепроизводства в Северной Македонии?",
+        "answers":  [
+                        {
+                            "text":  "Skopje",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bitola",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kumanovo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Prilep",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой тип сотрудничества часто используется в кино Северной Македонии?",
+        "answers":  [
+                        {
+                            "text":  "Балканские и европейские копродукции",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Только внутренние студийные фильмы",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Только немые черно-белые фильмы",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Без участия в фестивалях",
+                            "score":  0
+                        }
+                    ]
+    }
+]

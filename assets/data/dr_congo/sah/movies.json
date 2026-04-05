@@ -1,0 +1,47 @@
+[
+  {
+    "question": "ДР Конго илин өттүгэр SKIFF диэн тугу көрдөрөрүй?",
+    "answers": [
+      { "text": "Salaam Kivu International Film Festival", "score": 1 },
+      { "text": "South Kivu Independent Film Forum", "score": 0 },
+      { "text": "State Kinshasa International Film Fair", "score": 0 },
+      { "text": "Societe Kongo Image Film Foundation", "score": 0 }
+    ]
+  },
+  {
+    "question": "Илин ДР Конго нацпарка рейнджердарын туһунан оҥоһуллубут, Оскарга номинацияламмыт документальнай фильм ханныкый?",
+    "answers": [
+      { "text": "Virunga", "score": 1 },
+      { "text": "Felicite", "score": 0 },
+      { "text": "I Am Not a Witch", "score": 0 },
+      { "text": "Mad Max: Fury Road", "score": 0 }
+    ]
+  },
+  {
+    "question": "Downstream to Kinshasa курдук документальнай фильмнарынан биллэр конголезскай режиссер кимий?",
+    "answers": [
+      { "text": "Дьедо Хамади", "score": 1 },
+      { "text": "Рунгано Ниони", "score": 0 },
+      { "text": "Ален Мабанку", "score": 0 },
+      { "text": "Хайфа Аль-Мансур", "score": 0 }
+    ]
+  },
+  {
+    "question": "2017 сыллаахха Киншаска ырыаһыты туһунан драмa фильм хайдах ааттанарый?",
+    "answers": [
+      { "text": "Felicite", "score": 1 },
+      { "text": "Virunga", "score": 0 },
+      { "text": "The Sleeping Tree", "score": 0 },
+      { "text": "Wadjda", "score": 0 }
+    ]
+  },
+  {
+    "question": "ДР Конго киинэ индустриятын сүрүн киинэ куората ханныкый?",
+    "answers": [
+      { "text": "Киншаса", "score": 1 },
+      { "text": "Лубумбаши", "score": 0 },
+      { "text": "Гома", "score": 0 },
+      { "text": "Мбуджи-Майи", "score": 0 }
+    ]
+  }
+]

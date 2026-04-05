@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Кто является уругвайским национальным героем, известным как Защитник свободных народов?",
+        "answers":  [
+                        {
+                            "text":  "Jose Gervasio Artigas",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jose Batlle y Ordonez",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Julio Sanguinetti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tabare Vazquez",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой президент Уругвая в 2010–2015 годах прославился скромным образом жизни?",
+        "answers":  [
+                        {
+                            "text":  "Jose Mujica",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Luis Lacalle Pou",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jorge Batlle",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tabare Vazquez",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой уругвайский нападающий связан и со сборной Уругвая, и с ФК Барселона?",
+        "answers":  [
+                        {
+                            "text":  "Luis Suarez",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Edinson Cavani",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Diego Forlan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alvaro Recoba",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Кто из уругвайцев получил Золотой мяч на ЧМ-2010?",
+        "answers":  [
+                        {
+                            "text":  "Diego Forlan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Luis Suarez",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fernando Muslera",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Diego Godin",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой уругвайский писатель известен стихами и романом La tregua?",
+        "answers":  [
+                        {
+                            "text":  "Mario Benedetti",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Eduardo Galeano",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Juan Carlos Onetti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Horacio Quiroga",
+                            "score":  0
+                        }
+                    ]
+    }
+]

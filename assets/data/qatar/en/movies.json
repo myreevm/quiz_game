@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Which key institution drives film development and support in Qatar?",
+    "answers": [
+      { "text": "Doha Film Institute", "score": 1 },
+      { "text": "Bahrain Cinema Club", "score": 0 },
+      { "text": "Tallinnfilm", "score": 0 },
+      { "text": "Image Nation Abu Dhabi", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the name of the youth-focused film festival in Qatar?",
+    "answers": [
+      { "text": "Ajyal Film Festival", "score": 1 },
+      { "text": "Red Sea International Film Festival", "score": 0 },
+      { "text": "Kino Pavasaris", "score": 0 },
+      { "text": "Cronograf", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the Doha Film Institute's annual talent and project platform called?",
+    "answers": [
+      { "text": "Qumra", "score": 1 },
+      { "text": "Laulupidu", "score": 0 },
+      { "text": "Truth and Justice Forum", "score": 0 },
+      { "text": "Gulf Vision Lab", "score": 0 }
+    ]
+  },
+  {
+    "question": "Doha Film Institute is especially known for supporting films from which broader cultural region?",
+    "answers": [
+      { "text": "Arab cinema", "score": 1 },
+      { "text": "Scandinavian cinema only", "score": 0 },
+      { "text": "Latin American animation only", "score": 0 },
+      { "text": "Silent-era films only", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which city serves as the main hub for film events and production activity in Qatar?",
+    "answers": [
+      { "text": "Doha", "score": 1 },
+      { "text": "Al Khor", "score": 0 },
+      { "text": "Lusail", "score": 0 },
+      { "text": "Al Wakrah", "score": 0 }
+    ]
+  }
+]

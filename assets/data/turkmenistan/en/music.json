@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Which two-stringed instrument is central in Turkmen traditional music?",
+    "answers": [
+      {
+        "text": "Dutar",
+        "score": 1
+      },
+      {
+        "text": "Roneat",
+        "score": 0
+      },
+      {
+        "text": "Kobza",
+        "score": 0
+      },
+      {
+        "text": "Violin",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the Turkmen singer-storyteller tradition?",
+    "answers": [
+      {
+        "text": "Bakhshi tradition",
+        "score": 1
+      },
+      {
+        "text": "Laulupidu",
+        "score": 0
+      },
+      {
+        "text": "Fidjeri",
+        "score": 0
+      },
+      {
+        "text": "Ardha",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which term refers to modal classical melodic cycles in Turkmen music?",
+    "answers": [
+      {
+        "text": "Mukam",
+        "score": 1
+      },
+      {
+        "text": "Salegy",
+        "score": 0
+      },
+      {
+        "text": "Romvong",
+        "score": 0
+      },
+      {
+        "text": "Zamrock",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Songs based on the poetry of which figure are central in Turkmen culture?",
+    "answers": [
+      {
+        "text": "Magtymguly Pyragy",
+        "score": 1
+      },
+      {
+        "text": "Didier Ratsiraka",
+        "score": 0
+      },
+      {
+        "text": "Jaojoby",
+        "score": 0
+      },
+      {
+        "text": "Ahmed bin Majid",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which formal musical tradition is central during state ceremonies in Turkmenistan?",
+    "answers": [
+      {
+        "text": "State anthem tradition",
+        "score": 1
+      },
+      {
+        "text": "Opera recitative",
+        "score": 0
+      },
+      {
+        "text": "Jazz standard",
+        "score": 0
+      },
+      {
+        "text": "Gregorian chant",
+        "score": 0
+      }
+    ]
+  }
+]

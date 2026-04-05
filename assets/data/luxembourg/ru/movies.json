@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Как называется ключевое ежегодное кинособытие Люксембурга в столице?",
+        "answers":  [
+                        {
+                            "text":  "Luxembourg City Film Festival",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Benelux Film Market",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Grand Duchy Screen Expo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ardennes Cinema Week",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой институт поддерживает финансирование и производство фильмов в Люксембурге?",
+        "answers":  [
+                        {
+                            "text":  "Film Fund Luxembourg",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lux Cinema Chamber",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Royal Screen Board",
+                            "score":  0
+                        },
+                        {
+                            "text":  "European Film Council Luxembourg",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какая производственная модель особенно важна для кино Люксембурга?",
+        "answers":  [
+                        {
+                            "text":  "Международные копродукции",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Монополия одной студии",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Отсутствие зарубежных партнерств",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Только телевизионные сериалы",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой режиссер считается заметной фигурой национального кино Люксембурга?",
+        "answers":  [
+                        {
+                            "text":  "Энди Бауш",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Михаэль Ханеке",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Паоло Соррентино",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Асгар Фархади",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "В каком экранном секторе Люксембург особенно известен?",
+        "answers":  [
+                        {
+                            "text":  "Анимация и VFX копродукции",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Только вестерны",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Только оперные фильмы",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Немая комедия",
+                            "score":  0
+                        }
+                    ]
+    }
+]

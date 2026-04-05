@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "What is the name of the national film studio of Moldova?",
+    "answers": [
+      { "text": "Moldova-Film", "score": 1 },
+      { "text": "Baltic Cinema", "score": 0 },
+      { "text": "Chisinau Pictures", "score": 0 },
+      { "text": "Dacia Studio", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which director made the film Lautarii?",
+    "answers": [
+      { "text": "Emil Loteanu", "score": 1 },
+      { "text": "Andrei Tarkovsky", "score": 0 },
+      { "text": "Nikita Mikhalkov", "score": 0 },
+      { "text": "Dan Balan", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Emil Loteanu film tells a story about Roma life?",
+    "answers": [
+      { "text": "Satra", "score": 1 },
+      { "text": "Nunta", "score": 0 },
+      { "text": "Bessarabiya", "score": 0 },
+      { "text": "Zimnii veter", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which annual documentary festival takes place in Chisinau?",
+    "answers": [
+      { "text": "Cronograf", "score": 1 },
+      { "text": "Golden Mask", "score": 0 },
+      { "text": "New Baltic Wave", "score": 0 },
+      { "text": "Silver Lion", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which city hosts most Moldovan film premieres?",
+    "answers": [
+      { "text": "Chisinau", "score": 1 },
+      { "text": "Cahul", "score": 0 },
+      { "text": "Soroca", "score": 0 },
+      { "text": "Comrat", "score": 0 }
+    ]
+  }
+]

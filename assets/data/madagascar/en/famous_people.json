@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Who is the current President of Madagascar?",
+    "answers": [
+      {
+        "text": "Andry Rajoelina",
+        "score": 1
+      },
+      {
+        "text": "Marc Ravalomanana",
+        "score": 0
+      },
+      {
+        "text": "Didier Ratsiraka",
+        "score": 0
+      },
+      {
+        "text": "Ahmad Ahmad",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which former president is also known as a major Malagasy businessman?",
+    "answers": [
+      {
+        "text": "Marc Ravalomanana",
+        "score": 1
+      },
+      {
+        "text": "Andry Rajoelina",
+        "score": 0
+      },
+      {
+        "text": "Sam Nujoma",
+        "score": 0
+      },
+      {
+        "text": "Hage Geingob",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Malagasy leader was nicknamed the Red Admiral?",
+    "answers": [
+      {
+        "text": "Didier Ratsiraka",
+        "score": 1
+      },
+      {
+        "text": "Andry Rajoelina",
+        "score": 0
+      },
+      {
+        "text": "Ahmad Ahmad",
+        "score": 0
+      },
+      {
+        "text": "Jaojoby",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Malagasy sports official served as CAF president?",
+    "answers": [
+      {
+        "text": "Ahmad Ahmad",
+        "score": 1
+      },
+      {
+        "text": "Kalusha Bwalya",
+        "score": 0
+      },
+      {
+        "text": "Nasser Al-Attiyah",
+        "score": 0
+      },
+      {
+        "text": "Mutaz Barshim",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which singer is known as the king of salegy music?",
+    "answers": [
+      {
+        "text": "Jaojoby",
+        "score": 1
+      },
+      {
+        "text": "The Dogg",
+        "score": 0
+      },
+      {
+        "text": "Mohammed Abdu",
+        "score": 0
+      },
+      {
+        "text": "Sinn Sisamouth",
+        "score": 0
+      }
+    ]
+  }
+]

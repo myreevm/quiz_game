@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What is the name of the traditional Saudi ceremonial dance often performed with music and poetry?",
+    "answers": [
+      { "text": "Ardha", "score": 1 },
+      { "text": "Fidjeri", "score": 0 },
+      { "text": "Sutartines", "score": 0 },
+      { "text": "Tarantella", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Saudi singer is often called an icon of Gulf and Arabic music?",
+    "answers": [
+      { "text": "Mohammed Abdu", "score": 1 },
+      { "text": "Fahad Al Kubaisi", "score": 0 },
+      { "text": "Hussain Al Jassmi", "score": 0 },
+      { "text": "Nasser Al-Attiyah", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which instrument is central in traditional Saudi and Arab musical practice?",
+    "answers": [
+      { "text": "Oud", "score": 1 },
+      { "text": "Accordion", "score": 0 },
+      { "text": "Kokle", "score": 0 },
+      { "text": "Kantele", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which poetic song tradition is associated with the Arabian Peninsula and Saudi culture?",
+    "answers": [
+      { "text": "Nabati poetic singing", "score": 1 },
+      { "text": "Gregorian chant", "score": 0 },
+      { "text": "Sea shanty tradition", "score": 0 },
+      { "text": "Yodeling", "score": 0 }
+    ]
+  },
+  {
+    "question": "How can the modern Saudi popular scene in the Gulf context be described?",
+    "answers": [
+      { "text": "An expanding khaliji-pop scene", "score": 1 },
+      { "text": "Only classical opera", "score": 0 },
+      { "text": "Only folk music without new artists", "score": 0 },
+      { "text": "No active live performances", "score": 0 }
+    ]
+  }
+]

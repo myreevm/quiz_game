@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which ruler of the Mali Empire is famous for his pilgrimage to Mecca?",
+        "answers":  [
+                        {
+                            "text":  "Mansa Musa",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sundiata Keita",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Askia Mohammad I",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Samory Toure",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who became the first president of independent Mali?",
+        "answers":  [
+                        {
+                            "text":  "Modibo Keita",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Moussa Traore",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ibrahim Boubacar Keita",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Amadou Toumani Toure",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Malian singer is often called the Golden Voice of Africa?",
+        "answers":  [
+                        {
+                            "text":  "Salif Keita",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Youssou N\u0027Dour",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Baaba Maal",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Angelique Kidjo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Malian artist is known for Wassoulou music and advocacy for women\u0027s rights?",
+        "answers":  [
+                        {
+                            "text":  "Oumou Sangare",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Rokia Traore",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fatoumata Diawara",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tiken Jah Fakoly",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which guitarist from Mali is regarded as a pioneer of desert blues?",
+        "answers":  [
+                        {
+                            "text":  "Ali Farka Toure",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tinariwen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bombino",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vieux Farka Toure",
+                            "score":  0
+                        }
+                    ]
+    }
+]

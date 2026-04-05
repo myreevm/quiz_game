@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "What are hereditary musicians and storytellers in Mali traditionally called?",
+        "answers":  [
+                        {
+                            "text":  "Griots",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Dervishes",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Marabouts",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Imzaden",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which string instrument is central to many West African traditions, including Mali?",
+        "answers":  [
+                        {
+                            "text":  "Kora",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sitar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Balalaika",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bandura",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which traditional Malian lute is widely used in local music?",
+        "answers":  [
+                        {
+                            "text":  "Ngoni",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Dombra",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rebab",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Erhu",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which artist is a globally recognized star of Malian popular music?",
+        "answers":  [
+                        {
+                            "text":  "Salif Keita",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fela Kuti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cesaria Evora",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mory Kante",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which musician is most associated with Malian desert blues?",
+        "answers":  [
+                        {
+                            "text":  "Ali Farka Toure",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Manu Dibango",
+                            "score":  0
+                        },
+                        {
+                            "text":  "King Sunny Ade",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yemi Alade",
+                            "score":  0
+                        }
+                    ]
+    }
+]

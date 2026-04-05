@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Who is the reigning Prince of Liechtenstein?",
+        "answers":  [
+                        {
+                            "text":  "Hans-Adam II",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Alois",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Henri",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Albert II",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who serves as Hereditary Prince and regent in Liechtenstein?",
+        "answers":  [
+                        {
+                            "text":  "Alois",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hans-Adam II",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Franz Joseph II",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Johann II",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Olympic alpine skier won major medals for Liechtenstein?",
+        "answers":  [
+                        {
+                            "text":  "Hanni Wenzel",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lindsey Vonn",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mikaela Shiffrin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Petra Vlhova",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which alpine skier from Liechtenstein is known in World Cup racing?",
+        "answers":  [
+                        {
+                            "text":  "Marco Buchel",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Beat Feuz",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Didier Cuche",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bode Miller",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which composer from Vaduz is a key figure in Liechtenstein\u0027s music history?",
+        "answers":  [
+                        {
+                            "text":  "Josef Rheinberger",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Richard Strauss",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gustav Mahler",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Anton Bruckner",
+                            "score":  0
+                        }
+                    ]
+    }
+]

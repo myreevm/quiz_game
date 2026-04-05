@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Which Irish writer authored 'The Picture of Dorian Gray'?",
+    "answers": [
+      { "text": "Oscar Wilde", "score": 1 },
+      { "text": "Samuel Beckett", "score": 0 },
+      { "text": "James Joyce", "score": 0 },
+      { "text": "W.B. Yeats", "score": 0 }
+    ]
+  },
+  {
+    "question": "Who wrote the novel 'Ulysses'?",
+    "answers": [
+      { "text": "James Joyce", "score": 1 },
+      { "text": "Jonathan Swift", "score": 0 },
+      { "text": "Bram Stoker", "score": 0 },
+      { "text": "Seamus Heaney", "score": 0 }
+    ]
+  },
+  {
+    "question": "Michael Collins is most associated with...",
+    "answers": [
+      { "text": "Irish independence movement", "score": 1 },
+      { "text": "Irish classical music", "score": 0 },
+      { "text": "Olympic athletics", "score": 0 },
+      { "text": "Modern architecture", "score": 0 }
+    ]
+  },
+  {
+    "question": "Who became the first female President of Ireland in 1990?",
+    "answers": [
+      { "text": "Mary Robinson", "score": 1 },
+      { "text": "Mary McAleese", "score": 0 },
+      { "text": "Bernadette Devlin", "score": 0 },
+      { "text": "Katie Taylor", "score": 0 }
+    ]
+  },
+  {
+    "question": "Conor McGregor is a famous Irish...",
+    "answers": [
+      { "text": "MMA fighter", "score": 1 },
+      { "text": "Golfer", "score": 0 },
+      { "text": "Cyclist", "score": 0 },
+      { "text": "Rugby coach", "score": 0 }
+    ]
+  }
+]

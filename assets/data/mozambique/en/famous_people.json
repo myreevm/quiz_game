@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Who became the first president of independent Mozambique?",
+        "answers":  [
+                        {
+                            "text":  "Samora Machel",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Joaquim Chissano",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Graça Machel",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mia Couto",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Mozambican leader became president after Samora Machel?",
+        "answers":  [
+                        {
+                            "text":  "Joaquim Chissano",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Armando Guebuza",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Graça Machel",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eusebio",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which humanitarian and public figure from Mozambique is known globally for child rights advocacy?",
+        "answers":  [
+                        {
+                            "text":  "Graça Machel",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mia Couto",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Paulina Chiziane",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lurdes Mutola",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Mozambican author is known for novels and essays in Portuguese?",
+        "answers":  [
+                        {
+                            "text":  "Mia Couto",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Samora Machel",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Stewart Sukuma",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Wazimbo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which football legend, born in Mozambique, became famous at Benfica?",
+        "answers":  [
+                        {
+                            "text":  "Eusebio",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cristiano Ronaldo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Deco",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Didier Drogba",
+                            "score":  0
+                        }
+                    ]
+    }
+]

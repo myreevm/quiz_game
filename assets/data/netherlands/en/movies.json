@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Which Dutch director made films like 'RoboCop' and 'Basic Instinct'?",
+    "answers": [
+      { "text": "Paul Verhoeven", "score": 1 },
+      { "text": "Alex van Warmerdam", "score": 0 },
+      { "text": "Theo van Gogh", "score": 0 },
+      { "text": "Marleen Gorris", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Dutch film won the Oscar for Best Foreign Language Film in 1998?",
+    "answers": [
+      { "text": "Character", "score": 1 },
+      { "text": "Antonia's Line", "score": 0 },
+      { "text": "Black Book", "score": 0 },
+      { "text": "Turkish Delight", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which city is the International Documentary Film Festival Amsterdam (IDFA) held?",
+    "answers": [
+      { "text": "Amsterdam", "score": 1 },
+      { "text": "Rotterdam", "score": 0 },
+      { "text": "Utrecht", "score": 0 },
+      { "text": "Groningen", "score": 0 }
+    ]
+  },
+  {
+    "question": "Who directed the Dutch World War II thriller 'Black Book'?",
+    "answers": [
+      { "text": "Paul Verhoeven", "score": 1 },
+      { "text": "Jan de Bont", "score": 0 },
+      { "text": "George Sluizer", "score": 0 },
+      { "text": "Dick Maas", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which film launched Rutger Hauer internationally in the 1970s?",
+    "answers": [
+      { "text": "Turkish Delight", "score": 1 },
+      { "text": "The Vanishing", "score": 0 },
+      { "text": "Soldier of Orange", "score": 0 },
+      { "text": "Spoorloos", "score": 0 }
+    ]
+  }
+]

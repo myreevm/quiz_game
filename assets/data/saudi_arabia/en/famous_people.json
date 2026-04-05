@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Who is recognized as the founder of modern Saudi Arabia?",
+    "answers": [
+      { "text": "King Abdulaziz (Ibn Saud)", "score": 1 },
+      { "text": "King Faisal", "score": 0 },
+      { "text": "Mohammed bin Salman", "score": 0 },
+      { "text": "Ahmed Zaki Yamani", "score": 0 }
+    ]
+  },
+  {
+    "question": "Who is the Crown Prince of Saudi Arabia as of the 2020s?",
+    "answers": [
+      { "text": "Mohammed bin Salman", "score": 1 },
+      { "text": "King Abdulaziz", "score": 0 },
+      { "text": "Tamim bin Hamad Al Thani", "score": 0 },
+      { "text": "Hamad bin Isa Al Khalifa", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Saudi writer and diplomat is known for works in literature and public thought?",
+    "answers": [
+      { "text": "Ghazi Algosaibi", "score": 1 },
+      { "text": "Qassim Haddad", "score": 0 },
+      { "text": "Jaan Kross", "score": 0 },
+      { "text": "Jonas Mekas", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Saudi minister became globally known for oil diplomacy in the 20th century?",
+    "answers": [
+      { "text": "Ahmed Zaki Yamani", "score": 1 },
+      { "text": "Nasser Al-Attiyah", "score": 0 },
+      { "text": "Paul Keres", "score": 0 },
+      { "text": "Raimonds Pauls", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which singer is often called one of the most iconic voices of Saudi music?",
+    "answers": [
+      { "text": "Mohammed Abdu", "score": 1 },
+      { "text": "Fahad Al Kubaisi", "score": 0 },
+      { "text": "Hussain Al Jassmi", "score": 0 },
+      { "text": "Arvo Part", "score": 0 }
+    ]
+  }
+]

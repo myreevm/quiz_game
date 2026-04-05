@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Какой район является местом расположения правительства Науру?",
+        "answers":  [
+                        {
+                            "text":  "Yaren",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Aiwo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Meneng",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Baiti",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "В каком году Науру стало независимым?",
+        "answers":  [
+                        {
+                            "text":  "1968",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1958",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1978",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1988",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Как обычно описывают Науру в мировой географии?",
+        "answers":  [
+                        {
+                            "text":  "Самая маленькая островная республика",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Крупнейший тихоокеанский архипелаг",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Континентальное микрогосударство",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Полярное островное государство",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какая валюта используется в Науру?",
+        "answers":  [
+                        {
+                            "text":  "Australian dollar (AUD)",
+                            "score":  1
+                        },
+                        {
+                            "text":  "US dollar (USD)",
+                            "score":  0
+                        },
+                        {
+                            "text":  "New Zealand dollar (NZD)",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nauru dollar (NRD)",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой ресурс сильнее всего повлиял на экономическую историю Науру?",
+        "answers":  [
+                        {
+                            "text":  "Phosphate",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Gold",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Oil",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Natural gas",
+                            "score":  0
+                        }
+                    ]
+    }
+]

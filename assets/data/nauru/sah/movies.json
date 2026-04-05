@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Бүгүҥҥү Науру иһинээҕи киинэ индустриятын хайдах сэҥэрэллэрий?",
+        "answers":  [
+                        {
+                            "text":  "Кээмэйиҥҥэ сиилдьибит",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Океанияҕа саамай улахантан биир",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Түгэн таһаарыыга эрэ ананан",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Мега-анимация студиятыгар эрэ ананан",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Науру оҕо аймахтарына ханнык локальнай экран үлэтэ элбэх?",
+        "answers":  [
+                        {
+                            "text":  "Community screenings",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Daily red-carpet premieres",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nationwide arthouse chains",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Large studio backlots",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Науру киинэ оҥорооччулары кинилэр проекттарын ханнык партнердарынан элбэх оҥороллор?",
+        "answers":  [
+                        {
+                            "text":  "Тихий океан регион копродукциялара уонна үөрэх бырагырааммата",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Голливуд улахан студиялара эрэ",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Европа общественнай эфирдэрэ эрэ",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ичигэр частнай платформалар эрэ",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Науру туһунан документальнай киинэ ханнык темалары элбэх көстөрүй?",
+        "answers":  [
+                        {
+                            "text":  "Phosphate legacy and climate challenges",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Medieval castles and knight tournaments",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Arctic exploration routes",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Renaissance court drama",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Науру экран культурата ханнык киэҥ контекстынан күүһүрүк сибээстээх?",
+        "answers":  [
+                        {
+                            "text":  "Regional Pacific media networks",
+                            "score":  1
+                        },
+                        {
+                            "text":  "South American telenovela market",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nordic noir TV ecosystem",
+                            "score":  0
+                        },
+                        {
+                            "text":  "West African studio block",
+                            "score":  0
+                        }
+                    ]
+    }
+]

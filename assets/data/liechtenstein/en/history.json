@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "What is the capital city of Liechtenstein?",
+        "answers":  [
+                        {
+                            "text":  "Vaduz",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Schaan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Triesen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Balzers",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Liechtenstein\u0027s sovereignty is commonly linked to events around which year?",
+        "answers":  [
+                        {
+                            "text":  "1806",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1648",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1918",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1950",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What form of state is Liechtenstein?",
+        "answers":  [
+                        {
+                            "text":  "Constitutional monarchy",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Federal republic",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Absolute monarchy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "City republic",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What currency code is used in Liechtenstein?",
+        "answers":  [
+                        {
+                            "text":  "CHF",
+                            "score":  1
+                        },
+                        {
+                            "text":  "EUR",
+                            "score":  0
+                        },
+                        {
+                            "text":  "LIE",
+                            "score":  0
+                        },
+                        {
+                            "text":  "DEM",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Since which year has Liechtenstein been a member of the United Nations?",
+        "answers":  [
+                        {
+                            "text":  "1990",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1945",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1975",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2004",
+                            "score":  0
+                        }
+                    ]
+    }
+]

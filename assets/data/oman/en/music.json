@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Which traditional Omani music-dance form is associated with mountain communities?",
+    "answers": [
+      {
+        "text": "Al-bar'ah",
+        "score": 1
+      },
+      {
+        "text": "Romvong",
+        "score": 0
+      },
+      {
+        "text": "Salegy",
+        "score": 0
+      },
+      {
+        "text": "Mukam",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Omani performance tradition combines poetry, rhythm, and ceremonial display?",
+    "answers": [
+      {
+        "text": "Al-razha",
+        "score": 1
+      },
+      {
+        "text": "Fidjeri",
+        "score": 0
+      },
+      {
+        "text": "Hira gasy",
+        "score": 0
+      },
+      {
+        "text": "Tsapiky",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which coastal Omani style reflects East African rhythmic influence?",
+    "answers": [
+      {
+        "text": "Liwa",
+        "score": 1
+      },
+      {
+        "text": "Bakhshi",
+        "score": 0
+      },
+      {
+        "text": "Pin peat",
+        "score": 0
+      },
+      {
+        "text": "Laulupidu",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which instrument is central in Omani and broader Arab art music traditions?",
+    "answers": [
+      {
+        "text": "Oud",
+        "score": 1
+      },
+      {
+        "text": "Valiha",
+        "score": 0
+      },
+      {
+        "text": "Roneat",
+        "score": 0
+      },
+      {
+        "text": "Mirwas",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Songs of sailors and pearl divers in Oman belong to which heritage?",
+    "answers": [
+      {
+        "text": "Sea-song heritage",
+        "score": 1
+      },
+      {
+        "text": "Court ballet heritage",
+        "score": 0
+      },
+      {
+        "text": "Mountain yodel heritage",
+        "score": 0
+      },
+      {
+        "text": "Opera heritage",
+        "score": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Какая столица Непала?",
+        "answers":  [
+                        {
+                            "text":  "Kathmandu",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pokhara",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lalitpur",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bhaktapur",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "В каком году Непал стал федеративной демократической республикой?",
+        "answers":  [
+                        {
+                            "text":  "2008",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1990",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2001",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2015",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Чем Непал известен в колониальную эпоху?",
+        "answers":  [
+                        {
+                            "text":  "Прямой колонизации",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Горной торговли",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Муссонного земледелия",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Морской империи",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Как называется Эверест по-непальски?",
+        "answers":  [
+                        {
+                            "text":  "Sagarmatha",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Annapurna",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Makalu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kanchenjunga",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой код валюты Непала?",
+        "answers":  [
+                        {
+                            "text":  "NPR",
+                            "score":  1
+                        },
+                        {
+                            "text":  "INR",
+                            "score":  0
+                        },
+                        {
+                            "text":  "BTN",
+                            "score":  0
+                        },
+                        {
+                            "text":  "PKR",
+                            "score":  0
+                        }
+                    ]
+    }
+]

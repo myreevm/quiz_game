@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Which music style is strongly associated with traditional Gulf performance in the UAE?",
+    "answers": [
+      { "text": "Khaliji music", "score": 1 },
+      { "text": "Samba", "score": 0 },
+      { "text": "Flamenco", "score": 0 },
+      { "text": "Fado", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the national anthem of the UAE called?",
+    "answers": [
+      { "text": "Ishy Bilady", "score": 1 },
+      { "text": "As-Salam Al-Amiri", "score": 0 },
+      { "text": "A Portuguesa", "score": 0 },
+      { "text": "The Star-Spangled Banner", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which instrument is a classic part of Emirati and wider Arab traditional music?",
+    "answers": [
+      { "text": "Oud", "score": 1 },
+      { "text": "Bagpipe", "score": 0 },
+      { "text": "Balalaika", "score": 0 },
+      { "text": "Sitara", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Emirati vocalist is one of the best-known contemporary singers in the region?",
+    "answers": [
+      { "text": "Hussain Al Jassmi", "score": 1 },
+      { "text": "Arvo Part", "score": 0 },
+      { "text": "Raimonds Pauls", "score": 0 },
+      { "text": "Mohammed bin Rashid Al Maktoum", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which singer, born in the UAE, became one of the iconic female stars of Arabic pop?",
+    "answers": [
+      { "text": "Ahlam Al Shamsi", "score": 1 },
+      { "text": "Hala Al Turk", "score": 0 },
+      { "text": "Kelly Sildaru", "score": 0 },
+      { "text": "Ruta Meilutyte", "score": 0 }
+    ]
+  }
+]

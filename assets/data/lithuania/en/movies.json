@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "Jonas Mekas is mainly associated with which type of cinema?",
+    "answers": [
+      { "text": "Experimental and avant-garde cinema", "score": 1 },
+      { "text": "Action blockbusters", "score": 0 },
+      { "text": "Musical theatre films", "score": 0 },
+      { "text": "Animated sitcoms", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is Kino Pavasaris in Lithuania?",
+    "answers": [
+      { "text": "An international film festival in Vilnius", "score": 1 },
+      { "text": "A film school in Kaunas", "score": 0 },
+      { "text": "A TV channel", "score": 0 },
+      { "text": "A cinema chain", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which institution supports national film production in Lithuania?",
+    "answers": [
+      { "text": "Lithuanian Film Centre", "score": 1 },
+      { "text": "Baltic Movie Union", "score": 0 },
+      { "text": "Vilnius Screen Academy", "score": 0 },
+      { "text": "Kaunas Art Bureau", "score": 0 }
+    ]
+  },
+  {
+    "question": "The documentary The Other Dream Team is about which sport?",
+    "answers": [
+      { "text": "Basketball", "score": 1 },
+      { "text": "Football", "score": 0 },
+      { "text": "Ice hockey", "score": 0 },
+      { "text": "Swimming", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the genre of the Lithuanian film Nova Lituania?",
+    "answers": [
+      { "text": "Historical drama", "score": 1 },
+      { "text": "Science fiction comedy", "score": 0 },
+      { "text": "Crime thriller", "score": 0 },
+      { "text": "Musical fantasy", "score": 0 }
+    ]
+  }
+]

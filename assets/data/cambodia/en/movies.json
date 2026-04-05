@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Who directed the Cambodian film The Missing Picture?",
+    "answers": [
+      {
+        "text": "Rithy Panh",
+        "score": 1
+      },
+      {
+        "text": "Angelina Jolie",
+        "score": 0
+      },
+      {
+        "text": "Hanung Bramantyo",
+        "score": 0
+      },
+      {
+        "text": "Apichatpong Weerasethakul",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which film directed by Angelina Jolie was shot in Cambodia and based on a Khmer Rouge memoir?",
+    "answers": [
+      {
+        "text": "First They Killed My Father",
+        "score": 1
+      },
+      {
+        "text": "City of Ghosts",
+        "score": 0
+      },
+      {
+        "text": "The Killing Fields",
+        "score": 0
+      },
+      {
+        "text": "Beyond Rangoon",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which annual event in Phnom Penh supports local and regional cinema?",
+    "answers": [
+      {
+        "text": "Cambodia International Film Festival (CIFF)",
+        "score": 1
+      },
+      {
+        "text": "Busan International Film Festival",
+        "score": 0
+      },
+      {
+        "text": "Cannes Film Festival",
+        "score": 0
+      },
+      {
+        "text": "Tokyo International Film Festival",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which city is the main center of Cambodia's contemporary film scene?",
+    "answers": [
+      {
+        "text": "Phnom Penh",
+        "score": 1
+      },
+      {
+        "text": "Siem Reap",
+        "score": 0
+      },
+      {
+        "text": "Kampot",
+        "score": 0
+      },
+      {
+        "text": "Poipet",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "The film First They Killed My Father is based on a memoir by which author?",
+    "answers": [
+      {
+        "text": "Loung Ung",
+        "score": 1
+      },
+      {
+        "text": "Rithy Panh",
+        "score": 0
+      },
+      {
+        "text": "Sinn Sisamouth",
+        "score": 0
+      },
+      {
+        "text": "Magtymguly Pyragy",
+        "score": 0
+      }
+    ]
+  }
+]

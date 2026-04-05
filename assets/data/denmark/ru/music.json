@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Какая датская поп-группа выпустила мировой хит «Barbie Girl»?",
+    "answers": [
+      { "text": "Aqua", "score": 1 },
+      { "text": "ABBA", "score": 0 },
+      { "text": "Roxette", "score": 0 },
+      { "text": "Ace of Base", "score": 0 }
+    ]
+  },
+  {
+    "question": "Группа Volbeat в первую очередь известна как...",
+    "answers": [
+      { "text": "Рок- и метал-группа", "score": 1 },
+      { "text": "Джазовое трио", "score": 0 },
+      { "text": "Электронный дуэт", "score": 0 },
+      { "text": "Фолк-хор", "score": 0 }
+    ]
+  },
+  {
+    "question": "Какой датский композитор написал симфонии и оперу «Маскарад»?",
+    "answers": [
+      { "text": "Карл Нильсен", "score": 1 },
+      { "text": "Эдвард Григ", "score": 0 },
+      { "text": "Ян Сибелиус", "score": 0 },
+      { "text": "Ференц Лист", "score": 0 }
+    ]
+  },
+  {
+    "question": "Какой дуэт победил на Евровидении-2000 за Данию с песней «Fly on the Wings of Love»?",
+    "answers": [
+      { "text": "The Olsen Brothers", "score": 1 },
+      { "text": "Aqua", "score": 0 },
+      { "text": "Laid Back", "score": 0 },
+      { "text": "Michael Learns to Rock", "score": 0 }
+    ]
+  },
+  {
+    "question": "Какого датского исполнителя знают по песне «7 Years»?",
+    "answers": [
+      { "text": "Lukas Graham", "score": 1 },
+      { "text": "Mads Langer", "score": 0 },
+      { "text": "Christopher", "score": 0 },
+      { "text": "Rasmus Seebach", "score": 0 }
+    ]
+  }
+]

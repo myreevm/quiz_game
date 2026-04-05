@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Мозамбигар социалнай темалыы киинэни оҥорор биллэр режиссер кимий?",
+        "answers":  [
+                        {
+                            "text":  "Licinio Azevedo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pedro Costa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Abderrahmane Sissako",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mira Nair",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Дьахтардарга уөрэтэр лагерь туһунан Лисиниу Азеведу ханнык киинэтин оҥорбутуй?",
+        "answers":  [
+                        {
+                            "text":  "Virgem Margarida",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Orator",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cabascabo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Honeyland",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ааҥыллыы The Train of Salt and Sugar диэн биллэр Мозамбик киинэтэ ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Comboio de Sal e Acucar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Virgem Margarida",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mueda",
+                            "score":  0
+                        },
+                        {
+                            "text":  "O Heroi",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "DOCKANEMA документальнай киинэ форума ханнык куоратынан сибээстээх?",
+        "answers":  [
+                        {
+                            "text":  "Maputo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nampula",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pemba",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Xai-Xai",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Мозамбик национальнай киинэ институтарата сурунан ханнык куоратка баалларый?",
+        "answers":  [
+                        {
+                            "text":  "Maputo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Beira",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tete",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lichinga",
+                            "score":  0
+                        }
+                    ]
+    }
+]

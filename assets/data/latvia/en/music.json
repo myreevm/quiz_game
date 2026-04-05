@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "What is the name of Latvia's large national choir and dance festival tradition?",
+    "answers": [
+      { "text": "Song and Dance Celebration", "score": 1 },
+      { "text": "Summer Jazz Week", "score": 0 },
+      { "text": "Daugava Pop Fest", "score": 0 },
+      { "text": "Riga Rock Parade", "score": 0 }
+    ]
+  },
+  {
+    "question": "Raimonds Pauls is best known as a Latvian...",
+    "answers": [
+      { "text": "Composer and pianist", "score": 1 },
+      { "text": "Film actor", "score": 0 },
+      { "text": "Opera tenor", "score": 0 },
+      { "text": "DJ", "score": 0 }
+    ]
+  },
+  {
+    "question": "Brainstorm (Prata Vetra) is mainly what type of band?",
+    "answers": [
+      { "text": "Pop rock band", "score": 1 },
+      { "text": "Classical quartet", "score": 0 },
+      { "text": "Folk choir", "score": 0 },
+      { "text": "Rap duo", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the traditional Latvian plucked string instrument?",
+    "answers": [
+      { "text": "Kokle", "score": 1 },
+      { "text": "Kantele", "score": 0 },
+      { "text": "Gusli", "score": 0 },
+      { "text": "Domra", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which country won Eurovision 2002 with singer Marie N?",
+    "answers": [
+      { "text": "Latvia", "score": 1 },
+      { "text": "Lithuania", "score": 0 },
+      { "text": "Estonia", "score": 0 },
+      { "text": "Poland", "score": 0 }
+    ]
+  }
+]

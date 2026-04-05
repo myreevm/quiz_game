@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which Samoan leader served as head of state for many decades?",
+        "answers":  [
+                        {
+                            "text":  "Malietoa Tanumafili II",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fiame Naomi Mataafa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "David Tua",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sia Figiel",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who is the current prime minister of Samoa?",
+        "answers":  [
+                        {
+                            "text":  "Fiame Naomi Mataafa",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tuilaepa Sailele Malielegaoi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Malietoa Tanumafili II",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Russ Kun",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Samoan politician served many years as prime minister before 2021?",
+        "answers":  [
+                        {
+                            "text":  "Tuilaepa Sailele Malielegaoi",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fiame Naomi Mataafa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hamani Diori",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Marcus Stephen",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which boxer from Samoa became famous in heavyweight boxing?",
+        "answers":  [
+                        {
+                            "text":  "David Tua",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Joseph Parker",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lennox Lewis",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vitali Klitschko",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Samoan writer is known for the novel Where We Once Belonged?",
+        "answers":  [
+                        {
+                            "text":  "Sia Figiel",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Selina Tusitala Marsh",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Patricia Grace",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Albert Wendt",
+                            "score":  0
+                        }
+                    ]
+    }
+]

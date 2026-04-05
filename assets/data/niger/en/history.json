@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "What is the capital of Niger?",
+        "answers":  [
+                        {
+                            "text":  "Niamey",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Agadez",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Zinder",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Maradi",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did Niger gain independence?",
+        "answers":  [
+                        {
+                            "text":  "1960",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1956",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1970",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1980",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Niger is geographically associated with which broad regions?",
+        "answers":  [
+                        {
+                            "text":  "Sahel and Sahara",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Andes and Amazon",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Balkans and Adriatic",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nordic and Baltic",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which major river crosses the southwestern part of Niger?",
+        "answers":  [
+                        {
+                            "text":  "Niger River",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Senegal River",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Volta River",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nile River",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What currency is used in Niger?",
+        "answers":  [
+                        {
+                            "text":  "West African CFA franc (XOF)",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Algerian dinar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nigerian naira",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Moroccan dirham",
+                            "score":  0
+                        }
+                    ]
+    }
+]

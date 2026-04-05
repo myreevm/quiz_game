@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Who is the King of Bahrain?",
+    "answers": [
+      { "text": "Hamad bin Isa Al Khalifa", "score": 1 },
+      { "text": "Salman bin Hamad Al Khalifa", "score": 0 },
+      { "text": "Tamim bin Hamad Al Thani", "score": 0 },
+      { "text": "Mohammed bin Zayed Al Nahyan", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Bahraini poet is one of the most prominent voices in modern Arabic literature?",
+    "answers": [
+      { "text": "Qassim Haddad", "score": 1 },
+      { "text": "Rainis", "score": 0 },
+      { "text": "Jaan Kross", "score": 0 },
+      { "text": "Ghazi Algosaibi", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which young Bahraini singer became famous in the Arab world through TV and pop songs?",
+    "answers": [
+      { "text": "Hala Al Turk", "score": 1 },
+      { "text": "Ahlam Al Shamsi", "score": 0 },
+      { "text": "Kerli", "score": 0 },
+      { "text": "Raimonds Pauls", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Bahraini human rights advocate is known internationally for civic activism?",
+    "answers": [
+      { "text": "Maryam Al-Khawaja", "score": 1 },
+      { "text": "Kelly Sildaru", "score": 0 },
+      { "text": "Vaira Vike-Freiberga", "score": 0 },
+      { "text": "Ruta Meilutyte", "score": 0 }
+    ]
+  },
+  {
+    "question": "Who is the Crown Prince and Prime Minister of Bahrain?",
+    "answers": [
+      { "text": "Salman bin Hamad Al Khalifa", "score": 1 },
+      { "text": "Hamad bin Isa Al Khalifa", "score": 0 },
+      { "text": "Nasser Al-Attiyah", "score": 0 },
+      { "text": "Mohammed Abdu", "score": 0 }
+    ]
+  }
+]

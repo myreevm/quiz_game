@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Jacques Brel was a famous Belgian...",
+    "answers": [
+      { "text": "Singer-songwriter", "score": 1 },
+      { "text": "Film editor", "score": 0 },
+      { "text": "Football coach", "score": 0 },
+      { "text": "Astronaut", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the real name of Belgian artist Stromae?",
+    "answers": [
+      { "text": "Paul Van Haver", "score": 1 },
+      { "text": "Jean Brel", "score": 0 },
+      { "text": "Luc Deleu", "score": 0 },
+      { "text": "Arno Hintjens", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which Belgian town is Tomorrowland held?",
+    "answers": [
+      { "text": "Boom", "score": 1 },
+      { "text": "Bruges", "score": 0 },
+      { "text": "Ghent", "score": 0 },
+      { "text": "Leuven", "score": 0 }
+    ]
+  },
+  {
+    "question": "To which instrument family does the saxophone belong?",
+    "answers": [
+      { "text": "Woodwind", "score": 1 },
+      { "text": "String", "score": 0 },
+      { "text": "Brass", "score": 0 },
+      { "text": "Percussion", "score": 0 }
+    ]
+  },
+  {
+    "question": "Hooverphonic is a Belgian band mainly associated with...",
+    "answers": [
+      { "text": "Trip-hop and electronic pop", "score": 1 },
+      { "text": "Country music", "score": 0 },
+      { "text": "Opera", "score": 0 },
+      { "text": "Reggae", "score": 0 }
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "SAH: Sop eppieti tal tuvalu: first prime minister after independence.",
+        "answers":  [
+                        {
+                            "text":  "Toaripi Lauti",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kamuta Latasi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Enele Sopoaga",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Apisai Ielemia",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal tuvalu: leader who served as PM in the 1990s.",
+        "answers":  [
+                        {
+                            "text":  "Kamuta Latasi",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Toaripi Lauti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Enele Sopoaga",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Apisai Ielemia",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal tuvalu: prime minister known for climate diplomacy.",
+        "answers":  [
+                        {
+                            "text":  "Enele Sopoaga",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Toaripi Lauti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kamuta Latasi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Apisai Ielemia",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal tuvalu: prime minister in 2006-2010.",
+        "answers":  [
+                        {
+                            "text":  "Apisai Ielemia",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Toaripi Lauti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kamuta Latasi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Enele Sopoaga",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal tuvalu: prime minister who took office in 2019.",
+        "answers":  [
+                        {
+                            "text":  "Kausea Natano",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Toaripi Lauti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kamuta Latasi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Enele Sopoaga",
+                            "score":  0
+                        }
+                    ]
+    }
+]

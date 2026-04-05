@@ -1,0 +1,107 @@
+[
+  {
+    "question": "What is the capital city of Turkmenistan?",
+    "answers": [
+      {
+        "text": "Ashgabat",
+        "score": 1
+      },
+      {
+        "text": "Turkmenabat",
+        "score": 0
+      },
+      {
+        "text": "Mary",
+        "score": 0
+      },
+      {
+        "text": "Dashoguz",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In which year did Turkmenistan become independent?",
+    "answers": [
+      {
+        "text": "1991",
+        "score": 1
+      },
+      {
+        "text": "1985",
+        "score": 0
+      },
+      {
+        "text": "1995",
+        "score": 0
+      },
+      {
+        "text": "2001",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which major desert covers much of Turkmenistan?",
+    "answers": [
+      {
+        "text": "Karakum Desert",
+        "score": 1
+      },
+      {
+        "text": "Gobi Desert",
+        "score": 0
+      },
+      {
+        "text": "Sahara",
+        "score": 0
+      },
+      {
+        "text": "Kyzylkum",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In which year did the UN recognize Turkmenistan's permanent neutrality?",
+    "answers": [
+      {
+        "text": "1995",
+        "score": 1
+      },
+      {
+        "text": "1991",
+        "score": 0
+      },
+      {
+        "text": "2005",
+        "score": 0
+      },
+      {
+        "text": "2015",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the currency of Turkmenistan?",
+    "answers": [
+      {
+        "text": "Turkmen manat (TMT)",
+        "score": 1
+      },
+      {
+        "text": "Uzbek sum (UZS)",
+        "score": 0
+      },
+      {
+        "text": "Kazakh tenge (KZT)",
+        "score": 0
+      },
+      {
+        "text": "Russian ruble (RUB)",
+        "score": 0
+      }
+    ]
+  }
+]

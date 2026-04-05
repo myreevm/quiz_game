@@ -1,0 +1,47 @@
+[
+  {
+    "question": "From which city does the band U2 originate?",
+    "answers": [
+      { "text": "Dublin", "score": 1 },
+      { "text": "Cork", "score": 0 },
+      { "text": "Galway", "score": 0 },
+      { "text": "Belfast", "score": 0 }
+    ]
+  },
+  {
+    "question": "Enya is mainly associated with which style of music?",
+    "answers": [
+      { "text": "New age and Celtic-influenced music", "score": 1 },
+      { "text": "Heavy metal", "score": 0 },
+      { "text": "Hip-hop", "score": 0 },
+      { "text": "Salsa", "score": 0 }
+    ]
+  },
+  {
+    "question": "Who was the lead singer of The Cranberries?",
+    "answers": [
+      { "text": "Dolores O'Riordan", "score": 1 },
+      { "text": "Sinead O'Connor", "score": 0 },
+      { "text": "Lisa Hannigan", "score": 0 },
+      { "text": "Imelda May", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which traditional Irish instrument is often used in folk music?",
+    "answers": [
+      { "text": "Uilleann pipes", "score": 1 },
+      { "text": "Balalaika", "score": 0 },
+      { "text": "Sitar", "score": 0 },
+      { "text": "Bandoneon", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Irish singer released the hit 'Take Me to Church'?",
+    "answers": [
+      { "text": "Hozier", "score": 1 },
+      { "text": "Bono", "score": 0 },
+      { "text": "Damien Rice", "score": 0 },
+      { "text": "Niall Horan", "score": 0 }
+    ]
+  }
+]

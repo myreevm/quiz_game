@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What is the name of Qatar's national anthem?",
+    "answers": [
+      { "text": "As-Salam Al-Amiri", "score": 1 },
+      { "text": "Ishy Bilady", "score": 0 },
+      { "text": "Fidjeri Song", "score": 0 },
+      { "text": "Ardha Anthem", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Qatari singer is one of the best-known modern voices of the country?",
+    "answers": [
+      { "text": "Fahad Al Kubaisi", "score": 1 },
+      { "text": "Hussain Al Jassmi", "score": 0 },
+      { "text": "Mohammed Abdu", "score": 0 },
+      { "text": "Nasser Al-Attiyah", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the name of Qatar's major symphonic ensemble founded with international musicians?",
+    "answers": [
+      { "text": "Qatar Philharmonic Orchestra", "score": 1 },
+      { "text": "Doha Opera Choir", "score": 0 },
+      { "text": "Arab Gulf Brass", "score": 0 },
+      { "text": "Lusail Strings", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which regional music tradition strongly influences Qatari popular and folk music?",
+    "answers": [
+      { "text": "Khaliji tradition", "score": 1 },
+      { "text": "Flamenco tradition", "score": 0 },
+      { "text": "Celtic tradition", "score": 0 },
+      { "text": "Andean tradition", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which instrument is central in Qatari and wider Arab traditional music?",
+    "answers": [
+      { "text": "Oud", "score": 1 },
+      { "text": "Bagpipe", "score": 0 },
+      { "text": "Kantele", "score": 0 },
+      { "text": "Kobza", "score": 0 }
+    ]
+  }
+]

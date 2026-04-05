@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "Which Estonian composer created the tintinnabuli style?",
+    "answers": [
+      { "text": "Arvo Part", "score": 1 },
+      { "text": "Eduard Tubin", "score": 0 },
+      { "text": "Veljo Tormis", "score": 0 },
+      { "text": "Lepo Sumera", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which famous Estonian was a world-class chess grandmaster?",
+    "answers": [
+      { "text": "Paul Keres", "score": 1 },
+      { "text": "Magnus Carlsen", "score": 0 },
+      { "text": "Mikhail Tal", "score": 0 },
+      { "text": "Bobby Fischer", "score": 0 }
+    ]
+  },
+  {
+    "question": "Who became the first president of Estonia after independence was restored?",
+    "answers": [
+      { "text": "Lennart Meri", "score": 1 },
+      { "text": "Toomas Hendrik Ilves", "score": 0 },
+      { "text": "Kersti Kaljulaid", "score": 0 },
+      { "text": "Mart Laar", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Estonian writer is known for historical novels and the work Between Three Plagues?",
+    "answers": [
+      { "text": "Jaan Kross", "score": 1 },
+      { "text": "Andrus Kivirahk", "score": 0 },
+      { "text": "Anton Hansen Tammsaare", "score": 0 },
+      { "text": "Viivi Luik", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Estonian athlete is known in freestyle skiing?",
+    "answers": [
+      { "text": "Kelly Sildaru", "score": 1 },
+      { "text": "Anett Kontaveit", "score": 0 },
+      { "text": "Ott Tanak", "score": 0 },
+      { "text": "Gerd Kanter", "score": 0 }
+    ]
+  }
+]

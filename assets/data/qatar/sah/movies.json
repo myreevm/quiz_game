@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Катарга кинопроектары көҕүлүүр сүрүн институт ханныкый?",
+    "answers": [
+      { "text": "Doha Film Institute", "score": 1 },
+      { "text": "Bahrain Cinema Club", "score": 0 },
+      { "text": "Tallinnfilm", "score": 0 },
+      { "text": "Image Nation Abu Dhabi", "score": 0 }
+    ]
+  },
+  {
+    "question": "Катардаах эдэр дьон кинофестивала хайдах ааттанарый?",
+    "answers": [
+      { "text": "Ajyal Film Festival", "score": 1 },
+      { "text": "Red Sea International Film Festival", "score": 0 },
+      { "text": "Kino Pavasaris", "score": 0 },
+      { "text": "Cronograf", "score": 0 }
+    ]
+  },
+  {
+    "question": "Doha Film Institute сайыннааҕы таланттар уонна кинопроектар платформата хайдах ааттанарый?",
+    "answers": [
+      { "text": "Qumra", "score": 1 },
+      { "text": "Laulupidu", "score": 0 },
+      { "text": "Truth and Justice Forum", "score": 0 },
+      { "text": "Gulf Vision Lab", "score": 0 }
+    ]
+  },
+  {
+    "question": "Doha Film Institute ханнык культурнай регион кинотын улаханнык өйүүрэй?",
+    "answers": [
+      { "text": "Араб киинэтэ", "score": 1 },
+      { "text": "Тугу эрэ скандинавскай киинэ", "score": 0 },
+      { "text": "Латиноамериканскай анимация эрэ", "score": 0 },
+      { "text": "Саҥарар сөпсөтө суох киинэ эрэ", "score": 0 }
+    ]
+  },
+  {
+    "question": "Катарга кинособытие уонна кинопроизводство сүрүн киинэ куората ханныкый?",
+    "answers": [
+      { "text": "Доха", "score": 1 },
+      { "text": "Аль-Хор", "score": 0 },
+      { "text": "Лусаил", "score": 0 },
+      { "text": "Аль-Вакра", "score": 0 }
+    ]
+  }
+]

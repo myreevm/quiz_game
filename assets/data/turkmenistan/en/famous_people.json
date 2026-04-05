@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Which classical poet is revered as a national symbol of Turkmen culture?",
+    "answers": [
+      {
+        "text": "Magtymguly Pyragy",
+        "score": 1
+      },
+      {
+        "text": "Kurban Berdyev",
+        "score": 0
+      },
+      {
+        "text": "Saparmurat Niyazov",
+        "score": 0
+      },
+      {
+        "text": "Serdar Berdimuhamedow",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who became the first president of independent Turkmenistan?",
+    "answers": [
+      {
+        "text": "Saparmurat Niyazov",
+        "score": 1
+      },
+      {
+        "text": "Gurbanguly Berdimuhamedow",
+        "score": 0
+      },
+      {
+        "text": "Serdar Berdimuhamedow",
+        "score": 0
+      },
+      {
+        "text": "Magtymguly Pyragy",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which leader served as President of Turkmenistan from 2007 to 2022?",
+    "answers": [
+      {
+        "text": "Gurbanguly Berdimuhamedow",
+        "score": 1
+      },
+      {
+        "text": "Serdar Berdimuhamedow",
+        "score": 0
+      },
+      {
+        "text": "Kurban Berdyev",
+        "score": 0
+      },
+      {
+        "text": "Hage Geingob",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who is the current President of Turkmenistan?",
+    "answers": [
+      {
+        "text": "Serdar Berdimuhamedow",
+        "score": 1
+      },
+      {
+        "text": "Gurbanguly Berdimuhamedow",
+        "score": 0
+      },
+      {
+        "text": "Saparmurat Niyazov",
+        "score": 0
+      },
+      {
+        "text": "Magtymguly Pyragy",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Turkmen football coach is known for his success with Rubin Kazan?",
+    "answers": [
+      {
+        "text": "Kurban Berdyev",
+        "score": 1
+      },
+      {
+        "text": "Nasser Al-Attiyah",
+        "score": 0
+      },
+      {
+        "text": "Kalusha Bwalya",
+        "score": 0
+      },
+      {
+        "text": "Ali Al-Habsi",
+        "score": 0
+      }
+    ]
+  }
+]

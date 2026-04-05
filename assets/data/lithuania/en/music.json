@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "What are the traditional Lithuanian polyphonic folk songs called?",
+    "answers": [
+      { "text": "Sutartines", "score": 1 },
+      { "text": "Dainos", "score": 0 },
+      { "text": "Kankles", "score": 0 },
+      { "text": "Polkas", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the name of Lithuania's national song celebration tradition?",
+    "answers": [
+      { "text": "Dainu Svente", "score": 1 },
+      { "text": "Laulupidu", "score": 0 },
+      { "text": "Rasos", "score": 0 },
+      { "text": "Jonines", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Lithuanian group represented the country at Eurovision with songs like Discoteque?",
+    "answers": [
+      { "text": "The Roop", "score": 1 },
+      { "text": "Brainstorm", "score": 0 },
+      { "text": "2XL", "score": 0 },
+      { "text": "O-Zone", "score": 0 }
+    ]
+  },
+  {
+    "question": "Asmik Grigorian is primarily known as which type of performer?",
+    "answers": [
+      { "text": "Opera singer", "score": 1 },
+      { "text": "Rock guitarist", "score": 0 },
+      { "text": "Film actress", "score": 0 },
+      { "text": "Folk dancer", "score": 0 }
+    ]
+  },
+  {
+    "question": "M. K. Ciurlionis is remembered in Lithuanian culture as a...",
+    "answers": [
+      { "text": "Composer and painter", "score": 1 },
+      { "text": "Actor and director", "score": 0 },
+      { "text": "Poet and politician", "score": 0 },
+      { "text": "Architect and engineer", "score": 0 }
+    ]
+  }
+]

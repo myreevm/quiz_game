@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What is the traditional Bahraini pearl-diving song style called?",
+    "answers": [
+      { "text": "Fidjeri", "score": 1 },
+      { "text": "Ardha", "score": 0 },
+      { "text": "Sutartines", "score": 0 },
+      { "text": "Fado", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which modern style is especially popular in Bahrain and neighboring Gulf countries?",
+    "answers": [
+      { "text": "Khaliji pop", "score": 1 },
+      { "text": "Bossa nova", "score": 0 },
+      { "text": "Bluegrass", "score": 0 },
+      { "text": "Tango", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which string instrument is central in traditional Bahraini and Arab music?",
+    "answers": [
+      { "text": "Oud", "score": 1 },
+      { "text": "Kokle", "score": 0 },
+      { "text": "Banjo", "score": 0 },
+      { "text": "Didgeridoo", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which percussion instrument is common in Gulf folk ensembles, including Bahrain?",
+    "answers": [
+      { "text": "Mirwas", "score": 1 },
+      { "text": "Djembe", "score": 0 },
+      { "text": "Bongos", "score": 0 },
+      { "text": "Tabla tarang", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Bahraini pop artist rose to fame at a young age across the Arab world?",
+    "answers": [
+      { "text": "Hala Al Turk", "score": 1 },
+      { "text": "Ahlam Al Shamsi", "score": 0 },
+      { "text": "Mohammed Abdu", "score": 0 },
+      { "text": "Fahad Al Kubaisi", "score": 0 }
+    ]
+  }
+]

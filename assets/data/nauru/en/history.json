@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which district is the seat of government in Nauru?",
+        "answers":  [
+                        {
+                            "text":  "Yaren",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Aiwo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Meneng",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Baiti",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did Nauru become independent?",
+        "answers":  [
+                        {
+                            "text":  "1968",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1958",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1978",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1988",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "How is Nauru commonly described in world geography?",
+        "answers":  [
+                        {
+                            "text":  "The smallest island republic",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The largest Pacific archipelago",
+                            "score":  0
+                        },
+                        {
+                            "text":  "A landlocked microstate",
+                            "score":  0
+                        },
+                        {
+                            "text":  "A polar island state",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What currency is used in Nauru?",
+        "answers":  [
+                        {
+                            "text":  "Australian dollar (AUD)",
+                            "score":  1
+                        },
+                        {
+                            "text":  "US dollar (USD)",
+                            "score":  0
+                        },
+                        {
+                            "text":  "New Zealand dollar (NZD)",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nauru dollar (NRD)",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which resource most strongly shaped Nauru economic history?",
+        "answers":  [
+                        {
+                            "text":  "Phosphate",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Gold",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Oil",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Natural gas",
+                            "score":  0
+                        }
+                    ]
+    }
+]

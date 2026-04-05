@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Бэйэ Мозамбик бастакы президентата ким буолла?",
+        "answers":  [
+                        {
+                            "text":  "Samora Machel",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Joaquim Chissano",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Graça Machel",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mia Couto",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Самора Машел кэнниттэн Мозамбик президентата буолбут кимий?",
+        "answers":  [
+                        {
+                            "text":  "Joaquim Chissano",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Armando Guebuza",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Graça Machel",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eusebio",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Оҕо быраабын көмүскүүрэн аан дойдуга биллэр Мозамбик гуманитарнай ытык киһитэ кимий?",
+        "answers":  [
+                        {
+                            "text":  "Graça Machel",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mia Couto",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Paulina Chiziane",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lurdes Mutola",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Португал тылынан роман уонна эссе суруйар биллэр Мозамбик суруйааччыта кимий?",
+        "answers":  [
+                        {
+                            "text":  "Mia Couto",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Samora Machel",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Stewart Sukuma",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Wazimbo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Мозамбигар төрөөбүт, Benfica клубуга биллэрбит футбол легендата кимий?",
+        "answers":  [
+                        {
+                            "text":  "Eusebio",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cristiano Ronaldo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Deco",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Didier Drogba",
+                            "score":  0
+                        }
+                    ]
+    }
+]

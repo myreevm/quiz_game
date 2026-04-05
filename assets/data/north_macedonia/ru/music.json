@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Как называется традиционный круговой танец Северной Македонии?",
+        "answers":  [
+                        {
+                            "text":  "Oro",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kolo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Horon",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sirtaki",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой певец считается одним из самых любимых поп-голосов Северной Македонии?",
+        "answers":  [
+                        {
+                            "text":  "Tose Proeski",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vlatko Ilievski",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Karolina Goceva",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Daniel Kajmakoski",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какая артистка из Скопье известна как королева ромской музыки?",
+        "answers":  [
+                        {
+                            "text":  "Esma Redzepova",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kaliopi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Elena Risteska",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Suzana Spasovska",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой флейтовый инструмент традиционен для северомакедонских народных ансамблей?",
+        "answers":  [
+                        {
+                            "text":  "Kaval",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ney",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Duduk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shakuhachi",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Как называется двусторонний барабан, используемый в балканской народной музыке?",
+        "answers":  [
+                        {
+                            "text":  "Tapan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bodhran",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Djembe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cajon",
+                            "score":  0
+                        }
+                    ]
+    }
+]

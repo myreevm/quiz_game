@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "What is the capital city of Malta?",
+        "answers":  [
+                        {
+                            "text":  "Valletta",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sliema",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mdina",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Birkirkara",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did Malta gain independence?",
+        "answers":  [
+                        {
+                            "text":  "1964",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1956",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1974",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1981",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did Malta become a republic?",
+        "answers":  [
+                        {
+                            "text":  "1974",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1964",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1990",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2004",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did Malta join the European Union?",
+        "answers":  [
+                        {
+                            "text":  "2004",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1995",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2007",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2013",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the currency code used in Malta?",
+        "answers":  [
+                        {
+                            "text":  "EUR",
+                            "score":  1
+                        },
+                        {
+                            "text":  "MTL",
+                            "score":  0
+                        },
+                        {
+                            "text":  "GBP",
+                            "score":  0
+                        },
+                        {
+                            "text":  "CHF",
+                            "score":  0
+                        }
+                    ]
+    }
+]

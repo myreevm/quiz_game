@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Как называется государственный гимн Монако?",
+        "answers":  [
+                        {
+                            "text":  "Hymne Monegasque",
+                            "score":  1
+                        },
+                        {
+                            "text":  "La Marseillaise",
+                            "score":  0
+                        },
+                        {
+                            "text":  "God Save the King",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fratelli d Italia",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Как называется главный симфонический оркестр Монако?",
+        "answers":  [
+                        {
+                            "text":  "Orchestre Philharmonique de Monte-Carlo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vienna Philharmonic",
+                            "score":  0
+                        },
+                        {
+                            "text":  "London Symphony Orchestra",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Orchestre de Paris",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какая историческая оперная площадка находится в Монако?",
+        "answers":  [
+                        {
+                            "text":  "Opera de Monte-Carlo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "La Scala",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Royal Opera House",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Teatro Colon",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой артист известен как монегаскский певец и поэт?",
+        "answers":  [
+                        {
+                            "text":  "Лео Ферре",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Шарль Трене",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Жорж Брассенс",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ив Монтан",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "В каком году Монако выиграло конкурс Евровидение?",
+        "answers":  [
+                        {
+                            "text":  "1971",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1965",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1983",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1999",
+                            "score":  0
+                        }
+                    ]
+    }
+]

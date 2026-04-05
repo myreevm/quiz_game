@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "Dragostea Din Tei хит ырыаны ханнык группа таһаарбыт?",
+    "answers": [
+      { "text": "O-Zone", "score": 1 },
+      { "text": "Zdob si Zdub", "score": 0 },
+      { "text": "SunStroke Project", "score": 0 },
+      { "text": "Carla's Dreams", "score": 0 }
+    ]
+  },
+  {
+    "question": "Дан Балан бастакы төһө биллэр буолбута ханнык группанан?",
+    "answers": [
+      { "text": "O-Zone", "score": 1 },
+      { "text": "Bi-2", "score": 0 },
+      { "text": "Мумий Тролль", "score": 0 },
+      { "text": "Brainstorm", "score": 0 }
+    ]
+  },
+  {
+    "question": "Киномузыканан уонна вальсынан ханнык молдован композитор биллэр?",
+    "answers": [
+      { "text": "Евгений Дога", "score": 1 },
+      { "text": "Ион Алдя-Теодорович", "score": 0 },
+      { "text": "Георге Замфир", "score": 0 },
+      { "text": "Арво Пярт", "score": 0 }
+    ]
+  },
+  {
+    "question": "Молдоваҕа традиционнай түңкүлэһэр үҥкүү хайдах ааттанар?",
+    "answers": [
+      { "text": "Хора", "score": 1 },
+      { "text": "Самба", "score": 0 },
+      { "text": "Полька", "score": 0 },
+      { "text": "Тарантелла", "score": 0 }
+    ]
+  },
+  {
+    "question": "Молдова народнай музыкатын традиционнай кыл инструментата хайдах ааттанар?",
+    "answers": [
+      { "text": "Кобза", "score": 1 },
+      { "text": "Диджериду", "score": 0 },
+      { "text": "Волынка", "score": 0 },
+      { "text": "Банджо", "score": 0 }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Бахрейнга баар, сирдии кинону көҕүлүүр сүрүн кинособытие ханныкый?",
+    "answers": [
+      { "text": "Bahrain Film Festival", "score": 1 },
+      { "text": "Dubai International Film Festival", "score": 0 },
+      { "text": "Kino Pavasaris", "score": 0 },
+      { "text": "PÖFF", "score": 0 }
+    ]
+  },
+  {
+    "question": "Бахрейнга кинокультуратын, көрдөрүүлэри уонна ырытыылары уһун кэмнээхтэн өйүүр тэрилтэ ханныкый?",
+    "answers": [
+      { "text": "Bahrain Cinema Club", "score": 1 },
+      { "text": "Doha Film Institute", "score": 0 },
+      { "text": "Image Nation Abu Dhabi", "score": 0 },
+      { "text": "Red Sea Society", "score": 0 }
+    ]
+  },
+  {
+    "question": "Мохаммед Рашед Буали оҥорбут, аан дойдуга билиллэр бахрейн фильма ханныкый?",
+    "answers": [
+      { "text": "The Sleeping Tree", "score": 1 },
+      { "text": "City of Life", "score": 0 },
+      { "text": "Wadjda", "score": 0 },
+      { "text": "Truth and Justice", "score": 0 }
+    ]
+  },
+  {
+    "question": "Бахрейн бүгүҥҥү киносценатын киинэ куората ханныкый?",
+    "answers": [
+      { "text": "Манама", "score": 1 },
+      { "text": "Риффа", "score": 0 },
+      { "text": "Мухаррак", "score": 0 },
+      { "text": "Иса-Таун", "score": 0 }
+    ]
+  },
+  {
+    "question": "Бахрейн киинэчилэрэ ханнык региональнай холбоһук иһигэр копродукция оҥороллоруй?",
+    "answers": [
+      { "text": "GCC (Совет сотрудничества арабских государств Персидского залива)", "score": 1 },
+      { "text": "ASEAN", "score": 0 },
+      { "text": "MERCOSUR", "score": 0 },
+      { "text": "Северный совет", "score": 0 }
+    ]
+  }
+]

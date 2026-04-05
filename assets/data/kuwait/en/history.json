@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "What is the capital city of Kuwait?",
+        "answers":  [
+                        {
+                            "text":  "Kuwait City",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Al Ahmadi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hawalli",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jahra",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did Kuwait gain independence?",
+        "answers":  [
+                        {
+                            "text":  "1961",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1956",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1971",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1981",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did Iraq invade Kuwait?",
+        "answers":  [
+                        {
+                            "text":  "1990",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1988",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1993",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2001",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year was Kuwait liberated in the Gulf War period?",
+        "answers":  [
+                        {
+                            "text":  "1991",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1989",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1995",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2003",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the currency code of the Kuwaiti dinar?",
+        "answers":  [
+                        {
+                            "text":  "KWD",
+                            "score":  1
+                        },
+                        {
+                            "text":  "QAR",
+                            "score":  0
+                        },
+                        {
+                            "text":  "AED",
+                            "score":  0
+                        },
+                        {
+                            "text":  "SAR",
+                            "score":  0
+                        }
+                    ]
+    }
+]

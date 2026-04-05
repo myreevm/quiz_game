@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "What is the capital city of Luxembourg?",
+        "answers":  [
+                        {
+                            "text":  "Luxembourg City",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Esch sur Alzette",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Differdange",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dudelange",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which treaty in 1839 confirmed Luxembourg\u0027s status as an independent state?",
+        "answers":  [
+                        {
+                            "text":  "Treaty of London",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Treaty of Rome",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Treaty of Utrecht",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Treaty of Vienna",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What role did Luxembourg have in early European integration?",
+        "answers":  [
+                        {
+                            "text":  "Founding member",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Observer only",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Late accession state",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Non participant",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the currency code used in Luxembourg?",
+        "answers":  [
+                        {
+                            "text":  "EUR",
+                            "score":  1
+                        },
+                        {
+                            "text":  "LUF",
+                            "score":  0
+                        },
+                        {
+                            "text":  "CHF",
+                            "score":  0
+                        },
+                        {
+                            "text":  "DEM",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which three languages are used in Luxembourg\u0027s official administrative life?",
+        "answers":  [
+                        {
+                            "text":  "Luxembourgish French and German",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Dutch French and Italian",
+                            "score":  0
+                        },
+                        {
+                            "text":  "German English and Spanish",
+                            "score":  0
+                        },
+                        {
+                            "text":  "French Portuguese and Catalan",
+                            "score":  0
+                        }
+                    ]
+    }
+]

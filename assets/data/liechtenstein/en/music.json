@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "What is the name of Liechtenstein\u0027s national anthem?",
+        "answers":  [
+                        {
+                            "text":  "Oben am jungen Rhein",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ode to Joy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Land of the Mountains",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Song of the Alps",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which composer is central to Liechtenstein\u0027s classical music legacy?",
+        "answers":  [
+                        {
+                            "text":  "Josef Rheinberger",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Franz Liszt",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jean Sibelius",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Edvard Grieg",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Traditional music in Liechtenstein is often connected to which style?",
+        "answers":  [
+                        {
+                            "text":  "Alpine folk and choral music",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Samba and bossa nova",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Reggae and ska",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Flamenco and bolero",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which instruments are commonly linked to local Alpine traditions in Liechtenstein?",
+        "answers":  [
+                        {
+                            "text":  "Accordion and zither",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sitar and tabla",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kora and ngoni",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Erhu and pipa",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which two towns are known for active live music life in Liechtenstein?",
+        "answers":  [
+                        {
+                            "text":  "Vaduz and Schaan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Balzers and Eschen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Triesen and Gamprin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ruggell and Planken",
+                            "score":  0
+                        }
+                    ]
+    }
+]

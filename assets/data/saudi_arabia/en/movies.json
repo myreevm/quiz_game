@@ -1,0 +1,47 @@
+[
+  {
+    "question": "In which year were public cinemas reopened in Saudi Arabia after a long ban?",
+    "answers": [
+      { "text": "2018", "score": 1 },
+      { "text": "2012", "score": 0 },
+      { "text": "2005", "score": 0 },
+      { "text": "2020", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which major international film festival takes place in Jeddah?",
+    "answers": [
+      { "text": "Red Sea International Film Festival", "score": 1 },
+      { "text": "Ajyal Film Festival", "score": 0 },
+      { "text": "Dubai International Film Festival", "score": 0 },
+      { "text": "PÖFF", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which 2012 Saudi film became globally known as a breakthrough work?",
+    "answers": [
+      { "text": "Wadjda", "score": 1 },
+      { "text": "The Worthy", "score": 0 },
+      { "text": "City of Life", "score": 0 },
+      { "text": "The Sleeping Tree", "score": 0 }
+    ]
+  },
+  {
+    "question": "Who directed Wadjda, one of the best-known Saudi films?",
+    "answers": [
+      { "text": "Haifaa Al-Mansour", "score": 1 },
+      { "text": "Emil Loteanu", "score": 0 },
+      { "text": "Mohammed Rashed Buali", "score": 0 },
+      { "text": "Veiko Ounpuu", "score": 0 }
+    ]
+  },
+  {
+    "question": "How is Saudi Arabia's local film industry generally described in recent years?",
+    "answers": [
+      { "text": "Rapidly growing with new productions and institutions", "score": 1 },
+      { "text": "Completely inactive", "score": 0 },
+      { "text": "Focused only on silent films", "score": 0 },
+      { "text": "Limited to foreign imports only", "score": 0 }
+    ]
+  }
+]

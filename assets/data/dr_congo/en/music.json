@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Which two related genres are most associated with modern Congolese popular music?",
+    "answers": [
+      { "text": "Rumba and soukous", "score": 1 },
+      { "text": "Reggae and calypso", "score": 0 },
+      { "text": "Fado and morna", "score": 0 },
+      { "text": "Polka and waltz", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year was Congolese rumba added to UNESCO's Intangible Cultural Heritage list?",
+    "answers": [
+      { "text": "2021", "score": 1 },
+      { "text": "2012", "score": 0 },
+      { "text": "1997", "score": 0 },
+      { "text": "2004", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which musician became an international symbol of Congolese stage style and soukous performance?",
+    "answers": [
+      { "text": "Papa Wemba", "score": 1 },
+      { "text": "Serge Ibaka", "score": 0 },
+      { "text": "Kenneth Kaunda", "score": 0 },
+      { "text": "Denis Mukwege", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which contemporary artist from DR Congo has helped bring Congolese pop to new global audiences?",
+    "answers": [
+      { "text": "Fally Ipupa", "score": 1 },
+      { "text": "The Dogg", "score": 0 },
+      { "text": "Franklin Boukaka", "score": 0 },
+      { "text": "Kalusha Bwalya", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which instrument is central in many rumba and soukous arrangements from the Congo region?",
+    "answers": [
+      { "text": "Guitar", "score": 1 },
+      { "text": "Bagpipe", "score": 0 },
+      { "text": "Didgeridoo", "score": 0 },
+      { "text": "Kantele", "score": 0 }
+    ]
+  }
+]

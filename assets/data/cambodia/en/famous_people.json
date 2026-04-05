@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Which Cambodian monarch and political leader played a major role in the 20th century?",
+    "answers": [
+      {
+        "text": "Norodom Sihanouk",
+        "score": 1
+      },
+      {
+        "text": "Pol Pot",
+        "score": 0
+      },
+      {
+        "text": "Hun Sen",
+        "score": 0
+      },
+      {
+        "text": "Son Sann",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who became Prime Minister of Cambodia in 2023?",
+    "answers": [
+      {
+        "text": "Hun Manet",
+        "score": 1
+      },
+      {
+        "text": "Hun Sen",
+        "score": 0
+      },
+      {
+        "text": "Norodom Ranariddh",
+        "score": 0
+      },
+      {
+        "text": "Sam Rainsy",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Cambodian film director created The Missing Picture?",
+    "answers": [
+      {
+        "text": "Rithy Panh",
+        "score": 1
+      },
+      {
+        "text": "Angelina Jolie",
+        "score": 0
+      },
+      {
+        "text": "Davy Chou",
+        "score": 0
+      },
+      {
+        "text": "Kavich Neang",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which singer is remembered as a golden voice of pre-Khmer Rouge Cambodia?",
+    "answers": [
+      {
+        "text": "Sinn Sisamouth",
+        "score": 1
+      },
+      {
+        "text": "Ros Serey Sothea",
+        "score": 0
+      },
+      {
+        "text": "Preap Sovath",
+        "score": 0
+      },
+      {
+        "text": "Meng Keo Pichenda",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Cambodian-American author wrote the memoir First They Killed My Father?",
+    "answers": [
+      {
+        "text": "Loung Ung",
+        "score": 1
+      },
+      {
+        "text": "Jokha Alharthi",
+        "score": 0
+      },
+      {
+        "text": "Svetlana Alexievich",
+        "score": 0
+      },
+      {
+        "text": "Arundhati Roy",
+        "score": 0
+      }
+    ]
+  }
+]

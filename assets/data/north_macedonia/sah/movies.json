@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Before the Rain киинэтин режиссера кимий?",
+        "answers":  [
+                        {
+                            "text":  "Milcho Manchevski",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ivo Trajkov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Teona Mitevska",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Stole Popov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "2020 сылла Оскарга улахан билиини ылбыт Хотугу Македония документальнай киинэтэ ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Honeyland",
+                            "score":  1
+                        },
+                        {
+                            "text":  "God Exists Her Name Is Petrunya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Secret Ingredient",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Willow",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Битолага буолар биллэр киинэ оператор фестивалын аата ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Manaki Brothers International Film Festival",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Skopje Film Week",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Balkan Screen Forum",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ohrid Cinema Days",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Хотугу Македония киинэ уонна ТВ оҥоруутагар сурун төвө ханнык куорат?",
+        "answers":  [
+                        {
+                            "text":  "Skopje",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bitola",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kumanovo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Prilep",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Хотугу Македония киинэтигэр ханнык түр сотрудничество элбэх туттулларый?",
+        "answers":  [
+                        {
+                            "text":  "Балкан уонна Европа копродукциялара",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ичигэр эрэ студия киинэлэрэ",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Дорҕоон суох хара-маҥан киинэ эрэ",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Фестивалга кыттыы суох",
+                            "score":  0
+                        }
+                    ]
+    }
+]

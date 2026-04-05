@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What is the capital city of Saudi Arabia?",
+    "answers": [
+      { "text": "Riyadh", "score": 1 },
+      { "text": "Jeddah", "score": 0 },
+      { "text": "Mecca", "score": 0 },
+      { "text": "Dammam", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year was the Kingdom of Saudi Arabia unified?",
+    "answers": [
+      { "text": "1932", "score": 1 },
+      { "text": "1920", "score": 0 },
+      { "text": "1945", "score": 0 },
+      { "text": "1956", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which two cities in Saudi Arabia are considered the holiest in Islam?",
+    "answers": [
+      { "text": "Mecca and Medina", "score": 1 },
+      { "text": "Riyadh and Jeddah", "score": 0 },
+      { "text": "Dammam and Taif", "score": 0 },
+      { "text": "Abha and Tabuk", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which well is associated with the major oil discovery in Saudi Arabia in 1938?",
+    "answers": [
+      { "text": "Dammam No. 7", "score": 1 },
+      { "text": "Ghawar-1", "score": 0 },
+      { "text": "Abqaiq-3", "score": 0 },
+      { "text": "Safaniya-2", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the official currency of Saudi Arabia?",
+    "answers": [
+      { "text": "Saudi riyal (SAR)", "score": 1 },
+      { "text": "UAE dirham (AED)", "score": 0 },
+      { "text": "Qatari riyal (QAR)", "score": 0 },
+      { "text": "Bahraini dinar (BHD)", "score": 0 }
+    ]
+  }
+]

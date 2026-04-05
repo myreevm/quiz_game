@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Уһун кэмэ суох буолбутун кэннэ Сауд Аравияга общественнай кинотеатрдар ханнык сылга қайта арыллыбыттара?",
+    "answers": [
+      { "text": "2018", "score": 1 },
+      { "text": "2012", "score": 0 },
+      { "text": "2005", "score": 0 },
+      { "text": "2020", "score": 0 }
+    ]
+  },
+  {
+    "question": "Джиддаҕа ханнык улахан международнай кинофестиваль ыытылларый?",
+    "answers": [
+      { "text": "Red Sea International Film Festival", "score": 1 },
+      { "text": "Ajyal Film Festival", "score": 0 },
+      { "text": "Dubai International Film Festival", "score": 0 },
+      { "text": "PÖFF", "score": 0 }
+    ]
+  },
+  {
+    "question": "2012 сыллаах, аан дойдуга ааттанан тахсыбыт сауд фильма ханныкый?",
+    "answers": [
+      { "text": "Wadjda", "score": 1 },
+      { "text": "The Worthy", "score": 0 },
+      { "text": "City of Life", "score": 0 },
+      { "text": "The Sleeping Tree", "score": 0 }
+    ]
+  },
+  {
+    "question": "Wadjda фильм режиссера кимий?",
+    "answers": [
+      { "text": "Хайфа Аль-Мансур", "score": 1 },
+      { "text": "Эмиль Лотяну", "score": 0 },
+      { "text": "Мохаммед Рашед Буали", "score": 0 },
+      { "text": "Вейко Ыунпуу", "score": 0 }
+    ]
+  },
+  {
+    "question": "Сауд Аравиятын киинэ индустрията билигин хайдах буолар диэн сыаналанарый?",
+    "answers": [
+      { "text": "Түргэнник сайынар, саңа фильмнар уонна институттар үөскүүллэр", "score": 1 },
+      { "text": "Сөпкө үлэлиирэ суох", "score": 0 },
+      { "text": "Саҥарар сөпсөтө суох киинэҕэ эрэ", "score": 0 },
+      { "text": "Тугу эрэ таһааҥҥы фильмнары киллэрии", "score": 0 }
+    ]
+  }
+]

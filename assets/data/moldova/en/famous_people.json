@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "Who composed the waltz featured in the film My Sweet and Tender Beast?",
+    "answers": [
+      { "text": "Eugen Doga", "score": 1 },
+      { "text": "Dan Balan", "score": 0 },
+      { "text": "Emil Loteanu", "score": 0 },
+      { "text": "Nicolae Sulac", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Moldovan singer was a member of the group O-Zone?",
+    "answers": [
+      { "text": "Dan Balan", "score": 1 },
+      { "text": "Ion Suruceanu", "score": 0 },
+      { "text": "Pasha Parfeni", "score": 0 },
+      { "text": "Eugen Doga", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which filmmaker directed the movie Lautarii?",
+    "answers": [
+      { "text": "Emil Loteanu", "score": 1 },
+      { "text": "Mihai Eminescu", "score": 0 },
+      { "text": "Sergiu Nicolaescu", "score": 0 },
+      { "text": "Dan Balan", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which artist is known as a classic Moldovan folk singer?",
+    "answers": [
+      { "text": "Nicolae Sulac", "score": 1 },
+      { "text": "Eugen Doga", "score": 0 },
+      { "text": "Ion Creanga", "score": 0 },
+      { "text": "Emil Loteanu", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Moldovan performer is associated with songs like Ne zabud menya?",
+    "answers": [
+      { "text": "Ion Suruceanu", "score": 1 },
+      { "text": "Dan Balan", "score": 0 },
+      { "text": "Arsenie Todiras", "score": 0 },
+      { "text": "Eugen Doga", "score": 0 }
+    ]
+  }
+]

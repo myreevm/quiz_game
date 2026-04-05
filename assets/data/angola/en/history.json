@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "What is the capital city of Angola?",
+        "answers":  [
+                        {
+                            "text":  "Luanda",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Huambo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Benguela",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lubango",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did Angola gain independence?",
+        "answers":  [
+                        {
+                            "text":  "1975",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1960",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1980",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1990",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Angola\u0027s major civil war period lasted from 1975 until which year?",
+        "answers":  [
+                        {
+                            "text":  "2002",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1991",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2010",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1986",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is Angola\u0027s currency code?",
+        "answers":  [
+                        {
+                            "text":  "AOA",
+                            "score":  1
+                        },
+                        {
+                            "text":  "ZAR",
+                            "score":  0
+                        },
+                        {
+                            "text":  "NAD",
+                            "score":  0
+                        },
+                        {
+                            "text":  "MZN",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the official language of Angola?",
+        "answers":  [
+                        {
+                            "text":  "Portuguese",
+                            "score":  1
+                        },
+                        {
+                            "text":  "French",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Spanish",
+                            "score":  0
+                        },
+                        {
+                            "text":  "English",
+                            "score":  0
+                        }
+                    ]
+    }
+]

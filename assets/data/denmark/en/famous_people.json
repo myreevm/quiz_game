@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Who wrote the fairy tale 'The Little Mermaid'?",
+    "answers": [
+      { "text": "Hans Christian Andersen", "score": 1 },
+      { "text": "Soren Kierkegaard", "score": 0 },
+      { "text": "Niels Bohr", "score": 0 },
+      { "text": "Karen Blixen", "score": 0 }
+    ]
+  },
+  {
+    "question": "Niels Bohr is famous for achievements in...",
+    "answers": [
+      { "text": "Physics", "score": 1 },
+      { "text": "Medicine", "score": 0 },
+      { "text": "Architecture", "score": 0 },
+      { "text": "Linguistics", "score": 0 }
+    ]
+  },
+  {
+    "question": "Soren Kierkegaard is known as a major...",
+    "answers": [
+      { "text": "Philosopher", "score": 1 },
+      { "text": "General", "score": 0 },
+      { "text": "Film producer", "score": 0 },
+      { "text": "Astronaut", "score": 0 }
+    ]
+  },
+  {
+    "question": "Mads Mikkelsen is a well-known Danish...",
+    "answers": [
+      { "text": "Actor", "score": 1 },
+      { "text": "Cyclist", "score": 0 },
+      { "text": "Composer", "score": 0 },
+      { "text": "Politician", "score": 0 }
+    ]
+  },
+  {
+    "question": "Tycho Brahe is remembered as a pioneering...",
+    "answers": [
+      { "text": "Astronomer", "score": 1 },
+      { "text": "Navigator", "score": 0 },
+      { "text": "Painter", "score": 0 },
+      { "text": "Playwright", "score": 0 }
+    ]
+  }
+]

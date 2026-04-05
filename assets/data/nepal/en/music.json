@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which hand drum is central in many Nepali folk songs?",
+        "answers":  [
+                        {
+                            "text":  "Madal",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tabla",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dhol",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mridangam",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which bowed instrument is common in Nepali folk music?",
+        "answers":  [
+                        {
+                            "text":  "Sarangi",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sitar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bansuri",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Veena",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the well-known Nepali duet folk singing style?",
+        "answers":  [
+                        {
+                            "text":  "Dohori",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ghazal",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Qawwali",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bhajan",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which singer is known as the Swar Samrat of Nepal?",
+        "answers":  [
+                        {
+                            "text":  "Narayan Gopal",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bachchu Kailash",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yogeshwar Amatya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nabin K Bhattarai",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which iconic Nepali rock band has the numeric name 1974 AD?",
+        "answers":  [
+                        {
+                            "text":  "1974 AD",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nepathya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cobweb",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kutumba",
+                            "score":  0
+                        }
+                    ]
+    }
+]

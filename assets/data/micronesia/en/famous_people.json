@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Choose the correct answer for Federated States of Micronesia: first president.",
+        "answers":  [
+                        {
+                            "text":  "Tosiwo Nakayama",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Toaripi Lauti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kamuta Latasi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Enele Sopoaga",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Choose the correct answer for Federated States of Micronesia: second president.",
+        "answers":  [
+                        {
+                            "text":  "John Haglelgam",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Toaripi Lauti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kamuta Latasi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Enele Sopoaga",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Choose the correct answer for Federated States of Micronesia: third president.",
+        "answers":  [
+                        {
+                            "text":  "Bailey Olter",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Toaripi Lauti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kamuta Latasi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Enele Sopoaga",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Choose the correct answer for Federated States of Micronesia: president in 2007-2015.",
+        "answers":  [
+                        {
+                            "text":  "Manny Mori",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Toaripi Lauti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kamuta Latasi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Enele Sopoaga",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Choose the correct answer for Federated States of Micronesia: president from 2019.",
+        "answers":  [
+                        {
+                            "text":  "David Panuelo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Toaripi Lauti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kamuta Latasi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Enele Sopoaga",
+                            "score":  0
+                        }
+                    ]
+    }
+]

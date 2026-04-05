@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "What is the capital of North Macedonia?",
+        "answers":  [
+                        {
+                            "text":  "Skopje",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bitola",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ohrid",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tetovo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did North Macedonia declare independence from Yugoslavia?",
+        "answers":  [
+                        {
+                            "text":  "1991",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1989",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1995",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2001",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which agreement is directly tied to the adoption of the name North Macedonia?",
+        "answers":  [
+                        {
+                            "text":  "Prespa Agreement",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Dayton Agreement",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lisbon Treaty",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ohrid Framework Agreement",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the official currency of North Macedonia?",
+        "answers":  [
+                        {
+                            "text":  "Macedonian denar (MKD)",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Euro (EUR)",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Serbian dinar (RSD)",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bulgarian lev (BGN)",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which famous lake in North Macedonia is shared with Albania?",
+        "answers":  [
+                        {
+                            "text":  "Lake Ohrid",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lake Prespa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lake Dojran",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lake Skadar",
+                            "score":  0
+                        }
+                    ]
+    }
+]

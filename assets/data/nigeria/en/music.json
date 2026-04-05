@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which genre is most associated with modern Nigerian pop worldwide?",
+        "answers":  [
+                        {
+                            "text":  "Afrobeats",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Reggaeton",
+                            "score":  0
+                        },
+                        {
+                            "text":  "K-pop",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Flamenco",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which artist is considered a foundational figure of Afrobeat?",
+        "answers":  [
+                        {
+                            "text":  "Fela Kuti",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Burna Boy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Wizkid",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Asa",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Nigerian artist won a Grammy for the album Twice as Tall?",
+        "answers":  [
+                        {
+                            "text":  "Burna Boy",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Davido",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tems",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rema",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Nigerian singer is known for the song Ojuelegba?",
+        "answers":  [
+                        {
+                            "text":  "Wizkid",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Davido",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Olamide",
+                            "score":  0
+                        },
+                        {
+                            "text":  "P-Square",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Nigerian star released the global hit Fall?",
+        "answers":  [
+                        {
+                            "text":  "Davido",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Wizkid",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Burna Boy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fireboy DML",
+                            "score":  0
+                        }
+                    ]
+    }
+]

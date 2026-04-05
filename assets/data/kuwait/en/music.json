@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which traditional urban Gulf genre is strongly associated with Kuwait?",
+        "answers":  [
+                        {
+                            "text":  "Sawt",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Flamenco",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fado",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Taarab",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which instrument is central to many Kuwaiti and Gulf music traditions?",
+        "answers":  [
+                        {
+                            "text":  "Oud",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bagpipes",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shamisen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Didgeridoo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kuwaiti sea song heritage is historically linked to which occupations?",
+        "answers":  [
+                        {
+                            "text":  "Sailing and pearling",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tea farming",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Reindeer herding",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rice terrace cultivation",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Kuwaiti woman is one of the most famous voices in Gulf pop music?",
+        "answers":  [
+                        {
+                            "text":  "Nawal Al Kuwaitia",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Dimi Mint Abba",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rokia Traore",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Assala",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Kuwaiti singer is especially known for romantic Gulf ballads?",
+        "answers":  [
+                        {
+                            "text":  "Abdallah Al Rowaished",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Rachid Taha",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Wegz",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cheb Mami",
+                            "score":  0
+                        }
+                    ]
+    }
+]

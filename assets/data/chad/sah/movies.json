@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "SAH: Sop eppieti tal chad: filmmaker linked to Chadian cinema internationally.",
+        "answers":  [
+                        {
+                            "text":  "Mahamat-Saleh Haroun",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Community screenings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal chad: film title by Haroun.",
+        "answers":  [
+                        {
+                            "text":  "Abouna",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Community screenings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal chad: Chadian film that won Cannes Jury Prize in 2010.",
+        "answers":  [
+                        {
+                            "text":  "A Screaming Man",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Community screenings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal chad: major African festival where Chadian films appear.",
+        "answers":  [
+                        {
+                            "text":  "FESPACO",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Community screenings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal chad: main city hub of Chadian screenings.",
+        "answers":  [
+                        {
+                            "text":  "N\u0027Djamena film scene",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Community screenings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        }
+                    ]
+    }
+]

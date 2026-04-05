@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Монтевидеока ханнык улахан киинэ событиетэ буоларый?",
+        "answers":  [
+                        {
+                            "text":  "Uruguay International Film Festival",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Venice Film Festival",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Locarno Film Festival",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Toronto International Film Festival",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ataque de panico! кэнниттэн аан дойдуга биллэрбит уругвай режиссерата кимий?",
+        "answers":  [
+                        {
+                            "text":  "Fede Alvarez",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pablo Stoll",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alvaro Brechner",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cesar Charlone",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Папа кэлэригэр туулат оҥоруу туһунан уругвай киинэтэ ханнык?",
+        "answers":  [
+                        {
+                            "text":  "The Popes Toilet",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Whisky",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gigante",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mr Kaplan",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Диктатура кэмигэр политзаключенныйдар туһунан уругвай киинэтэ ханнык?",
+        "answers":  [
+                        {
+                            "text":  "A Twelve-Year Night",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Silent House",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mal dia para pescar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "25 Watts",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Уругвай киинэтигэр ханнык оҥоруу модели элбэхтик туттулларый?",
+        "answers":  [
+                        {
+                            "text":  "Аан дойду копродукциялара",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Баҕарар государственнай студиялар эрэ",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Дорҕоон суох киинэ эрэ",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Таһынааҕы партнер суох",
+                            "score":  0
+                        }
+                    ]
+    }
+]

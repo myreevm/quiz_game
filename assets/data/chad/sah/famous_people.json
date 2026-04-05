@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "SAH: Sop eppieti tal chad: first president after independence.",
+        "answers":  [
+                        {
+                            "text":  "Francois Tombalbaye",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Toaripi Lauti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kamuta Latasi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Enele Sopoaga",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal chad: leader who ruled from 1990 to 2021.",
+        "answers":  [
+                        {
+                            "text":  "Idriss Deby",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Toaripi Lauti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kamuta Latasi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Enele Sopoaga",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal chad: transitional leader from 2021.",
+        "answers":  [
+                        {
+                            "text":  "Mahamat Idriss Deby",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Toaripi Lauti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kamuta Latasi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Enele Sopoaga",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal chad: director known for Chadian art-house cinema.",
+        "answers":  [
+                        {
+                            "text":  "Mahamat-Saleh Haroun",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Toaripi Lauti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kamuta Latasi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Enele Sopoaga",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal chad: modern pop and urban performer.",
+        "answers":  [
+                        {
+                            "text":  "Dary",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Toaripi Lauti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kamuta Latasi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Enele Sopoaga",
+                            "score":  0
+                        }
+                    ]
+    }
+]

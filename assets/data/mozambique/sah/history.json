@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Мозамбик баштаах куората ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Maputo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Beira",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nampula",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Quelimane",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Мозамбик ханнык сылла бэйэ сирин ылбытай?",
+        "answers":  [
+                        {
+                            "text":  "1975",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1960",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1980",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1992",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Мозамбик валютатын кода ханнык?",
+        "answers":  [
+                        {
+                            "text":  "MZN",
+                            "score":  1
+                        },
+                        {
+                            "text":  "AOA",
+                            "score":  0
+                        },
+                        {
+                            "text":  "TZS",
+                            "score":  0
+                        },
+                        {
+                            "text":  "ZMW",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Мозамбик ханнык океан кырыытыгар сытарый?",
+        "answers":  [
+                        {
+                            "text":  "Indian Ocean",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Atlantic Ocean",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific Ocean",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Arctic Ocean",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Мозамбик уонна Мадагаскар иккиһин араарар пролив ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Mozambique Channel",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bab el-Mandeb",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Strait of Malacca",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bosporus",
+                            "score":  0
+                        }
+                    ]
+    }
+]

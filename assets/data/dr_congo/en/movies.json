@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What does SKIFF in eastern DR Congo stand for?",
+    "answers": [
+      { "text": "Salaam Kivu International Film Festival", "score": 1 },
+      { "text": "South Kivu Independent Film Forum", "score": 0 },
+      { "text": "State Kinshasa International Film Fair", "score": 0 },
+      { "text": "Societe Kongo Image Film Foundation", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Oscar-nominated documentary follows rangers protecting a national park in eastern DR Congo?",
+    "answers": [
+      { "text": "Virunga", "score": 1 },
+      { "text": "Felicite", "score": 0 },
+      { "text": "I Am Not a Witch", "score": 0 },
+      { "text": "Mad Max: Fury Road", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Congolese filmmaker is known for documentary work such as Downstream to Kinshasa?",
+    "answers": [
+      { "text": "Dieudo Hamadi", "score": 1 },
+      { "text": "Rungano Nyoni", "score": 0 },
+      { "text": "Alain Mabanckou", "score": 0 },
+      { "text": "Haifaa Al-Mansour", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which 2017 drama set in Kinshasa centers on a singer trying to support her family?",
+    "answers": [
+      { "text": "Felicite", "score": 1 },
+      { "text": "Virunga", "score": 0 },
+      { "text": "The Sleeping Tree", "score": 0 },
+      { "text": "Wadjda", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which city is generally considered the main center of DR Congo's film scene?",
+    "answers": [
+      { "text": "Kinshasa", "score": 1 },
+      { "text": "Lubumbashi", "score": 0 },
+      { "text": "Goma", "score": 0 },
+      { "text": "Mbuji-Mayi", "score": 0 }
+    ]
+  }
+]

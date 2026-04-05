@@ -1,0 +1,47 @@
+[
+  {
+    "question": "ОАЭ-ҕа ыытыллар, 2018 сылга түмүктэммит улахан кинофестиваль ханныкый?",
+    "answers": [
+      { "text": "Dubai International Film Festival", "score": 1 },
+      { "text": "Канн кинофестивала", "score": 0 },
+      { "text": "Ajyal Film Festival", "score": 0 },
+      { "text": "Red Sea International Film Festival", "score": 0 }
+    ]
+  },
+  {
+    "question": "Абу-Дабига баар, көрдөрүү киинэлэри уонна медиа-проектары өйүүр студия ханныкый?",
+    "answers": [
+      { "text": "Image Nation Abu Dhabi", "score": 1 },
+      { "text": "Tallinnfilm", "score": 0 },
+      { "text": "Riga Film Studio", "score": 0 },
+      { "text": "Lithuanian Film Centre", "score": 0 }
+    ]
+  },
+  {
+    "question": "2009 сыллаах, ОАЭ-ҕа оҥоһуллубут бастакы улахан драмалардаахтан биирдэһэ ханнык фильмий?",
+    "answers": [
+      { "text": "City of Life", "score": 1 },
+      { "text": "Wadjda", "score": 0 },
+      { "text": "Tangerines", "score": 0 },
+      { "text": "Nova Lituania", "score": 0 }
+    ]
+  },
+  {
+    "question": "2016 сыллаах эмират постапокалиптик фильм, аан дойдуга биллэрбитэ ханныкый?",
+    "answers": [
+      { "text": "The Worthy", "score": 1 },
+      { "text": "The Other Dream Team", "score": 0 },
+      { "text": "Away", "score": 0 },
+      { "text": "Лаутары", "score": 0 }
+    ]
+  },
+  {
+    "question": "Абу-Дабига аан дойду киино съемкаларын тардан, көмөлөөччү ОАЭ тэрилтэтэ хайдах ааттанарый?",
+    "answers": [
+      { "text": "Abu Dhabi Film Commission", "score": 1 },
+      { "text": "Doha Film Institute", "score": 0 },
+      { "text": "Bahrain Cinema Club", "score": 0 },
+      { "text": "Kino Pavasaris Board", "score": 0 }
+    ]
+  }
+]

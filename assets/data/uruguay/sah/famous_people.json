@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Уругвай национальнай геройа, Свободнай норуоттары көмүскээччитэ диэн биллэр, кимий?",
+        "answers":  [
+                        {
+                            "text":  "Jose Gervasio Artigas",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jose Batlle y Ordonez",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Julio Sanguinetti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tabare Vazquez",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "2010–2015 сылларга Уругвай президентата буолан, тыйаарытыы олоруутаан биллэрбит кимий?",
+        "answers":  [
+                        {
+                            "text":  "Jose Mujica",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Luis Lacalle Pou",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jorge Batlle",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tabare Vazquez",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Уругвай хамаандатын уонна FC Barcelona клубунан биллэр уругвай нападайааччы кимий?",
+        "answers":  [
+                        {
+                            "text":  "Luis Suarez",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Edinson Cavani",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Diego Forlan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alvaro Recoba",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "2010 FIFA дүйнэ чемпионатыгар уругвайдартан Золотой мяч ылбыт кимий?",
+        "answers":  [
+                        {
+                            "text":  "Diego Forlan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Luis Suarez",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fernando Muslera",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Diego Godin",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Стихтараан уонна La tregua романынан биллэр уругвай суруйааччыта кимий?",
+        "answers":  [
+                        {
+                            "text":  "Mario Benedetti",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Eduardo Galeano",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Juan Carlos Onetti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Horacio Quiroga",
+                            "score":  0
+                        }
+                    ]
+    }
+]

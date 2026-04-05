@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Как расшифровывается SKIFF на востоке ДР Конго?",
+    "answers": [
+      { "text": "Salaam Kivu International Film Festival", "score": 1 },
+      { "text": "South Kivu Independent Film Forum", "score": 0 },
+      { "text": "State Kinshasa International Film Fair", "score": 0 },
+      { "text": "Societe Kongo Image Film Foundation", "score": 0 }
+    ]
+  },
+  {
+    "question": "Какой номинированный на Оскар документальный фильм рассказывает о рейнджерах, защищающих нацпарк на востоке ДР Конго?",
+    "answers": [
+      { "text": "Virunga", "score": 1 },
+      { "text": "Felicite", "score": 0 },
+      { "text": "I Am Not a Witch", "score": 0 },
+      { "text": "Mad Max: Fury Road", "score": 0 }
+    ]
+  },
+  {
+    "question": "Какой конголезский режиссер известен документальными фильмами, включая Downstream to Kinshasa?",
+    "answers": [
+      { "text": "Дьедо Хамади", "score": 1 },
+      { "text": "Рунгано Ниони", "score": 0 },
+      { "text": "Ален Мабанку", "score": 0 },
+      { "text": "Хайфа Аль-Мансур", "score": 0 }
+    ]
+  },
+  {
+    "question": "Как называется драма 2017 года о певице в Киншасе, пытающейся содержать семью?",
+    "answers": [
+      { "text": "Felicite", "score": 1 },
+      { "text": "Virunga", "score": 0 },
+      { "text": "The Sleeping Tree", "score": 0 },
+      { "text": "Wadjda", "score": 0 }
+    ]
+  },
+  {
+    "question": "Какой город обычно считают главным центром киносцены ДР Конго?",
+    "answers": [
+      { "text": "Киншаса", "score": 1 },
+      { "text": "Лубумбаши", "score": 0 },
+      { "text": "Гома", "score": 0 },
+      { "text": "Мбуджи-Майи", "score": 0 }
+    ]
+  }
+]

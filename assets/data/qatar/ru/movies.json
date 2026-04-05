@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Какой ключевой институт развивает кино и поддерживает кинопроекты в Катаре?",
+    "answers": [
+      { "text": "Doha Film Institute", "score": 1 },
+      { "text": "Bahrain Cinema Club", "score": 0 },
+      { "text": "Tallinnfilm", "score": 0 },
+      { "text": "Image Nation Abu Dhabi", "score": 0 }
+    ]
+  },
+  {
+    "question": "Как называется молодежный кинофестиваль в Катаре?",
+    "answers": [
+      { "text": "Ajyal Film Festival", "score": 1 },
+      { "text": "Red Sea International Film Festival", "score": 0 },
+      { "text": "Kino Pavasaris", "score": 0 },
+      { "text": "Cronograf", "score": 0 }
+    ]
+  },
+  {
+    "question": "Как называется ежегодная платформа Doha Film Institute для талантов и кинопроектов?",
+    "answers": [
+      { "text": "Qumra", "score": 1 },
+      { "text": "Laulupidu", "score": 0 },
+      { "text": "Truth and Justice Forum", "score": 0 },
+      { "text": "Gulf Vision Lab", "score": 0 }
+    ]
+  },
+  {
+    "question": "Кино какого более широкого культурного региона Doha Film Institute особенно активно поддерживает?",
+    "answers": [
+      { "text": "Арабское кино", "score": 1 },
+      { "text": "Только скандинавское кино", "score": 0 },
+      { "text": "Только латиноамериканскую анимацию", "score": 0 },
+      { "text": "Только немое кино", "score": 0 }
+    ]
+  },
+  {
+    "question": "Какой город является главным центром кинособытий и кинопроизводства в Катаре?",
+    "answers": [
+      { "text": "Доха", "score": 1 },
+      { "text": "Аль-Хор", "score": 0 },
+      { "text": "Лусаил", "score": 0 },
+      { "text": "Аль-Вакра", "score": 0 }
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "question": "What is the capital city of Oman?",
+    "answers": [
+      {
+        "text": "Muscat",
+        "score": 1
+      },
+      {
+        "text": "Salalah",
+        "score": 0
+      },
+      {
+        "text": "Sohar",
+        "score": 0
+      },
+      {
+        "text": "Nizwa",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "The modern reform era in Oman began in which year?",
+    "answers": [
+      {
+        "text": "1970",
+        "score": 1
+      },
+      {
+        "text": "1960",
+        "score": 0
+      },
+      {
+        "text": "1980",
+        "score": 0
+      },
+      {
+        "text": "1990",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Oman controls coastline near which strategic waterway?",
+    "answers": [
+      {
+        "text": "Strait of Hormuz",
+        "score": 1
+      },
+      {
+        "text": "Suez Canal",
+        "score": 0
+      },
+      {
+        "text": "Bosporus",
+        "score": 0
+      },
+      {
+        "text": "Bering Strait",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Oman's maritime history is strongly connected with which East African region?",
+    "answers": [
+      {
+        "text": "Zanzibar",
+        "score": 1
+      },
+      {
+        "text": "Cape Town",
+        "score": 0
+      },
+      {
+        "text": "Alexandria",
+        "score": 0
+      },
+      {
+        "text": "Tripoli",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the currency of Oman?",
+    "answers": [
+      {
+        "text": "Omani rial (OMR)",
+        "score": 1
+      },
+      {
+        "text": "Saudi riyal (SAR)",
+        "score": 0
+      },
+      {
+        "text": "Qatari riyal (QAR)",
+        "score": 0
+      },
+      {
+        "text": "UAE dirham (AED)",
+        "score": 0
+      }
+    ]
+  }
+]

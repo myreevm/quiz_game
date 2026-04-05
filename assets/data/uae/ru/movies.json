@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Какой крупный фестиваль проходил в ОАЭ и получил мировую известность до завершения в 2018 году?",
+    "answers": [
+      { "text": "Dubai International Film Festival", "score": 1 },
+      { "text": "Каннский кинофестиваль", "score": 0 },
+      { "text": "Ajyal Film Festival", "score": 0 },
+      { "text": "Red Sea International Film Festival", "score": 0 }
+    ]
+  },
+  {
+    "question": "Какая студия в Абу-Даби поддерживает производство художественных фильмов и медиапроектов?",
+    "answers": [
+      { "text": "Image Nation Abu Dhabi", "score": 1 },
+      { "text": "Tallinnfilm", "score": 0 },
+      { "text": "Riga Film Studio", "score": 0 },
+      { "text": "Lithuanian Film Centre", "score": 0 }
+    ]
+  },
+  {
+    "question": "Какой фильм 2009 года часто называют одной из первых крупных драм, произведенных в ОАЭ?",
+    "answers": [
+      { "text": "City of Life", "score": 1 },
+      { "text": "Wadjda", "score": 0 },
+      { "text": "Tangerines", "score": 0 },
+      { "text": "Nova Lituania", "score": 0 }
+    ]
+  },
+  {
+    "question": "Какой эмиратский постапокалиптический фильм 2016 года получил международное внимание?",
+    "answers": [
+      { "text": "The Worthy", "score": 1 },
+      { "text": "The Other Dream Team", "score": 0 },
+      { "text": "Away", "score": 0 },
+      { "text": "Лаутары", "score": 0 }
+    ]
+  },
+  {
+    "question": "Как называется структура в ОАЭ, привлекающая и сопровождающая международные съемки в Абу-Даби?",
+    "answers": [
+      { "text": "Abu Dhabi Film Commission", "score": 1 },
+      { "text": "Doha Film Institute", "score": 0 },
+      { "text": "Bahrain Cinema Club", "score": 0 },
+      { "text": "Kino Pavasaris Board", "score": 0 }
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya micronesia: capital city.",
+        "answers":  [
+                        {
+                            "text":  "Palikir",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vaiaku on Funafuti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1978",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nine atolls",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya micronesia: Compact era start year.",
+        "answers":  [
+                        {
+                            "text":  "1986",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vaiaku on Funafuti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1978",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nine atolls",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya micronesia: list of four states.",
+        "answers":  [
+                        {
+                            "text":  "Yap, Chuuk, Pohnpei, Kosrae",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vaiaku on Funafuti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1978",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nine atolls",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya micronesia: currency in daily use.",
+        "answers":  [
+                        {
+                            "text":  "US dollar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vaiaku on Funafuti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1978",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nine atolls",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya micronesia: political form.",
+        "answers":  [
+                        {
+                            "text":  "Pacific federation",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vaiaku on Funafuti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1978",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nine atolls",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which genre is considered a hallmark of Mozambican urban popular music?",
+        "answers":  [
+                        {
+                            "text":  "Marrabenta",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Highlife",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fado",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rumba",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Timbila musical tradition is especially associated with which group in Mozambique?",
+        "answers":  [
+                        {
+                            "text":  "Chopi people",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tuareg people",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Afar people",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Zulu people",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Mozambican singer is closely linked with marrabenta classics?",
+        "answers":  [
+                        {
+                            "text":  "Wazimbo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Stewart Sukuma",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Youssou N Dour",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bombino",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which artist is a well-known modern performer in Mozambican popular music?",
+        "answers":  [
+                        {
+                            "text":  "Stewart Sukuma",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Salif Keita",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ali Farka Toure",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fela Kuti",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Modern Mozambican pop often blends marrabenta with what broader sound?",
+        "answers":  [
+                        {
+                            "text":  "Afro-pop",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bluegrass",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ska-punk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gregorian chant",
+                            "score":  0
+                        }
+                    ]
+    }
+]

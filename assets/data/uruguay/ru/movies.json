@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Какое крупное кинособытие проходит в Монтевидео?",
+        "answers":  [
+                        {
+                            "text":  "Uruguay International Film Festival",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Venice Film Festival",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Locarno Film Festival",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Toronto International Film Festival",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой уругвайский режиссер стал всемирно известным после Ataque de panico!?",
+        "answers":  [
+                        {
+                            "text":  "Fede Alvarez",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pablo Stoll",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alvaro Brechner",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cesar Charlone",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой уругвайский фильм рассказывает о туалете, построенном к визиту Папы?",
+        "answers":  [
+                        {
+                            "text":  "The Popes Toilet",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Whisky",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gigante",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mr Kaplan",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой фильм из Уругвая посвящен политзаключенным в эпоху диктатуры?",
+        "answers":  [
+                        {
+                            "text":  "A Twelve-Year Night",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Silent House",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mal dia para pescar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "25 Watts",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какая модель производства часто используется в кино Уругвая?",
+        "answers":  [
+                        {
+                            "text":  "Международные копродукции",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Только государственные студии",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Только немое кино",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Без зарубежных партнерств",
+                            "score":  0
+                        }
+                    ]
+    }
+]

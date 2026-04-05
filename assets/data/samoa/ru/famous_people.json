@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Какой самоанский лидер много десятилетий был главой государства?",
+        "answers":  [
+                        {
+                            "text":  "Malietoa Tanumafili II",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fiame Naomi Mataafa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "David Tua",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sia Figiel",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Кто является действующим премьер-министром Самоа?",
+        "answers":  [
+                        {
+                            "text":  "Fiame Naomi Mataafa",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tuilaepa Sailele Malielegaoi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Malietoa Tanumafili II",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Russ Kun",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой самоанский политик много лет был премьер-министром до 2021 года?",
+        "answers":  [
+                        {
+                            "text":  "Tuilaepa Sailele Malielegaoi",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fiame Naomi Mataafa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hamani Diori",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Marcus Stephen",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой боксер из Самоа прославился в супертяжелом весе?",
+        "answers":  [
+                        {
+                            "text":  "David Tua",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Joseph Parker",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lennox Lewis",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vitali Klitschko",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какая самоанская писательница известна романом Where We Once Belonged?",
+        "answers":  [
+                        {
+                            "text":  "Sia Figiel",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Selina Tusitala Marsh",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Patricia Grace",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Albert Wendt",
+                            "score":  0
+                        }
+                    ]
+    }
+]

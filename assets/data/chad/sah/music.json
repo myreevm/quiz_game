@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "SAH: Sop eppieti tal chad: regional style blend in many Chadian songs.",
+        "answers":  [
+                        {
+                            "text":  "Sahelian blend",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Log drum and pate",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Church choir singing",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal chad: popular modern Chadian singer.",
+        "answers":  [
+                        {
+                            "text":  "Dary",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Log drum and pate",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Church choir singing",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal chad: ceremonial long trumpet used in the region.",
+        "answers":  [
+                        {
+                            "text":  "Kakaki",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Log drum and pate",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Church choir singing",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal chad: core element of festive traditional performance.",
+        "answers":  [
+                        {
+                            "text":  "Percussion traditions",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Log drum and pate",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Church choir singing",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal chad: modern trend that mixes with local music.",
+        "answers":  [
+                        {
+                            "text":  "Multilingual pop",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Log drum and pate",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Church choir singing",
+                            "score":  0
+                        }
+                    ]
+    }
+]

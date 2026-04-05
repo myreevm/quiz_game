@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Непал норуот ырыаларыгар сурун туттуллар барабан ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Madal",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tabla",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dhol",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mridangam",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Непал норуот музыкатаҕа ханнык смычоктаах инструмент элбэх?",
+        "answers":  [
+                        {
+                            "text":  "Sarangi",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sitar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bansuri",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Veena",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Биллэр непал икки киһи норуот ыллааһын стилин аата ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Dohori",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ghazal",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Qawwali",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bhajan",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Непалы Swar Samrat диэн ким ыллааччыны ааттыылларый?",
+        "answers":  [
+                        {
+                            "text":  "Narayan Gopal",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bachchu Kailash",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yogeshwar Amatya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nabin K Bhattarai",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "1974 AD диэн ахсааннаах биллэр непал рок-группа ханнык?",
+        "answers":  [
+                        {
+                            "text":  "1974 AD",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nepathya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cobweb",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kutumba",
+                            "score":  0
+                        }
+                    ]
+    }
+]

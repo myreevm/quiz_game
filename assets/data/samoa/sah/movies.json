@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "The Orator самоа киинэтин ким режиссерата этэй?",
+        "answers":  [
+                        {
+                            "text":  "Tusi Tamasese",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Taika Waititi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lee Tamahori",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ava DuVernay",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "The Orator киинэтэ ханнык тылынан сурунан этиллэрий?",
+        "answers":  [
+                        {
+                            "text":  "Samoan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "English",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Maori",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tongan",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Самоаҕа сурун киинэ уонна медиа төвө ханнык куорат?",
+        "answers":  [
+                        {
+                            "text":  "Apia",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vaitele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Asau",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mulifanua",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Самоа киинэтэ ханнык регионнаан элбэхтик үлэлиирий?",
+        "answers":  [
+                        {
+                            "text":  "Тихий океан копродукцияларынан",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Скандинавия копродукцияларынан",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Анд копродукцияларынан",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Балтика копродукцияларынан",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "2010-с сылларга самоа тыллаах киинэҕэ ханнык сурун түһүмэх буолла?",
+        "answers":  [
+                        {
+                            "text":  "The Orator аан дойду билиниитэ",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nollywood төрөөнө",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Самоаҕа бастакы Cannes кыайыыта",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Государство эрэ студия систематын оҥоруу",
+                            "score":  0
+                        }
+                    ]
+    }
+]

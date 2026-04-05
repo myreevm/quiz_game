@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "What is the capital of Estonia?",
+    "answers": [
+      { "text": "Tallinn", "score": 1 },
+      { "text": "Tartu", "score": 0 },
+      { "text": "Parnu", "score": 0 },
+      { "text": "Narva", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Estonia first declare independence?",
+    "answers": [
+      { "text": "1918", "score": 1 },
+      { "text": "1905", "score": 0 },
+      { "text": "1940", "score": 0 },
+      { "text": "1991", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Estonia restore independence from the USSR?",
+    "answers": [
+      { "text": "1991", "score": 1 },
+      { "text": "1987", "score": 0 },
+      { "text": "1993", "score": 0 },
+      { "text": "2004", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Estonia join both the EU and NATO?",
+    "answers": [
+      { "text": "2004", "score": 1 },
+      { "text": "1999", "score": 0 },
+      { "text": "2007", "score": 0 },
+      { "text": "2011", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the official state language of Estonia?",
+    "answers": [
+      { "text": "Estonian", "score": 1 },
+      { "text": "Finnish", "score": 0 },
+      { "text": "Latvian", "score": 0 },
+      { "text": "Swedish", "score": 0 }
+    ]
+  }
+]

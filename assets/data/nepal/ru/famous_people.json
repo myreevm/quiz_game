@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Какой король объединил большую часть современного Непала в XVIII веке?",
+        "answers":  [
+                        {
+                            "text":  "Prithvi Narayan Shah",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tribhuvan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mahendra",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Birendra",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "С рождением кого традиционно связывают Лумбини в Непале?",
+        "answers":  [
+                        {
+                            "text":  "Buddha",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ashoka",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Guru Nanak",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mahavira",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой непальский альпинист поднялся на Эверест с Эдмундом Хиллари в 1953 году?",
+        "answers":  [
+                        {
+                            "text":  "Tenzing Norgay",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Apa Sherpa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nirmal Purja",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kami Rita",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Кто стала первой непальской женщиной, поднявшейся на Эверест?",
+        "answers":  [
+                        {
+                            "text":  "Pasang Lhamu Sherpa",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lhakpa Sherpa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dawa Yangzum",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mira Rai",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой поэт известен переводом Рамаяны на непальский язык?",
+        "answers":  [
+                        {
+                            "text":  "Bhanubhakta Acharya",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Laxmi Prasad Devkota",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Madhav Ghimire",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Parijat",
+                            "score":  0
+                        }
+                    ]
+    }
+]

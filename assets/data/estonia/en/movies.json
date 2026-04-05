@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "What does the abbreviation POFF stand for in Estonia?",
+    "answers": [
+      { "text": "Tallinn Black Nights Film Festival", "score": 1 },
+      { "text": "Parnu Open Film Forum", "score": 0 },
+      { "text": "Public Office of Film Funding", "score": 0 },
+      { "text": "People's Oscar Film Foundation", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Estonian film was nominated for the Oscar as a foreign-language film in 2015?",
+    "answers": [
+      { "text": "Tangerines", "score": 1 },
+      { "text": "Truth and Justice", "score": 0 },
+      { "text": "November", "score": 0 },
+      { "text": "The Class", "score": 0 }
+    ]
+  },
+  {
+    "question": "The Estonian film Truth and Justice is based on a novel by which writer?",
+    "answers": [
+      { "text": "Anton Hansen Tammsaare", "score": 1 },
+      { "text": "Jaan Kross", "score": 0 },
+      { "text": "Andrus Kivirahk", "score": 0 },
+      { "text": "Mats Traat", "score": 0 }
+    ]
+  },
+  {
+    "question": "What was the name of the Soviet-era film studio in Estonia?",
+    "answers": [
+      { "text": "Tallinnfilm", "score": 1 },
+      { "text": "Eesti Kino", "score": 0 },
+      { "text": "Baltfilm", "score": 0 },
+      { "text": "Nordic Studio", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Estonian director made films such as Autumn Ball and Free Range?",
+    "answers": [
+      { "text": "Veiko Ounpuu", "score": 1 },
+      { "text": "Ilmar Raag", "score": 0 },
+      { "text": "Sulev Keedus", "score": 0 },
+      { "text": "Andres Puustusmaa", "score": 0 }
+    ]
+  }
+]

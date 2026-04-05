@@ -1,0 +1,107 @@
+[
+  {
+    "question": "What is the name of Turkmenistan's national film studio?",
+    "answers": [
+      {
+        "text": "Turkmenfilm",
+        "score": 1
+      },
+      {
+        "text": "Kazakhfilm",
+        "score": 0
+      },
+      {
+        "text": "Uzbekkino",
+        "score": 0
+      },
+      {
+        "text": "Mosfilm",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which director made the Turkmen classic The Daughter-in-Law?",
+    "answers": [
+      {
+        "text": "Khodzhakuli Narliev",
+        "score": 1
+      },
+      {
+        "text": "Rithy Panh",
+        "score": 0
+      },
+      {
+        "text": "Raymond Rajaonarivelo",
+        "score": 0
+      },
+      {
+        "text": "Haifaa Al-Mansour",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which city is the main film-production hub of Turkmenistan?",
+    "answers": [
+      {
+        "text": "Ashgabat",
+        "score": 1
+      },
+      {
+        "text": "Balkanabat",
+        "score": 0
+      },
+      {
+        "text": "Turkmenbashy",
+        "score": 0
+      },
+      {
+        "text": "Mary",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Turkmen cinema developed strongly under which historical period?",
+    "answers": [
+      {
+        "text": "Soviet period",
+        "score": 1
+      },
+      {
+        "text": "Timurid period",
+        "score": 0
+      },
+      {
+        "text": "Safavid period",
+        "score": 0
+      },
+      {
+        "text": "Mongol period",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which film title is considered one of the key classics of Turkmen cinema?",
+    "answers": [
+      {
+        "text": "The Daughter-in-Law",
+        "score": 1
+      },
+      {
+        "text": "Wadjda",
+        "score": 0
+      },
+      {
+        "text": "Virunga",
+        "score": 0
+      },
+      {
+        "text": "City of Life",
+        "score": 0
+      }
+    ]
+  }
+]

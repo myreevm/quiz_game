@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which instrument is a traditional harp in Mauritanian music?",
+        "answers":  [
+                        {
+                            "text":  "Ardin",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kora",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Santoor",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Daf",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which plucked lute is central to traditional Mauritanian music?",
+        "answers":  [
+                        {
+                            "text":  "Tidinit",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Balalaika",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bandoneon",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Setar",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the name of the hereditary musician tradition in Mauritania?",
+        "answers":  [
+                        {
+                            "text":  "Iggawin",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Muwashshah",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Qawwali",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gnawa",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which artist is one of Mauritania\u0027s most iconic traditional singers?",
+        "answers":  [
+                        {
+                            "text":  "Dimi Mint Abba",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cheb Khaled",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nancy Ajram",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rashid Taha",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Mauritanian music is best described as a blend of which traditions?",
+        "answers":  [
+                        {
+                            "text":  "Arab Berber and West African",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nordic and Celtic",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Andean and Caribbean",
+                            "score":  0
+                        },
+                        {
+                            "text":  "East Asian and Pacific",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Monaco is a city state located on which coast?",
+        "answers":  [
+                        {
+                            "text":  "French Riviera",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Baltic coast",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Black Sea coast",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Atlantic coast",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year was Monaco\u0027s sovereignty recognized by treaty with France?",
+        "answers":  [
+                        {
+                            "text":  "1861",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1815",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1918",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1958",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which ruling family has governed Monaco for centuries?",
+        "answers":  [
+                        {
+                            "text":  "Grimaldi",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bourbon",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Habsburg",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Savoy",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the currency code used in Monaco?",
+        "answers":  [
+                        {
+                            "text":  "EUR",
+                            "score":  1
+                        },
+                        {
+                            "text":  "CHF",
+                            "score":  0
+                        },
+                        {
+                            "text":  "FRF",
+                            "score":  0
+                        },
+                        {
+                            "text":  "MCO",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is Monaco\u0027s famous district known for the casino and luxury tourism?",
+        "answers":  [
+                        {
+                            "text":  "Monte Carlo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "La Condamine",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fontvieille",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Moneghetti",
+                            "score":  0
+                        }
+                    ]
+    }
+]

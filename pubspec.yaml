@@ -29,6 +29,7 @@ flutter:
   assets:
     - assets/flags/
     - assets/question_images/
+    - assets/world-map-no-labels.svg
     - output/imagegen/world_map_no_labels_8k.png
     - assets/data/russia/en/
     - assets/data/russia/ru/
@@ -188,6 +189,126 @@ flutter:
     - assets/data/belarus/en/
     - assets/data/belarus/ru/
     - assets/data/belarus/sah/
+    - assets/data/estonia/en/
+    - assets/data/estonia/ru/
+    - assets/data/estonia/sah/
+    - assets/data/latvia/en/
+    - assets/data/latvia/ru/
+    - assets/data/latvia/sah/
+    - assets/data/lithuania/en/
+    - assets/data/lithuania/ru/
+    - assets/data/lithuania/sah/
+    - assets/data/moldova/en/
+    - assets/data/moldova/ru/
+    - assets/data/moldova/sah/
+    - assets/data/uae/en/
+    - assets/data/uae/ru/
+    - assets/data/uae/sah/
+    - assets/data/bahrain/en/
+    - assets/data/bahrain/ru/
+    - assets/data/bahrain/sah/
+    - assets/data/qatar/en/
+    - assets/data/qatar/ru/
+    - assets/data/qatar/sah/
+    - assets/data/saudi_arabia/en/
+    - assets/data/saudi_arabia/ru/
+    - assets/data/saudi_arabia/sah/
+    - assets/data/belgium/en/
+    - assets/data/belgium/ru/
+    - assets/data/belgium/sah/
+    - assets/data/denmark/en/
+    - assets/data/denmark/ru/
+    - assets/data/denmark/sah/
+    - assets/data/ireland/en/
+    - assets/data/ireland/ru/
+    - assets/data/ireland/sah/
+    - assets/data/netherlands/en/
+    - assets/data/netherlands/ru/
+    - assets/data/netherlands/sah/
+    - assets/data/malta/en/
+    - assets/data/malta/ru/
+    - assets/data/malta/sah/
+    - assets/data/monaco/en/
+    - assets/data/monaco/ru/
+    - assets/data/monaco/sah/
+    - assets/data/liechtenstein/en/
+    - assets/data/liechtenstein/ru/
+    - assets/data/liechtenstein/sah/
+    - assets/data/luxembourg/en/
+    - assets/data/luxembourg/ru/
+    - assets/data/luxembourg/sah/
+    - assets/data/dr_congo/en/
+    - assets/data/dr_congo/ru/
+    - assets/data/dr_congo/sah/
+    - assets/data/congo_republic/en/
+    - assets/data/congo_republic/ru/
+    - assets/data/congo_republic/sah/
+    - assets/data/zambia/en/
+    - assets/data/zambia/ru/
+    - assets/data/zambia/sah/
+    - assets/data/namibia/en/
+    - assets/data/namibia/ru/
+    - assets/data/namibia/sah/
+    - assets/data/cambodia/en/
+    - assets/data/cambodia/ru/
+    - assets/data/cambodia/sah/
+    - assets/data/madagascar/en/
+    - assets/data/madagascar/ru/
+    - assets/data/madagascar/sah/
+    - assets/data/turkmenistan/en/
+    - assets/data/turkmenistan/ru/
+    - assets/data/turkmenistan/sah/
+    - assets/data/oman/en/
+    - assets/data/oman/ru/
+    - assets/data/oman/sah/
+    - assets/data/mali/en/
+    - assets/data/mali/ru/
+    - assets/data/mali/sah/
+    - assets/data/mauritania/en/
+    - assets/data/mauritania/ru/
+    - assets/data/mauritania/sah/
+    - assets/data/kuwait/en/
+    - assets/data/kuwait/ru/
+    - assets/data/kuwait/sah/
+    - assets/data/angola/en/
+    - assets/data/angola/ru/
+    - assets/data/angola/sah/
+    - assets/data/nigeria/en/
+    - assets/data/nigeria/ru/
+    - assets/data/nigeria/sah/
+    - assets/data/nepal/en/
+    - assets/data/nepal/ru/
+    - assets/data/nepal/sah/
+    - assets/data/uruguay/en/
+    - assets/data/uruguay/ru/
+    - assets/data/uruguay/sah/
+    - assets/data/north_macedonia/en/
+    - assets/data/north_macedonia/ru/
+    - assets/data/north_macedonia/sah/
+    - assets/data/samoa/en/
+    - assets/data/samoa/ru/
+    - assets/data/samoa/sah/
+    - assets/data/mozambique/en/
+    - assets/data/mozambique/ru/
+    - assets/data/mozambique/sah/
+    - assets/data/nauru/en/
+    - assets/data/nauru/ru/
+    - assets/data/nauru/sah/
+    - assets/data/niger/en/
+    - assets/data/niger/ru/
+    - assets/data/niger/sah/
+    - assets/data/chad/en/
+    - assets/data/chad/ru/
+    - assets/data/chad/sah/
+    - assets/data/tuvalu/en/
+    - assets/data/tuvalu/ru/
+    - assets/data/tuvalu/sah/
+    - assets/data/micronesia/en/
+    - assets/data/micronesia/ru/
+    - assets/data/micronesia/sah/
+    - assets/data/mauritius/en/
+    - assets/data/mauritius/ru/
+    - assets/data/mauritius/sah/
     - assets/data/argentina/en/
     - assets/data/argentina/ru/
     - assets/data/argentina/sah/

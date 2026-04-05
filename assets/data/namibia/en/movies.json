@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Which major action film shot key desert sequences in Namibia and was released in 2015?",
+    "answers": [
+      { "text": "Mad Max: Fury Road", "score": 1 },
+      { "text": "Virunga", "score": 0 },
+      { "text": "I Am Not a Witch", "score": 0 },
+      { "text": "Felicite", "score": 0 }
+    ]
+  },
+  {
+    "question": "Why is Namibia often selected as an international filming location?",
+    "answers": [
+      { "text": "Its dramatic deserts and wide open landscapes", "score": 1 },
+      { "text": "Its large tropical rainforests", "score": 0 },
+      { "text": "Its permanent snow-covered mountains", "score": 0 },
+      { "text": "Its dense medieval old towns", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which city is the main administrative and cultural hub for Namibia's film activity?",
+    "answers": [
+      { "text": "Windhoek", "score": 1 },
+      { "text": "Walvis Bay", "score": 0 },
+      { "text": "Outjo", "score": 0 },
+      { "text": "Rundu", "score": 0 }
+    ]
+  },
+  {
+    "question": "How is Namibia's local film industry generally described today?",
+    "answers": [
+      { "text": "Developing with growing local production support", "score": 1 },
+      { "text": "Completely absent", "score": 0 },
+      { "text": "Limited only to silent films", "score": 0 },
+      { "text": "Focused only on imported TV ads", "score": 0 }
+    ]
+  },
+  {
+    "question": "Namibian film projects often cooperate with producers from which regions?",
+    "answers": [
+      { "text": "Southern Africa and Europe", "score": 1 },
+      { "text": "Only North America", "score": 0 },
+      { "text": "Only East Asia", "score": 0 },
+      { "text": "Only South America", "score": 0 }
+    ]
+  }
+]

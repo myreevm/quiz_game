@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Which Dutch painter created 'The Starry Night'?",
+    "answers": [
+      { "text": "Vincent van Gogh", "score": 1 },
+      { "text": "Piet Mondrian", "score": 0 },
+      { "text": "Rembrandt", "score": 0 },
+      { "text": "Johannes Vermeer", "score": 0 }
+    ]
+  },
+  {
+    "question": "Whose diary became one of the most famous books about World War II?",
+    "answers": [
+      { "text": "Anne Frank", "score": 1 },
+      { "text": "Mata Hari", "score": 0 },
+      { "text": "Saskia van Uylenburgh", "score": 0 },
+      { "text": "Aletta Jacobs", "score": 0 }
+    ]
+  },
+  {
+    "question": "Johan Cruyff became a legend in which sport?",
+    "answers": [
+      { "text": "Football", "score": 1 },
+      { "text": "Tennis", "score": 0 },
+      { "text": "Cycling", "score": 0 },
+      { "text": "Speed skating", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which thinker is known as Erasmus of Rotterdam?",
+    "answers": [
+      { "text": "Desiderius Erasmus", "score": 1 },
+      { "text": "Baruch Spinoza", "score": 0 },
+      { "text": "Hugo Grotius", "score": 0 },
+      { "text": "Antonie van Leeuwenhoek", "score": 0 }
+    ]
+  },
+  {
+    "question": "Antonie van Leeuwenhoek is considered a pioneer of...",
+    "answers": [
+      { "text": "Microscopy", "score": 1 },
+      { "text": "Aviation", "score": 0 },
+      { "text": "Geology", "score": 0 },
+      { "text": "Opera", "score": 0 }
+    ]
+  }
+]

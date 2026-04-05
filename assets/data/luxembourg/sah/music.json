@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Люксембург государственнай гимнын аата ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Ons Heemecht",
+                            "score":  1
+                        },
+                        {
+                            "text":  "La Brabanconne",
+                            "score":  0
+                        },
+                        {
+                            "text":  "De Wilhelmus",
+                            "score":  0
+                        },
+                        {
+                            "text":  "O Canada",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Люксембург сүрүн концертнай залын аата ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Philharmonie Luxembourg",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Royal Albert Hall",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Musikverein",
+                            "score":  0
+                        },
+                        {
+                            "text":  "KKL Luzern",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Люксембург Евровидениени нэһилиэк түгэн кыайбытый?",
+        "answers":  [
+                        {
+                            "text":  "5",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1",
+                            "score":  0
+                        },
+                        {
+                            "text":  "3",
+                            "score":  0
+                        },
+                        {
+                            "text":  "7",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Корин Эрмес Люксембург иһин Евровидениени ханнык сыллаахха кыайбытый?",
+        "answers":  [
+                        {
+                            "text":  "1983",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1973",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1993",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2003",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Люксембург билиҥҥи музыкальнай сцена хайдах быһыылаах диэн сүрүннээн ааҕылларый?",
+        "answers":  [
+                        {
+                            "text":  "Көп тыллаах уонна международнай",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Только фольклор",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Только классика",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Только электроннай",
+                            "score":  0
+                        }
+                    ]
+    }
+]

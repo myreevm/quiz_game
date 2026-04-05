@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Which organization supports filmmaking development in Oman?",
+    "answers": [
+      {
+        "text": "Oman Film Society",
+        "score": 1
+      },
+      {
+        "text": "Doha Film Institute",
+        "score": 0
+      },
+      {
+        "text": "Turkmenfilm",
+        "score": 0
+      },
+      {
+        "text": "Tallinnfilm",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the international film festival held in Muscat?",
+    "answers": [
+      {
+        "text": "Muscat International Film Festival",
+        "score": 1
+      },
+      {
+        "text": "Ajyal Film Festival",
+        "score": 0
+      },
+      {
+        "text": "Red Sea IFF",
+        "score": 0
+      },
+      {
+        "text": "CIFF",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which format has been especially important for emerging Omani filmmakers?",
+    "answers": [
+      {
+        "text": "Short films",
+        "score": 1
+      },
+      {
+        "text": "Silent cinema",
+        "score": 0
+      },
+      {
+        "text": "Animated series",
+        "score": 0
+      },
+      {
+        "text": "TV soap operas",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Omani screen projects are often made in cooperation with which partners?",
+    "answers": [
+      {
+        "text": "Regional co-production partners",
+        "score": 1
+      },
+      {
+        "text": "Only Hollywood studios",
+        "score": 0
+      },
+      {
+        "text": "Only European public TV",
+        "score": 0
+      },
+      {
+        "text": "Only Indian studios",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which city is considered the main hub of Oman's film scene?",
+    "answers": [
+      {
+        "text": "Muscat",
+        "score": 1
+      },
+      {
+        "text": "Salalah",
+        "score": 0
+      },
+      {
+        "text": "Nizwa",
+        "score": 0
+      },
+      {
+        "text": "Sohar",
+        "score": 0
+      }
+    ]
+  }
+]

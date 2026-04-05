@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Ханнык Самоа лидера уһун кэмгэ дойду баһылыга буолбутуй?",
+        "answers":  [
+                        {
+                            "text":  "Malietoa Tanumafili II",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fiame Naomi Mataafa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "David Tua",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sia Figiel",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Билигин Самоа премьер-министира кимий?",
+        "answers":  [
+                        {
+                            "text":  "Fiame Naomi Mataafa",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tuilaepa Sailele Malielegaoi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Malietoa Tanumafili II",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Russ Kun",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "2021 сылга диэри Самоа премьер-министира буолан уһун сыл үлэлээбит кимий?",
+        "answers":  [
+                        {
+                            "text":  "Tuilaepa Sailele Malielegaoi",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fiame Naomi Mataafa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hamani Diori",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Marcus Stephen",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Самоаттан тахсыбыт ханнык боксер хэвиуэйтга биллэрбитий?",
+        "answers":  [
+                        {
+                            "text":  "David Tua",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Joseph Parker",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lennox Lewis",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vitali Klitschko",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Where We Once Belonged романыгар биллэр самоа суруйааччыта кимий?",
+        "answers":  [
+                        {
+                            "text":  "Sia Figiel",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Selina Tusitala Marsh",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Patricia Grace",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Albert Wendt",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Tiësto туохха саамай биллэрий?",
+    "answers": [
+      { "text": "DJ уонна продюсер", "score": 1 },
+      { "text": "Классическай пианист", "score": 0 },
+      { "text": "Опера ырыаһытааччы", "score": 0 },
+      { "text": "Кинокомпозитор", "score": 0 }
+    ]
+  },
+  {
+    "question": "Armin van Buuren ханнык музыкальнай жанрга биллэрий?",
+    "answers": [
+      { "text": "Транс", "score": 1 },
+      { "text": "Регги", "score": 0 },
+      { "text": "Фламенко", "score": 0 },
+      { "text": "Блюз", "score": 0 }
+    ]
+  },
+  {
+    "question": "Евровидение-2019ҕа Нидерландка кыайыыны аҕалбыт ырыа хайдаҕый?",
+    "answers": [
+      { "text": "Arcade", "score": 1 },
+      { "text": "Euphoria", "score": 0 },
+      { "text": "Heroes", "score": 0 },
+      { "text": "Tattoo", "score": 0 }
+    ]
+  },
+  {
+    "question": "«Radar Love» хиты ким ырыатааҕый?",
+    "answers": [
+      { "text": "Golden Earring", "score": 1 },
+      { "text": "Within Temptation", "score": 0 },
+      { "text": "Kensington", "score": 0 },
+      { "text": "Vengaboys", "score": 0 }
+    ]
+  },
+  {
+    "question": "Андре Рьё ханнык куоракка төрөөбүтүй?",
+    "answers": [
+      { "text": "Маастрихт", "score": 1 },
+      { "text": "Роттердам", "score": 0 },
+      { "text": "Леуварден", "score": 0 },
+      { "text": "Делфт", "score": 0 }
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Какая столица Самоа?",
+        "answers":  [
+                        {
+                            "text":  "Apia",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Suva",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nuku alofa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pago Pago",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "В каком году Самоа получила независимость?",
+        "answers":  [
+                        {
+                            "text":  "1962",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1957",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1975",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1984",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "В каком году название было изменено с Западного Самоа на Самоа?",
+        "answers":  [
+                        {
+                            "text":  "1997",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1991",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1987",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2001",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какая валюта Самоа?",
+        "answers":  [
+                        {
+                            "text":  "Samoan tala (WST)",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fijian dollar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "US dollar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "New Zealand dollar",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какая пара является двумя главными островами Самоа?",
+        "answers":  [
+                        {
+                            "text":  "Upolu and Savaii",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Viti Levu and Vanua Levu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tongatapu and Eua",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tahiti and Moorea",
+                            "score":  0
+                        }
+                    ]
+    }
+]

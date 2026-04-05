@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "SAH: Sop eppieti tal tuvalu: well-known traditional dance-song form.",
+        "answers":  [
+                        {
+                            "text":  "Fatele",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Log drum and pate",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Church choir singing",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ukulele and guitar ensembles",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal tuvalu: traditional rhythm instrument type.",
+        "answers":  [
+                        {
+                            "text":  "Log drum and pate",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Church choir singing",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ukulele and guitar ensembles",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal tuvalu: important vocal community tradition.",
+        "answers":  [
+                        {
+                            "text":  "Church choir singing",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Log drum and pate",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ukulele and guitar ensembles",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal tuvalu: common modern accompaniment.",
+        "answers":  [
+                        {
+                            "text":  "Ukulele and guitar ensembles",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Log drum and pate",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Church choir singing",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal tuvalu: typical performance structure.",
+        "answers":  [
+                        {
+                            "text":  "Dance-song group forms",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Log drum and pate",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Church choir singing",
+                            "score":  0
+                        }
+                    ]
+    }
+]

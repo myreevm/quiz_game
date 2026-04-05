@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Какой национальный орган продвигает и поддерживает кинопроизводство на Мальте?",
+        "answers":  [
+                        {
+                            "text":  "Malta Film Commission",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Maltese Screen Council",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Valletta Cinema Office",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Island Film Board",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой студийный комплекс на Мальте известен большими водными резервуарами для съемок?",
+        "answers":  [
+                        {
+                            "text":  "Mediterranean Film Studios",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pinewood Malta",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Valletta Studios",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fort St Elmo Studios",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой музыкальный фильм фэнтези 1980 года снимался на Мальте?",
+        "answers":  [
+                        {
+                            "text":  "Popeye",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Grease",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Flash Gordon",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Annie",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой исторический эпик 2000 года использовал локации Мальты?",
+        "answers":  [
+                        {
+                            "text":  "Gladiator",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kingdom of Heaven",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alexander",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Centurion",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой эпический фильм 2004 года использовал мальтийские локации для сцен древнего города?",
+        "answers":  [
+                        {
+                            "text":  "Troy",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ben Hur",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Last Samurai",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cleopatra",
+                            "score":  0
+                        }
+                    ]
+    }
+]

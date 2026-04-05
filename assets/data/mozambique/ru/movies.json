@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Какой режиссер известен социально значимым кино в Мозамбике?",
+        "answers":  [
+                        {
+                            "text":  "Licinio Azevedo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pedro Costa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Abderrahmane Sissako",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mira Nair",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой фильм Лисиниу Азеведу рассказывает о лагере перевоспитания для женщин?",
+        "answers":  [
+                        {
+                            "text":  "Virgem Margarida",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Orator",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cabascabo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Honeyland",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой мозамбикский фильм известен на английском как The Train of Salt and Sugar?",
+        "answers":  [
+                        {
+                            "text":  "Comboio de Sal e Acucar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Virgem Margarida",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mueda",
+                            "score":  0
+                        },
+                        {
+                            "text":  "O Heroi",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "С каким городом связан документальный кинофорум DOCKANEMA?",
+        "answers":  [
+                        {
+                            "text":  "Maputo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nampula",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pemba",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Xai-Xai",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "В каком городе в основном сосредоточены национальные киноинституции Мозамбика?",
+        "answers":  [
+                        {
+                            "text":  "Maputo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Beira",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tete",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lichinga",
+                            "score":  0
+                        }
+                    ]
+    }
+]

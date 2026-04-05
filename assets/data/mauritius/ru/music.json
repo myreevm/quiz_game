@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya mauritius: best-known traditional style.",
+        "answers":  [
+                        {
+                            "text":  "Sega",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Log drum and pate",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Church choir singing",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya mauritius: fusion genre associated with Kaya.",
+        "answers":  [
+                        {
+                            "text":  "Seggae",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Log drum and pate",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Church choir singing",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya mauritius: traditional percussion instrument.",
+        "answers":  [
+                        {
+                            "text":  "Ravanne",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Log drum and pate",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Church choir singing",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya mauritius: artist linked to seggae legacy.",
+        "answers":  [
+                        {
+                            "text":  "Kaya",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Log drum and pate",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Church choir singing",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya mauritius: modern blend profile.",
+        "answers":  [
+                        {
+                            "text":  "Creole-Indian-African fusion",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Log drum and pate",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Church choir singing",
+                            "score":  0
+                        }
+                    ]
+    }
+]

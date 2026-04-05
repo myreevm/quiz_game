@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What is the capital city of Qatar?",
+    "answers": [
+      { "text": "Doha", "score": 1 },
+      { "text": "Al Rayyan", "score": 0 },
+      { "text": "Lusail", "score": 0 },
+      { "text": "Manama", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Qatar become independent?",
+    "answers": [
+      { "text": "1971", "score": 1 },
+      { "text": "1961", "score": 0 },
+      { "text": "1981", "score": 0 },
+      { "text": "1991", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which major world event did Qatar host in 2022?",
+    "answers": [
+      { "text": "FIFA World Cup", "score": 1 },
+      { "text": "Olympic Games", "score": 0 },
+      { "text": "Expo World Fair", "score": 0 },
+      { "text": "Asian Winter Games", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the name of Qatar's giant natural gas field shared with Iran?",
+    "answers": [
+      { "text": "North Field", "score": 1 },
+      { "text": "Ghawar Field", "score": 0 },
+      { "text": "Burgan Field", "score": 0 },
+      { "text": "Shah Field", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the official currency of Qatar?",
+    "answers": [
+      { "text": "Qatari riyal (QAR)", "score": 1 },
+      { "text": "UAE dirham (AED)", "score": 0 },
+      { "text": "Saudi riyal (SAR)", "score": 0 },
+      { "text": "Bahraini dinar (BHD)", "score": 0 }
+    ]
+  }
+]

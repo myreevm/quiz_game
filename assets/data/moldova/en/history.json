@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "What is the capital of Moldova?",
+    "answers": [
+      { "text": "Chisinau", "score": 1 },
+      { "text": "Balti", "score": 0 },
+      { "text": "Comrat", "score": 0 },
+      { "text": "Tiraspol", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Moldova declare independence?",
+    "answers": [
+      { "text": "1991", "score": 1 },
+      { "text": "1989", "score": 0 },
+      { "text": "1993", "score": 0 },
+      { "text": "2001", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which river forms much of Moldova's eastern border?",
+    "answers": [
+      { "text": "Dniester", "score": 1 },
+      { "text": "Danube", "score": 0 },
+      { "text": "Prut", "score": 0 },
+      { "text": "Neman", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the autonomous territorial unit in southern Moldova called?",
+    "answers": [
+      { "text": "Gagauzia", "score": 1 },
+      { "text": "Transylvania", "score": 0 },
+      { "text": "Bukovina", "score": 0 },
+      { "text": "Samogitia", "score": 0 }
+    ]
+  },
+  {
+    "question": "Moldova borders Romania and which other country?",
+    "answers": [
+      { "text": "Ukraine", "score": 1 },
+      { "text": "Belarus", "score": 0 },
+      { "text": "Poland", "score": 0 },
+      { "text": "Hungary", "score": 0 }
+    ]
+  }
+]

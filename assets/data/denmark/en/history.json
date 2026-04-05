@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What is the capital of Denmark?",
+    "answers": [
+      { "text": "Copenhagen", "score": 1 },
+      { "text": "Aarhus", "score": 0 },
+      { "text": "Odense", "score": 0 },
+      { "text": "Aalborg", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year was the Kalmar Union formed?",
+    "answers": [
+      { "text": "1397", "score": 1 },
+      { "text": "1314", "score": 0 },
+      { "text": "1453", "score": 0 },
+      { "text": "1520", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which year is associated with Denmark's constitutional monarchy system?",
+    "answers": [
+      { "text": "1849", "score": 1 },
+      { "text": "1789", "score": 0 },
+      { "text": "1901", "score": 0 },
+      { "text": "1945", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which autonomous territories are part of the Kingdom of Denmark?",
+    "answers": [
+      { "text": "Greenland and the Faroe Islands", "score": 1 },
+      { "text": "Iceland and Shetland", "score": 0 },
+      { "text": "Orkney and Gotland", "score": 0 },
+      { "text": "Azores and Madeira", "score": 0 }
+    ]
+  },
+  {
+    "question": "The Viking Age in Scandinavia is usually dated to...",
+    "answers": [
+      { "text": "8th-11th centuries", "score": 1 },
+      { "text": "3rd-6th centuries", "score": 0 },
+      { "text": "12th-15th centuries", "score": 0 },
+      { "text": "16th-18th centuries", "score": 0 }
+    ]
+  }
+]

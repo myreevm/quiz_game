@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What is the capital of the Netherlands?",
+    "answers": [
+      { "text": "Amsterdam", "score": 1 },
+      { "text": "Rotterdam", "score": 0 },
+      { "text": "The Hague", "score": 0 },
+      { "text": "Utrecht", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which city is the seat of the Dutch government and parliament?",
+    "answers": [
+      { "text": "The Hague", "score": 1 },
+      { "text": "Amsterdam", "score": 0 },
+      { "text": "Eindhoven", "score": 0 },
+      { "text": "Leiden", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year was the Dutch East India Company (VOC) founded?",
+    "answers": [
+      { "text": "1602", "score": 1 },
+      { "text": "1492", "score": 0 },
+      { "text": "1648", "score": 0 },
+      { "text": "1701", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the name of the large Dutch flood-protection project after 1953?",
+    "answers": [
+      { "text": "Delta Works", "score": 1 },
+      { "text": "Zuiderzee Plan", "score": 0 },
+      { "text": "Rhine Shield", "score": 0 },
+      { "text": "North Sea Belt", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which treaty in 1648 recognized Dutch independence from Spain?",
+    "answers": [
+      { "text": "Treaty of Munster", "score": 1 },
+      { "text": "Treaty of Utrecht", "score": 0 },
+      { "text": "Treaty of Versailles", "score": 0 },
+      { "text": "Treaty of Nijmegen", "score": 0 }
+    ]
+  }
+]

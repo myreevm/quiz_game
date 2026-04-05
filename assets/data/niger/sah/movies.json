@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Cabascabo киинэтин Нигер режиссерынан ким оҥорбутуй?",
+        "answers":  [
+                        {
+                            "text":  "Oumarou Ganda",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Moustapha Alassane",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Licinio Azevedo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Souleymane Cisse",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Нигертэн ханнык режиссер Арҕаа Африка анимациятыгар пионер диэн биллэрий?",
+        "answers":  [
+                        {
+                            "text":  "Moustapha Alassane",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Oumarou Ganda",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mahamat Saleh Haroun",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jean Rouch",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Cabascabo ханнык дойду киинэ историятын кыбытыгыттан буоларый?",
+        "answers":  [
+                        {
+                            "text":  "Niger",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mali",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Senegal",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chad",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Нигер киинэтэ ханнык улахан регион фестивалыгар уһун сибээстээх?",
+        "answers":  [
+                        {
+                            "text":  "FESPACO",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cannes",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Berlinale",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sundance",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Нигер билиҥҥи экран культуратын сурун төвө ханнык куорат?",
+        "answers":  [
+                        {
+                            "text":  "Niamey",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Agadez",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Diffa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tahoua",
+                            "score":  0
+                        }
+                    ]
+    }
+]

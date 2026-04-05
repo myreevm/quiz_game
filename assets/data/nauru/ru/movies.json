@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Как лучше всего описать внутреннюю киноиндустрию Науру сегодня?",
+        "answers":  [
+                        {
+                            "text":  "Ограниченная по масштабу",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Одна из крупнейших в Океании",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Полностью экспортно-ориентированная",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Сосредоточенная на мегастудиях анимации",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой тип локальной экранной активности распространен в общинах Науру?",
+        "answers":  [
+                        {
+                            "text":  "Community screenings",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Daily red-carpet premieres",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nationwide arthouse chains",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Large studio backlots",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "С какими партнерами чаще всего развивают проекты кинематографисты Науру?",
+        "answers":  [
+                        {
+                            "text":  "Тихоокеанские региональные копродукции и учебные программы",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Только голливудские мейджор-студии",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Только европейские общественные вещатели",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Только внутренние частные платформы",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "На каких темах часто сосредоточена документалистика о Науру?",
+        "answers":  [
+                        {
+                            "text":  "Phosphate legacy and climate challenges",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Medieval castles and knight tournaments",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Arctic exploration routes",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Renaissance court drama",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "С каким более широким контекстом сильнее всего связана экранная культура Науру?",
+        "answers":  [
+                        {
+                            "text":  "Regional Pacific media networks",
+                            "score":  1
+                        },
+                        {
+                            "text":  "South American telenovela market",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nordic noir TV ecosystem",
+                            "score":  0
+                        },
+                        {
+                            "text":  "West African studio block",
+                            "score":  0
+                        }
+                    ]
+    }
+]

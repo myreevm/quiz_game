@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "Which group released the hit Dragostea Din Tei?",
+    "answers": [
+      { "text": "O-Zone", "score": 1 },
+      { "text": "Zdob si Zdub", "score": 0 },
+      { "text": "SunStroke Project", "score": 0 },
+      { "text": "Carla's Dreams", "score": 0 }
+    ]
+  },
+  {
+    "question": "Dan Balan became famous first as a member of which band?",
+    "answers": [
+      { "text": "O-Zone", "score": 1 },
+      { "text": "Bi-2", "score": 0 },
+      { "text": "Mumiy Troll", "score": 0 },
+      { "text": "Brainstorm", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Moldovan composer is known for film music and waltzes?",
+    "answers": [
+      { "text": "Eugen Doga", "score": 1 },
+      { "text": "Ion Aldea-Teodorovici", "score": 0 },
+      { "text": "Gheorghe Zamfir", "score": 0 },
+      { "text": "Arvo Part", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the traditional circle dance common in Moldova called?",
+    "answers": [
+      { "text": "Hora", "score": 1 },
+      { "text": "Samba", "score": 0 },
+      { "text": "Polka", "score": 0 },
+      { "text": "Tarantella", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which string instrument is traditional in Moldovan folk music?",
+    "answers": [
+      { "text": "Cobza", "score": 1 },
+      { "text": "Didgeridoo", "score": 0 },
+      { "text": "Bagpipe", "score": 0 },
+      { "text": "Banjo", "score": 0 }
+    ]
+  }
+]

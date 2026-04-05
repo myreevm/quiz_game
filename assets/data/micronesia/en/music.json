@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Choose the correct answer for Federated States of Micronesia: traditional Yap performance.",
+        "answers":  [
+                        {
+                            "text":  "Yap stick dance",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Log drum and pate",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Church choir singing",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Choose the correct answer for Federated States of Micronesia: important vocal practice.",
+        "answers":  [
+                        {
+                            "text":  "Choral chants",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Log drum and pate",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Church choir singing",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Choose the correct answer for Federated States of Micronesia: traditional percussion style.",
+        "answers":  [
+                        {
+                            "text":  "Slit drums and percussion",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Log drum and pate",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Church choir singing",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Choose the correct answer for Federated States of Micronesia: common modern song instruments.",
+        "answers":  [
+                        {
+                            "text":  "Ukulele and guitar scene",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Log drum and pate",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Church choir singing",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Choose the correct answer for Federated States of Micronesia: festival music profile.",
+        "answers":  [
+                        {
+                            "text":  "Community festival music",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Log drum and pate",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Church choir singing",
+                            "score":  0
+                        }
+                    ]
+    }
+]

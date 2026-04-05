@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which director is known for socially engaged films in Mozambique?",
+        "answers":  [
+                        {
+                            "text":  "Licinio Azevedo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pedro Costa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Abderrahmane Sissako",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mira Nair",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which film by Licinio Azevedo is set around a re-education camp for women?",
+        "answers":  [
+                        {
+                            "text":  "Virgem Margarida",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Orator",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cabascabo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Honeyland",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Mozambican film title is known in English as The Train of Salt and Sugar?",
+        "answers":  [
+                        {
+                            "text":  "Comboio de Sal e Acucar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Virgem Margarida",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mueda",
+                            "score":  0
+                        },
+                        {
+                            "text":  "O Heroi",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "DOCKANEMA is a documentary film event associated with which city?",
+        "answers":  [
+                        {
+                            "text":  "Maputo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nampula",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pemba",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Xai-Xai",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "National film institutions in Mozambique are primarily centered in which city?",
+        "answers":  [
+                        {
+                            "text":  "Maputo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Beira",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tete",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lichinga",
+                            "score":  0
+                        }
+                    ]
+    }
+]

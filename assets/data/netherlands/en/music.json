@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Tiësto is best known as a...",
+    "answers": [
+      { "text": "DJ and producer", "score": 1 },
+      { "text": "Classical pianist", "score": 0 },
+      { "text": "Opera singer", "score": 0 },
+      { "text": "Film composer", "score": 0 }
+    ]
+  },
+  {
+    "question": "Armin van Buuren is one of the stars of which genre?",
+    "answers": [
+      { "text": "Trance", "score": 1 },
+      { "text": "Reggae", "score": 0 },
+      { "text": "Flamenco", "score": 0 },
+      { "text": "Blues", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which song won Eurovision 2019 for the Netherlands?",
+    "answers": [
+      { "text": "Arcade", "score": 1 },
+      { "text": "Euphoria", "score": 0 },
+      { "text": "Heroes", "score": 0 },
+      { "text": "Tattoo", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Dutch rock band is known for the hit 'Radar Love'?",
+    "answers": [
+      { "text": "Golden Earring", "score": 1 },
+      { "text": "Within Temptation", "score": 0 },
+      { "text": "Kensington", "score": 0 },
+      { "text": "Vengaboys", "score": 0 }
+    ]
+  },
+  {
+    "question": "Andre Rieu, famous for waltz concerts, was born in which Dutch city?",
+    "answers": [
+      { "text": "Maastricht", "score": 1 },
+      { "text": "Rotterdam", "score": 0 },
+      { "text": "Leeuwarden", "score": 0 },
+      { "text": "Delft", "score": 0 }
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which leader is often called the founding president of independent Nauru?",
+        "answers":  [
+                        {
+                            "text":  "Hammer DeRoburt",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Marcus Stephen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Baron Waqa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Russ Kun",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which former president of Nauru previously won an Olympic medal in weightlifting?",
+        "answers":  [
+                        {
+                            "text":  "Marcus Stephen",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hammer DeRoburt",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lionel Aingimea",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Baron Waqa",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who served as president of Nauru before Lionel Aingimea?",
+        "answers":  [
+                        {
+                            "text":  "Baron Waqa",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Marcus Stephen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Russ Kun",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sprent Dabwido",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which politician became president of Nauru in 2019?",
+        "answers":  [
+                        {
+                            "text":  "Lionel Aingimea",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Baron Waqa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Marcus Stephen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hammer DeRoburt",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who became president of Nauru in 2022?",
+        "answers":  [
+                        {
+                            "text":  "Russ Kun",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lionel Aingimea",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Baron Waqa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Marcus Stephen",
+                            "score":  0
+                        }
+                    ]
+    }
+]

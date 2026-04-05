@@ -1,0 +1,107 @@
+[
+  {
+    "question": "What is the capital of Madagascar?",
+    "answers": [
+      {
+        "text": "Antananarivo",
+        "score": 1
+      },
+      {
+        "text": "Toamasina",
+        "score": 0
+      },
+      {
+        "text": "Mahajanga",
+        "score": 0
+      },
+      {
+        "text": "Toliara",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In which year did Madagascar gain independence?",
+    "answers": [
+      {
+        "text": "1960",
+        "score": 1
+      },
+      {
+        "text": "1950",
+        "score": 0
+      },
+      {
+        "text": "1970",
+        "score": 0
+      },
+      {
+        "text": "1990",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Madagascar is an island country in which ocean?",
+    "answers": [
+      {
+        "text": "Indian Ocean",
+        "score": 1
+      },
+      {
+        "text": "Atlantic Ocean",
+        "score": 0
+      },
+      {
+        "text": "Pacific Ocean",
+        "score": 0
+      },
+      {
+        "text": "Arctic Ocean",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which iconic animals are mostly endemic to Madagascar?",
+    "answers": [
+      {
+        "text": "Lemurs",
+        "score": 1
+      },
+      {
+        "text": "Kangaroos",
+        "score": 0
+      },
+      {
+        "text": "Polar bears",
+        "score": 0
+      },
+      {
+        "text": "Bison",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the currency of Madagascar?",
+    "answers": [
+      {
+        "text": "Malagasy ariary (MGA)",
+        "score": 1
+      },
+      {
+        "text": "CFA franc (XAF)",
+        "score": 0
+      },
+      {
+        "text": "Kenyan shilling (KES)",
+        "score": 0
+      },
+      {
+        "text": "US dollar (USD)",
+        "score": 0
+      }
+    ]
+  }
+]

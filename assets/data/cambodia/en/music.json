@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Which traditional Cambodian ensemble is used in royal and temple ceremonies?",
+    "answers": [
+      {
+        "text": "Pin peat",
+        "score": 1
+      },
+      {
+        "text": "Gamelan",
+        "score": 0
+      },
+      {
+        "text": "Qawwali",
+        "score": 0
+      },
+      {
+        "text": "Gnawa",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which dance-music style is a popular social tradition in Cambodia?",
+    "answers": [
+      {
+        "text": "Romvong",
+        "score": 1
+      },
+      {
+        "text": "Salegy",
+        "score": 0
+      },
+      {
+        "text": "Liwa",
+        "score": 0
+      },
+      {
+        "text": "Ardha",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Cambodian long-neck lute and singing tradition was inscribed by UNESCO?",
+    "answers": [
+      {
+        "text": "Chapei dang veng",
+        "score": 1
+      },
+      {
+        "text": "Dutar tradition",
+        "score": 0
+      },
+      {
+        "text": "Bakhshi",
+        "score": 0
+      },
+      {
+        "text": "Hira gasy",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the xylophone-like instrument in Khmer classical music?",
+    "answers": [
+      {
+        "text": "Roneat",
+        "score": 1
+      },
+      {
+        "text": "Valiha",
+        "score": 0
+      },
+      {
+        "text": "Oud",
+        "score": 0
+      },
+      {
+        "text": "Mirwas",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which artist is considered an icon of modern Cambodian popular music?",
+    "answers": [
+      {
+        "text": "Sinn Sisamouth",
+        "score": 1
+      },
+      {
+        "text": "Jaojoby",
+        "score": 0
+      },
+      {
+        "text": "Fahad Al Kubaisi",
+        "score": 0
+      },
+      {
+        "text": "Ali Al-Habsi",
+        "score": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Which Danish pop group released the global hit 'Barbie Girl'?",
+    "answers": [
+      { "text": "Aqua", "score": 1 },
+      { "text": "ABBA", "score": 0 },
+      { "text": "Roxette", "score": 0 },
+      { "text": "Ace of Base", "score": 0 }
+    ]
+  },
+  {
+    "question": "Volbeat is mainly known as a...",
+    "answers": [
+      { "text": "Rock and metal band", "score": 1 },
+      { "text": "Jazz trio", "score": 0 },
+      { "text": "Electronic duo", "score": 0 },
+      { "text": "Folk choir", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Danish composer wrote symphonies and the opera 'Maskarade'?",
+    "answers": [
+      { "text": "Carl Nielsen", "score": 1 },
+      { "text": "Edvard Grieg", "score": 0 },
+      { "text": "Jean Sibelius", "score": 0 },
+      { "text": "Franz Liszt", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which duo won Eurovision 2000 for Denmark with 'Fly on the Wings of Love'?",
+    "answers": [
+      { "text": "The Olsen Brothers", "score": 1 },
+      { "text": "Aqua", "score": 0 },
+      { "text": "Laid Back", "score": 0 },
+      { "text": "Michael Learns to Rock", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Danish singer is known for the song '7 Years'?",
+    "answers": [
+      { "text": "Lukas Graham", "score": 1 },
+      { "text": "Mads Langer", "score": 0 },
+      { "text": "Christopher", "score": 0 },
+      { "text": "Rasmus Seebach", "score": 0 }
+    ]
+  }
+]

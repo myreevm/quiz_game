@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "What is the name of Luxembourg\u0027s national anthem?",
+        "answers":  [
+                        {
+                            "text":  "Ons Heemecht",
+                            "score":  1
+                        },
+                        {
+                            "text":  "La Brabanconne",
+                            "score":  0
+                        },
+                        {
+                            "text":  "De Wilhelmus",
+                            "score":  0
+                        },
+                        {
+                            "text":  "O Canada",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the name of Luxembourg\u0027s major concert hall?",
+        "answers":  [
+                        {
+                            "text":  "Philharmonie Luxembourg",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Royal Albert Hall",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Musikverein",
+                            "score":  0
+                        },
+                        {
+                            "text":  "KKL Luzern",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "How many times has Luxembourg won the Eurovision Song Contest?",
+        "answers":  [
+                        {
+                            "text":  "5",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1",
+                            "score":  0
+                        },
+                        {
+                            "text":  "3",
+                            "score":  0
+                        },
+                        {
+                            "text":  "7",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did Corinne Hermes win Eurovision for Luxembourg?",
+        "answers":  [
+                        {
+                            "text":  "1983",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1973",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1993",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2003",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "How is Luxembourg\u0027s contemporary music scene commonly described?",
+        "answers":  [
+                        {
+                            "text":  "Multilingual and international",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Only folk and traditional",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Only classical",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Only electronic",
+                            "score":  0
+                        }
+                    ]
+    }
+]

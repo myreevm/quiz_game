@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Which major festival was held in the UAE and became known worldwide before ending in 2018?",
+    "answers": [
+      { "text": "Dubai International Film Festival", "score": 1 },
+      { "text": "Cannes Film Festival", "score": 0 },
+      { "text": "Ajyal Film Festival", "score": 0 },
+      { "text": "Red Sea International Film Festival", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Abu Dhabi-based studio supports feature films and media projects?",
+    "answers": [
+      { "text": "Image Nation Abu Dhabi", "score": 1 },
+      { "text": "Tallinnfilm", "score": 0 },
+      { "text": "Riga Film Studio", "score": 0 },
+      { "text": "Lithuanian Film Centre", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which 2009 film is often called one of the first major UAE-produced dramas?",
+    "answers": [
+      { "text": "City of Life", "score": 1 },
+      { "text": "Wadjda", "score": 0 },
+      { "text": "Tangerines", "score": 0 },
+      { "text": "Nova Lituania", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Emirati post-apocalyptic film released in 2016 gained international attention?",
+    "answers": [
+      { "text": "The Worthy", "score": 1 },
+      { "text": "The Other Dream Team", "score": 0 },
+      { "text": "Away", "score": 0 },
+      { "text": "Lautarii", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the name of the UAE body that attracts and supports international productions in Abu Dhabi?",
+    "answers": [
+      { "text": "Abu Dhabi Film Commission", "score": 1 },
+      { "text": "Doha Film Institute", "score": 0 },
+      { "text": "Bahrain Cinema Club", "score": 0 },
+      { "text": "Kino Pavasaris Board", "score": 0 }
+    ]
+  }
+]

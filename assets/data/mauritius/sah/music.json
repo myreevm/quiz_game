@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "SAH: Sop eppieti tal mauritius: best-known traditional style.",
+        "answers":  [
+                        {
+                            "text":  "Sega",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Log drum and pate",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Church choir singing",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal mauritius: fusion genre associated with Kaya.",
+        "answers":  [
+                        {
+                            "text":  "Seggae",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Log drum and pate",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Church choir singing",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal mauritius: traditional percussion instrument.",
+        "answers":  [
+                        {
+                            "text":  "Ravanne",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Log drum and pate",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Church choir singing",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal mauritius: artist linked to seggae legacy.",
+        "answers":  [
+                        {
+                            "text":  "Kaya",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Log drum and pate",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Church choir singing",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal mauritius: modern blend profile.",
+        "answers":  [
+                        {
+                            "text":  "Creole-Indian-African fusion",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Log drum and pate",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Church choir singing",
+                            "score":  0
+                        }
+                    ]
+    }
+]

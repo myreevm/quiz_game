@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What is the name of a traditional-pop dance style strongly associated with Ovambo communities in Namibia?",
+    "answers": [
+      { "text": "Oviritje", "score": 1 },
+      { "text": "Kalindula", "score": 0 },
+      { "text": "Fidjeri", "score": 0 },
+      { "text": "Ardha", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Namibian genre blends local traditions with modern dance rhythms and is often called Shambo?",
+    "answers": [
+      { "text": "Shambo", "score": 1 },
+      { "text": "Zamrock", "score": 0 },
+      { "text": "Soukous", "score": 0 },
+      { "text": "Bossa nova", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which performer is one of the best-known names in Namibia's modern urban music scene?",
+    "answers": [
+      { "text": "The Dogg", "score": 1 },
+      { "text": "B-Flow", "score": 0 },
+      { "text": "Fahad Al Kubaisi", "score": 0 },
+      { "text": "Franklin Boukaka", "score": 0 }
+    ]
+  },
+  {
+    "question": "How can much of Namibia's contemporary mainstream scene be described?",
+    "answers": [
+      { "text": "A mix of Afro-pop, dance, and urban styles", "score": 1 },
+      { "text": "Only classical European opera", "score": 0 },
+      { "text": "Only medieval choir music", "score": 0 },
+      { "text": "Only instrumental jazz", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which instruments are common in many Namibian popular and festival performances?",
+    "answers": [
+      { "text": "Percussion and guitars", "score": 1 },
+      { "text": "Harpsichords and bassoons", "score": 0 },
+      { "text": "Bagpipes and sitars", "score": 0 },
+      { "text": "Pipe organs only", "score": 0 }
+    ]
+  }
+]

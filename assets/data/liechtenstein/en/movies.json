@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which city is the main center for film screenings and events in Liechtenstein?",
+        "answers":  [
+                        {
+                            "text":  "Vaduz",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Schaan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Triesenberg",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eschen",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Liechtenstein\u0027s film work most often collaborates with which neighboring countries?",
+        "answers":  [
+                        {
+                            "text":  "Switzerland and Austria",
+                            "score":  1
+                        },
+                        {
+                            "text":  "France and Belgium",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Italy and Spain",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Germany and Denmark",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which format is most common in Liechtenstein\u0027s local film scene?",
+        "answers":  [
+                        {
+                            "text":  "Short and documentary films",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Large studio blockbusters",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Silent cinema",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Daily soap films",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which natural backdrop is frequently used in regional productions connected to Liechtenstein?",
+        "answers":  [
+                        {
+                            "text":  "Alpine landscapes",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tropical islands",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Steppe plains",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Desert dunes",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "How is Liechtenstein\u0027s film industry best described?",
+        "answers":  [
+                        {
+                            "text":  "Small and cross border connected",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Largest in Europe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Closed state monopoly",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Only animation production",
+                            "score":  0
+                        }
+                    ]
+    }
+]

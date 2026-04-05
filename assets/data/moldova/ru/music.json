@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "Какая группа выпустила хит Dragostea Din Tei?",
+    "answers": [
+      { "text": "O-Zone", "score": 1 },
+      { "text": "Zdob si Zdub", "score": 0 },
+      { "text": "SunStroke Project", "score": 0 },
+      { "text": "Carla's Dreams", "score": 0 }
+    ]
+  },
+  {
+    "question": "В какой группе Дан Балан впервые стал известным?",
+    "answers": [
+      { "text": "O-Zone", "score": 1 },
+      { "text": "Bi-2", "score": 0 },
+      { "text": "Мумий Тролль", "score": 0 },
+      { "text": "Brainstorm", "score": 0 }
+    ]
+  },
+  {
+    "question": "Какой молдавский композитор известен киномузыкой и вальсами?",
+    "answers": [
+      { "text": "Евгений Дога", "score": 1 },
+      { "text": "Ион Алдя-Теодорович", "score": 0 },
+      { "text": "Георге Замфир", "score": 0 },
+      { "text": "Арво Пярт", "score": 0 }
+    ]
+  },
+  {
+    "question": "Как называется традиционный круговой танец в Молдове?",
+    "answers": [
+      { "text": "Хора", "score": 1 },
+      { "text": "Самба", "score": 0 },
+      { "text": "Полька", "score": 0 },
+      { "text": "Тарантелла", "score": 0 }
+    ]
+  },
+  {
+    "question": "Какой струнный инструмент традиционен для молдавской народной музыки?",
+    "answers": [
+      { "text": "Кобза", "score": 1 },
+      { "text": "Диджериду", "score": 0 },
+      { "text": "Волынка", "score": 0 },
+      { "text": "Банджо", "score": 0 }
+    ]
+  }
+]

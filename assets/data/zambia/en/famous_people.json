@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Who was the first president of independent Zambia?",
+    "answers": [
+      { "text": "Kenneth Kaunda", "score": 1 },
+      { "text": "Hakainde Hichilema", "score": 0 },
+      { "text": "Kalusha Bwalya", "score": 0 },
+      { "text": "Sam Nujoma", "score": 0 }
+    ]
+  },
+  {
+    "question": "Who is the Zambian president elected in 2021?",
+    "answers": [
+      { "text": "Hakainde Hichilema", "score": 1 },
+      { "text": "Kenneth Kaunda", "score": 0 },
+      { "text": "Edgar Lungu", "score": 0 },
+      { "text": "Frankie Fredericks", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Zambian football legend was known as one of Africa's top players in the late 1980s and 1990s?",
+    "answers": [
+      { "text": "Kalusha Bwalya", "score": 1 },
+      { "text": "Mutaz Essa Barshim", "score": 0 },
+      { "text": "Dikembe Mutombo", "score": 0 },
+      { "text": "Serge Ibaka", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Zambian economist and author is known internationally for books on global development and finance?",
+    "answers": [
+      { "text": "Dambisa Moyo", "score": 1 },
+      { "text": "Maryam Al-Khawaja", "score": 0 },
+      { "text": "Alain Mabanckou", "score": 0 },
+      { "text": "Sheikha Al Mayassa", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Zambian-born director made the acclaimed film I Am Not a Witch?",
+    "answers": [
+      { "text": "Rungano Nyoni", "score": 1 },
+      { "text": "Haifaa Al-Mansour", "score": 0 },
+      { "text": "Dieudo Hamadi", "score": 0 },
+      { "text": "Emil Loteanu", "score": 0 }
+    ]
+  }
+]

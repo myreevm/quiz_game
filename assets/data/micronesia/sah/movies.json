@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "SAH: Sop eppieti tal micronesia: domestic industry scale.",
+        "answers":  [
+                        {
+                            "text":  "Limited local industry",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Community screenings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal micronesia: common local viewing format.",
+        "answers":  [
+                        {
+                            "text":  "Community screenings",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Climate documentaries",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal micronesia: typical regional collaboration.",
+        "answers":  [
+                        {
+                            "text":  "Pacific documentary collaborations",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Community screenings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal micronesia: common storytelling theme.",
+        "answers":  [
+                        {
+                            "text":  "Heritage and island life films",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Community screenings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "SAH: Sop eppieti tal micronesia: focus of media training.",
+        "answers":  [
+                        {
+                            "text":  "Youth media training",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Community screenings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        }
+                    ]
+    }
+]

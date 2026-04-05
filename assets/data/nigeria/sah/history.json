@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Нигерия баштаах куората ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Abuja",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lagos",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kano",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Port Harcourt",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Нигерия ханнык сылла бэйэ сирин ыла сылдьыбытай?",
+        "answers":  [
+                        {
+                            "text":  "1960",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1957",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1963",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1975",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Нигерияҕа дьон ахсаанынан улахан куорат ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Lagos",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Abuja",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ibadan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Enugu",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Нигерия аатын биэрбит улахан өрүс ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Niger River",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nile River",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Congo River",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Zambezi River",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Нигерия официалнай валютатын кода ханнык?",
+        "answers":  [
+                        {
+                            "text":  "NGN",
+                            "score":  1
+                        },
+                        {
+                            "text":  "GHS",
+                            "score":  0
+                        },
+                        {
+                            "text":  "KES",
+                            "score":  0
+                        },
+                        {
+                            "text":  "ZAR",
+                            "score":  0
+                        }
+                    ]
+    }
+]

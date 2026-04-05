@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Самоа традиционнай бэйэни таабыр баттыыр үҥкүү аата ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Faataupati",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Haka",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sasa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Taualuga",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Самоа традиционнай музыкатаҕа элбэх туттуллар ударнай инструмент ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Pate log drum",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Djembe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tabla",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cajon",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Самоа сахналыы культуратыгар сурун үҥкүү традицията ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Siva",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Flamenco",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Samba",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Polka",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Самоа оҕо аймахтарыгар ханнык дорҕоон традицията улахан суолталаах?",
+        "answers":  [
+                        {
+                            "text":  "Church choirs",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Opera troupes",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yodel groups",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rap battles",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Бүгүҥҥү самоа струналыы музыкатыгар ханнык инструментар элбэх иһиллэрий?",
+        "answers":  [
+                        {
+                            "text":  "Ukulele and guitar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Violin and cello",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Trumpet and trombone",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Accordion and tuba",
+                            "score":  0
+                        }
+                    ]
+    }
+]

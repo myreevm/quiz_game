@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "Which famous person born in Riga became a world-known ballet dancer?",
+    "answers": [
+      { "text": "Mikhail Baryshnikov", "score": 1 },
+      { "text": "Rudolf Nureyev", "score": 0 },
+      { "text": "Maris Liepa", "score": 0 },
+      { "text": "Vaslav Nijinsky", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Latvian athlete is known as an NBA basketball player?",
+    "answers": [
+      { "text": "Kristaps Porzingis", "score": 1 },
+      { "text": "Davis Bertans", "score": 0 },
+      { "text": "Andris Biedrins", "score": 0 },
+      { "text": "Janis Timma", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Latvian politician served as president from 1999 to 2007?",
+    "answers": [
+      { "text": "Vaira Vike-Freiberga", "score": 1 },
+      { "text": "Laimdota Straujuma", "score": 0 },
+      { "text": "Ingrida Simonyte", "score": 0 },
+      { "text": "Kersti Kaljulaid", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Latvian poet used the pen name Rainis?",
+    "answers": [
+      { "text": "Janis Plieksans", "score": 1 },
+      { "text": "Aleksandrs Caks", "score": 0 },
+      { "text": "Imants Ziedonis", "score": 0 },
+      { "text": "Ojars Vacietis", "score": 0 }
+    ]
+  },
+  {
+    "question": "Who is known as the compiler of Latvian folk song texts called dainas?",
+    "answers": [
+      { "text": "Krisjanis Barons", "score": 1 },
+      { "text": "Rainis", "score": 0 },
+      { "text": "Janis Endzelins", "score": 0 },
+      { "text": "Gunars Astra", "score": 0 }
+    ]
+  }
+]

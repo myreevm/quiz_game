@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Уругвай баштаах куората ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Montevideo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Salto",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Punta del Este",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Paysandu",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Уругвай бэйэ сир буолуута официалнайан ханнык сылла билиннэ?",
+        "answers":  [
+                        {
+                            "text":  "1828",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1810",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1835",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1861",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Уругвай валютатын кода ханнык?",
+        "answers":  [
+                        {
+                            "text":  "UYU",
+                            "score":  1
+                        },
+                        {
+                            "text":  "ARS",
+                            "score":  0
+                        },
+                        {
+                            "text":  "BRL",
+                            "score":  0
+                        },
+                        {
+                            "text":  "CLP",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Бастакы FIFA дүйнэ чемпионатын Уругвай кытта хостап, кыайбыт сыла ханнык?",
+        "answers":  [
+                        {
+                            "text":  "1930",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1934",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1924",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1950",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Уругвай уонна Аргентина икки ардыгар ханнык эстуарий баарый?",
+        "answers":  [
+                        {
+                            "text":  "Rio de la Plata",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Orinoco",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Parana Delta",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Magdalena",
+                            "score":  0
+                        }
+                    ]
+    }
+]

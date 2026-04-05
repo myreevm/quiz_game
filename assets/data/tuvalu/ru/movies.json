@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya tuvalu: size of domestic film industry.",
+        "answers":  [
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Community screenings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Climate documentaries",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya tuvalu: most common way films are shown.",
+        "answers":  [
+                        {
+                            "text":  "Community screenings",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Climate documentaries",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya tuvalu: typical regional cooperation model.",
+        "answers":  [
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Community screenings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Climate documentaries",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya tuvalu: frequent documentary focus.",
+        "answers":  [
+                        {
+                            "text":  "Climate documentaries",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Community screenings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya tuvalu: main local media hub.",
+        "answers":  [
+                        {
+                            "text":  "Funafuti media hub",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Community screenings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        }
+                    ]
+    }
+]

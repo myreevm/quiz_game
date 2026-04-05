@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Who was the first President of independent Nigeria?",
+        "answers":  [
+                        {
+                            "text":  "Nnamdi Azikiwe",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Wole Soyinka",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chinua Achebe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fela Kuti",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Nigerian writer won the Nobel Prize in Literature?",
+        "answers":  [
+                        {
+                            "text":  "Wole Soyinka",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Chinua Achebe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nnamdi Azikiwe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ngozi Okonjo-Iweala",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who wrote the novel Things Fall Apart?",
+        "answers":  [
+                        {
+                            "text":  "Chinua Achebe",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Wole Soyinka",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fela Kuti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Burna Boy",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which musician is widely called the pioneer of Afrobeat?",
+        "answers":  [
+                        {
+                            "text":  "Fela Kuti",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Wizkid",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Davido",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Burna Boy",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Nigerian economist became Director-General of the WTO in 2021?",
+        "answers":  [
+                        {
+                            "text":  "Ngozi Okonjo-Iweala",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Amina Mohammed",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ngozi Ezeonu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Arunma Oteh",
+                            "score":  0
+                        }
+                    ]
+    }
+]

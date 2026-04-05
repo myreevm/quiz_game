@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Какой жанр больше всего связан с современной нигерийской поп-музыкой в мире?",
+        "answers":  [
+                        {
+                            "text":  "Afrobeats",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Reggaeton",
+                            "score":  0
+                        },
+                        {
+                            "text":  "K-pop",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Flamenco",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой артист считается ключевой фигурой афробита?",
+        "answers":  [
+                        {
+                            "text":  "Fela Kuti",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Burna Boy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Wizkid",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Asa",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой нигерийский артист получил Грэмми за альбом Twice as Tall?",
+        "answers":  [
+                        {
+                            "text":  "Burna Boy",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Davido",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tems",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rema",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой нигерийский певец известен песней Ojuelegba?",
+        "answers":  [
+                        {
+                            "text":  "Wizkid",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Davido",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Olamide",
+                            "score":  0
+                        },
+                        {
+                            "text":  "P-Square",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какая нигерийская звезда выпустила мировой хит Fall?",
+        "answers":  [
+                        {
+                            "text":  "Davido",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Wizkid",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Burna Boy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fireboy DML",
+                            "score":  0
+                        }
+                    ]
+    }
+]

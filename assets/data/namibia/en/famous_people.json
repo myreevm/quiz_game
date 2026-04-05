@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Who is known as the founding president of independent Namibia?",
+    "answers": [
+      { "text": "Sam Nujoma", "score": 1 },
+      { "text": "Hage Geingob", "score": 0 },
+      { "text": "Kenneth Kaunda", "score": 0 },
+      { "text": "Denis Sassou Nguesso", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Namibian politician served as president from 2015 to 2024?",
+    "answers": [
+      { "text": "Hage Geingob", "score": 1 },
+      { "text": "Sam Nujoma", "score": 0 },
+      { "text": "Hifikepunye Pohamba", "score": 0 },
+      { "text": "Frankie Fredericks", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Namibian athlete became one of Africa's most famous sprinters in the 1990s?",
+    "answers": [
+      { "text": "Frankie Fredericks", "score": 1 },
+      { "text": "Kalusha Bwalya", "score": 0 },
+      { "text": "Mutaz Barshim", "score": 0 },
+      { "text": "Serge Ibaka", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which international fashion model was born in Namibia?",
+    "answers": [
+      { "text": "Behati Prinsloo", "score": 1 },
+      { "text": "Dambisa Moyo", "score": 0 },
+      { "text": "Ahlam", "score": 0 },
+      { "text": "Maryam Al-Khawaja", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Namibian artist is widely recognized as a major name in the country's modern urban music scene?",
+    "answers": [
+      { "text": "The Dogg", "score": 1 },
+      { "text": "B-Flow", "score": 0 },
+      { "text": "Papa Wemba", "score": 0 },
+      { "text": "Fally Ipupa", "score": 0 }
+    ]
+  }
+]

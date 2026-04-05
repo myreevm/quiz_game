@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "What is the capital city of Mauritania?",
+        "answers":  [
+                        {
+                            "text":  "Nouakchott",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nouadhibou",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Atar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kiffa",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did Mauritania gain independence from France?",
+        "answers":  [
+                        {
+                            "text":  "1960",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1958",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1965",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1971",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Most of Mauritania\u0027s territory lies in which desert region?",
+        "answers":  [
+                        {
+                            "text":  "Sahara",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kalahari",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Namib",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Atacama",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the currency code used in Mauritania?",
+        "answers":  [
+                        {
+                            "text":  "MRU",
+                            "score":  1
+                        },
+                        {
+                            "text":  "MAD",
+                            "score":  0
+                        },
+                        {
+                            "text":  "DZD",
+                            "score":  0
+                        },
+                        {
+                            "text":  "XOF",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Mauritania has a coastline on which ocean?",
+        "answers":  [
+                        {
+                            "text":  "Atlantic Ocean",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Indian Ocean",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific Ocean",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Arctic Ocean",
+                            "score":  0
+                        }
+                    ]
+    }
+]

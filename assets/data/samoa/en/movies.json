@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Who directed the Samoan film The Orator?",
+        "answers":  [
+                        {
+                            "text":  "Tusi Tamasese",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Taika Waititi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lee Tamahori",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ava DuVernay",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "The Orator is primarily filmed in which language?",
+        "answers":  [
+                        {
+                            "text":  "Samoan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "English",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Maori",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tongan",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city is the main screen and media hub in Samoa?",
+        "answers":  [
+                        {
+                            "text":  "Apia",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vaitele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Asau",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mulifanua",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Samoan cinema most often appears in collaboration with which region?",
+        "answers":  [
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nordic co-productions",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Andean co-productions",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Baltic co-productions",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What was a key milestone for Samoan-language cinema in the 2010s?",
+        "answers":  [
+                        {
+                            "text":  "International recognition of The Orator",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Founding of Nollywood",
+                            "score":  0
+                        },
+                        {
+                            "text":  "First Cannes Palme dOr for Samoa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Creation of a state-only studio system",
+                            "score":  0
+                        }
+                    ]
+    }
+]

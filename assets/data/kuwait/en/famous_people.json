@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which Kuwaiti emir was known for diplomacy and served from 2006 to 2020?",
+        "answers":  [
+                        {
+                            "text":  "Sabah Al Ahmad",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mishal Al Ahmad",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jaber Al Ahmad",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nawaf Al Ahmad",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who is the current Emir of Kuwait?",
+        "answers":  [
+                        {
+                            "text":  "Mishal Al Ahmad",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sabah Al Ahmad",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jaber Al Ahmad",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Saud Al Faisal",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Kuwaiti ruler\u0027s name is associated with major national institutions and urban projects?",
+        "answers":  [
+                        {
+                            "text":  "Jaber Al Ahmad",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mubarak Al Sabah",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Abdullah Al Salim",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ahmad Al Jaber",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which female singer is widely known as Nawal Al Kuwaitia?",
+        "answers":  [
+                        {
+                            "text":  "Nawal Al Kuwaitia",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ahlam",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Balqees",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shamma Hamdan",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which popular Kuwaiti male singer is known for classic Gulf songs?",
+        "answers":  [
+                        {
+                            "text":  "Abdallah Al Rowaished",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kadim Al Sahir",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Amr Diab",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rabeh Saqer",
+                            "score":  0
+                        }
+                    ]
+    }
+]

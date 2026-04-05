@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Бэйэ Науру президент тутулугун саҥарарга бастакы лидера диэн кимин ааттыылларый?",
+        "answers":  [
+                        {
+                            "text":  "Hammer DeRoburt",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Marcus Stephen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Baron Waqa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Russ Kun",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Науру урут президенттарыттан олимпиа медалын тяжелай атлетикаҕа ылбыт кимий?",
+        "answers":  [
+                        {
+                            "text":  "Marcus Stephen",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hammer DeRoburt",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lionel Aingimea",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Baron Waqa",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Лайонел Аингимея иннинэ Науру президентата ким этэй?",
+        "answers":  [
+                        {
+                            "text":  "Baron Waqa",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Marcus Stephen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Russ Kun",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sprent Dabwido",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "2019 сылла Науру президентата буолбут политик кимий?",
+        "answers":  [
+                        {
+                            "text":  "Lionel Aingimea",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Baron Waqa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Marcus Stephen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hammer DeRoburt",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "2022 сылла Науру президентата ким буолла?",
+        "answers":  [
+                        {
+                            "text":  "Russ Kun",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lionel Aingimea",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Baron Waqa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Marcus Stephen",
+                            "score":  0
+                        }
+                    ]
+    }
+]

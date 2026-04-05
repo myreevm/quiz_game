@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Непал баштаах куората ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Kathmandu",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pokhara",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lalitpur",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bhaktapur",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Непал федеративнай демократиялыы республиканан ханнык сылла буолбута?",
+        "answers":  [
+                        {
+                            "text":  "2008",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1990",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2001",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2015",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Колониальнай кэмҥэ Непал туохтан тутуллубатах диэн биллэрий?",
+        "answers":  [
+                        {
+                            "text":  "Туһулуу колонизациятан",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Таас сир иитиибиттэн",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Муссон сир үлэһиттэн",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Муора империяттэн",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Эверес непаллыы хайдах ааттанарый?",
+        "answers":  [
+                        {
+                            "text":  "Sagarmatha",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Annapurna",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Makalu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kanchenjunga",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Непал валютатын кода ханнык?",
+        "answers":  [
+                        {
+                            "text":  "NPR",
+                            "score":  1
+                        },
+                        {
+                            "text":  "INR",
+                            "score":  0
+                        },
+                        {
+                            "text":  "BTN",
+                            "score":  0
+                        },
+                        {
+                            "text":  "PKR",
+                            "score":  0
+                        }
+                    ]
+    }
+]

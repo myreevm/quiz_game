@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "Which Lithuanian artist was both a composer and a painter?",
+    "answers": [
+      { "text": "M. K. Ciurlionis", "score": 1 },
+      { "text": "Arvydas Sabonis", "score": 0 },
+      { "text": "Jonas Mekas", "score": 0 },
+      { "text": "Antanas Sutkus", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Lithuanian athlete became a legendary NBA center?",
+    "answers": [
+      { "text": "Arvydas Sabonis", "score": 1 },
+      { "text": "Sarunas Jasikevicius", "score": 0 },
+      { "text": "Linas Kleiza", "score": 0 },
+      { "text": "Jonas Valanciunas", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Lithuanian-born figure became an influential avant-garde filmmaker in New York?",
+    "answers": [
+      { "text": "Jonas Mekas", "score": 1 },
+      { "text": "Vytautas Landsbergis", "score": 0 },
+      { "text": "Romas Kalanta", "score": 0 },
+      { "text": "Eimuntas Nekrosius", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Lithuanian swimmer won Olympic gold in 2012?",
+    "answers": [
+      { "text": "Ruta Meilutyte", "score": 1 },
+      { "text": "Rasa Tiscenko", "score": 0 },
+      { "text": "Diana Ziliute", "score": 0 },
+      { "text": "Jurate Statkute", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Lithuanian politician served as president from 2009 to 2019?",
+    "answers": [
+      { "text": "Dalia Grybauskaite", "score": 1 },
+      { "text": "Ingrida Simonyte", "score": 0 },
+      { "text": "Vaira Vike-Freiberga", "score": 0 },
+      { "text": "Kersti Kaljulaid", "score": 0 }
+    ]
+  }
+]

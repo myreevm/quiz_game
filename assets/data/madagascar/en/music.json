@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Which energetic genre is one of Madagascar's best-known music styles?",
+    "answers": [
+      {
+        "text": "Salegy",
+        "score": 1
+      },
+      {
+        "text": "Romvong",
+        "score": 0
+      },
+      {
+        "text": "Mukam",
+        "score": 0
+      },
+      {
+        "text": "Kalindula",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which artist is called the king of salegy?",
+    "answers": [
+      {
+        "text": "Jaojoby",
+        "score": 1
+      },
+      {
+        "text": "Wezi",
+        "score": 0
+      },
+      {
+        "text": "Fally Ipupa",
+        "score": 0
+      },
+      {
+        "text": "Mohammed Abdu",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of Madagascar's traditional bamboo tube zither?",
+    "answers": [
+      {
+        "text": "Valiha",
+        "score": 1
+      },
+      {
+        "text": "Roneat",
+        "score": 0
+      },
+      {
+        "text": "Dutar",
+        "score": 0
+      },
+      {
+        "text": "Kokle",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Malagasy performance tradition combines music, theater, and social commentary?",
+    "answers": [
+      {
+        "text": "Hira gasy",
+        "score": 1
+      },
+      {
+        "text": "Ardha",
+        "score": 0
+      },
+      {
+        "text": "Liwa",
+        "score": 0
+      },
+      {
+        "text": "Fidjeri",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which fast-paced style is especially associated with southwest Madagascar?",
+    "answers": [
+      {
+        "text": "Tsapiky",
+        "score": 1
+      },
+      {
+        "text": "Mukam",
+        "score": 0
+      },
+      {
+        "text": "Pin peat",
+        "score": 0
+      },
+      {
+        "text": "Nabati",
+        "score": 0
+      }
+    ]
+  }
+]

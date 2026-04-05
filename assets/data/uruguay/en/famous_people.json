@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Who is the Uruguayan national hero known as the Protector of the Free Peoples?",
+        "answers":  [
+                        {
+                            "text":  "Jose Gervasio Artigas",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jose Batlle y Ordonez",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Julio Sanguinetti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tabare Vazquez",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Uruguayan president from 2010 to 2015 became famous for a modest lifestyle?",
+        "answers":  [
+                        {
+                            "text":  "Jose Mujica",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Luis Lacalle Pou",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jorge Batlle",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tabare Vazquez",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Uruguayan striker is associated with both Uruguay and FC Barcelona?",
+        "answers":  [
+                        {
+                            "text":  "Luis Suarez",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Edinson Cavani",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Diego Forlan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alvaro Recoba",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who won the Golden Ball at the 2010 FIFA World Cup from Uruguay?",
+        "answers":  [
+                        {
+                            "text":  "Diego Forlan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Luis Suarez",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fernando Muslera",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Diego Godin",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Uruguayan writer is famous for poems and the novel La tregua?",
+        "answers":  [
+                        {
+                            "text":  "Mario Benedetti",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Eduardo Galeano",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Juan Carlos Onetti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Horacio Quiroga",
+                            "score":  0
+                        }
+                    ]
+    }
+]

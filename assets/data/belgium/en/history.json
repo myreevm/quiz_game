@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What is the capital of Belgium?",
+    "answers": [
+      { "text": "Brussels", "score": 1 },
+      { "text": "Antwerp", "score": 0 },
+      { "text": "Bruges", "score": 0 },
+      { "text": "Liege", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Belgium gain independence?",
+    "answers": [
+      { "text": "1830", "score": 1 },
+      { "text": "1815", "score": 0 },
+      { "text": "1848", "score": 0 },
+      { "text": "1918", "score": 0 }
+    ]
+  },
+  {
+    "question": "The Battle of Waterloo took place in which year?",
+    "answers": [
+      { "text": "1815", "score": 1 },
+      { "text": "1804", "score": 0 },
+      { "text": "1830", "score": 0 },
+      { "text": "1914", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which city are key EU and NATO institutions located?",
+    "answers": [
+      { "text": "Brussels", "score": 1 },
+      { "text": "Luxembourg", "score": 0 },
+      { "text": "Strasbourg", "score": 0 },
+      { "text": "The Hague", "score": 0 }
+    ]
+  },
+  {
+    "question": "The Atomium in Brussels was built for which event?",
+    "answers": [
+      { "text": "Expo 1958", "score": 1 },
+      { "text": "Olympics 1920", "score": 0 },
+      { "text": "Expo 1935", "score": 0 },
+      { "text": "World Cup 1970", "score": 0 }
+    ]
+  }
+]

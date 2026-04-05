@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "What is the name of Luxembourg\u0027s key annual film event in the capital?",
+        "answers":  [
+                        {
+                            "text":  "Luxembourg City Film Festival",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Benelux Film Market",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Grand Duchy Screen Expo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ardennes Cinema Week",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which institution supports film financing and production in Luxembourg?",
+        "answers":  [
+                        {
+                            "text":  "Film Fund Luxembourg",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lux Cinema Chamber",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Royal Screen Board",
+                            "score":  0
+                        },
+                        {
+                            "text":  "European Film Council Luxembourg",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which production model is especially important in Luxembourg cinema?",
+        "answers":  [
+                        {
+                            "text":  "International co productions",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Single studio monopoly",
+                            "score":  0
+                        },
+                        {
+                            "text":  "No foreign partnerships",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Only television serials",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which director is a notable figure in Luxembourg\u0027s national cinema?",
+        "answers":  [
+                        {
+                            "text":  "Andy Bausch",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Michael Haneke",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Paolo Sorrentino",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Asghar Farhadi",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Luxembourg is widely known for strong work in which screen sector?",
+        "answers":  [
+                        {
+                            "text":  "Animation and VFX collaborations",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Only western films",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Opera films only",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Silent slapstick",
+                            "score":  0
+                        }
+                    ]
+    }
+]

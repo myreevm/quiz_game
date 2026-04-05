@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Нигер баштаах куората ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Niamey",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Agadez",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Zinder",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Maradi",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Нигер ханнык сылла бэйэ сирин ылбытай?",
+        "answers":  [
+                        {
+                            "text":  "1960",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1956",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1970",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1980",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Нигер география быһыытынан ханнык киэҥ регионнарга сыһыаннаах?",
+        "answers":  [
+                        {
+                            "text":  "Sahel and Sahara",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Andes and Amazon",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Balkans and Adriatic",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nordic and Baltic",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Нигер соҕотох арҕаа-хаҥас чааһынан ханнык улахан өрүс ааһыныыр?",
+        "answers":  [
+                        {
+                            "text":  "Niger River",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Senegal River",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Volta River",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nile River",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Нигерга ханнык валюта туттулларый?",
+        "answers":  [
+                        {
+                            "text":  "West African CFA franc (XOF)",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Algerian dinar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nigerian naira",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Moroccan dirham",
+                            "score":  0
+                        }
+                    ]
+    }
+]

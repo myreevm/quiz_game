@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Люксембург орто куоратыгар буолар сүрүн сыллаах кинособытие аата ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Luxembourg City Film Festival",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Benelux Film Market",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Grand Duchy Screen Expo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ardennes Cinema Week",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Люксембургга фильм финансирование уонна производство өйүүр институт ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Film Fund Luxembourg",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lux Cinema Chamber",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Royal Screen Board",
+                            "score":  0
+                        },
+                        {
+                            "text":  "European Film Council Luxembourg",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Люксембург киногар ханнык производство модела суолталаах?",
+        "answers":  [
+                        {
+                            "text":  "Международнай копродукциялар",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Биир студия монополията",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Таһырдьа партнер суох",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Только телесериаллар",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Люксембург национальнай киногар ханнык режиссер биллэр киһи буоларый?",
+        "answers":  [
+                        {
+                            "text":  "Энди Бауш",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Михаэль Ханеке",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Паоло Соррентино",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Асгар Фархади",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Люксембург ханнык экран секторугар улахан күүс көрсүөрүй?",
+        "answers":  [
+                        {
+                            "text":  "Анимация уонна VFX копродукция",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Только вестерн",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Только опера фильмнара",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Немой комедия",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Какой афро-уругвайский ритм является визитной карточкой карнавальной культуры Монтевидео?",
+        "answers":  [
+                        {
+                            "text":  "Candombe",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Samba",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bossa nova",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Reggae",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Как называется театрально-музыкальный жанр карнавала в Уругвае?",
+        "answers":  [
+                        {
+                            "text":  "Murga",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Son",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Merengue",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fado",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какая танцевально-музыкальная традиция особенно общая для Уругвая и Аргентины?",
+        "answers":  [
+                        {
+                            "text":  "Tango",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Flamenco",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Polka",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Calypso",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой уругвайский певец и автор песен получил Оскар за Al otro lado del rio?",
+        "answers":  [
+                        {
+                            "text":  "Jorge Drexler",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ruben Rada",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jaime Roos",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Daniel Drexler",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой уругвайский музыкант тесно связан с кандомбе и афро-уругвайским фьюжном?",
+        "answers":  [
+                        {
+                            "text":  "Ruben Rada",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jorge Drexler",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eduardo Mateo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fernando Cabrera",
+                            "score":  0
+                        }
+                    ]
+    }
+]

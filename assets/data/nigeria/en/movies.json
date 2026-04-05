@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "What is the common name of the Nigerian film industry?",
+        "answers":  [
+                        {
+                            "text":  "Nollywood",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bollywood",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hollywood",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kannywood",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which major film festival is held in Lagos?",
+        "answers":  [
+                        {
+                            "text":  "AFRIFF",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cannes",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Berlinale",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sundance",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who directed the Nigerian film The Figurine?",
+        "answers":  [
+                        {
+                            "text":  "Kunle Afolayan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Genevieve Nnaji",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jeta Amata",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Biyi Bandele",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which 2016 Nigerian film became a major box-office hit?",
+        "answers":  [
+                        {
+                            "text":  "The Wedding Party",
+                            "score":  1
+                        },
+                        {
+                            "text":  "October 1",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Half of a Yellow Sun",
+                            "score":  0
+                        },
+                        {
+                            "text":  "King of Boys",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which film is known as the first Nigerian Netflix original?",
+        "answers":  [
+                        {
+                            "text":  "Lionheart",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Blood Sisters",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Anikulapo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Milkmaid",
+                            "score":  0
+                        }
+                    ]
+    }
+]

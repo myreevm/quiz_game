@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What is the capital city of the United Arab Emirates?",
+    "answers": [
+      { "text": "Abu Dhabi", "score": 1 },
+      { "text": "Dubai", "score": 0 },
+      { "text": "Sharjah", "score": 0 },
+      { "text": "Ajman", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year was the UAE federation officially formed?",
+    "answers": [
+      { "text": "1971", "score": 1 },
+      { "text": "1965", "score": 0 },
+      { "text": "1981", "score": 0 },
+      { "text": "1991", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which emirate joined the UAE federation in 1972?",
+    "answers": [
+      { "text": "Ras Al Khaimah", "score": 1 },
+      { "text": "Fujairah", "score": 0 },
+      { "text": "Sharjah", "score": 0 },
+      { "text": "Abu Dhabi", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the official currency of the UAE?",
+    "answers": [
+      { "text": "UAE dirham (AED)", "score": 1 },
+      { "text": "Saudi riyal (SAR)", "score": 0 },
+      { "text": "Qatari riyal (QAR)", "score": 0 },
+      { "text": "Bahraini dinar (BHD)", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which UAE city is the Burj Khalifa located?",
+    "answers": [
+      { "text": "Dubai", "score": 1 },
+      { "text": "Abu Dhabi", "score": 0 },
+      { "text": "Al Ain", "score": 0 },
+      { "text": "Ras Al Khaimah", "score": 0 }
+    ]
+  }
+]

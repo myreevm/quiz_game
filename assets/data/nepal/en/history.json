@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "What is the capital of Nepal?",
+        "answers":  [
+                        {
+                            "text":  "Kathmandu",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pokhara",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lalitpur",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bhaktapur",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did Nepal become a federal democratic republic?",
+        "answers":  [
+                        {
+                            "text":  "2008",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1990",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2001",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2015",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Nepal is often noted for avoiding what during the colonial era?",
+        "answers":  [
+                        {
+                            "text":  "Direct colonization",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mountain trade",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Monsoon farming",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Naval empire",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the Nepali name of Mount Everest?",
+        "answers":  [
+                        {
+                            "text":  "Sagarmatha",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Annapurna",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Makalu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kanchenjunga",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the currency code of Nepal?",
+        "answers":  [
+                        {
+                            "text":  "NPR",
+                            "score":  1
+                        },
+                        {
+                            "text":  "INR",
+                            "score":  0
+                        },
+                        {
+                            "text":  "BTN",
+                            "score":  0
+                        },
+                        {
+                            "text":  "PKR",
+                            "score":  0
+                        }
+                    ]
+    }
+]

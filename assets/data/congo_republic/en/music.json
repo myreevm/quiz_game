@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Which music styles are most closely associated with urban popular music in Congo-Brazzaville?",
+    "answers": [
+      { "text": "Rumba and soukous", "score": 1 },
+      { "text": "Bluegrass and country", "score": 0 },
+      { "text": "Flamenco and fado", "score": 0 },
+      { "text": "Polka and mazurka", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which city is one of the historic centers of Congolese rumba culture in the Republic of the Congo?",
+    "answers": [
+      { "text": "Brazzaville", "score": 1 },
+      { "text": "Lusaka", "score": 0 },
+      { "text": "Nairobi", "score": 0 },
+      { "text": "Tripoli", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which instrument is especially central to rumba and soukous arrangements from Congo-Brazzaville?",
+    "answers": [
+      { "text": "Guitar", "score": 1 },
+      { "text": "Bagpipe", "score": 0 },
+      { "text": "Kantele", "score": 0 },
+      { "text": "Didgeridoo", "score": 0 }
+    ]
+  },
+  {
+    "question": "Along with guitars, which group of instruments is widely used in Brazzaville dance music?",
+    "answers": [
+      { "text": "Percussion instruments", "score": 1 },
+      { "text": "Church organs only", "score": 0 },
+      { "text": "Harps only", "score": 0 },
+      { "text": "Bowed strings only", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which singer from the Republic of the Congo is remembered for socially conscious songs and political commentary?",
+    "answers": [
+      { "text": "Franklin Boukaka", "score": 1 },
+      { "text": "Papa Wemba", "score": 0 },
+      { "text": "Fally Ipupa", "score": 0 },
+      { "text": "Mutaz Barshim", "score": 0 }
+    ]
+  }
+]

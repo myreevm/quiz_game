@@ -1,0 +1,47 @@
+﻿[
+  {
+    "question": "What is the capital of Lithuania?",
+    "answers": [
+      { "text": "Vilnius", "score": 1 },
+      { "text": "Kaunas", "score": 0 },
+      { "text": "Klaipeda", "score": 0 },
+      { "text": "Siauliai", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Lithuania restore independence from the USSR?",
+    "answers": [
+      { "text": "1990", "score": 1 },
+      { "text": "1989", "score": 0 },
+      { "text": "1991", "score": 0 },
+      { "text": "2004", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which historical state is associated with medieval Lithuania?",
+    "answers": [
+      { "text": "Grand Duchy of Lithuania", "score": 1 },
+      { "text": "Kingdom of Bohemia", "score": 0 },
+      { "text": "Teutonic Empire", "score": 0 },
+      { "text": "Kievan Rus", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did the Baltic Way protest happen?",
+    "answers": [
+      { "text": "1989", "score": 1 },
+      { "text": "1986", "score": 0 },
+      { "text": "1993", "score": 0 },
+      { "text": "2001", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Lithuania join both the EU and NATO?",
+    "answers": [
+      { "text": "2004", "score": 1 },
+      { "text": "1998", "score": 0 },
+      { "text": "2007", "score": 0 },
+      { "text": "2010", "score": 0 }
+    ]
+  }
+]

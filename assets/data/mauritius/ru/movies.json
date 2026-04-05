@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya mauritius: film development institution.",
+        "answers":  [
+                        {
+                            "text":  "Mauritius Film Development Corporation",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Community screenings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya mauritius: main production and media city.",
+        "answers":  [
+                        {
+                            "text":  "Port Louis film hub",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Community screenings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya mauritius: festival linked with independent cinema.",
+        "answers":  [
+                        {
+                            "text":  "Ile Courts festival",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Community screenings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya mauritius: frequent production model.",
+        "answers":  [
+                        {
+                            "text":  "International co-productions",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Community screenings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya mauritius: strong location advantage.",
+        "answers":  [
+                        {
+                            "text":  "Coastal location-shoot profile",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Small domestic scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Community screenings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pacific co-productions",
+                            "score":  0
+                        }
+                    ]
+    }
+]

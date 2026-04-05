@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Who was Angola\u0027s first president after independence?",
+        "answers":  [
+                        {
+                            "text":  "Agostinho Neto",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jose Eduardo dos Santos",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Joao Lourenco",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Holden Roberto",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Angolan leader served for decades before 2017?",
+        "answers":  [
+                        {
+                            "text":  "Jose Eduardo dos Santos",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Agostinho Neto",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jonas Savimbi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Antonio Agostinho",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who is the current president of Angola?",
+        "answers":  [
+                        {
+                            "text":  "Joao Lourenco",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jose Eduardo dos Santos",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Agostinho Neto",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Isaias Samakuva",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which artist is one of Angola\u0027s most iconic musicians in semba tradition?",
+        "answers":  [
+                        {
+                            "text":  "Bonga",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Anselmo Ralph",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yola Semedo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Puto Portugues",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Angolan model won Miss Universe 2011?",
+        "answers":  [
+                        {
+                            "text":  "Leila Lopes",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Maria Borges",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Amilna Estevao",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sharam Diniz",
+                            "score":  0
+                        }
+                    ]
+    }
+]

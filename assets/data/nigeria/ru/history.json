@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Какая столица Нигерии?",
+        "answers":  [
+                        {
+                            "text":  "Abuja",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lagos",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kano",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Port Harcourt",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "В каком году Нигерия получила независимость?",
+        "answers":  [
+                        {
+                            "text":  "1960",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1957",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1963",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1975",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой город крупнейший в Нигерии по населению?",
+        "answers":  [
+                        {
+                            "text":  "Lagos",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Abuja",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ibadan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Enugu",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какая крупная река дала название Нигерии?",
+        "answers":  [
+                        {
+                            "text":  "Niger River",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nile River",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Congo River",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Zambezi River",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой официальный код валюты Нигерии?",
+        "answers":  [
+                        {
+                            "text":  "NGN",
+                            "score":  1
+                        },
+                        {
+                            "text":  "GHS",
+                            "score":  0
+                        },
+                        {
+                            "text":  "KES",
+                            "score":  0
+                        },
+                        {
+                            "text":  "ZAR",
+                            "score":  0
+                        }
+                    ]
+    }
+]

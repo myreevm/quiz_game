@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya tuvalu: government district location.",
+        "answers":  [
+                        {
+                            "text":  "Vaiaku on Funafuti",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1978",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nine atolls",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Australian dollar context",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya tuvalu: year of independence.",
+        "answers":  [
+                        {
+                            "text":  "1978",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vaiaku on Funafuti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nine atolls",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Australian dollar context",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya tuvalu: number of atolls.",
+        "answers":  [
+                        {
+                            "text":  "Nine atolls",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vaiaku on Funafuti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1978",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Australian dollar context",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya tuvalu: currency context in daily use.",
+        "answers":  [
+                        {
+                            "text":  "Australian dollar context",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vaiaku on Funafuti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1978",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nine atolls",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya tuvalu: global issue strongly linked with the country.",
+        "answers":  [
+                        {
+                            "text":  "Climate vulnerability",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vaiaku on Funafuti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1978",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nine atolls",
+                            "score":  0
+                        }
+                    ]
+    }
+]

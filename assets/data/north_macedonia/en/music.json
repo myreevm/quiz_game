@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "What is the traditional circle dance of North Macedonia called?",
+        "answers":  [
+                        {
+                            "text":  "Oro",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kolo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Horon",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sirtaki",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which singer is one of the most beloved pop voices in North Macedonia?",
+        "answers":  [
+                        {
+                            "text":  "Tose Proeski",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vlatko Ilievski",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Karolina Goceva",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Daniel Kajmakoski",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which artist from Skopje is known as the Queen of Roma music?",
+        "answers":  [
+                        {
+                            "text":  "Esma Redzepova",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kaliopi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Elena Risteska",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Suzana Spasovska",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which flute instrument is traditional in North Macedonian folk ensembles?",
+        "answers":  [
+                        {
+                            "text":  "Kaval",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ney",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Duduk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shakuhachi",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the name of the two-headed drum used in Balkan folk music?",
+        "answers":  [
+                        {
+                            "text":  "Tapan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bodhran",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Djembe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cajon",
+                            "score":  0
+                        }
+                    ]
+    }
+]

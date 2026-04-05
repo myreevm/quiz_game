@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Which 2017 film brought major international attention to Zambian cinema?",
+    "answers": [
+      { "text": "I Am Not a Witch", "score": 1 },
+      { "text": "Virunga", "score": 0 },
+      { "text": "Felicite", "score": 0 },
+      { "text": "Wadjda", "score": 0 }
+    ]
+  },
+  {
+    "question": "Who directed I Am Not a Witch?",
+    "answers": [
+      { "text": "Rungano Nyoni", "score": 1 },
+      { "text": "Dieudo Hamadi", "score": 0 },
+      { "text": "Haifaa Al-Mansour", "score": 0 },
+      { "text": "Jonas Mekas", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which city is the main center of Zambia's film production and cultural institutions?",
+    "answers": [
+      { "text": "Lusaka", "score": 1 },
+      { "text": "Livingstone", "score": 0 },
+      { "text": "Ndola", "score": 0 },
+      { "text": "Kasama", "score": 0 }
+    ]
+  },
+  {
+    "question": "How is Zambia's local film sector generally described in recent years?",
+    "answers": [
+      { "text": "Growing with more local productions and festivals", "score": 1 },
+      { "text": "Completely inactive", "score": 0 },
+      { "text": "Limited only to silent films", "score": 0 },
+      { "text": "Focused only on imported TV shows", "score": 0 }
+    ]
+  },
+  {
+    "question": "Zambian filmmakers often gain wider visibility through which approach?",
+    "answers": [
+      { "text": "International co-productions and festival circuits", "score": 1 },
+      { "text": "Releasing films only on local radio", "score": 0 },
+      { "text": "Avoiding all collaborations", "score": 0 },
+      { "text": "Working only in sports media", "score": 0 }
+    ]
+  }
+]

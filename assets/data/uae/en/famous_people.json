@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Who is the President of the UAE since 2022?",
+    "answers": [
+      { "text": "Mohammed bin Zayed Al Nahyan", "score": 1 },
+      { "text": "Mohammed bin Rashid Al Maktoum", "score": 0 },
+      { "text": "Tamim bin Hamad Al Thani", "score": 0 },
+      { "text": "Hamad bin Isa Al Khalifa", "score": 0 }
+    ]
+  },
+  {
+    "question": "Who is widely known as the ruler of Dubai and UAE Prime Minister?",
+    "answers": [
+      { "text": "Mohammed bin Rashid Al Maktoum", "score": 1 },
+      { "text": "Mohammed bin Salman", "score": 0 },
+      { "text": "Nasser Al-Attiyah", "score": 0 },
+      { "text": "Ghazi Algosaibi", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Emirati singer is famous for songs like Boshret Kheir?",
+    "answers": [
+      { "text": "Hussain Al Jassmi", "score": 1 },
+      { "text": "Fahad Al Kubaisi", "score": 0 },
+      { "text": "Mohammed Abdu", "score": 0 },
+      { "text": "Dan Balan", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Arab pop star, born in the UAE, is known as Ahlam?",
+    "answers": [
+      { "text": "Ahlam Al Shamsi", "score": 1 },
+      { "text": "Hala Al Turk", "score": 0 },
+      { "text": "Kerli", "score": 0 },
+      { "text": "Asmik Grigorian", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Emirati engineer became known for leading work on the Hope Mars Mission?",
+    "answers": [
+      { "text": "Omran Sharaf", "score": 1 },
+      { "text": "Ahmed Zaki Yamani", "score": 0 },
+      { "text": "Lennart Meri", "score": 0 },
+      { "text": "Paul Keres", "score": 0 }
+    ]
+  }
+]

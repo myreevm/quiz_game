@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Choose the correct answer for Mauritius: capital city.",
+        "answers":  [
+                        {
+                            "text":  "Port Louis",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vaiaku on Funafuti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1978",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nine atolls",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Choose the correct answer for Mauritius: year of independence.",
+        "answers":  [
+                        {
+                            "text":  "1968",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vaiaku on Funafuti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1978",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nine atolls",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Choose the correct answer for Mauritius: year of becoming a republic.",
+        "answers":  [
+                        {
+                            "text":  "1992",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vaiaku on Funafuti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1978",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nine atolls",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Choose the correct answer for Mauritius: currency.",
+        "answers":  [
+                        {
+                            "text":  "Mauritian rupee (MUR)",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vaiaku on Funafuti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1978",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nine atolls",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Choose the correct answer for Mauritius: cultural profile.",
+        "answers":  [
+                        {
+                            "text":  "Multicultural Indian Ocean context",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vaiaku on Funafuti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1978",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nine atolls",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which filmmaker is a pioneering figure in Kuwaiti cinema?",
+        "answers":  [
+                        {
+                            "text":  "Khalid Al Siddiq",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Abderrahmane Sissako",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Haifaa Al Mansour",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nadine Labaki",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year was the Kuwaiti film The Cruel Sea released?",
+        "answers":  [
+                        {
+                            "text":  "1972",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1968",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1980",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1991",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the name of a key modern film event in Kuwait?",
+        "answers":  [
+                        {
+                            "text":  "Kuwait International Film Festival",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cairo International Film Festival",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cannes Film Festival",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Doha Tribeca Film Festival",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city is the main center of Kuwait\u0027s contemporary film and media scene?",
+        "answers":  [
+                        {
+                            "text":  "Kuwait City",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fahaheel",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Salmiya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mina Abdullah",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kuwait has historically played what role in Gulf screen culture?",
+        "answers":  [
+                        {
+                            "text":  "A regional media hub",
+                            "score":  1
+                        },
+                        {
+                            "text":  "An isolated mountain cinema scene",
+                            "score":  0
+                        },
+                        {
+                            "text":  "A silent film only market",
+                            "score":  0
+                        },
+                        {
+                            "text":  "A fully state closed industry",
+                            "score":  0
+                        }
+                    ]
+    }
+]

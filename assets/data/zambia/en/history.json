@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What is the capital city of Zambia?",
+    "answers": [
+      { "text": "Lusaka", "score": 1 },
+      { "text": "Ndola", "score": 0 },
+      { "text": "Livingstone", "score": 0 },
+      { "text": "Kitwe", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Zambia gain independence from the United Kingdom?",
+    "answers": [
+      { "text": "1964", "score": 1 },
+      { "text": "1957", "score": 0 },
+      { "text": "1975", "score": 0 },
+      { "text": "1990", "score": 0 }
+    ]
+  },
+  {
+    "question": "Zambia's name is historically linked to which major river of the region?",
+    "answers": [
+      { "text": "Zambezi River", "score": 1 },
+      { "text": "Nile River", "score": 0 },
+      { "text": "Congo River", "score": 0 },
+      { "text": "Orange River", "score": 0 }
+    ]
+  },
+  {
+    "question": "Victoria Falls is located on Zambia's border with which country?",
+    "answers": [
+      { "text": "Zimbabwe", "score": 1 },
+      { "text": "Namibia", "score": 0 },
+      { "text": "Angola", "score": 0 },
+      { "text": "Tanzania", "score": 0 }
+    ]
+  },
+  {
+    "question": "What is the official currency of Zambia?",
+    "answers": [
+      { "text": "Zambian kwacha (ZMW)", "score": 1 },
+      { "text": "Namibian dollar (NAD)", "score": 0 },
+      { "text": "US dollar (USD)", "score": 0 },
+      { "text": "CFA franc (XAF)", "score": 0 }
+    ]
+  }
+]

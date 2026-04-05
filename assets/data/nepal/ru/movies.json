@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Какое прозвище обычно используют для киноиндустрии Непала?",
+        "answers":  [
+                        {
+                            "text":  "Kollywood",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tollywood",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pollywood",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lollywood",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой город считается главным центром производства непальского кино?",
+        "answers":  [
+                        {
+                            "text":  "Kathmandu",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pokhara",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Biratnagar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Janakpur",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой непальский фильм в мире известен как Caravan (Himalaya)?",
+        "answers":  [
+                        {
+                            "text":  "Caravan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Talakjung vs Tulke",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kabaddi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Loot",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Кто снял фильм Kalo Pothi (The Black Hen)?",
+        "answers":  [
+                        {
+                            "text":  "Min Bahadur Bham",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nabin Subba",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dipendra K Khanal",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Deepak Rauniyar",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Как сокращенно называется Nepal International Film Festival?",
+        "answers":  [
+                        {
+                            "text":  "NIFF",
+                            "score":  1
+                        },
+                        {
+                            "text":  "NFF",
+                            "score":  0
+                        },
+                        {
+                            "text":  "KIFF",
+                            "score":  0
+                        },
+                        {
+                            "text":  "NIFA",
+                            "score":  0
+                        }
+                    ]
+    }
+]

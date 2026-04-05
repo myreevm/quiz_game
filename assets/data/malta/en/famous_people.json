@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Who became Malta\u0027s first prime minister at independence?",
+        "answers":  [
+                        {
+                            "text":  "George Borg Olivier",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Dom Mintoff",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eddie Fenech Adami",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Joseph Muscat",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Maltese leader is closely linked to neutrality policy and republican reforms?",
+        "answers":  [
+                        {
+                            "text":  "Dom Mintoff",
+                            "score":  1
+                        },
+                        {
+                            "text":  "George Borg Olivier",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Karmenu Mifsud Bonnici",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ugo Mifsud",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Maltese politician serves as President of the European Parliament?",
+        "answers":  [
+                        {
+                            "text":  "Roberta Metsola",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Miriam Dalli",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Helena Dalli",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Josianne Cutajar",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which world known tenor is from Malta?",
+        "answers":  [
+                        {
+                            "text":  "Joseph Calleja",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Placido Domingo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Andrea Bocelli",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jose Carreras",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which singer represented Malta at Eurovision in 2002 and 2016?",
+        "answers":  [
+                        {
+                            "text":  "Ira Losco",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Emma Muscat",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Destiny Chukunyere",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chiara",
+                            "score":  0
+                        }
+                    ]
+    }
+]

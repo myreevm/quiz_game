@@ -1,0 +1,47 @@
+[
+  {
+    "question": "U2 группата ханнык куораттан тахсыбытый?",
+    "answers": [
+      { "text": "Дублин", "score": 1 },
+      { "text": "Корк", "score": 0 },
+      { "text": "Голуэй", "score": 0 },
+      { "text": "Белфаст", "score": 0 }
+    ]
+  },
+  {
+    "question": "Enya ханнык музыкальнай стили биир?",
+    "answers": [
+      { "text": "Нью-эйдж уонна кельтскай аҥарыы", "score": 1 },
+      { "text": "Хэви-метал", "score": 0 },
+      { "text": "Хип-хоп", "score": 0 },
+      { "text": "Сальса", "score": 0 }
+    ]
+  },
+  {
+    "question": "The Cranberries группатын салайааччы ырыаһытааччыта кимий?",
+    "answers": [
+      { "text": "Долорес О'Риордан", "score": 1 },
+      { "text": "Шинейд О'Коннор", "score": 0 },
+      { "text": "Лиза Ханниган", "score": 0 },
+      { "text": "Имельда Мэй", "score": 0 }
+    ]
+  },
+  {
+    "question": "Ирландия фолк музыкатыгар элбэх туттуллар традициялыы инструмент хайдаҕый?",
+    "answers": [
+      { "text": "Иллиан пайпс", "score": 1 },
+      { "text": "Балалайка", "score": 0 },
+      { "text": "Ситар", "score": 0 },
+      { "text": "Бандонеон", "score": 0 }
+    ]
+  },
+  {
+    "question": "«Take Me to Church» хиты ким ырыаһытааччыта?",
+    "answers": [
+      { "text": "Hozier", "score": 1 },
+      { "text": "Bono", "score": 0 },
+      { "text": "Damien Rice", "score": 0 },
+      { "text": "Niall Horan", "score": 0 }
+    ]
+  }
+]

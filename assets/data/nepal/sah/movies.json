@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Непал киинэ индустриятын ханнык кушаматынан ааттыылларый?",
+        "answers":  [
+                        {
+                            "text":  "Kollywood",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tollywood",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pollywood",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lollywood",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Непал киинэтин сурун олохтоох центра ханнык куорат?",
+        "answers":  [
+                        {
+                            "text":  "Kathmandu",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pokhara",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Biratnagar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Janakpur",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Caravan (Himalaya) диэн аан дойдуга биллэр непал киинэтэ ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Caravan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Talakjung vs Tulke",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kabaddi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Loot",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Kalo Pothi киинэтин ким режиссерата буолла?",
+        "answers":  [
+                        {
+                            "text":  "Min Bahadur Bham",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nabin Subba",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dipendra K Khanal",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Deepak Rauniyar",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Nepal International Film Festival кылыһаат аата хайдах суохта?",
+        "answers":  [
+                        {
+                            "text":  "NIFF",
+                            "score":  1
+                        },
+                        {
+                            "text":  "NFF",
+                            "score":  0
+                        },
+                        {
+                            "text":  "KIFF",
+                            "score":  0
+                        },
+                        {
+                            "text":  "NIFA",
+                            "score":  0
+                        }
+                    ]
+    }
+]

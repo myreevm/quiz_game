@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Как называется государственный гимн Науру?",
+        "answers":  [
+                        {
+                            "text":  "Nauru Bwiema",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nauru Mo Te Atua",
+                            "score":  0
+                        },
+                        {
+                            "text":  "God Defend Nauru",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Song of Ocean Republic",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какая вокальная традиция важна в Науру и соседних микронезийских культурах?",
+        "answers":  [
+                        {
+                            "text":  "Choral singing",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Opera bel canto",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yodeling",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Throat singing",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой ритмический элемент часто встречается в науруанских танцевальных песнях?",
+        "answers":  [
+                        {
+                            "text":  "Percussion patterns",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pipe organ ostinatos",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Symphonic strings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Harpsichord riffs",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какие инструменты распространены в современной общинной музыке Науру?",
+        "answers":  [
+                        {
+                            "text":  "Guitar and ukulele",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bagpipe and lute",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bassoon and oboe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sitar and sarod",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "В каком формате чаще всего исполняется праздничная музыка Науру?",
+        "answers":  [
+                        {
+                            "text":  "Community gatherings",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Grand opera houses",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Symphonic concert tours",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Underground techno clubs",
+                            "score":  0
+                        }
+                    ]
+    }
+]

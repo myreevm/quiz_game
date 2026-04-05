@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Монакону государственнай гимн аата ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Hymne Monegasque",
+                            "score":  1
+                        },
+                        {
+                            "text":  "La Marseillaise",
+                            "score":  0
+                        },
+                        {
+                            "text":  "God Save the King",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fratelli d Italia",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Монакону сүрүн симфоническай оркестра аата ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Orchestre Philharmonique de Monte-Carlo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vienna Philharmonic",
+                            "score":  0
+                        },
+                        {
+                            "text":  "London Symphony Orchestra",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Orchestre de Paris",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Монакоҕо баар историческай опера площадката ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Opera de Monte-Carlo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "La Scala",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Royal Opera House",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Teatro Colon",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Монегаскскай ыллыыр уонна поэт буолан ким биллэрий?",
+        "answers":  [
+                        {
+                            "text":  "Лео Ферре",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Шарль Трене",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Жорж Брассенс",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ив Монтан",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Монако Евровидениени ханнык сыллаахха кыайбытый?",
+        "answers":  [
+                        {
+                            "text":  "1971",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1965",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1983",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1999",
+                            "score":  0
+                        }
+                    ]
+    }
+]

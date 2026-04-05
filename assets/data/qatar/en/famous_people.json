@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Who is the current Emir of Qatar?",
+    "answers": [
+      { "text": "Tamim bin Hamad Al Thani", "score": 1 },
+      { "text": "Hamad bin Isa Al Khalifa", "score": 0 },
+      { "text": "Mohammed bin Salman", "score": 0 },
+      { "text": "Mohammed bin Rashid Al Maktoum", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Qatari athlete is famous for rally success and Olympic shooting medals?",
+    "answers": [
+      { "text": "Nasser Al-Attiyah", "score": 1 },
+      { "text": "Mutaz Essa Barshim", "score": 0 },
+      { "text": "Kristaps Porzingis", "score": 0 },
+      { "text": "Arvydas Sabonis", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Qatari high jumper won Olympic and world titles?",
+    "answers": [
+      { "text": "Mutaz Essa Barshim", "score": 1 },
+      { "text": "Nasser Al-Attiyah", "score": 0 },
+      { "text": "Kelly Sildaru", "score": 0 },
+      { "text": "Raimonds Pauls", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Qatari singer is known for popular khaliji songs?",
+    "answers": [
+      { "text": "Fahad Al Kubaisi", "score": 1 },
+      { "text": "Mohammed Abdu", "score": 0 },
+      { "text": "Hussain Al Jassmi", "score": 0 },
+      { "text": "Dan Balan", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which Qatari cultural leader is widely known for global museum initiatives and art patronage?",
+    "answers": [
+      { "text": "Sheikha Al Mayassa bint Hamad Al Thani", "score": 1 },
+      { "text": "Maryam Al-Khawaja", "score": 0 },
+      { "text": "Dalia Grybauskaite", "score": 0 },
+      { "text": "Vaira Vike-Freiberga", "score": 0 }
+    ]
+  }
+]

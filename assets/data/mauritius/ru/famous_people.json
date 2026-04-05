@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya mauritius: founding father and first prime minister.",
+        "answers":  [
+                        {
+                            "text":  "Seewoosagur Ramgoolam",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Toaripi Lauti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kamuta Latasi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Enele Sopoaga",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya mauritius: leader who served as PM and president.",
+        "answers":  [
+                        {
+                            "text":  "Anerood Jugnauth",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Toaripi Lauti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kamuta Latasi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Enele Sopoaga",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya mauritius: prime minister in multiple terms.",
+        "answers":  [
+                        {
+                            "text":  "Navin Ramgoolam",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Toaripi Lauti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kamuta Latasi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Enele Sopoaga",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya mauritius: first female president and scientist.",
+        "answers":  [
+                        {
+                            "text":  "Ameenah Gurib-Fakim",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Toaripi Lauti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kamuta Latasi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Enele Sopoaga",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "RU: Vyberite pravilnyi otvet dlya mauritius: iconic seggae musician.",
+        "answers":  [
+                        {
+                            "text":  "Kaya",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Toaripi Lauti",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kamuta Latasi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Enele Sopoaga",
+                            "score":  0
+                        }
+                    ]
+    }
+]

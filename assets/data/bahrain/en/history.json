@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What is the capital of Bahrain?",
+    "answers": [
+      { "text": "Manama", "score": 1 },
+      { "text": "Muharraq", "score": 0 },
+      { "text": "Riffa", "score": 0 },
+      { "text": "Doha", "score": 0 }
+    ]
+  },
+  {
+    "question": "In which year did Bahrain gain independence?",
+    "answers": [
+      { "text": "1971", "score": 1 },
+      { "text": "1968", "score": 0 },
+      { "text": "1986", "score": 0 },
+      { "text": "1990", "score": 0 }
+    ]
+  },
+  {
+    "question": "Since which year has Bahrain officially been a kingdom?",
+    "answers": [
+      { "text": "2002", "score": 1 },
+      { "text": "1991", "score": 0 },
+      { "text": "2011", "score": 0 },
+      { "text": "1971", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which causeway connected Bahrain and Saudi Arabia in 1986?",
+    "answers": [
+      { "text": "King Fahd Causeway", "score": 1 },
+      { "text": "Sheikh Jaber Bridge", "score": 0 },
+      { "text": "Qatar-Bahrain Bridge", "score": 0 },
+      { "text": "Pearl Bridge", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which traditional industry played a major historical role in Bahrain before oil?",
+    "answers": [
+      { "text": "Pearl diving", "score": 1 },
+      { "text": "Silk weaving", "score": 0 },
+      { "text": "Whale hunting", "score": 0 },
+      { "text": "Tea plantations", "score": 0 }
+    ]
+  }
+]

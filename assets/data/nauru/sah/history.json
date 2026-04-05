@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Науру правительство олорор районата ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Yaren",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Aiwo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Meneng",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Baiti",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Науру ханнык сылла бэйэ сир буолбутуй?",
+        "answers":  [
+                        {
+                            "text":  "1968",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1958",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1978",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1988",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Науруну аан дойду географиятыгар хайдах суруйалларый?",
+        "answers":  [
+                        {
+                            "text":  "Саамай кыра арыы республиканан",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Тихий океан саамай улахан архипелагынан",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Муора суох микрогосударствонан",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Полярнай арыы дойдутунан",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Науруга ханнык валюта туттулларый?",
+        "answers":  [
+                        {
+                            "text":  "Australian dollar (AUD)",
+                            "score":  1
+                        },
+                        {
+                            "text":  "US dollar (USD)",
+                            "score":  0
+                        },
+                        {
+                            "text":  "New Zealand dollar (NZD)",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nauru dollar (NRD)",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Науру экономикатын историятын ханнык баайдаахтык туһанан уларыппыт?",
+        "answers":  [
+                        {
+                            "text":  "Phosphate",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Gold",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Oil",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Natural gas",
+                            "score":  0
+                        }
+                    ]
+    }
+]

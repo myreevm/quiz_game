@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "What is the name of the national anthem of Nauru?",
+        "answers":  [
+                        {
+                            "text":  "Nauru Bwiema",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nauru Mo Te Atua",
+                            "score":  0
+                        },
+                        {
+                            "text":  "God Defend Nauru",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Song of Ocean Republic",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which vocal tradition is important in Nauru and neighboring Micronesian cultures?",
+        "answers":  [
+                        {
+                            "text":  "Choral singing",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Opera bel canto",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yodeling",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Throat singing",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What rhythmic element is common in Nauruan dance songs?",
+        "answers":  [
+                        {
+                            "text":  "Percussion patterns",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pipe organ ostinatos",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Symphonic strings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Harpsichord riffs",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which instruments are common in modern community music on Nauru?",
+        "answers":  [
+                        {
+                            "text":  "Guitar and ukulele",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bagpipe and lute",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bassoon and oboe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sitar and sarod",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Nauruan celebration music is most often performed in what setting?",
+        "answers":  [
+                        {
+                            "text":  "Community gatherings",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Grand opera houses",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Symphonic concert tours",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Underground techno clubs",
+                            "score":  0
+                        }
+                    ]
+    }
+]
