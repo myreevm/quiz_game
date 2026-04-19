@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which instrument is common in traditional music of Karachay-Cherkessia?",
+        "answers":  [
+                        {
+                            "text":  "Garmon accordion",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sigudek bowed instrument",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kantele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shuvyr bagpipe",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which performance style is often heard at celebrations in Karachay-Cherkessia?",
+        "answers":  [
+                        {
+                            "text":  "Lezginka and mountain dance rhythms",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Epic songs and lament chants",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Runo-singing traditions",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mari folk choral singing",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which language besides Russian is often used in songs from Karachay-Cherkessia?",
+        "answers":  [
+                        {
+                            "text":  "Karachay-Balkar and Circassian languages",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Komi language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Karelian language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mari language",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which theme is common in folk songs of Karachay-Cherkessia?",
+        "answers":  [
+                        {
+                            "text":  "Mountains, honor, and ancestral memory",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Taiga, rivers, and northern homeland",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lakes, forests, and epic stories",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nature, native land, and village life",
+                            "score":  0
+                        }
+                    ]
+    }
+]

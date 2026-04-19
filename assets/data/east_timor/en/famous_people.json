@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Who became the first president of East Timor after independence restoration in 2002?",
+        "answers":  [
+                        {
+                            "text":  "Xanana Gusmao",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jose Ramos-Horta",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mari Alkatiri",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Francisco Guterres",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which East Timorese leader received the 1996 Nobel Peace Prize?",
+        "answers":  [
+                        {
+                            "text":  "Xanana Gusmao",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jose Ramos-Horta",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Taur Matan Ruak",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Francisco Guterres",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who served as the first prime minister after independence restoration?",
+        "answers":  [
+                        {
+                            "text":  "Mari Alkatiri",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jose Ramos-Horta",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Xanana Gusmao",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Francisco Guterres",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which East Timorese leader is known by the name Taur Matan Ruak?",
+        "answers":  [
+                        {
+                            "text":  "Francisco Guterres",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jose Ramos-Horta",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Taur Matan Ruak",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mari Alkatiri",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which president of East Timor is also known as Lu-Olo?",
+        "answers":  [
+                        {
+                            "text":  "Francisco Guterres",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Xanana Gusmao",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mari Alkatiri",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jose Ramos-Horta",
+                            "score":  0
+                        }
+                    ]
+    }
+]

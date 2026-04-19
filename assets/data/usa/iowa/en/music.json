@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which metal band from Des Moines, Iowa became globally famous?",
+        "answers":  [
+                        {
+                            "text":  "Slipknot",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Korn",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Metallica",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pantera",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Iowa-born composer wrote The Music Man?",
+        "answers":  [
+                        {
+                            "text":  "Meredith Willson",
+                            "score":  1
+                        },
+                        {
+                            "text":  "George Gershwin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Leonard Bernstein",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Aaron Copland",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which jazz cornetist from Davenport, Iowa is a legend of the 1920s?",
+        "answers":  [
+                        {
+                            "text":  "Bix Beiderbecke",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Louis Armstrong",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dizzy Gillespie",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Miles Davis",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which annual music festival is held in downtown Des Moines?",
+        "answers":  [
+                        {
+                            "text":  "80/35 Music Festival",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Coachella",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lollapalooza",
+                            "score":  0
+                        },
+                        {
+                            "text":  "SXSW",
+                            "score":  0
+                        }
+                    ]
+    }
+]

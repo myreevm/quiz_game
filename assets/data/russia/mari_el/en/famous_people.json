@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which of these people is associated with Mari El?",
+        "answers":  [
+                        {
+                            "text":  "Sergei Chavain",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pitirim Sorokin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Kuratov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Victor Savin",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which figure is linked to the history of Mari El?",
+        "answers":  [
+                        {
+                            "text":  "Ivan Palantai",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pitirim Sorokin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Kuratov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Victor Savin",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who among these personalities is connected with Mari El?",
+        "answers":  [
+                        {
+                            "text":  "Andrei Eshpay",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pitirim Sorokin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Kuratov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Victor Savin",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which person is often mentioned when speaking about Mari El?",
+        "answers":  [
+                        {
+                            "text":  "Yury Zaitsev",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pitirim Sorokin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Kuratov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Victor Savin",
+                            "score":  0
+                        }
+                    ]
+    }
+]

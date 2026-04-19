@@ -1,0 +1,86 @@
+[
+  {
+    "question": "In which city of Adygea are the main regional screenings and premieres usually held?",
+    "answers": [
+      {
+        "text": "Maykop",
+        "score": 1
+      },
+      {
+        "text": "Tuapse",
+        "score": 0
+      },
+      {
+        "text": "Sochi",
+        "score": 0
+      },
+      {
+        "text": "Anapa",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the all-Russian campaign in which Adygea cinemas participate?",
+    "answers": [
+      {
+        "text": "Night of Cinema",
+        "score": 1
+      },
+      {
+        "text": "Night of Museums",
+        "score": 0
+      },
+      {
+        "text": "Library Night",
+        "score": 0
+      },
+      {
+        "text": "Theater Night",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which natural locations of Adygea are often used for filming movies about the Caucasus?",
+    "answers": [
+      {
+        "text": "Mountain gorges and plateaus",
+        "score": 1
+      },
+      {
+        "text": "Desert dunes",
+        "score": 0
+      },
+      {
+        "text": "Tundra and glaciers",
+        "score": 0
+      },
+      {
+        "text": "Coral reefs",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which language, besides Russian, can be heard in regional films about Adygea?",
+    "answers": [
+      {
+        "text": "Adyghe",
+        "score": 1
+      },
+      {
+        "text": "Karelian",
+        "score": 0
+      },
+      {
+        "text": "Komi",
+        "score": 0
+      },
+      {
+        "text": "Udmurt",
+        "score": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Как сегодня лучше всего описать внутреннюю киноиндустрию Сент-Винсента и Гренадин?",
+        "answers":  [
+                        {
+                            "text":  "Small community-based industry",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Major global studio hub",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Largest market in South America",
+                            "score":  0
+                        },
+                        {
+                            "text":  "No screen activity at all",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Где в Сент-Винсенте и Гренадинах чаще всего сначала показывают местные фильмы?",
+        "answers":  [
+                        {
+                            "text":  "Community screenings",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Luxury multiplex chains",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Only foreign festivals",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Opera theaters only",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Как острова часто используются международными съёмочными группами?",
+        "answers":  [
+                        {
+                            "text":  "As Caribbean location shoots",
+                            "score":  1
+                        },
+                        {
+                            "text":  "As Arctic snow doubles",
+                            "score":  0
+                        },
+                        {
+                            "text":  "As desert sets only",
+                            "score":  0
+                        },
+                        {
+                            "text":  "As indoor virtual sets",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Региональные экранные партнёрства для Сент-Винсента и Гренадин часто связаны с какими организациями?",
+        "answers":  [
+                        {
+                            "text":  "OECS and CARICOM co-productions",
+                            "score":  1
+                        },
+                        {
+                            "text":  "UNESCO and NATO studios",
+                            "score":  0
+                        },
+                        {
+                            "text":  "FIFA and IOC media",
+                            "score":  0
+                        },
+                        {
+                            "text":  "EU Parliament channel",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой формат заметнее всего растёт в местном винсентианском кинопроизводстве?",
+        "answers":  [
+                        {
+                            "text":  "Short films",
+                            "score":  1
+                        },
+                        {
+                            "text":  "3-hour epics only",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Silent black-and-white only",
+                            "score":  0
+                        },
+                        {
+                            "text":  "No fiction films",
+                            "score":  0
+                        }
+                    ]
+    }
+]

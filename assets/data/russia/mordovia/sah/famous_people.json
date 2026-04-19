@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Манна бериллибит дьонноон ким Мордовия регионон кытта ситимнээх буоларый?",
+        "answers":  [
+                        {
+                            "text":  "Stepan Erzya",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mongush Buyan-Badyrgy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sainkho Namtchylak",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kaigal-ool Khovalyg",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Мордовия регионун тарихын кытта ким дьоҕуруйарый?",
+        "answers":  [
+                        {
+                            "text":  "Patriarch Nikon",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mongush Buyan-Badyrgy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sainkho Namtchylak",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kaigal-ool Khovalyg",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Бу дьон иһинэн ким Мордовия регионон биллэрилэрий?",
+        "answers":  [
+                        {
+                            "text":  "Artem Zdunov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mongush Buyan-Badyrgy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sainkho Namtchylak",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kaigal-ool Khovalyg",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Мордовия туһунан кэпсэткэннэ ким аата сурулларый?",
+        "answers":  [
+                        {
+                            "text":  "Nadezhda Markina",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mongush Buyan-Badyrgy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sainkho Namtchylak",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kaigal-ool Khovalyg",
+                            "score":  0
+                        }
+                    ]
+    }
+]

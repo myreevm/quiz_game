@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "What is the capital of East Timor?",
+        "answers":  [
+                        {
+                            "text":  "Dili",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Baucau",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Liquica",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Suai",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year was East Timor\u0027s independence restored?",
+        "answers":  [
+                        {
+                            "text":  "1999",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2002",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1975",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2005",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year was the UN-backed referendum held in East Timor?",
+        "answers":  [
+                        {
+                            "text":  "1991",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1999",
+                            "score":  1
+                        },
+                        {
+                            "text":  "2002",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1974",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which pair are official languages of East Timor?",
+        "answers":  [
+                        {
+                            "text":  "Tetum and Portuguese",
+                            "score":  1
+                        },
+                        {
+                            "text":  "English and Tetum",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Portuguese and Spanish",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tetum and Indonesian",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which currency is widely used in East Timor?",
+        "answers":  [
+                        {
+                            "text":  "USD",
+                            "score":  1
+                        },
+                        {
+                            "text":  "EUR",
+                            "score":  0
+                        },
+                        {
+                            "text":  "AUD",
+                            "score":  0
+                        },
+                        {
+                            "text":  "IDR",
+                            "score":  0
+                        }
+                    ]
+    }
+]

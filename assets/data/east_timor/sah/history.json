@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Восточный Тимор баштаах куората ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Dili",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Baucau",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Liquica",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Suai",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Восточный Тимор бэйэ сирэ ханнык сылла тинэриллибитий?",
+        "answers":  [
+                        {
+                            "text":  "1999",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2002",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1975",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2005",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "ООН өйүүр референдум Восточный Тиморга ханнык сылла буолбутуй?",
+        "answers":  [
+                        {
+                            "text":  "1991",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1999",
+                            "score":  1
+                        },
+                        {
+                            "text":  "2002",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1974",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Восточный Тимор официалнай тыллара ханнык икки тылый?",
+        "answers":  [
+                        {
+                            "text":  "Tetum and Portuguese",
+                            "score":  1
+                        },
+                        {
+                            "text":  "English and Tetum",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Portuguese and Spanish",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tetum and Indonesian",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Восточный Тиморга ханнык валюта киэҥник туттулларый?",
+        "answers":  [
+                        {
+                            "text":  "USD",
+                            "score":  1
+                        },
+                        {
+                            "text":  "EUR",
+                            "score":  0
+                        },
+                        {
+                            "text":  "AUD",
+                            "score":  0
+                        },
+                        {
+                            "text":  "IDR",
+                            "score":  0
+                        }
+                    ]
+    }
+]

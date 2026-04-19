@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Манна ааттар иhинэн ким Чуашия кытта ситимнээх?",
+        "answers":  [
+                        {
+                            "text":  "Gennady Aygi",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nadezhda Pavlova",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vasily Chapayev",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mikhail Sespel",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ким Чуашия культура оло5ун кытта ыкса сибээстээх?",
+        "answers":  [
+                        {
+                            "text":  "Nadezhda Pavlova",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Gennady Aygi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vasily Chapayev",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mikhail Sespel",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ким Чуашия билиннээ5и тарихын кытта ситимнээх?",
+        "answers":  [
+                        {
+                            "text":  "Vasily Chapayev",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Gennady Aygi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nadezhda Pavlova",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mikhail Sespel",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Чуашия туhунан кэпсэткэннэ ким аата элбэхтик иhиллэрий?",
+        "answers":  [
+                        {
+                            "text":  "Mikhail Sespel",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Gennady Aygi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nadezhda Pavlova",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vasily Chapayev",
+                            "score":  0
+                        }
+                    ]
+    }
+]

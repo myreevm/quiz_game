@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In what year was Alabama admitted to the United States?",
+        "answers":  [
+                        {
+                            "text":  "1819",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1776",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1861",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1901",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which city did the 16th Street Baptist Church bombing occur in 1963?",
+        "answers":  [
+                        {
+                            "text":  "Birmingham",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mobile",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Montgomery",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Huntsville",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In what year did the Selma to Montgomery marches take place?",
+        "answers":  [
+                        {
+                            "text":  "1965",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1954",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1972",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1981",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "The Montgomery Bus Boycott began after the arrest of which person?",
+        "answers":  [
+                        {
+                            "text":  "Rosa Parks",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Martin Luther King Jr.",
+                            "score":  0
+                        },
+                        {
+                            "text":  "John Lewis",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ralph Abernathy",
+                            "score":  0
+                        }
+                    ]
+    }
+]

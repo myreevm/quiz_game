@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Манна бериллибит дьонноон ким Марий Эл регионон кытта ситимнээх буоларый?",
+        "answers":  [
+                        {
+                            "text":  "Sergei Chavain",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pitirim Sorokin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Kuratov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Victor Savin",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Марий Эл регионун тарихын кытта ким дьоҕуруйарый?",
+        "answers":  [
+                        {
+                            "text":  "Ivan Palantai",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pitirim Sorokin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Kuratov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Victor Savin",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Бу дьон иһинэн ким Марий Эл регионон биллэрилэрий?",
+        "answers":  [
+                        {
+                            "text":  "Andrei Eshpay",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pitirim Sorokin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Kuratov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Victor Savin",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Марий Эл туһунан кэпсэткэннэ ким аата сурулларый?",
+        "answers":  [
+                        {
+                            "text":  "Yury Zaitsev",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pitirim Sorokin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Kuratov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Victor Savin",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Суринам поп-музыкатагар суруллубут бастыҥ стиль ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Kaseko",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Joropo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Likurai",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sega",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Афро-суринам ритм традициятыгар олоҕурбут жанр ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Kawina",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Murga",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Salegy",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Хиндустани-суринам ырыа уһуйуутагар ханнык стиль киэҥ биллэрий?",
+        "answers":  [
+                        {
+                            "text":  "Baithak Gana",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kuduro",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Zamrock",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ardha",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Суринам ис эйгэтиттэн Maroon култууратын стилинэн Aleke диэн ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Aleke",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kaseko",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kawina",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Soca",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Классическай суринам kaseko ырыатыгар бастыҥ символ кимий?",
+        "answers":  [
+                        {
+                            "text":  "Lieve Hugo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kevin Lyttle",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eddy Grant",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Burna Boy",
+                            "score":  0
+                        }
+                    ]
+    }
+]

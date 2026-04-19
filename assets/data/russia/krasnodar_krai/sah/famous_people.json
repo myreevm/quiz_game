@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Манна ааттар иһинэн ким Кыраснадаар край кытта ситимнээх?",
+        "answers":  [
+                        {
+                            "text":  "Anna Netrebko",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Grigory Ponomarenko",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Poddubny",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alexander Tkachyov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ким Кыраснадаар край культура олоҕун кытта ыкса сибээстээх?",
+        "answers":  [
+                        {
+                            "text":  "Grigory Ponomarenko",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Anna Netrebko",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Poddubny",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alexander Tkachyov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ким Кыраснадаар край билиннээҕи тарихын кытта ситимнээх?",
+        "answers":  [
+                        {
+                            "text":  "Ivan Poddubny",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Anna Netrebko",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Grigory Ponomarenko",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alexander Tkachyov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Кыраснадаар край туһунан кэпсэткэннэ ким аата элбэхтик иһиллэрий?",
+        "answers":  [
+                        {
+                            "text":  "Alexander Tkachyov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Anna Netrebko",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Grigory Ponomarenko",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Poddubny",
+                            "score":  0
+                        }
+                    ]
+    }
+]

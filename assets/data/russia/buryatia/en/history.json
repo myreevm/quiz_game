@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which city is the capital of the Republic of Buryatia?",
+    "answers": [
+      {
+        "text": "Ulan-Ude",
+        "score": 1
+      },
+      {
+        "text": "Chita",
+        "score": 0
+      },
+      {
+        "text": "Irkutsk",
+        "score": 0
+      },
+      {
+        "text": "Kyzyl",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "With which largest lake in the world is Buryatia geographically associated?",
+    "answers": [
+      {
+        "text": "Baikal",
+        "score": 1
+      },
+      {
+        "text": "Victoria",
+        "score": 0
+      },
+      {
+        "text": "Ladoga",
+        "score": 0
+      },
+      {
+        "text": "Titicaca",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In which year was the Buryat-Mongol ASSR formed?",
+    "answers": [
+      {
+        "text": "1923",
+        "score": 1
+      },
+      {
+        "text": "1917",
+        "score": 0
+      },
+      {
+        "text": "1937",
+        "score": 0
+      },
+      {
+        "text": "1945",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "To which federal district was Buryatia transferred in 2018?",
+    "answers": [
+      {
+        "text": "Far Eastern Federal District",
+        "score": 1
+      },
+      {
+        "text": "Ural Federal District",
+        "score": 0
+      },
+      {
+        "text": "Central Federal District",
+        "score": 0
+      },
+      {
+        "text": "Southern Federal District",
+        "score": 0
+      }
+    ]
+  }
+]

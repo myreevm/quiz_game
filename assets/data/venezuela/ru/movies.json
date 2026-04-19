@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Какова аббревиатура национального кинооргана Венесуэлы?",
+        "answers":  [
+                        {
+                            "text":  "CNAC",
+                            "score":  1
+                        },
+                        {
+                            "text":  "DFI",
+                            "score":  0
+                        },
+                        {
+                            "text":  "MIFF",
+                            "score":  0
+                        },
+                        {
+                            "text":  "PÖFF",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой классический документальный фильм Марго Бенасерраф связан с венесуэльским кино?",
+        "answers":  [
+                        {
+                            "text":  "Araya",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Balibo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Wadjda",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Wan Pipel",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой венесуэльский фильм получил «Золотого льва» в 2015 году?",
+        "answers":  [
+                        {
+                            "text":  "From Afar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Orator",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Honeyland",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tangerines",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой венесуэльский хоррор известен как The House at the End of Time?",
+        "answers":  [
+                        {
+                            "text":  "The House at the End of Time",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Araya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Virunga",
+                            "score":  0
+                        },
+                        {
+                            "text":  "City of Life",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой город является главным центром киношкол и экранного производства Венесуэлы?",
+        "answers":  [
+                        {
+                            "text":  "Caracas",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Maracaibo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Merida",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cumana",
+                            "score":  0
+                        }
+                    ]
+    }
+]

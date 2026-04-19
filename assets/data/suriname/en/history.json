@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "What is the capital of Suriname?",
+        "answers":  [
+                        {
+                            "text":  "Paramaribo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nieuw Nickerie",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Moengo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Albina",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did Suriname gain independence?",
+        "answers":  [
+                        {
+                            "text":  "1975",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1966",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1980",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1991",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the official language of Suriname?",
+        "answers":  [
+                        {
+                            "text":  "Dutch",
+                            "score":  1
+                        },
+                        {
+                            "text":  "English",
+                            "score":  0
+                        },
+                        {
+                            "text":  "French",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Spanish",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the currency code of Suriname?",
+        "answers":  [
+                        {
+                            "text":  "SRD",
+                            "score":  1
+                        },
+                        {
+                            "text":  "GYD",
+                            "score":  0
+                        },
+                        {
+                            "text":  "VES",
+                            "score":  0
+                        },
+                        {
+                            "text":  "XCD",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Suriname is located on which continent?",
+        "answers":  [
+                        {
+                            "text":  "South America",
+                            "score":  1
+                        },
+                        {
+                            "text":  "North America",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Europe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Africa",
+                            "score":  0
+                        }
+                    ]
+    }
+]

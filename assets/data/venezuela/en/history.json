@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "What is the capital of Venezuela?",
+        "answers":  [
+                        {
+                            "text":  "Caracas",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Maracaibo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Valencia",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Barquisimeto",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did Venezuela first declare independence from Spain?",
+        "answers":  [
+                        {
+                            "text":  "1811",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1821",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1830",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1804",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which year is associated with the decisive Carabobo victory in Venezuela\u0027s independence process?",
+        "answers":  [
+                        {
+                            "text":  "1821",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1811",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1835",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1902",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the official currency code of Venezuela?",
+        "answers":  [
+                        {
+                            "text":  "VES",
+                            "score":  1
+                        },
+                        {
+                            "text":  "GYD",
+                            "score":  0
+                        },
+                        {
+                            "text":  "SRD",
+                            "score":  0
+                        },
+                        {
+                            "text":  "XCD",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which world-famous waterfall is located in Venezuela?",
+        "answers":  [
+                        {
+                            "text":  "Angel Falls",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Victoria Falls",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Iguazu Falls",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Niagara Falls",
+                            "score":  0
+                        }
+                    ]
+    }
+]

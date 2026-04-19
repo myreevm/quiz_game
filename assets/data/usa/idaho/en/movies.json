@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which cult comedy is set in Preston, Idaho?",
+        "answers":  [
+                        {
+                            "text":  "Napoleon Dynamite",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Superbad",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Clerks",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ferris Buellers Day Off",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which 1991 drama has Idaho in its title and stars River Phoenix and Keanu Reeves?",
+        "answers":  [
+                        {
+                            "text":  "My Own Private Idaho",
+                            "score":  1
+                        },
+                        {
+                            "text":  "A River Runs Through It",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Stand by Me",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Drugstore Cowboy",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which volcano-disaster film was shot in Wallace, Idaho?",
+        "answers":  [
+                        {
+                            "text":  "Dantes Peak",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Twister",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Volcano",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Deep Impact",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which adventure thriller includes rafting scenes on the Salmon River in Idaho?",
+        "answers":  [
+                        {
+                            "text":  "The River Wild",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Edge",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Open Water",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Into the Storm",
+                            "score":  0
+                        }
+                    ]
+    }
+]

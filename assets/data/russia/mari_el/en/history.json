@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "What is the capital of Mari El?",
+        "answers":  [
+                        {
+                            "text":  "Yoshkar-Ola",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Syktyvkar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Petrozavodsk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cherkessk",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which natural feature is strongly associated with Mari El?",
+        "answers":  [
+                        {
+                            "text":  "Volga-Vyatka forests and lakes",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Northern taiga and the Pechora basin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ladoga and Onega lake system",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Caucasus peaks and alpine valleys",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which federal district is Mari El located?",
+        "answers":  [
+                        {
+                            "text":  "Volga Federal District",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Northwestern Federal District",
+                            "score":  0
+                        },
+                        {
+                            "text":  "North Caucasian Federal District",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Central Federal District",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which local language is traditionally used in Mari El besides Russian?",
+        "answers":  [
+                        {
+                            "text":  "Mari language",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Komi language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Karelian language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Karachay-Balkar and Circassian languages",
+                            "score":  0
+                        }
+                    ]
+    }
+]

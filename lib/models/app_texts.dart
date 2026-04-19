@@ -321,6 +321,13 @@ class AppTexts {
             '\u041A\u0430\u0440\u0442\u0430\u0495\u0430 \u0434\u043E\u0439\u0434\u0443\u043D\u0443 \u0431\u0430\u0442\u0442\u0430\u0430',
       );
 
+  String get continentMapHint => _select(
+        en: 'Tap a continent on the map',
+        ru: '\u041D\u0430\u0436\u043C\u0438\u0442\u0435 \u043D\u0430 \u043A\u043E\u043D\u0442\u0438\u043D\u0435\u043D\u0442 \u043D\u0430 \u043A\u0430\u0440\u0442\u0435',
+        yakut:
+            '\u041A\u0430\u0440\u0442\u0430\u0495\u0430 \u043A\u043E\u043D\u0442\u0438\u043D\u0435\u043D\u044B \u0431\u0430\u0442\u0442\u0430\u0430',
+      );
+
   String get countryMapPickerActionTitle => _select(
         en: 'Choose on map',
         ru: '\u0412\u044B\u0431\u0440\u0430\u0442\u044C \u043D\u0430 \u043A\u0430\u0440\u0442\u0435',
@@ -328,10 +335,10 @@ class AppTexts {
       );
 
   String get countryMapPickerActionSubtitle => _select(
-        en: 'Open separate world map screen',
-        ru: '\u041E\u0442\u043A\u0440\u044B\u0442\u044C \u043E\u0442\u0434\u0435\u043B\u044C\u043D\u044B\u0439 \u044D\u043A\u0440\u0430\u043D \u043A\u0430\u0440\u0442\u044B \u043C\u0438\u0440\u0430',
+        en: 'Open world map and choose a continent',
+        ru: '\u041E\u0442\u043A\u0440\u044B\u0442\u044C \u043A\u0430\u0440\u0442\u0443 \u043C\u0438\u0440\u0430 \u0438 \u0432\u044B\u0431\u0440\u0430\u0442\u044C \u043A\u043E\u043D\u0442\u0438\u043D\u0435\u043D\u0442',
         yakut:
-            '\u0410\u0430\u0495\u044B \u043A\u0430\u0440\u0442\u0430\u0442\u044B\u043D \u0442\u0443\u0441\u043F\u0430 \u044D\u043A\u0440\u0430\u043D\u043D\u0430 \u0430\u0440',
+            '\u0410\u0430\u0495\u044B \u043A\u0430\u0440\u0442\u0430\u0442\u044B\u043D \u0430\u0440 \u0443\u043E\u043D\u043D\u0430 \u043A\u043E\u043D\u0442\u0438\u043D\u0435\u043D\u044B \u0442\u0430\u043B',
       );
 
   String get regionMapHint => _select(
@@ -785,7 +792,8 @@ class AppTexts {
         return _select(
           en: 'Liechtenstein',
           ru: '\u041B\u0438\u0445\u0442\u0435\u043D\u0448\u0442\u0435\u0439\u043D',
-          yakut: '\u041B\u0438\u0445\u0442\u0435\u043D\u0448\u0442\u0435\u0439\u043D',
+          yakut:
+              '\u041B\u0438\u0445\u0442\u0435\u043D\u0448\u0442\u0435\u0439\u043D',
         );
       case 'luxembourg':
         return _select(
@@ -941,6 +949,38 @@ class AppTexts {
           en: 'Mauritius',
           ru: '\u041C\u0430\u0432\u0440\u0438\u043A\u0438\u0439',
           yakut: '\u041C\u0430\u0432\u0440\u0438\u043A\u0438\u0439',
+        );
+      case 'east_timor':
+        return _select(
+          en: 'East Timor',
+          ru: '\u0412\u043E\u0441\u0442\u043E\u0447\u043D\u044B\u0439 \u0422\u0438\u043C\u043E\u0440',
+          yakut:
+              '\u0412\u043E\u0441\u0442\u043E\u0447\u043D\u044B\u0439 \u0422\u0438\u043C\u043E\u0440',
+        );
+      case 'suriname':
+        return _select(
+          en: 'Suriname',
+          ru: '\u0421\u0443\u0440\u0438\u043D\u0430\u043C',
+          yakut: '\u0421\u0443\u0440\u0438\u043D\u0430\u043C',
+        );
+      case 'guyana':
+        return _select(
+          en: 'Guyana',
+          ru: '\u0413\u0430\u0439\u0430\u043D\u0430',
+          yakut: '\u0413\u0430\u0439\u0430\u043D\u0430',
+        );
+      case 'venezuela':
+        return _select(
+          en: 'Venezuela',
+          ru: '\u0412\u0435\u043D\u0435\u0441\u0443\u044D\u043B\u0430',
+          yakut: '\u0412\u0435\u043D\u0435\u0441\u0443\u044D\u043B\u0430',
+        );
+      case 'saint_vincent_and_the_grenadines':
+        return _select(
+          en: 'Saint Vincent and the Grenadines',
+          ru: '\u0421\u0435\u043D\u0442-\u0412\u0438\u043D\u0441\u0435\u043D\u0442 \u0438 \u0413\u0440\u0435\u043D\u0430\u0434\u0438\u043D\u044B',
+          yakut:
+              '\u0421\u0435\u043D\u0442-\u0412\u0438\u043D\u0441\u0435\u043D\u0442 \u0438 \u0413\u0440\u0435\u043D\u0430\u0434\u0438\u043D\u044B',
         );
       case 'argentina':
         return _select(
@@ -1746,6 +1786,41 @@ class AppTexts {
           yakut:
               '\u041C\u0430\u0432\u0440\u0438\u043A\u0438\u0439: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
         );
+      case 'east_timor':
+        return _select(
+          en: 'East Timor: history, cinema, music, and famous people',
+          ru: '\u0412\u043E\u0441\u0442\u043E\u0447\u043D\u044B\u0439 \u0422\u0438\u043C\u043E\u0440: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
+          yakut:
+              '\u0412\u043E\u0441\u0442\u043E\u0447\u043D\u044B\u0439 \u0422\u0438\u043C\u043E\u0440: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
+        );
+      case 'suriname':
+        return _select(
+          en: 'Suriname: history, cinema, music, and famous people',
+          ru: '\u0421\u0443\u0440\u0438\u043D\u0430\u043C: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
+          yakut:
+              '\u0421\u0443\u0440\u0438\u043D\u0430\u043C: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
+        );
+      case 'guyana':
+        return _select(
+          en: 'Guyana: history, cinema, music, and famous people',
+          ru: '\u0413\u0430\u0439\u0430\u043D\u0430: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
+          yakut:
+              '\u0413\u0430\u0439\u0430\u043D\u0430: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
+        );
+      case 'venezuela':
+        return _select(
+          en: 'Venezuela: history, cinema, music, and famous people',
+          ru: '\u0412\u0435\u043D\u0435\u0441\u0443\u044D\u043B\u0430: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
+          yakut:
+              '\u0412\u0435\u043D\u0435\u0441\u0443\u044D\u043B\u0430: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
+        );
+      case 'saint_vincent_and_the_grenadines':
+        return _select(
+          en: 'Saint Vincent and the Grenadines: history, cinema, music, and famous people',
+          ru: '\u0421\u0435\u043D\u0442-\u0412\u0438\u043D\u0441\u0435\u043D\u0442 \u0438 \u0413\u0440\u0435\u043D\u0430\u0434\u0438\u043D\u044B: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
+          yakut:
+              '\u0421\u0435\u043D\u0442-\u0412\u0438\u043D\u0441\u0435\u043D\u0442 \u0438 \u0413\u0440\u0435\u043D\u0430\u0434\u0438\u043D\u044B: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
+        );
       case 'argentina':
         return _select(
           en: 'Argentina: tango, football, cinema, and key historical facts',
@@ -1926,6 +2001,51 @@ class AppTexts {
     }
   }
 
+  String continentName(String code) {
+    switch (code) {
+      case 'europe':
+        return _select(
+          en: 'Europe',
+          ru: '\u0415\u0432\u0440\u043E\u043F\u0430',
+          yakut: '\u0415\u0432\u0440\u043E\u043F\u0430',
+        );
+      case 'asia':
+        return _select(
+          en: 'Asia',
+          ru: '\u0410\u0437\u0438\u044F',
+          yakut: '\u0410\u0437\u0438\u044F',
+        );
+      case 'africa':
+        return _select(
+          en: 'Africa',
+          ru: '\u0410\u0444\u0440\u0438\u043A\u0430',
+          yakut: '\u0410\u0444\u0440\u0438\u043A\u0430',
+        );
+      case 'oceania':
+        return _select(
+          en: 'Oceania',
+          ru: '\u041E\u043A\u0435\u0430\u043D\u0438\u044F',
+          yakut: '\u041E\u043A\u0435\u0430\u043D\u0438\u044F',
+        );
+      case 'north_america':
+        return _select(
+          en: 'North America',
+          ru: '\u0421\u0435\u0432\u0435\u0440\u043D\u0430\u044F \u0410\u043C\u0435\u0440\u0438\u043A\u0430',
+          yakut:
+              '\u0425\u043E\u0442\u0443\u0443 \u0410\u043C\u0435\u0440\u0438\u043A\u0430',
+        );
+      case 'south_america':
+        return _select(
+          en: 'South America',
+          ru: '\u042E\u0436\u043D\u0430\u044F \u0410\u043C\u0435\u0440\u0438\u043A\u0430',
+          yakut:
+              '\u0421\u043E\u0495\u0443\u0440\u0443\u0443 \u0410\u043C\u0435\u0440\u0438\u043A\u0430',
+        );
+      default:
+        return code;
+    }
+  }
+
   String get regionSelectionTitle => _select(
         en: 'Choose region',
         ru: '\u0412\u044B\u0431\u043E\u0440 \u0440\u0435\u0433\u0438\u043E\u043D\u0430',
@@ -1980,6 +2100,118 @@ class AppTexts {
             en: 'Dagestan',
             ru: '\u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043D',
             yakut: '\u0414\u0430\u0433\u044B\u0441\u0442\u0430\u043D');
+      case 'adygea':
+        return _select(
+            en: 'Adygea',
+            ru: '\u0410\u0434\u044B\u0433\u0435\u044F',
+            yakut: '\u0410\u0434\u044B\u0433\u0435\u0439\u044D');
+      case 'bashkortostan':
+        return _select(
+            en: 'Bashkortostan',
+            ru:
+                '\u0411\u0430\u0448\u043A\u043E\u0440\u0442\u043E\u0441\u0442\u0430\u043D',
+            yakut:
+                '\u0411\u0430\u0430\u0448\u043A\u043E\u0440\u0442\u043E\u0441\u0442\u0430\u043D');
+      case 'altai':
+        return _select(
+            en: 'Altai',
+            ru: '\u0410\u043B\u0442\u0430\u0439',
+            yakut: '\u0410\u043B\u0442\u0430\u0439');
+      case 'buryatia':
+        return _select(
+            en: 'Buryatia',
+            ru: '\u0411\u0443\u0440\u044F\u0442\u0438\u044F',
+            yakut: '\u0411\u0443\u0440\u044F\u0442\u0438\u044F');
+      case 'kalmykia':
+        return _select(
+            en: 'Kalmykia',
+            ru: '\u041A\u0430\u043B\u043C\u044B\u043A\u0438\u044F',
+            yakut: '\u041A\u0430\u043B\u043C\u044B\u043A\u0438\u044F');
+      case 'kabardino_balkaria':
+        return _select(
+            en: 'Kabardino-Balkaria',
+            ru:
+                '\u041A\u0430\u0431\u0430\u0440\u0434\u0438\u043D\u043E-\u0411\u0430\u043B\u043A\u0430\u0440\u0438\u044F',
+            yakut:
+                '\u041A\u0430\u0431\u0430\u0440\u0434\u0438\u043D\u043E-\u0411\u0430\u043B\u043A\u0430\u0440\u0438\u044F');
+      case 'ingushetia':
+        return _select(
+            en: 'Ingushetia',
+            ru: '\u0418\u043D\u0433\u0443\u0448\u0435\u0442\u0438\u044F',
+            yakut: '\u0418\u043D\u0433\u0443\u0448\u0435\u0442\u0438\u044F');
+      case 'kamchatka':
+        return _select(
+            en: 'Kamchatka',
+            ru: '\u041A\u0430\u043C\u0447\u0430\u0442\u043A\u0430',
+            yakut: '\u041A\u0430\u043C\u0447\u0430\u0442\u043A\u0430');
+      case 'mari_el':
+        return _select(en: 'Mari El', ru: 'Марий-Эл', yakut: 'Марий Эл');
+      case 'komi':
+        return _select(en: 'Komi', ru: 'Коми', yakut: 'Коми');
+      case 'karelia':
+        return _select(en: 'Karelia', ru: 'Карелия', yakut: 'Карелия');
+      case 'karachay_cherkessia':
+        return _select(
+            en: 'Karachay-Cherkessia',
+            ru: 'Карачай-Черкессия',
+            yakut: 'Карачай-Черкессия');
+      case 'tuva':
+        return _select(en: 'Tuva', ru: 'Тыва', yakut: 'Тыва');
+      case 'tatarstan':
+        return _select(en: 'Tatarstan', ru: 'Татарстан', yakut: 'Татарстан');
+      case 'north_ossetia':
+        return _select(
+            en: 'North Ossetia', ru: 'Северная Осетия', yakut: 'Хотугу Осетия');
+      case 'mordovia':
+        return _select(en: 'Mordovia', ru: 'Мордовия', yakut: 'Мордовия');
+      case 'chuvashia':
+        return _select(
+          en: 'Chuvashia',
+          ru: '\u0427\u0443\u0432\u0430\u0448\u0438\u044f',
+          yakut: '\u0427\u0443\u0430\u0448\u0438\u044f',
+        );
+      case 'chechnya':
+        return _select(
+          en: 'Chechnya',
+          ru: '\u0427\u0435\u0447\u043d\u044f',
+          yakut: '\u0427\u044d\u0447\u044d\u043d\u044d',
+        );
+      case 'khakassia':
+        return _select(
+          en: 'Khakassia',
+          ru: '\u0425\u0430\u043a\u0430\u0441\u0438\u044f',
+          yakut: '\u0425\u0430\u043a\u0430\u0441\u0441\u0438\u044f',
+        );
+      case 'udmurtia':
+        return _select(
+          en: 'Udmurtia',
+          ru: '\u0423\u0434\u043c\u0443\u0440\u0442\u0438\u044f',
+          yakut: '\u0423\u0434\u043c\u0443\u0440\u0442\u0438\u044f',
+        );
+      case 'krasnoyarsk_krai':
+        return _select(
+          en: 'Krasnoyarsk Krai',
+          ru: 'Красноярский край',
+          yakut: 'Кыраһайаарскай край',
+        );
+      case 'krasnodar_krai':
+        return _select(
+          en: 'Krasnodar Krai',
+          ru: 'Краснодарский край',
+          yakut: 'Кыраснадаар край',
+        );
+      case 'zabaykalsky_krai':
+        return _select(
+          en: 'Zabaykalsky Krai',
+          ru: 'Забайкальский край',
+          yakut: 'Байкал аннын крайа',
+        );
+      case 'altai_krai':
+        return _select(
+          en: 'Altai Krai',
+          ru: 'Алтайский край',
+          yakut: 'Алтай крайа',
+        );
       case 'texas':
         return _select(
             en: 'Texas',
@@ -1990,6 +2222,30 @@ class AppTexts {
             en: 'Oklahoma',
             ru: '\u041E\u043A\u043B\u0430\u0445\u043E\u043C\u0430',
             yakut: '\u041E\u043A\u043B\u0430\u0445\u043E\u043C\u0430');
+      case 'alaska':
+        return _select(
+          en: 'Alaska',
+          ru: '\u0410\u043B\u044F\u0441\u043A\u0430',
+          yakut: '\u0410\u043B\u044F\u0430\u0441\u043A\u0430',
+        );
+      case 'alabama':
+        return _select(
+          en: 'Alabama',
+          ru: '\u0410\u043B\u0430\u0431\u0430\u043C\u0430',
+          yakut: '\u0410\u043B\u0430\u0431\u0430\u0430\u043C\u0430',
+        );
+      case 'iowa':
+        return _select(
+          en: 'Iowa',
+          ru: '\u0410\u0439\u043E\u0432\u0430',
+          yakut: '\u0410\u0439\u043E\u0443\u0430',
+        );
+      case 'idaho':
+        return _select(
+          en: 'Idaho',
+          ru: '\u0410\u0439\u0434\u0430\u0445\u043E',
+          yakut: '\u0410\u0439\u0434\u0430\u0430\u0445\u043E',
+        );
       default:
         return code;
     }
@@ -2014,6 +2270,168 @@ class AppTexts {
           yakut:
               '\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430, \u04AF\u0433\u044D \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0431\u0443\u043E\u043B\u0431\u0443\u0442 \u0442\u04AF\u04BB\u04AF\u043C\u044D\u0445\u0442\u044D\u0440',
         );
+      case 'russia/adygea':
+        return _select(
+          en: 'Culture and traditions of the Adyghe people',
+          ru: '\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430 \u0438 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u0438 \u0430\u0434\u044B\u0433\u0441\u043A\u043E\u0433\u043E \u043D\u0430\u0440\u043E\u0434\u0430',
+          yakut:
+              '\u0410\u0434\u044B\u0433\u044D \u043D\u043E\u0440\u0443\u043E\u0442\u0443\u043D \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u0430\u0442\u0430 \u0443\u043E\u043D\u043D\u0430 \u04AF\u0433\u044D-\u04E9\u0442\u043A\u04E9',
+        );
+      case 'russia/bashkortostan':
+        return _select(
+          en: 'History, nature, and culture of Bashkortostan',
+          ru: '\u0418\u0441\u0442\u043E\u0440\u0438\u044F, \u043F\u0440\u0438\u0440\u043E\u0434\u0430 \u0438 \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u0430 \u0411\u0430\u0448\u043A\u043E\u0440\u0442\u043E\u0441\u0442\u0430\u043D\u0430',
+          yakut:
+              '\u0411\u0430\u0430\u0448\u043A\u043E\u0440\u0442\u043E\u0441\u0442\u0430\u043D \u0438\u0441\u0442\u043E\u0440\u0438\u044F\u0442\u0430, \u0430\u0439\u044B\u043B\u0495\u0430\u0442\u0430 \u0443\u043E\u043D\u043D\u0430 \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u0430\u0442\u0430',
+        );
+      case 'russia/altai':
+        return _select(
+          en: 'Mountain nature and heritage of the Altai Republic',
+          ru: '\u0413\u043E\u0440\u043D\u0430\u044F \u043F\u0440\u0438\u0440\u043E\u0434\u0430 \u0438 \u043D\u0430\u0441\u043B\u0435\u0434\u0438\u0435 \u0420\u0435\u0441\u043F\u0443\u0431\u043B\u0438\u043A\u0438 \u0410\u043B\u0442\u0430\u0439',
+          yakut:
+              '\u0410\u043B\u0442\u0430\u0439 \u04E8\u0440\u04E9\u0441\u043F\u04AF\u04AF\u0431\u04AF\u043B\u04AF\u043A\u044D\u0442\u0438\u043D \u0445\u0430\u0439\u0430\u0442\u0430 \u0443\u043E\u043D\u043D\u0430 \u04AF\u0439\u044D \u043A\u044D\u0441\u043A\u0438\u043B\u044D',
+        );
+      case 'russia/buryatia':
+        return _select(
+          en: 'Baikal, Buddhism, and traditions of Buryatia',
+          ru: '\u0411\u0430\u0439\u043A\u0430\u043B, \u0431\u0443\u0434\u0434\u0438\u0437\u043C \u0438 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u0438 \u0411\u0443\u0440\u044F\u0442\u0438\u0438',
+          yakut:
+              '\u0411\u0430\u0439\u043A\u0430\u043B, \u0431\u0443\u0434\u0434\u0438\u0437\u043C \u0443\u043E\u043D\u043D\u0430 \u0411\u0443\u0440\u044F\u0442\u0438\u044F \u04AF\u0433\u044D-\u04E9\u0442\u043A\u04E9\u0442\u04E9',
+        );
+      case 'russia/kalmykia':
+        return _select(
+          en: 'Steppe region with Buddhist heritage and Caspian lowlands',
+          ru: '\u0421\u0442\u0435\u043F\u043D\u043E\u0439 \u0440\u0435\u0433\u0438\u043E\u043D \u0441 \u0431\u0443\u0434\u0434\u0438\u0439\u0441\u043A\u0438\u043C \u043D\u0430\u0441\u043B\u0435\u0434\u0438\u0435\u043C \u0438 \u043F\u0440\u0438\u043A\u0430\u0441\u043F\u0438\u0439\u0441\u043A\u043E\u0439 \u043D\u0438\u0437\u043C\u0435\u043D\u043D\u043E\u0441\u0442\u044C\u044E',
+          yakut:
+              '\u0411\u0443\u0434\u0434\u0438\u0437\u043C \u04AF\u0439\u044D \u043A\u044D\u0441\u043A\u0438\u043B\u043B\u044D\u044D\u0445 \u0443\u043E\u043D\u043D\u0430 \u041A\u0430\u0441\u043F\u0438\u0439 \u043D\u0430\u043C\u0442\u0430\u0430\u0445 \u0441\u0438\u0440\u0438\u043D\u043D\u044D\u044D\u0445 \u0440\u0435\u0433\u0438\u043E\u043D',
+        );
+      case 'russia/kabardino_balkaria':
+        return _select(
+          en: 'Elbrus, mountain culture, and traditions of two peoples',
+          ru: '\u042D\u043B\u044C\u0431\u0440\u0443\u0441, \u0433\u043E\u0440\u043D\u0430\u044F \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u0430 \u0438 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u0438 \u0434\u0432\u0443\u0445 \u043D\u0430\u0440\u043E\u0434\u043E\u0432',
+          yakut:
+              '\u042D\u043B\u044C\u0431\u0440\u0443\u0441, \u0445\u0430\u0439\u0430\u043D \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u0430\u0442\u0430 \u0443\u043E\u043D\u043D\u0430 \u0438\u043A\u043A\u0438 \u043D\u043E\u0440\u0443\u043E\u0442 \u04AF\u0433\u044D-\u04E9\u0442\u043A\u04E9\u0442\u04E9',
+        );
+      case 'russia/ingushetia':
+        return _select(
+          en: 'Ancient towers, mountain history, and Nakh traditions',
+          ru: '\u0414\u0440\u0435\u0432\u043D\u0438\u0435 \u0431\u0430\u0448\u043D\u0438, \u0433\u043E\u0440\u043D\u0430\u044F \u0438\u0441\u0442\u043E\u0440\u0438\u044F \u0438 \u043D\u0430\u0445\u0441\u043A\u0438\u0435 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u0438',
+          yakut:
+              '\u0411\u044B\u043B\u044B\u0440\u0433\u044B \u043C\u0430\u043D\u043D\u044B\u043A \u0431\u0430\u0448\u043D\u044F\u043B\u0430\u0440, \u0445\u0430\u0439\u0430\u043D \u0438\u0441\u0442\u043E\u0440\u0438\u044F \u0443\u043E\u043D\u043D\u0430 \u043D\u0430\u0445 \u04AF\u0433\u044D-\u04E9\u0442\u043A\u04E9\u0442\u04E9',
+        );
+      case 'russia/kamchatka':
+        return _select(
+          en: 'Volcanoes, the Pacific coast, and Far East nature',
+          ru: '\u0412\u0443\u043B\u043A\u0430\u043D\u044B, \u0442\u0438\u0445\u043E\u043E\u043A\u0435\u0430\u043D\u0441\u043A\u043E\u0435 \u043F\u043E\u0431\u0435\u0440\u0435\u0436\u044C\u0435 \u0438 \u043F\u0440\u0438\u0440\u043E\u0434\u0430 \u0414\u0430\u043B\u044C\u043D\u0435\u0433\u043E \u0412\u043E\u0441\u0442\u043E\u043A\u0430',
+          yakut:
+              '\u0412\u0443\u043B\u043A\u0430\u043D\u043D\u0430\u0440, \u0422\u0438\u0439\u044D\u0441 \u043E\u043A\u0435\u0430\u043D \u0431\u0443\u043E\u0445\u0430\u0439\u0430 \u0443\u043E\u043D\u043D\u0430 \u042B\u0440\u0430\u0430\u0445 \u0418\u043B\u0438\u043D \u0430\u0439\u044B\u043B\u0495\u0430\u0442\u0430',
+        );
+      case 'russia/mari_el':
+        return _select(
+          en: 'Volga region with Mari traditions, forests, and lakes',
+          ru: 'Поволжский регион с марийскими традициями, лесами и озёрами',
+          yakut:
+              'Идел буоругар баар Марий үгэ-өткөтө, ойуурдара уонна күөллэрэ',
+        );
+      case 'russia/komi':
+        return _select(
+          en: 'Northern forests, river culture, and traditions of Komi',
+          ru: 'Северные леса, речная культура и традиции Коми',
+          yakut: 'Хотугу ойуурдар, өрүс культурата уонна Коми үгэ-өткөтө',
+        );
+      case 'russia/karelia':
+        return _select(
+          en: 'Lakes, wooden architecture, and Karelian heritage',
+          ru: 'Озёра, деревянное зодчество и карельское наследие',
+          yakut: 'Күөллэр, мас уустар үлэтэ уонна карел үйэ кэскилэ',
+        );
+      case 'russia/karachay_cherkessia':
+        return _select(
+          en: 'Caucasus mountains, alpine valleys, and Karachay-Cherkess traditions',
+          ru: 'Кавказские горы, высокогорные долины и карачаево-черкесские традиции',
+          yakut:
+              'Кавказ хайалара, үрдүк хайа хонуулара уонна Карачай-Черкессия үгэ-өткөтө',
+        );
+      case 'russia/tuva':
+        return _select(
+          en: 'Sayan mountains, steppe valleys, and nomadic heritage',
+          ru: 'Саяны, степные долины и кочевое наследие',
+          yakut: 'Саян хайалара, степ хонуулара уонна кочевой үйэ кэскилэ',
+        );
+      case 'russia/tatarstan':
+        return _select(
+          en: 'Volga region, Tatar culture, and historical cities',
+          ru: 'Поволжье, татарская культура и исторические города',
+          yakut: 'Идел буоругар, татар культурата уонна тарихтаах куораттар',
+        );
+      case 'russia/north_ossetia':
+        return _select(
+          en: 'Caucasus mountain region with Ossetian traditions',
+          ru: 'Кавказский горный регион с осетинскими традициями',
+          yakut: 'Кавказ хайа регионо Осетия үгэ-өткөтүн кытта',
+        );
+      case 'russia/mordovia':
+        return _select(
+          en: 'Forests, rivers, and the heritage of Erzya and Moksha',
+          ru: 'Леса, реки и наследие эрзи и мокши',
+          yakut: 'Ойуурдар, өрүстэр уонна эрзя уонна мокша үйэ кэскилэ',
+        );
+      case 'russia/chuvashia':
+        return _select(
+          en: 'Volga region with Chuvash culture, crafts, and festivals',
+          ru: '\u041f\u043e\u0432\u043e\u043b\u0436\u044c\u0435\u0020\u0441\u0020\u0447\u0443\u0432\u0430\u0448\u0441\u043a\u043e\u0439\u0020\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u043e\u0439\u002c\u0020\u0440\u0435\u043c\u0435\u0441\u043b\u0430\u043c\u0438\u0020\u0438\u0020\u043f\u0440\u0430\u0437\u0434\u043d\u0438\u043a\u0430\u043c\u0438',
+          yakut:
+              '\u0418\u0434\u044d\u043b\u0020\u0431\u0443\u043e\u0440\u0443\u0433\u0430\u0440\u0020\u0427\u0443\u0430\u0448\u0020\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430\u0442\u044b\u043d\u002c\u0020\u0443\u0443\u0441\u002d\u0443\u0440\u0430\u043d\u0020\u0443\u043e\u043d\u043d\u0430\u0020\u0431\u044b\u0440\u0430\u0430\u04bb\u044b\u043d\u043d\u0430\u0440\u044b\u0020\u0445\u0430\u0440\u044b\u0441\u0442\u044b\u044b\u0440\u0020\u0440\u0435\u0433\u0438\u043e\u043d',
+        );
+      case 'russia/chechnya':
+        return _select(
+          en: 'Mountain republic of the North Caucasus with deep traditions',
+          ru: '\u0413\u043e\u0440\u043d\u0430\u044f\u0020\u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0020\u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0433\u043e\u0020\u041a\u0430\u0432\u043a\u0430\u0437\u0430\u0020\u0441\u0020\u0433\u043b\u0443\u0431\u043e\u043a\u0438\u043c\u0438\u0020\u0442\u0440\u0430\u0434\u0438\u0446\u0438\u044f\u043c\u0438',
+          yakut:
+              '\u0425\u043e\u0442\u0443\u0433\u0443\u0020\u041a\u0430\u0432\u043a\u0430\u0437\u0020\u0445\u0430\u0439\u0430\u043b\u0430\u0430\u0445\u0020\u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0442\u0430\u002c\u0020\u0434\u0438\u0440\u0438\u0438\u043d\u0020\u0442\u043e\u0440\u0443\u0442\u0020\u0443\u0433\u044d\u043b\u044d\u0440\u044d\u0020\u0431\u0430\u0430\u0440\u0020\u0440\u0435\u0433\u0438\u043e\u043d',
+        );
+      case 'russia/khakassia':
+        return _select(
+          en: 'Southern Siberian region with steppes, rivers, and ancient sites',
+          ru: '\u042e\u0436\u043d\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0439\u0020\u0440\u0435\u0433\u0438\u043e\u043d\u0020\u0441\u043e\u0020\u0441\u0442\u0435\u043f\u044f\u043c\u0438\u002c\u0020\u0440\u0435\u043a\u0430\u043c\u0438\u0020\u0438\u0020\u0434\u0440\u0435\u0432\u043d\u0438\u043c\u0438\u0020\u043f\u0430\u043c\u044f\u0442\u043d\u0438\u043a\u0430\u043c\u0438',
+          yakut:
+              '\u0421\u0438\u0431\u0438\u0440\u0438\u0430\u0020\u0441\u043e\u0442\u043e\u043b\u043e\u043e\u0445\u0020\u043e\u0442\u0442\u0443\u0433\u044d\u0440\u0020\u0441\u0442\u0435\u043f\u0442\u044d\u0440\u044d\u002c\u0020\u0440\u0435\u043a\u0430\u043b\u0430\u0440\u044b\u0020\u0443\u043e\u043d\u043d\u0430\u0020\u0431\u044b\u043b\u044b\u0440\u0433\u044b\u0020\u0442\u0443\u0440\u0443\u043a\u0441\u0443\u0442\u0442\u0430\u0440\u0430\u0020\u0431\u0430\u0430\u0440\u0020\u0440\u0435\u0433\u0438\u043e\u043d',
+        );
+      case 'russia/udmurtia':
+        return _select(
+          en: 'Volga-Ural region with Finno-Ugric heritage and music culture',
+          ru: '\u0412\u043e\u043b\u0433\u043e\u002d\u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439\u0020\u0440\u0435\u0433\u0438\u043e\u043d\u0020\u0441\u0020\u0444\u0438\u043d\u043d\u043e\u002d\u0443\u0433\u043e\u0440\u0441\u043a\u0438\u043c\u0020\u043d\u0430\u0441\u043b\u0435\u0434\u0438\u0435\u043c\u0020\u0438\u0020\u043c\u0443\u0437\u044b\u043a\u0430\u043b\u044c\u043d\u043e\u0439\u0020\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u043e\u0439',
+          yakut:
+              '\u0418\u0434\u044d\u043b\u002d\u0423\u0440\u0430\u043b\u0020\u043e\u0442\u0442\u0443\u0433\u044d\u0440\u0020\u0444\u0438\u043d\u043d\u043e\u002d\u0443\u0433\u043e\u0440\u0020\u0442\u0435\u0440\u0443\u0442\u044d\u0020\u0443\u043e\u043d\u043d\u0430\u0020\u044b\u0440\u044b\u0430\u0020\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430\u0442\u044b\u043d\u0020\u0438\u043b\u0434\u044c\u044d\u0440\u0020\u0440\u0435\u0433\u0438\u043e\u043d',
+        );
+      case 'russia/krasnoyarsk_krai':
+        return _select(
+          en: 'Vast Siberian region with taiga, Yenisei, and Arctic north',
+          ru: 'Крупный сибирский край с тайгой, Енисеем и арктическим севером',
+          yakut:
+              'Тайҕалаах, Енисейдээх уонна Арктикаҕа тиийэр улахан Сибириа крайа',
+        );
+      case 'russia/krasnodar_krai':
+        return _select(
+          en: 'Black Sea and Kuban region with resorts, farms, and Cossack heritage',
+          ru: 'Черноморско-кубанский край с курортами, аграрной культурой и казачьим наследием',
+          yakut:
+              'Хара Байҕал уонна Кубань өттүгэр курорттаах, аграрнай уонна казак үйэтээх край',
+        );
+      case 'russia/zabaykalsky_krai':
+        return _select(
+          en: 'Trans-Baikal region with steppes, taiga, and border history',
+          ru: 'Забайкальский край со степями, тайгой и приграничной историей',
+          yakut:
+              'Байкал аннын крайа стептээх, тайҕалаах уонна бордьуур тарихтаах',
+        );
+      case 'russia/altai_krai':
+        return _select(
+          en: 'Southwestern Siberian region with plains and foothills of Altai',
+          ru: 'Юго-западный сибирский край с равнинами и предгорьями Алтая',
+          yakut:
+              'Сотугу-арҕаа Сибириа крайа, тэгис сирдээх уонна Алтай иннин хайалаах',
+        );
       case 'usa/texas':
         return _select(
           en: 'History and culture of one of the largest states',
@@ -2027,6 +2445,34 @@ class AppTexts {
           ru: '\u0424\u0430\u043A\u0442\u044B \u043E \u043C\u0443\u0437\u044B\u043A\u0435, \u043A\u0438\u043D\u043E \u0438 \u043F\u0440\u043E\u0448\u043B\u043E\u043C \u0448\u0442\u0430\u0442\u0430',
           yakut:
               '\u0428\u0442\u0430\u0442 \u0438\u0441\u0442\u043E\u0440\u0438\u044F\u0442\u0430, \u044B\u0440\u044B\u0430\u0442\u0430 \u0443\u043E\u043D\u043D\u0430 \u043A\u0438\u043D\u043E\u0442\u043E \u0442\u0443\u04BB\u0443\u043D\u0430\u043D \u0444\u0430\u043A\u0442\u044B\u043B\u0430\u0440',
+        );
+      case 'usa/alaska':
+        return _select(
+          en: 'Arctic state with glaciers, wildlife, and northern heritage',
+          ru: '\u0410\u0440\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0448\u0442\u0430\u0442 \u0441 \u043B\u0435\u0434\u043D\u0438\u043A\u0430\u043C\u0438, \u0434\u0438\u043A\u043E\u0439 \u043F\u0440\u0438\u0440\u043E\u0434\u043E\u0439 \u0438 \u0441\u0435\u0432\u0435\u0440\u043D\u044B\u043C \u043D\u0430\u0441\u043B\u0435\u0434\u0438\u0435\u043C',
+          yakut:
+              '\u0425\u043E\u0442\u0443\u0443 \u0448\u0442\u0430\u0442, \u043C\u0443\u0443\u0441 \u0441\u0438\u0440\u0434\u044D\u0440\u044D \u0443\u043E\u043D\u043D\u0430 \u0442\u0443\u0441\u0442\u0443\u0443 \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u0430\u043B\u0430\u0430\u0445',
+        );
+      case 'usa/alabama':
+        return _select(
+          en: 'Southern state known for civil rights history and music traditions',
+          ru: '\u042E\u0436\u043D\u044B\u0439 \u0448\u0442\u0430\u0442, \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0439 \u0438\u0441\u0442\u043E\u0440\u0438\u0435\u0439 \u0433\u0440\u0430\u0436\u0434\u0430\u043D\u0441\u043A\u0438\u0445 \u043F\u0440\u0430\u0432 \u0438 \u043C\u0443\u0437\u044B\u043A\u0430\u043B\u044C\u043D\u044B\u043C\u0438 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u044F\u043C\u0438',
+          yakut:
+              '\u0421\u043E\u0442\u0443\u0433\u0443 \u0448\u0442\u0430\u0442, \u0433\u0440\u0430\u0436\u0434\u0430\u043D\u0441\u043A\u0430\u0439 \u043A\u044B\u0430\u0445 \u0438\u0441\u0442\u043E\u0440\u0438\u044F\u0442\u0430 \u0443\u043E\u043D\u043D\u0430 \u044B\u0440\u044B\u0430 \u0443\u0433\u044D\u0441\u0442\u044D\u0440\u044D',
+        );
+      case 'usa/iowa':
+        return _select(
+          en: 'Midwestern farming state with prairies and river history',
+          ru: '\u0421\u0440\u0435\u0434\u043D\u0435\u0437\u0430\u043F\u0430\u0434\u043D\u044B\u0439 \u0430\u0433\u0440\u0430\u0440\u043D\u044B\u0439 \u0448\u0442\u0430\u0442 \u0441 \u043F\u0440\u0435\u0440\u0438\u044F\u043C\u0438 \u0438 \u0438\u0441\u0442\u043E\u0440\u0438\u0435\u0439 \u0440\u0435\u043A',
+          yakut:
+              '\u041E\u0439\u043E\u043E\u043D \u0430\u0430\u0439\u044B \u0448\u0442\u0430\u0442, \u0442\u0430\u043B\u0430 \u0441\u0438\u0440\u0434\u044D\u0440 \u0443\u043E\u043D\u043D\u0430 \u0443\u0443\u0442\u0430\u0430\u0445 \u0438\u0441\u0442\u043E\u0440\u0438\u044F\u043B\u0430\u0430\u0445',
+        );
+      case 'usa/idaho':
+        return _select(
+          en: 'Mountain state with forests, rivers, and frontier past',
+          ru: '\u0413\u043E\u0440\u043D\u044B\u0439 \u0448\u0442\u0430\u0442 \u0441 \u043B\u0435\u0441\u0430\u043C\u0438, \u0440\u0435\u043A\u0430\u043C\u0438 \u0438 \u0438\u0441\u0442\u043E\u0440\u0438\u0435\u0439 \u0444\u0440\u043E\u043D\u0442\u0438\u0440\u0430',
+          yakut:
+              '\u0425\u0430\u0439\u0430\u043B\u0430\u0430\u0445 \u0448\u0442\u0430\u0442, \u043E\u0439\u0443\u0443\u0440 \u0443\u043E\u043D\u043D\u0430 \u0443\u0440\u0443\u0439\u044D\u0445 \u0441\u0438\u0440\u0434\u044D\u0440\u0438\u0438\u043D \u044D\u0440\u0434\u044D \u0442\u0430\u0440\u0438\u0445\u0442\u0430\u0430\u0445',
         );
       default:
         return region;

@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "What is the capital of Saint Vincent and the Grenadines?",
+        "answers":  [
+                        {
+                            "text":  "Kingstown",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Georgetown",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Basseterre",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Castries",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did Saint Vincent and the Grenadines gain independence?",
+        "answers":  [
+                        {
+                            "text":  "1979",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1966",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1986",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1992",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the currency code used in Saint Vincent and the Grenadines?",
+        "answers":  [
+                        {
+                            "text":  "XCD",
+                            "score":  1
+                        },
+                        {
+                            "text":  "SRD",
+                            "score":  0
+                        },
+                        {
+                            "text":  "GYD",
+                            "score":  0
+                        },
+                        {
+                            "text":  "VES",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Saint Vincent and the Grenadines is a member of which regional community?",
+        "answers":  [
+                        {
+                            "text":  "CARICOM",
+                            "score":  1
+                        },
+                        {
+                            "text":  "ASEAN",
+                            "score":  0
+                        },
+                        {
+                            "text":  "EU",
+                            "score":  0
+                        },
+                        {
+                            "text":  "AU",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which volcano erupted on Saint Vincent in 2021?",
+        "answers":  [
+                        {
+                            "text":  "La Soufriere",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Etna",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Merapi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Popocatepetl",
+                            "score":  0
+                        }
+                    ]
+    }
+]

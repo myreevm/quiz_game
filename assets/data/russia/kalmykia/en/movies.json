@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In which city are most regional film events of Kalmykia held?",
+        "answers":  [
+                        {
+                            "text":  "Elista",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Magas",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Petropavlovsk-Kamchatsky",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nalchik",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which landscapes of Kalmykia are most often shown in documentaries?",
+        "answers":  [
+                        {
+                            "text":  "Open steppe horizons",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tower settlements in mountain valleys",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Volcano slopes and Pacific coast",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Snowy peaks and mountain gorges",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which language besides Russian may be heard in films about Kalmykia?",
+        "answers":  [
+                        {
+                            "text":  "Kalmyk",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ingush",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Itelmen and Koryak languages",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kabardian and Balkar",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which topic most often appears in films about Kalmykia?",
+        "answers":  [
+                        {
+                            "text":  "Nomadic heritage and Buddhist culture",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tower architecture and clan history",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Volcanoes, ocean, and wildlife",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mountain life and Caucasus traditions",
+                            "score":  0
+                        }
+                    ]
+    }
+]

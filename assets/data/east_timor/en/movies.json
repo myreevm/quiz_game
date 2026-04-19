@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which film is known as the first feature film produced in East Timor?",
+        "answers":  [
+                        {
+                            "text":  "Beatriz\u0027s War",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Balibo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Price of Sugar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "From Afar",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which film tells the story of the Balibo Five in East Timor?",
+        "answers":  [
+                        {
+                            "text":  "Balibo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Beatriz\u0027s War",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Araya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Wan Pipel",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city is the center of East Timor\u0027s film events, including DIFF?",
+        "answers":  [
+                        {
+                            "text":  "Dili",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Baucau",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Aileu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Same",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What does DIFF stand for in East Timor\u0027s film scene?",
+        "answers":  [
+                        {
+                            "text":  "Dili International Film Festival",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Documentary International Film Forum",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dili Independent Feature Films",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Digital Indie Film Fair",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "East Timorese documentaries most often focus on which theme?",
+        "answers":  [
+                        {
+                            "text":  "The struggle for independence",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Arctic exploration",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Roman history",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Space travel",
+                            "score":  0
+                        }
+                    ]
+    }
+]

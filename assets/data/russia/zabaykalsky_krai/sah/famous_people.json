@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Манна ааттар иһинэн ким Байкал аннын крайа кытта ситимнээх?",
+        "answers":  [
+                        {
+                            "text":  "Yuri Solomin",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Dugarzhap Dashiyev",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alexander Mikhaylov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bair Dondokov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ким Байкал аннын крайа культура олоҕун кытта ыкса сибээстээх?",
+        "answers":  [
+                        {
+                            "text":  "Dugarzhap Dashiyev",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yuri Solomin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alexander Mikhaylov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bair Dondokov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ким Байкал аннын крайа билиннээҕи тарихын кытта ситимнээх?",
+        "answers":  [
+                        {
+                            "text":  "Alexander Mikhaylov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yuri Solomin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dugarzhap Dashiyev",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bair Dondokov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Байкал аннын крайа туһунан кэпсэткэннэ ким аата элбэхтик иһиллэрий?",
+        "answers":  [
+                        {
+                            "text":  "Bair Dondokov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yuri Solomin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dugarzhap Dashiyev",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alexander Mikhaylov",
+                            "score":  0
+                        }
+                    ]
+    }
+]

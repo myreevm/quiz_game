@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In which city are most regional film events of Kamchatka held?",
+        "answers":  [
+                        {
+                            "text":  "Petropavlovsk-Kamchatsky",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Magas",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Elista",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nalchik",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which landscapes of Kamchatka are most often shown in documentaries?",
+        "answers":  [
+                        {
+                            "text":  "Volcano slopes and Pacific coast",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tower settlements in mountain valleys",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Open steppe horizons",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Snowy peaks and mountain gorges",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which language besides Russian may be heard in films about Kamchatka?",
+        "answers":  [
+                        {
+                            "text":  "Itelmen and Koryak languages",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ingush",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kalmyk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kabardian and Balkar",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which topic most often appears in films about Kamchatka?",
+        "answers":  [
+                        {
+                            "text":  "Volcanoes, ocean, and wildlife",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tower architecture and clan history",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nomadic heritage and Buddhist culture",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mountain life and Caucasus traditions",
+                            "score":  0
+                        }
+                    ]
+    }
+]

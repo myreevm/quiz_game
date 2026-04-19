@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which traditional dance-song style is associated with war drums in East Timor?",
+        "answers":  [
+                        {
+                            "text":  "Likurai",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Soca",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Joropo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kaseko",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which communal dance is commonly performed at celebrations in East Timor?",
+        "answers":  [
+                        {
+                            "text":  "Tebe",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Likurai",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Murga",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which instrument group is central in East Timor\u0027s traditional ensembles?",
+        "answers":  [
+                        {
+                            "text":  "Traditional drums",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pipe organ",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Electric bass",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Accordion only",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the title of East Timor\u0027s national anthem?",
+        "answers":  [
+                        {
+                            "text":  "Patria",
+                            "score":  1
+                        },
+                        {
+                            "text":  "A Portuguesa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Advance Australia Fair",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Himno de Bayamo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Modern East Timorese songs are often performed in which languages?",
+        "answers":  [
+                        {
+                            "text":  "Tetum and Portuguese",
+                            "score":  1
+                        },
+                        {
+                            "text":  "French and German",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Arabic and Persian",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Russian and English",
+                            "score":  0
+                        }
+                    ]
+    }
+]

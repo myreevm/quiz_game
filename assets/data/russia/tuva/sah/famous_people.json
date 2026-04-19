@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Манна бериллибит дьонноон ким Тыва регионон кытта ситимнээх буоларый?",
+        "answers":  [
+                        {
+                            "text":  "Mongush Buyan-Badyrgy",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sainkho Namtchylak",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kaigal-ool Khovalyg",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sholban Kara-ool",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Тыва регионун тарихын кытта ким дьоҕуруйарый?",
+        "answers":  [
+                        {
+                            "text":  "Sainkho Namtchylak",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mongush Buyan-Badyrgy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kaigal-ool Khovalyg",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sholban Kara-ool",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Бу дьон иһинэн ким Тыва регионон биллэрилэрий?",
+        "answers":  [
+                        {
+                            "text":  "Kaigal-ool Khovalyg",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mongush Buyan-Badyrgy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sainkho Namtchylak",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sholban Kara-ool",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Тыва туһунан кэпсэткэннэ ким аата сурулларый?",
+        "answers":  [
+                        {
+                            "text":  "Sholban Kara-ool",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mongush Buyan-Badyrgy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sainkho Namtchylak",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kaigal-ool Khovalyg",
+                            "score":  0
+                        }
+                    ]
+    }
+]

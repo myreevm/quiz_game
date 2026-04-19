@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which of the following is a well-known Adyghe poet and writer?",
+    "answers": [
+      {
+        "text": "Iskhak Mashbash",
+        "score": 1
+      },
+      {
+        "text": "Aslan Tkhakushinov",
+        "score": 0
+      },
+      {
+        "text": "Murat Kumpilov",
+        "score": 0
+      },
+      {
+        "text": "Sultan Khan-Girey",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who headed the Republic of Adygea from 2007 to 2017?",
+    "answers": [
+      {
+        "text": "Aslan Tkhakushinov",
+        "score": 1
+      },
+      {
+        "text": "Murat Kumpilov",
+        "score": 0
+      },
+      {
+        "text": "Khazret Sovmen",
+        "score": 0
+      },
+      {
+        "text": "Vyacheslav Nagovitsyn",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who took office as the Head of the Republic of Adygea in 2017?",
+    "answers": [
+      {
+        "text": "Murat Kumpilov",
+        "score": 1
+      },
+      {
+        "text": "Aslan Tkhakushinov",
+        "score": 0
+      },
+      {
+        "text": "Ramzan Kadyrov",
+        "score": 0
+      },
+      {
+        "text": "Alexey Tsydenov",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which 19th-century figure is known as a researcher of Adyghe culture?",
+    "answers": [
+      {
+        "text": "Sultan Khan-Girey",
+        "score": 1
+      },
+      {
+        "text": "Leo Tolstoy",
+        "score": 0
+      },
+      {
+        "text": "Ivan Aivazovsky",
+        "score": 0
+      },
+      {
+        "text": "Nikolai Przhevalsky",
+        "score": 0
+      }
+    ]
+  }
+]

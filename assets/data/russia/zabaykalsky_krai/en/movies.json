@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Which city is the main center of cinema projects in Zabaykalsky Krai?",
+        "answers":  [
+                        {
+                            "text":  "Chita",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Krasnoyarsk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Krasnodar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Barnaul",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which theme is common in films about Zabaykalsky Krai?",
+        "answers":  [
+                        {
+                            "text":  "Border posts, steppes, and railway towns",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Taiga expeditions and life along Yenisei",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Black Sea resorts and Cossack villages",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Steppe settlements and grain regions",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which language marker can often be heard in regional films of Zabaykalsky Krai?",
+        "answers":  [
+                        {
+                            "text":  "Buryat language",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Evenki language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Adyghe language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Russian language",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which genre is often used for stories about Zabaykalsky Krai?",
+        "answers":  [
+                        {
+                            "text":  "Historical adventure drama",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Industrial documentary",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Resort social drama",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rural family drama",
+                            "score":  0
+                        }
+                    ]
+    }
+]

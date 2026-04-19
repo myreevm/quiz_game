@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Манна ааттар иһинэн ким Кыраһайаарскай край кытта ситимнээх?",
+        "answers":  [
+                        {
+                            "text":  "Viktor Astafyev",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Dmitry Hvorostovsky",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vasily Surikov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Yarygin",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ким Кыраһайаарскай край культура олоҕун кытта ыкса сибээстээх?",
+        "answers":  [
+                        {
+                            "text":  "Dmitry Hvorostovsky",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Viktor Astafyev",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vasily Surikov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Yarygin",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ким Кыраһайаарскай край билиннээҕи тарихын кытта ситимнээх?",
+        "answers":  [
+                        {
+                            "text":  "Vasily Surikov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Viktor Astafyev",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dmitry Hvorostovsky",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Yarygin",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Кыраһайаарскай край туһунан кэпсэткэннэ ким аата элбэхтик иһиллэрий?",
+        "answers":  [
+                        {
+                            "text":  "Ivan Yarygin",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Viktor Astafyev",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dmitry Hvorostovsky",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vasily Surikov",
+                            "score":  0
+                        }
+                    ]
+    }
+]

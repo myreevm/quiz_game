@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which instrument is traditionally associated with Adyghe folk music?",
+    "answers": [
+      {
+        "text": "Pshyne",
+        "score": 1
+      },
+      {
+        "text": "Kurai",
+        "score": 0
+      },
+      {
+        "text": "Balalaika",
+        "score": 0
+      },
+      {
+        "text": "Sitar",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of a famous traditional Adyghe dance?",
+    "answers": [
+      {
+        "text": "Islamey",
+        "score": 1
+      },
+      {
+        "text": "Lezginka",
+        "score": 0
+      },
+      {
+        "text": "Kalinka",
+        "score": 0
+      },
+      {
+        "text": "Jok",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the well-known folk dance ensemble of Adygea?",
+    "answers": [
+      {
+        "text": "Nalmes",
+        "score": 1
+      },
+      {
+        "text": "Beryozka",
+        "score": 0
+      },
+      {
+        "text": "Moiseyev Ensemble",
+        "score": 0
+      },
+      {
+        "text": "Sibir",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In which language are many traditional songs in Adygea performed?",
+    "answers": [
+      {
+        "text": "Adyghe",
+        "score": 1
+      },
+      {
+        "text": "Karelian",
+        "score": 0
+      },
+      {
+        "text": "Chuvash",
+        "score": 0
+      },
+      {
+        "text": "Nenets",
+        "score": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Манна бериллибит дьонноон ким Карачай-Черкессия регионон кытта ситимнээх буоларый?",
+        "answers":  [
+                        {
+                            "text":  "Rashid Temrezov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pitirim Sorokin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Kuratov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Victor Savin",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Карачай-Черкессия регионун тарихын кытта ким дьоҕуруйарый?",
+        "answers":  [
+                        {
+                            "text":  "Boris Ebzeev",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pitirim Sorokin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Kuratov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Victor Savin",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Бу дьон иһинэн ким Карачай-Черкессия регионон биллэрилэрий?",
+        "answers":  [
+                        {
+                            "text":  "Ismail Semenov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pitirim Sorokin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Kuratov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Victor Savin",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Карачай-Черкессия туһунан кэпсэткэннэ ким аата сурулларый?",
+        "answers":  [
+                        {
+                            "text":  "Umar Aliyev",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pitirim Sorokin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Kuratov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Victor Savin",
+                            "score":  0
+                        }
+                    ]
+    }
+]

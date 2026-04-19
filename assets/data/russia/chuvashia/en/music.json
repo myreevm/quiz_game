@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Which musical tradition is associated with Chuvashia?",
+        "answers":  [
+                        {
+                            "text":  "Chuvash folk singing",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lezginka dance music",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Khakas throat singing",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Udmurt folk polyphony",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which language is often heard in folk songs of Chuvashia?",
+        "answers":  [
+                        {
+                            "text":  "Chuvash language",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Chechen language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Khakas language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Udmurt language",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which festival focus is typical for Chuvashia?",
+        "answers":  [
+                        {
+                            "text":  "Folk choirs and traditional instruments",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Dance ensembles and mountain rhythms",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Throat singing and epic chants",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Village songs and percussion ensembles",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which modern style is often mixed with regional motifs in Chuvashia?",
+        "answers":  [
+                        {
+                            "text":  "Ethno-pop with Volga motifs",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Modern pop with Caucasian dance rhythms",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ethno-rock with throat singing",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Electro-folk with Udmurt melodies",
+                            "score":  0
+                        }
+                    ]
+    }
+]

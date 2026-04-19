@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Which musical tradition is associated with Altai Krai?",
+        "answers":  [
+                        {
+                            "text":  "Siberian village song tradition",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Northern indigenous throat chants",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kuban Cossack choir singing",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Buryat long-song traditions",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which language marker is often heard in songs of Altai Krai?",
+        "answers":  [
+                        {
+                            "text":  "Russian language",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Evenki language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Adyghe language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Buryat language",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which festival focus is typical for Altai Krai?",
+        "answers":  [
+                        {
+                            "text":  "Regional folklore fairs and accordion contests",
+                            "score":  1
+                        },
+                        {
+                            "text":  "River city jazz and symphonic forums",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Harvest folk festivals and choir parades",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ethnic steppe music gatherings",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which modern style is often mixed with regional motifs in Altai Krai?",
+        "answers":  [
+                        {
+                            "text":  "Folk-rock with Siberian melodies",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Siberian folk with orchestral arrangements",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pop with Cossack choral motifs",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Electronic beats with Buryat motifs",
+                            "score":  0
+                        }
+                    ]
+    }
+]

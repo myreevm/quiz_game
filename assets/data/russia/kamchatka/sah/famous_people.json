@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Манна бериллибит дьонноон ким Камчатка регионон кытта ситимнээх буоларый?",
+        "answers":  [
+                        {
+                            "text":  "Stepan Krasheninnikov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yunus-Bek Yevkurov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Idris Bazorkin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sulambek Oskanov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Камчатка регионун тарихын кытта ким дьоҕуруйарый?",
+        "answers":  [
+                        {
+                            "text":  "Vitus Bering",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yunus-Bek Yevkurov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Idris Bazorkin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sulambek Oskanov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Бу дьон иһинэн ким Камчатка регионон биллэрилэрий?",
+        "answers":  [
+                        {
+                            "text":  "Georg Wilhelm Steller",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yunus-Bek Yevkurov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Idris Bazorkin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sulambek Oskanov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Камчатка туһунан кэпсэткэннэ ким аата сурулларый?",
+        "answers":  [
+                        {
+                            "text":  "Alexey Chirikov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yunus-Bek Yevkurov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Idris Bazorkin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sulambek Oskanov",
+                            "score":  0
+                        }
+                    ]
+    }
+]

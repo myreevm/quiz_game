@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "What is the capital city of Krasnodar Krai?",
+        "answers":  [
+                        {
+                            "text":  "Krasnodar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Krasnoyarsk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chita",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Barnaul",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which major river is closely connected with Krasnodar Krai?",
+        "answers":  [
+                        {
+                            "text":  "Kuban River",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yenisei River",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shilka River",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ob River",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which language marker is associated with Krasnodar Krai?",
+        "answers":  [
+                        {
+                            "text":  "Adyghe language",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Evenki language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Buryat language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Russian language",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which macro-region best describes Krasnodar Krai?",
+        "answers":  [
+                        {
+                            "text":  "Kuban and Black Sea coast",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Central Siberia",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Trans-Baikal region",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Southwestern Siberia",
+                            "score":  0
+                        }
+                    ]
+    }
+]

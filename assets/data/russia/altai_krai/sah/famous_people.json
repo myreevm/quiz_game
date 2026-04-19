@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Манна ааттар иһинэн ким Алтай крайа кытта ситимнээх?",
+        "answers":  [
+                        {
+                            "text":  "Robert Rozhdestvensky",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mikhail Kalashnikov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Valery Zolotukhin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mikhail Evdokimov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ким Алтай крайа культура олоҕун кытта ыкса сибээстээх?",
+        "answers":  [
+                        {
+                            "text":  "Mikhail Kalashnikov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Robert Rozhdestvensky",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Valery Zolotukhin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mikhail Evdokimov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ким Алтай крайа билиннээҕи тарихын кытта ситимнээх?",
+        "answers":  [
+                        {
+                            "text":  "Valery Zolotukhin",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Robert Rozhdestvensky",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mikhail Kalashnikov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mikhail Evdokimov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Алтай крайа туһунан кэпсэткэннэ ким аата элбэхтик иһиллэрий?",
+        "answers":  [
+                        {
+                            "text":  "Mikhail Evdokimov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Robert Rozhdestvensky",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mikhail Kalashnikov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Valery Zolotukhin",
+                            "score":  0
+                        }
+                    ]
+    }
+]

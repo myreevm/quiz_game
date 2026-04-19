@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which leader is known as the father of the nation in Guyana and co-founder of the PPP?",
+        "answers":  [
+                        {
+                            "text":  "Cheddi Jagan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Forbes Burnham",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Irfaan Ali",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eddy Grant",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who became Guyana\u0027s first executive president?",
+        "answers":  [
+                        {
+                            "text":  "Forbes Burnham",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cheddi Jagan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Irfaan Ali",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shivnarine Chanderpaul",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which politician became president of Guyana in 2020?",
+        "answers":  [
+                        {
+                            "text":  "Irfaan Ali",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Forbes Burnham",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cheddi Jagan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "David Panuelo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Guyanese musician is known globally for the hit Electric Avenue?",
+        "answers":  [
+                        {
+                            "text":  "Eddy Grant",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kevin Lyttle",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gustavo Dudamel",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lieve Hugo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Guyanese cricketer is famous by the nickname Tiger?",
+        "answers":  [
+                        {
+                            "text":  "Shivnarine Chanderpaul",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Eddy Grant",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Irfaan Ali",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cheddi Jagan",
+                            "score":  0
+                        }
+                    ]
+    }
+]

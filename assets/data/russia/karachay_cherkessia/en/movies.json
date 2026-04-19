@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In which city are most regional film events of Karachay-Cherkessia held?",
+        "answers":  [
+                        {
+                            "text":  "Cherkessk",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Syktyvkar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Petrozavodsk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yoshkar-Ola",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which landscapes of Karachay-Cherkessia are most often shown in documentaries?",
+        "answers":  [
+                        {
+                            "text":  "Mountain passes and highland meadows",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Taiga rivers and northern forests",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Skerries, lakes, and conifer forests",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Forest lakes and river valleys",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which language besides Russian may be heard in films about Karachay-Cherkessia?",
+        "answers":  [
+                        {
+                            "text":  "Karachay-Balkar and Circassian languages",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Komi language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Karelian language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mari language",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which topic most often appears in films about Karachay-Cherkessia?",
+        "answers":  [
+                        {
+                            "text":  "Highland life and Caucasus traditions",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Life in the taiga and northern settlements",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Northern villages and Karelian epic heritage",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mari folklore and regional traditions",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Какой традиционный танцевально-песенный стиль связан с военными барабанами в Восточном Тиморе?",
+        "answers":  [
+                        {
+                            "text":  "Likurai",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Soca",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Joropo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kaseko",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой общий танец часто исполняется на праздниках в Восточном Тиморе?",
+        "answers":  [
+                        {
+                            "text":  "Tebe",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Likurai",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Murga",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какая группа инструментов важна в традиционных ансамблях Восточного Тимора?",
+        "answers":  [
+                        {
+                            "text":  "Traditional drums",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pipe organ",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Electric bass",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Accordion only",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Как называется государственный гимн Восточного Тимора?",
+        "answers":  [
+                        {
+                            "text":  "Patria",
+                            "score":  1
+                        },
+                        {
+                            "text":  "A Portuguesa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Advance Australia Fair",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Himno de Bayamo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "На каких языках часто исполняются современные песни Восточного Тимора?",
+        "answers":  [
+                        {
+                            "text":  "Tetum and Portuguese",
+                            "score":  1
+                        },
+                        {
+                            "text":  "French and German",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Arabic and Persian",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Russian and English",
+                            "score":  0
+                        }
+                    ]
+    }
+]

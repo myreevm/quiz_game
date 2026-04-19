@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which of these people is associated with Kamchatka?",
+        "answers":  [
+                        {
+                            "text":  "Stepan Krasheninnikov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yunus-Bek Yevkurov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Idris Bazorkin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sulambek Oskanov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which figure is linked to the history of Kamchatka?",
+        "answers":  [
+                        {
+                            "text":  "Vitus Bering",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yunus-Bek Yevkurov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Idris Bazorkin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sulambek Oskanov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who among these personalities is connected with Kamchatka?",
+        "answers":  [
+                        {
+                            "text":  "Georg Wilhelm Steller",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yunus-Bek Yevkurov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Idris Bazorkin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sulambek Oskanov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which person is often mentioned when speaking about Kamchatka?",
+        "answers":  [
+                        {
+                            "text":  "Alexey Chirikov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yunus-Bek Yevkurov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Idris Bazorkin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sulambek Oskanov",
+                            "score":  0
+                        }
+                    ]
+    }
+]

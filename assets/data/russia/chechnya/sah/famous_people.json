@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Манна ааттар иhинэн ким Чэчэнэ кытта ситимнээх?",
+        "answers":  [
+                        {
+                            "text":  "Akhmat Kadyrov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Makhmud Esambayev",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Zelimkhan Yandarbiyev",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kanta Ibragimov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ким Чэчэнэ культура оло5ун кытта ыкса сибээстээх?",
+        "answers":  [
+                        {
+                            "text":  "Makhmud Esambayev",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Akhmat Kadyrov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Zelimkhan Yandarbiyev",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kanta Ibragimov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ким Чэчэнэ билиннээ5и тарихын кытта ситимнээх?",
+        "answers":  [
+                        {
+                            "text":  "Zelimkhan Yandarbiyev",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Akhmat Kadyrov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Makhmud Esambayev",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kanta Ibragimov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Чэчэнэ туhунан кэпсэткэннэ ким аата элбэхтик иhиллэрий?",
+        "answers":  [
+                        {
+                            "text":  "Kanta Ibragimov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Akhmat Kadyrov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Makhmud Esambayev",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Zelimkhan Yandarbiyev",
+                            "score":  0
+                        }
+                    ]
+    }
+]

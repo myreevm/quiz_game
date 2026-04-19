@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Манна ааттар иhинэн ким Хакассия кытта ситимнээх?",
+        "answers":  [
+                        {
+                            "text":  "Nikolay Katanov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ivan Yarygin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Valentin Konovalov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Viktor Zimin",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ким Хакассия культура оло5ун кытта ыкса сибээстээх?",
+        "answers":  [
+                        {
+                            "text":  "Ivan Yarygin",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nikolay Katanov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Valentin Konovalov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Viktor Zimin",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ким Хакассия билиннээ5и тарихын кытта ситимнээх?",
+        "answers":  [
+                        {
+                            "text":  "Valentin Konovalov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nikolay Katanov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Yarygin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Viktor Zimin",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Хакассия туhунан кэпсэткэннэ ким аата элбэхтик иhиллэрий?",
+        "answers":  [
+                        {
+                            "text":  "Viktor Zimin",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nikolay Katanov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Yarygin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Valentin Konovalov",
+                            "score":  0
+                        }
+                    ]
+    }
+]

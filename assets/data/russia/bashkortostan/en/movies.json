@@ -1,0 +1,86 @@
+[
+  {
+    "question": "What is the name of the international film festival held in Ufa?",
+    "answers": [
+      {
+        "text": "Silver Akbuzat",
+        "score": 1
+      },
+      {
+        "text": "Kinotavr",
+        "score": 0
+      },
+      {
+        "text": "Message to Man",
+        "score": 0
+      },
+      {
+        "text": "Window to Europe",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which language, besides Russian, is often used in films of Bashkortostan?",
+    "answers": [
+      {
+        "text": "Bashkir",
+        "score": 1
+      },
+      {
+        "text": "Karelian",
+        "score": 0
+      },
+      {
+        "text": "Nenets",
+        "score": 0
+      },
+      {
+        "text": "Mari",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which natural landscapes of Bashkortostan are often chosen for filming?",
+    "answers": [
+      {
+        "text": "The Southern Urals",
+        "score": 1
+      },
+      {
+        "text": "Arctic tundra",
+        "score": 0
+      },
+      {
+        "text": "Caspian beaches",
+        "score": 0
+      },
+      {
+        "text": "Kalmykia steppes",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In which all-Russian campaign do Bashkortostan cinemas participate?",
+    "answers": [
+      {
+        "text": "Night of Cinema",
+        "score": 1
+      },
+      {
+        "text": "Night of Theaters",
+        "score": 0
+      },
+      {
+        "text": "Total Dictation",
+        "score": 0
+      },
+      {
+        "text": "Night of Arts",
+        "score": 0
+      }
+    ]
+  }
+]

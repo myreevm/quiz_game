@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Манна бериллибит дьонноон ким Татарстан регионон кытта ситимнээх буоларый?",
+        "answers":  [
+                        {
+                            "text":  "Musa Jalil",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mongush Buyan-Badyrgy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sainkho Namtchylak",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kaigal-ool Khovalyg",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Татарстан регионун тарихын кытта ким дьоҕуруйарый?",
+        "answers":  [
+                        {
+                            "text":  "Gabdulla Tukay",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mongush Buyan-Badyrgy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sainkho Namtchylak",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kaigal-ool Khovalyg",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Бу дьон иһинэн ким Татарстан регионон биллэрилэрий?",
+        "answers":  [
+                        {
+                            "text":  "Rustam Minnikhanov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mongush Buyan-Badyrgy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sainkho Namtchylak",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kaigal-ool Khovalyg",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Татарстан туһунан кэпсэткэннэ ким аата сурулларый?",
+        "answers":  [
+                        {
+                            "text":  "Sofia Gubaidulina",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mongush Buyan-Badyrgy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sainkho Namtchylak",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kaigal-ool Khovalyg",
+                            "score":  0
+                        }
+                    ]
+    }
+]

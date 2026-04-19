@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Сент-Винсент уонна Гренадиналар карнавал музыкатын сүрүн жанра ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Soca",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Joropo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Likurai",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kaseko",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Vincentian музыка култууратын классическай кариб стильтэриттэн ханнык суолталаах буоларын салҕыыр?",
+        "answers":  [
+                        {
+                            "text":  "Calypso",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ardha",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mukam",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Zamrock",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Сент-Винсент уонна Гренадиналар музыка группаларыгар ханнык металлыы ударнай инструмент сүрүн буоларый?",
+        "answers":  [
+                        {
+                            "text":  "Steelpan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Accordion",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Violin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dutar",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Сент-Винсент уонна Гренадиналар сүрүн национальнай карнавала ханнык ааттаах?",
+        "answers":  [
+                        {
+                            "text":  "Vincy Mas",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Crop Over",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Caribana",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Notting Hill Carnival",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Танц-поп хиттарынан биллэр Сент-Винсент уонна Гренадиналар артисча кимий?",
+        "answers":  [
+                        {
+                            "text":  "Kevin Lyttle",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Gustavo Dudamel",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bombino",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Raimonds Pauls",
+                            "score":  0
+                        }
+                    ]
+    }
+]

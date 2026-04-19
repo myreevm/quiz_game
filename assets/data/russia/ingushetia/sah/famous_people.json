@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Манна бериллибит дьонноон ким Ингушетия регионон кытта ситимнээх буоларый?",
+        "answers":  [
+                        {
+                            "text":  "Yunus-Bek Yevkurov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Idris Bazorkin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sulambek Oskanov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nazyr Mankiev",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ингушетия регионун тарихын кытта ким дьоҕуруйарый?",
+        "answers":  [
+                        {
+                            "text":  "Idris Bazorkin",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yunus-Bek Yevkurov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sulambek Oskanov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nazyr Mankiev",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Бу дьон иһинэн ким Ингушетия регионон биллэрилэрий?",
+        "answers":  [
+                        {
+                            "text":  "Sulambek Oskanov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yunus-Bek Yevkurov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Idris Bazorkin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nazyr Mankiev",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ингушетия туһунан кэпсэткэннэ ким аата сурулларый?",
+        "answers":  [
+                        {
+                            "text":  "Nazyr Mankiev",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yunus-Bek Yevkurov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Idris Bazorkin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sulambek Oskanov",
+                            "score":  0
+                        }
+                    ]
+    }
+]

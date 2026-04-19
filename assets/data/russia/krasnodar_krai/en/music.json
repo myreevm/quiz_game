@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Which musical tradition is associated with Krasnodar Krai?",
+        "answers":  [
+                        {
+                            "text":  "Kuban Cossack choir singing",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Northern indigenous throat chants",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Buryat long-song traditions",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Siberian village song tradition",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which language marker is often heard in songs of Krasnodar Krai?",
+        "answers":  [
+                        {
+                            "text":  "Adyghe language",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Evenki language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Buryat language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Russian language",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which festival focus is typical for Krasnodar Krai?",
+        "answers":  [
+                        {
+                            "text":  "Harvest folk festivals and choir parades",
+                            "score":  1
+                        },
+                        {
+                            "text":  "River city jazz and symphonic forums",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ethnic steppe music gatherings",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Regional folklore fairs and accordion contests",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which modern style is often mixed with regional motifs in Krasnodar Krai?",
+        "answers":  [
+                        {
+                            "text":  "Pop with Cossack choral motifs",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Siberian folk with orchestral arrangements",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Electronic beats with Buryat motifs",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Folk-rock with Siberian melodies",
+                            "score":  0
+                        }
+                    ]
+    }
+]

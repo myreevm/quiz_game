@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which modernist poet was born in Hailey, Idaho?",
+        "answers":  [
+                        {
+                            "text":  "Ezra Pound",
+                            "score":  1
+                        },
+                        {
+                            "text":  "T. S. Eliot",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Robert Frost",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Allen Ginsberg",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Lewis and Clark guide is closely associated with the Lemhi Valley in Idaho?",
+        "answers":  [
+                        {
+                            "text":  "Sacagawea",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pocahontas",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Molly Brant",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lozen",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which actor from Emmett, Idaho is known for playing Jesse Pinkman?",
+        "answers":  [
+                        {
+                            "text":  "Aaron Paul",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bryan Cranston",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Joseph Gordon-Levitt",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jake Gyllenhaal",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Hall of Fame baseball player was born in Payette, Idaho?",
+        "answers":  [
+                        {
+                            "text":  "Harmon Killebrew",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Reggie Jackson",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cal Ripken Jr.",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Derek Jeter",
+                            "score":  0
+                        }
+                    ]
+    }
+]

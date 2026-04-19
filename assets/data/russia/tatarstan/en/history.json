@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "What is the capital of Tatarstan?",
+        "answers":  [
+                        {
+                            "text":  "Kazan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kyzyl",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Saransk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vladikavkaz",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which natural feature is strongly associated with Tatarstan?",
+        "answers":  [
+                        {
+                            "text":  "Confluence of the Volga and Kama rivers",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sayan mountains and steppe valleys",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Moksha and Sura river basin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Caucasus mountains and Terek valley",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which federal district is Tatarstan located?",
+        "answers":  [
+                        {
+                            "text":  "Volga Federal District",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Siberian Federal District",
+                            "score":  0
+                        },
+                        {
+                            "text":  "North Caucasian Federal District",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Central Federal District",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which local language is traditionally used in Tatarstan besides Russian?",
+        "answers":  [
+                        {
+                            "text":  "Tatar language",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tuvan language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Erzya and Moksha languages",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ossetian language",
+                            "score":  0
+                        }
+                    ]
+    }
+]

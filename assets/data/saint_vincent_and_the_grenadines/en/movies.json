@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "How is the domestic film industry of Saint Vincent and the Grenadines best described today?",
+        "answers":  [
+                        {
+                            "text":  "Small community-based industry",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Major global studio hub",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Largest market in South America",
+                            "score":  0
+                        },
+                        {
+                            "text":  "No screen activity at all",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Where are many local films in Saint Vincent and the Grenadines shown first?",
+        "answers":  [
+                        {
+                            "text":  "Community screenings",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Luxury multiplex chains",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Only foreign festivals",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Opera theaters only",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "How are the islands often used by international productions?",
+        "answers":  [
+                        {
+                            "text":  "As Caribbean location shoots",
+                            "score":  1
+                        },
+                        {
+                            "text":  "As Arctic snow doubles",
+                            "score":  0
+                        },
+                        {
+                            "text":  "As desert sets only",
+                            "score":  0
+                        },
+                        {
+                            "text":  "As indoor virtual sets",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Regional screen partnerships for Saint Vincent and the Grenadines often involve which organizations?",
+        "answers":  [
+                        {
+                            "text":  "OECS and CARICOM co-productions",
+                            "score":  1
+                        },
+                        {
+                            "text":  "UNESCO and NATO studios",
+                            "score":  0
+                        },
+                        {
+                            "text":  "FIFA and IOC media",
+                            "score":  0
+                        },
+                        {
+                            "text":  "EU Parliament channel",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which format is growing most noticeably in local Vincentian filmmaking?",
+        "answers":  [
+                        {
+                            "text":  "Short films",
+                            "score":  1
+                        },
+                        {
+                            "text":  "3-hour epics only",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Silent black-and-white only",
+                            "score":  0
+                        },
+                        {
+                            "text":  "No fiction films",
+                            "score":  0
+                        }
+                    ]
+    }
+]

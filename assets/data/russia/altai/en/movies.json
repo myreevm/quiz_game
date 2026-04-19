@@ -1,0 +1,86 @@
+[
+  {
+    "question": "In which city of the Altai Republic are regional film premieres most often held?",
+    "answers": [
+      {
+        "text": "Gorno-Altaysk",
+        "score": 1
+      },
+      {
+        "text": "Barnaul",
+        "score": 0
+      },
+      {
+        "text": "Tomsk",
+        "score": 0
+      },
+      {
+        "text": "Omsk",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Altai landscapes are most often used for filming nature movies?",
+    "answers": [
+      {
+        "text": "Mountain valleys and passes",
+        "score": 1
+      },
+      {
+        "text": "Mangrove forests",
+        "score": 0
+      },
+      {
+        "text": "Desert sand dunes",
+        "score": 0
+      },
+      {
+        "text": "Coral lagoons",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which natural site of the Altai Republic often appears in documentaries?",
+    "answers": [
+      {
+        "text": "Lake Teletskoye",
+        "score": 1
+      },
+      {
+        "text": "Lake Ilmen",
+        "score": 0
+      },
+      {
+        "text": "Lake Ladoga",
+        "score": 0
+      },
+      {
+        "text": "Lake Onega",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which language, besides Russian, may be heard in local films of the Altai Republic?",
+    "answers": [
+      {
+        "text": "Altai",
+        "score": 1
+      },
+      {
+        "text": "Karelian",
+        "score": 0
+      },
+      {
+        "text": "Komi",
+        "score": 0
+      },
+      {
+        "text": "Nenets",
+        "score": 0
+      }
+    ]
+  }
+]

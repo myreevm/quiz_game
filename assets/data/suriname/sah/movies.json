@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Суринам-Нидерланд киноларын арасында ханнык фильм саамай биллэрий?",
+        "answers":  [
+                        {
+                            "text":  "Wan Pipel",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Araya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Balibo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "From Afar",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Wan Pipel фильмын режиссерэ кимий?",
+        "answers":  [
+                        {
+                            "text":  "Pim de la Parra",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Margot Benacerraf",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Haifaa Al-Mansour",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Milcho Manchevski",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Суринам историческай прозатыгар олоҕурбут уонна Cynthia McLeod кытта ситимнээх экранизация ханнык?",
+        "answers":  [
+                        {
+                            "text":  "The Price of Sugar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The House at the End of Time",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Wadjda",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Orator",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Суринам инди-кино эйгэтин сүрүн киинэ ханнык куорат?",
+        "answers":  [
+                        {
+                            "text":  "Paramaribo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Moengo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Albina",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Brokopondo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Суринам киносценатын проекттара элбэхтик ханнык партнерство форматынан оҥоһулларый?",
+        "answers":  [
+                        {
+                            "text":  "Dutch-Surinamese co-productions",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nordic co-productions",
+                            "score":  0
+                        },
+                        {
+                            "text":  "East Asian studios",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hollywood only",
+                            "score":  0
+                        }
+                    ]
+    }
+]

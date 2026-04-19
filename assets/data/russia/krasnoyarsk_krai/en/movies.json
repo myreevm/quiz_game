@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Which city is the main center of cinema projects in Krasnoyarsk Krai?",
+        "answers":  [
+                        {
+                            "text":  "Krasnoyarsk",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Krasnodar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chita",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Barnaul",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which theme is common in films about Krasnoyarsk Krai?",
+        "answers":  [
+                        {
+                            "text":  "Taiga expeditions and life along Yenisei",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Black Sea resorts and Cossack villages",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Border posts, steppes, and railway towns",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Steppe settlements and grain regions",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which language marker can often be heard in regional films of Krasnoyarsk Krai?",
+        "answers":  [
+                        {
+                            "text":  "Evenki language",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Adyghe language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Buryat language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Russian language",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which genre is often used for stories about Krasnoyarsk Krai?",
+        "answers":  [
+                        {
+                            "text":  "Industrial documentary",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Resort social drama",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Historical adventure drama",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rural family drama",
+                            "score":  0
+                        }
+                    ]
+    }
+]

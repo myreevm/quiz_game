@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In what year did the United States purchase Alaska from Russia?",
+        "answers":  [
+                        {
+                            "text":  "1867",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1804",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1912",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1945",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In what year did Alaska become the 49th U.S. state?",
+        "answers":  [
+                        {
+                            "text":  "1959",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1901",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1949",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1967",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which World War II battle took place in the Aleutian Islands?",
+        "answers":  [
+                        {
+                            "text":  "Battle of Attu",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Battle of Midway",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Battle of Guadalcanal",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Battle of Iwo Jima",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the name of the 1971 law that settled Alaska Native land claims?",
+        "answers":  [
+                        {
+                            "text":  "Alaska Native Claims Settlement Act",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Homestead Act",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dawes Act",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Indian Reorganization Act",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In which city are most regional film events of Komi held?",
+        "answers":  [
+                        {
+                            "text":  "Syktyvkar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Petrozavodsk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cherkessk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yoshkar-Ola",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which landscapes of Komi are most often shown in documentaries?",
+        "answers":  [
+                        {
+                            "text":  "Taiga rivers and northern forests",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Skerries, lakes, and conifer forests",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mountain passes and highland meadows",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Forest lakes and river valleys",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which language besides Russian may be heard in films about Komi?",
+        "answers":  [
+                        {
+                            "text":  "Komi language",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Karelian language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Karachay-Balkar and Circassian languages",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mari language",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which topic most often appears in films about Komi?",
+        "answers":  [
+                        {
+                            "text":  "Life in the taiga and northern settlements",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Northern villages and Karelian epic heritage",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Highland life and Caucasus traditions",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mari folklore and regional traditions",
+                            "score":  0
+                        }
+                    ]
+    }
+]

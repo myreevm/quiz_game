@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "What is the capital of Guyana?",
+        "answers":  [
+                        {
+                            "text":  "Georgetown",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Linden",
+                            "score":  0
+                        },
+                        {
+                            "text":  "New Amsterdam",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bartica",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did Guyana gain independence?",
+        "answers":  [
+                        {
+                            "text":  "1966",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1970",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1958",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1981",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which year did Guyana become a republic?",
+        "answers":  [
+                        {
+                            "text":  "1970",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1966",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1990",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1985",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the official currency code of Guyana?",
+        "answers":  [
+                        {
+                            "text":  "GYD",
+                            "score":  1
+                        },
+                        {
+                            "text":  "SRD",
+                            "score":  0
+                        },
+                        {
+                            "text":  "VES",
+                            "score":  0
+                        },
+                        {
+                            "text":  "XCD",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the official language of Guyana?",
+        "answers":  [
+                        {
+                            "text":  "English",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Dutch",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Spanish",
+                            "score":  0
+                        },
+                        {
+                            "text":  "French",
+                            "score":  0
+                        }
+                    ]
+    }
+]

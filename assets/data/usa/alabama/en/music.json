@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Alabama city gave its name to the famous Muscle Shoals sound?",
+        "answers":  [
+                        {
+                            "text":  "Muscle Shoals",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tuscaloosa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Birmingham",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Auburn",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who performed the song \u0027Sweet Home Alabama\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Lynyrd Skynyrd",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Eagles",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Creedence Clearwater Revival",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Allman Brothers Band",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "The band Alabama is primarily associated with which genre?",
+        "answers":  [
+                        {
+                            "text":  "Country",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hip-hop",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Classical",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Reggae",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which historic recording studio is located in Muscle Shoals, Alabama?",
+        "answers":  [
+                        {
+                            "text":  "FAME Studios",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Abbey Road Studios",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sun Studio",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Motown Studio A",
+                            "score":  0
+                        }
+                    ]
+    }
+]

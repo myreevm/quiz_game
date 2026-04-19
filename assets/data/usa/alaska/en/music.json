@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which band formed in Wasilla, Alaska and released \u0027Feel It Still\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Portugal. The Man",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Imagine Dragons",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kings of Leon",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Killers",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the title of Alaska\u0027s official state song?",
+        "answers":  [
+                        {
+                            "text":  "Alaska\u0027s Flag",
+                            "score":  1
+                        },
+                        {
+                            "text":  "America the Beautiful",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Last Frontier Hymn",
+                            "score":  0
+                        },
+                        {
+                            "text":  "North Star Song",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city hosts the annual Anchorage Folk Festival?",
+        "answers":  [
+                        {
+                            "text":  "Anchorage",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Juneau",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fairbanks",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sitka",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which instrument is central in many Alaska Native dance traditions?",
+        "answers":  [
+                        {
+                            "text":  "Frame drum",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Electric guitar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Saxophone",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Grand piano",
+                            "score":  0
+                        }
+                    ]
+    }
+]

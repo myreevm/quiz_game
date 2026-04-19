@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which film tells the story of Christopher McCandless in Alaska?",
+        "answers":  [
+                        {
+                            "text":  "Into the Wild",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Revenant",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nomadland",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Wild",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which romantic comedy is largely set in Sitka, Alaska?",
+        "answers":  [
+                        {
+                            "text":  "The Proposal",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sweet Home Alabama",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Notting Hill",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Runaway Bride",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which animated film is about a sled dog from Nome, Alaska?",
+        "answers":  [
+                        {
+                            "text":  "Balto",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bolt",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Spirit",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Brother Bear",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which sports film is set in a small Alaskan town with a hockey team?",
+        "answers":  [
+                        {
+                            "text":  "Mystery, Alaska",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Miracle",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Slap Shot",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Goal!",
+                            "score":  0
+                        }
+                    ]
+    }
+]

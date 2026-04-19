@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Which musical tradition is associated with Chechnya?",
+        "answers":  [
+                        {
+                            "text":  "Lezginka dance music",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Chuvash folk singing",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Khakas throat singing",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Udmurt folk polyphony",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which language is often heard in folk songs of Chechnya?",
+        "answers":  [
+                        {
+                            "text":  "Chechen language",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Chuvash language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Khakas language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Udmurt language",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which festival focus is typical for Chechnya?",
+        "answers":  [
+                        {
+                            "text":  "Dance ensembles and mountain rhythms",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Folk choirs and traditional instruments",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Throat singing and epic chants",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Village songs and percussion ensembles",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which modern style is often mixed with regional motifs in Chechnya?",
+        "answers":  [
+                        {
+                            "text":  "Modern pop with Caucasian dance rhythms",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ethno-pop with Volga motifs",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ethno-rock with throat singing",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Electro-folk with Udmurt melodies",
+                            "score":  0
+                        }
+                    ]
+    }
+]

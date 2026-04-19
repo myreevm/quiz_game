@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "What is the capital city of Zabaykalsky Krai?",
+        "answers":  [
+                        {
+                            "text":  "Chita",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Krasnoyarsk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Krasnodar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Barnaul",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which major river is closely connected with Zabaykalsky Krai?",
+        "answers":  [
+                        {
+                            "text":  "Shilka River",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yenisei River",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kuban River",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ob River",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which language marker is associated with Zabaykalsky Krai?",
+        "answers":  [
+                        {
+                            "text":  "Buryat language",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Evenki language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Adyghe language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Russian language",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which macro-region best describes Zabaykalsky Krai?",
+        "answers":  [
+                        {
+                            "text":  "Trans-Baikal region",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Central Siberia",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kuban and Black Sea coast",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Southwestern Siberia",
+                            "score":  0
+                        }
+                    ]
+    }
+]

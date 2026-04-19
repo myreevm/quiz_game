@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Какой исторический деятель известен как El Libertador и является ключевой фигурой памяти о независимости Венесуэлы?",
+        "answers":  [
+                        {
+                            "text":  "Simon Bolivar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hugo Chavez",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nicolas Maduro",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gustavo Dudamel",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Кто был президентом Венесуэлы с 1999 по 2013 год?",
+        "answers":  [
+                        {
+                            "text":  "Hugo Chavez",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nicolas Maduro",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Simon Bolivar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yulimar Rojas",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Кто является нынешним президентом Венесуэлы?",
+        "answers":  [
+                        {
+                            "text":  "Nicolas Maduro",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hugo Chavez",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Simon Bolivar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Irfaan Ali",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какая венесуэльская спортсменка стала олимпийской чемпионкой в тройном прыжке?",
+        "answers":  [
+                        {
+                            "text":  "Yulimar Rojas",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Shafiqua Maloney",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kelly Sildaru",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ruta Meilutyte",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой венесуэльский дирижёр всемирно известен работой с крупными оркестрами?",
+        "answers":  [
+                        {
+                            "text":  "Gustavo Dudamel",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Simon Bolivar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eddy Grant",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kevin Lyttle",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Treefort Music Fest Айдахо ханнык куоратыгар буоларый?",
+        "answers":  [
+                        {
+                            "text":  "Бойсе",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Туин-Фолс",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Нампа",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Льюистон",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Бойсе куоратка Даг Марч тутуутунан ханнык инди-рок группа тэрийиллибитий?",
+        "answers":  [
+                        {
+                            "text":  "Built to Spill",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Arcade Fire",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pixies",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Spoon",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Пол Ревир салайыытынан 1960 сылларга Бойсеҕа ханнык рок-группа төрүттэммитий?",
+        "answers":  [
+                        {
+                            "text":  "Paul Revere \u0026 the Raiders",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Monkees",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Byrds",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Kinks",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Москва (Айдахо) куораттан төрөөбүт ханнык автор-ырыаһыт фолк-рок айымньыларынан биллэрбитий?",
+        "answers":  [
+                        {
+                            "text":  "Джош Риттер",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Райан Адамс",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Конор Оберст",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Джек Джонсон",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Which of these people is associated with Krasnodar Krai?",
+        "answers":  [
+                        {
+                            "text":  "Anna Netrebko",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Grigory Ponomarenko",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Poddubny",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alexander Tkachyov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which figure is linked to the cultural life of Krasnodar Krai?",
+        "answers":  [
+                        {
+                            "text":  "Grigory Ponomarenko",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Anna Netrebko",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Poddubny",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alexander Tkachyov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who is connected with the modern history of Krasnodar Krai?",
+        "answers":  [
+                        {
+                            "text":  "Ivan Poddubny",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Anna Netrebko",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Grigory Ponomarenko",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alexander Tkachyov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which personality is often mentioned when speaking about Krasnodar Krai?",
+        "answers":  [
+                        {
+                            "text":  "Alexander Tkachyov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Anna Netrebko",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Grigory Ponomarenko",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Poddubny",
+                            "score":  0
+                        }
+                    ]
+    }
+]

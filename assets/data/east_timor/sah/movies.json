@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Восточный Тиморга бастакы полнометражнай фильм диэн ханнык картинаны ааттыылларый?",
+        "answers":  [
+                        {
+                            "text":  "Beatriz\u0027s War",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Balibo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Price of Sugar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "From Afar",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Balibo Five туһунан Восточный Тиморга ханнык фильм кэпсиирий?",
+        "answers":  [
+                        {
+                            "text":  "Balibo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Beatriz\u0027s War",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Araya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Wan Pipel",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "DIFF кытта Восточный Тимор кино быыстарын төвө ханнык куорат буоларый?",
+        "answers":  [
+                        {
+                            "text":  "Dili",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Baucau",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Aileu",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Same",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Восточный Тимор кино эйгэтин DIFF ханнык суолталаах аббревиатура буоларый?",
+        "answers":  [
+                        {
+                            "text":  "Dili International Film Festival",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Documentary International Film Forum",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dili Independent Feature Films",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Digital Indie Film Fair",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Восточный Тимор документальнай кинолара элбэхтик ханнык теманы быһаарыылларый?",
+        "answers":  [
+                        {
+                            "text":  "The struggle for independence",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Arctic exploration",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Roman history",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Space travel",
+                            "score":  0
+                        }
+                    ]
+    }
+]

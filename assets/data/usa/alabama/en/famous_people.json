@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which author of \u0027To Kill a Mockingbird\u0027 was from Alabama?",
+        "answers":  [
+                        {
+                            "text":  "Harper Lee",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Flannery OConnor",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Maya Angelou",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Toni Morrison",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which civil rights icon was arrested in Montgomery after refusing to give up her bus seat?",
+        "answers":  [
+                        {
+                            "text":  "Rosa Parks",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Angela Davis",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ella Baker",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shirley Chisholm",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which singer born in Alabama is known as a foundational figure in country music?",
+        "answers":  [
+                        {
+                            "text":  "Hank Williams",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Elvis Presley",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Johnny Cash",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Willie Nelson",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which writer and activist from Tuscumbia, Alabama became world-famous despite being deafblind?",
+        "answers":  [
+                        {
+                            "text":  "Helen Keller",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Anne Sullivan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Emily Dickinson",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Susan Sontag",
+                            "score":  0
+                        }
+                    ]
+    }
+]

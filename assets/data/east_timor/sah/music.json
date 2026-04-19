@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Восточный Тиморга барабаннаах үөрэхтэринэн ситимнээх традиционнай ырыа-үҥкүү хайа стильий?",
+        "answers":  [
+                        {
+                            "text":  "Likurai",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Soca",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Joropo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kaseko",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Восточный Тимор бэлиэтээх күннэригэр элбэхтик оонньууллар хамсааныс хайа үҥкүүтүй?",
+        "answers":  [
+                        {
+                            "text":  "Tebe",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Likurai",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Murga",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Восточный Тимор традиционнай ансамбылларыгар ханнык инструменнар сүрүн буолалларый?",
+        "answers":  [
+                        {
+                            "text":  "Traditional drums",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pipe organ",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Electric bass",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Accordion only",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Восточный Тимор государственнай гимнын аата ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Patria",
+                            "score":  1
+                        },
+                        {
+                            "text":  "A Portuguesa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Advance Australia Fair",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Himno de Bayamo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Восточный Тимор билиҥҥи ырыалара элбэхтик ханнык тылларынан ылланарый?",
+        "answers":  [
+                        {
+                            "text":  "Tetum and Portuguese",
+                            "score":  1
+                        },
+                        {
+                            "text":  "French and German",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Arabic and Persian",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Russian and English",
+                            "score":  0
+                        }
+                    ]
+    }
+]

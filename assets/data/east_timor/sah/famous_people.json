@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "2002 сылла бэйэ сирин тинэрэр кэннэ Восточный Тимор бастакы президенэ ким буолбута?",
+        "answers":  [
+                        {
+                            "text":  "Xanana Gusmao",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jose Ramos-Horta",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mari Alkatiri",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Francisco Guterres",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Восточный Тимор лидераттан 1996 сыл Нобель мир премиятын ким ылбыта?",
+        "answers":  [
+                        {
+                            "text":  "Xanana Gusmao",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jose Ramos-Horta",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Taur Matan Ruak",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Francisco Guterres",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Бэйэ сирэ тинэрэр кэннэ бастакы премьер-министр ким этэй?",
+        "answers":  [
+                        {
+                            "text":  "Mari Alkatiri",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jose Ramos-Horta",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Xanana Gusmao",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Francisco Guterres",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Taur Matan Ruak диэн аатынан биллэр Восточный Тимор лидера кимий?",
+        "answers":  [
+                        {
+                            "text":  "Francisco Guterres",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jose Ramos-Horta",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Taur Matan Ruak",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mari Alkatiri",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Lu-Olo диэн аатынан биллэр Восточный Тимор президенэ кимий?",
+        "answers":  [
+                        {
+                            "text":  "Francisco Guterres",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Xanana Gusmao",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mari Alkatiri",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jose Ramos-Horta",
+                            "score":  0
+                        }
+                    ]
+    }
+]

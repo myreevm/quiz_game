@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which Venezuelan folk style typically uses harp, cuatro, and maracas?",
+        "answers":  [
+                        {
+                            "text":  "Joropo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Soca",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Likurai",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kaseko",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which small four-string instrument is central in Venezuelan traditional music?",
+        "answers":  [
+                        {
+                            "text":  "Cuatro",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ukulele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dutar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kora",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In joropo ensembles, which pair often appears together with the cuatro?",
+        "answers":  [
+                        {
+                            "text":  "Harp and maracas",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Piano and cello",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Accordion and zither",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Saxophone and drums",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the name of Venezuela\u0027s influential youth-orchestra education system?",
+        "answers":  [
+                        {
+                            "text":  "El Sistema",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kaseko School",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fatele Academy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Likurai Program",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which globally known conductor is one of the symbols of modern Venezuelan music culture?",
+        "answers":  [
+                        {
+                            "text":  "Gustavo Dudamel",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Eddy Grant",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kevin Lyttle",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bombino",
+                            "score":  0
+                        }
+                    ]
+    }
+]

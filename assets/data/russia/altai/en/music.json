@@ -1,0 +1,86 @@
+[
+  {
+    "question": "What is the name of a traditional string instrument of the Altai people?",
+    "answers": [
+      {
+        "text": "Topshur",
+        "score": 1
+      },
+      {
+        "text": "Kurai",
+        "score": 0
+      },
+      {
+        "text": "Dombra",
+        "score": 0
+      },
+      {
+        "text": "Balalaika",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the traditional style of throat singing in Altai called?",
+    "answers": [
+      {
+        "text": "Kai",
+        "score": 1
+      },
+      {
+        "text": "Country",
+        "score": 0
+      },
+      {
+        "text": "Flamenco",
+        "score": 0
+      },
+      {
+        "text": "Gospel",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the Altai festival where ethnic music is performed?",
+    "answers": [
+      {
+        "text": "El Oyin",
+        "score": 1
+      },
+      {
+        "text": "Ysyakh",
+        "score": 0
+      },
+      {
+        "text": "Sabantuy",
+        "score": 0
+      },
+      {
+        "text": "Nauryz",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the jaw harp commonly used by Altai people called?",
+    "answers": [
+      {
+        "text": "Komus",
+        "score": 1
+      },
+      {
+        "text": "Saxophone",
+        "score": 0
+      },
+      {
+        "text": "Cello",
+        "score": 0
+      },
+      {
+        "text": "Trumpet",
+        "score": 0
+      }
+    ]
+  }
+]

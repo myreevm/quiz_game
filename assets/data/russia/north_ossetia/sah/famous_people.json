@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Манна бериллибит дьонноон ким Хотугу Осетия регионон кытта ситимнээх буоларый?",
+        "answers":  [
+                        {
+                            "text":  "Kosta Khetagurov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mongush Buyan-Badyrgy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sainkho Namtchylak",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kaigal-ool Khovalyg",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Хотугу Осетия регионун тарихын кытта ким дьоҕуруйарый?",
+        "answers":  [
+                        {
+                            "text":  "Valery Gergiev",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mongush Buyan-Badyrgy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sainkho Namtchylak",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kaigal-ool Khovalyg",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Бу дьон иһинэн ким Хотугу Осетия регионон биллэрилэрий?",
+        "answers":  [
+                        {
+                            "text":  "Murat Gassiev",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mongush Buyan-Badyrgy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sainkho Namtchylak",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kaigal-ool Khovalyg",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Хотугу Осетия туһунан кэпсэткэннэ ким аата сурулларый?",
+        "answers":  [
+                        {
+                            "text":  "Tamerlan Aguzarov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mongush Buyan-Badyrgy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sainkho Namtchylak",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kaigal-ool Khovalyg",
+                            "score":  0
+                        }
+                    ]
+    }
+]

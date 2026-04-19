@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Какой фильм считается одним из самых известных суринамско-нидерландских проектов?",
+        "answers":  [
+                        {
+                            "text":  "Wan Pipel",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Araya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Balibo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "From Afar",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Кто снял фильм Wan Pipel?",
+        "answers":  [
+                        {
+                            "text":  "Pim de la Parra",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Margot Benacerraf",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Haifaa Al-Mansour",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Milcho Manchevski",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какая экранизация основана на суринамской исторической прозе и связана с Синтией Маклеод?",
+        "answers":  [
+                        {
+                            "text":  "The Price of Sugar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The House at the End of Time",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Wadjda",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Orator",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой город является главным центром инди-киносцены Суринама?",
+        "answers":  [
+                        {
+                            "text":  "Paramaribo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Moengo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Albina",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Brokopondo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "С какими партнёрами чаще всего создаются экранные проекты Суринама?",
+        "answers":  [
+                        {
+                            "text":  "Dutch-Surinamese co-productions",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nordic co-productions",
+                            "score":  0
+                        },
+                        {
+                            "text":  "East Asian studios",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hollywood only",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Какая столица Венесуэлы?",
+        "answers":  [
+                        {
+                            "text":  "Caracas",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Maracaibo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Valencia",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Barquisimeto",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "В каком году Венесуэла впервые провозгласила независимость от Испании?",
+        "answers":  [
+                        {
+                            "text":  "1811",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1821",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1830",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1804",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой год связан с решающей победой при Карабобо в процессе независимости Венесуэлы?",
+        "answers":  [
+                        {
+                            "text":  "1821",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1811",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1835",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1902",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой официальный код валюты Венесуэлы?",
+        "answers":  [
+                        {
+                            "text":  "VES",
+                            "score":  1
+                        },
+                        {
+                            "text":  "GYD",
+                            "score":  0
+                        },
+                        {
+                            "text":  "SRD",
+                            "score":  0
+                        },
+                        {
+                            "text":  "XCD",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой всемирно известный водопад находится в Венесуэле?",
+        "answers":  [
+                        {
+                            "text":  "Angel Falls",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Victoria Falls",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Iguazu Falls",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Niagara Falls",
+                            "score":  0
+                        }
+                    ]
+    }
+]

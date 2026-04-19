@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "What is the capital of Karelia?",
+        "answers":  [
+                        {
+                            "text":  "Petrozavodsk",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Syktyvkar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cherkessk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yoshkar-Ola",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which natural feature is strongly associated with Karelia?",
+        "answers":  [
+                        {
+                            "text":  "Ladoga and Onega lake system",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Northern taiga and the Pechora basin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Caucasus peaks and alpine valleys",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Volga-Vyatka forests and lakes",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which federal district is Karelia located?",
+        "answers":  [
+                        {
+                            "text":  "Northwestern Federal District",
+                            "score":  1
+                        },
+                        {
+                            "text":  "North Caucasian Federal District",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Volga Federal District",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Central Federal District",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which local language is traditionally used in Karelia besides Russian?",
+        "answers":  [
+                        {
+                            "text":  "Karelian language",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Komi language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Karachay-Balkar and Circassian languages",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mari language",
+                            "score":  0
+                        }
+                    ]
+    }
+]

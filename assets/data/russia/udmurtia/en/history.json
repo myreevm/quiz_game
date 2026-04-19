@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "What is the capital city of Udmurtia?",
+        "answers":  [
+                        {
+                            "text":  "Izhevsk",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cheboksary",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Grozny",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Abakan",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which major river is closely connected with Udmurtia?",
+        "answers":  [
+                        {
+                            "text":  "Kama River",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Volga River",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Terek River",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yenisei River",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which local language is traditionally spoken in Udmurtia?",
+        "answers":  [
+                        {
+                            "text":  "Udmurt language",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Chuvash language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chechen language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Khakas language",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which macro-region best describes Udmurtia?",
+        "answers":  [
+                        {
+                            "text":  "Volga-Ural region",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Volga region",
+                            "score":  0
+                        },
+                        {
+                            "text":  "North Caucasus",
+                            "score":  0
+                        },
+                        {
+                            "text":  "South Siberia",
+                            "score":  0
+                        }
+                    ]
+    }
+]

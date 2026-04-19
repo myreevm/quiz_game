@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In which Idaho city is Treefort Music Fest held?",
+        "answers":  [
+                        {
+                            "text":  "Boise",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Twin Falls",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nampa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lewiston",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which indie rock band was founded in Boise by Doug Martsch?",
+        "answers":  [
+                        {
+                            "text":  "Built to Spill",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Arcade Fire",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pixies",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Spoon",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which 1960s rock band led by Paul Revere was formed in Boise?",
+        "answers":  [
+                        {
+                            "text":  "Paul Revere \u0026 the Raiders",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Monkees",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Byrds",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Kinks",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which singer-songwriter from Moscow, Idaho is known for folk-rock albums?",
+        "answers":  [
+                        {
+                            "text":  "Josh Ritter",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ryan Adams",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Conor Oberst",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jack Johnson",
+                            "score":  0
+                        }
+                    ]
+    }
+]

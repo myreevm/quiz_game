@@ -21,10 +21,16 @@ void main() {
     expect(find.byIcon(Icons.close_rounded), findsOneWidget);
   });
 
-  testWidgets('tapping country pin on separate map opens region selection',
+  testWidgets('tapping continent then country pin opens region selection',
       (tester) async {
     await _pumpCountrySelection(tester);
     await _openMapPickerFromButton(tester);
+
+    await tester.tap(
+      find.byKey(const ValueKey('map-pin-north_america')),
+      warnIfMissed: false,
+    );
+    await tester.pumpAndSettle();
 
     await tester.tap(
       find.byKey(const ValueKey('map-pin-canada')),
@@ -37,6 +43,33 @@ void main() {
       find.byType(RegionSelectionScreen),
     );
     expect(screen.country, isNotEmpty);
+  });
+
+  testWidgets('back from region selection returns to selected continent map',
+      (tester) async {
+    await _pumpCountrySelection(tester);
+    await _openMapPickerFromButton(tester);
+
+    await tester.tap(
+      find.byKey(const ValueKey('map-pin-europe')),
+      warnIfMissed: false,
+    );
+    await tester.pumpAndSettle();
+
+    await tester.tap(
+      find.byKey(const ValueKey('map-pin-poland')),
+      warnIfMissed: false,
+    );
+    await tester.pumpAndSettle();
+
+    expect(find.byType(RegionSelectionScreen), findsOneWidget);
+
+    await tester.pageBack();
+    await tester.pumpAndSettle();
+
+    expect(find.byType(RegionSelectionScreen), findsNothing);
+    expect(find.byType(InteractiveViewer), findsOneWidget);
+    expect(find.byKey(const ValueKey('map-pin-poland')), findsOneWidget);
   });
 
   testWidgets('separate map supports zoom and pan with clamped scale bounds',
@@ -79,6 +112,39 @@ void main() {
     await tester.pumpAndSettle();
     expect(controller.value.getMaxScaleOnAxis(), greaterThanOrEqualTo(1.0));
   });
+
+  testWidgets(
+      'continent country pins keep world-map coordinates (no local overrides)',
+      (tester) async {
+    await _pumpCountrySelection(tester);
+    await _openMapPickerFromButton(tester);
+
+    await tester.tap(
+      find.byKey(const ValueKey('map-pin-europe')),
+      warnIfMissed: false,
+    );
+    await tester.pumpAndSettle();
+
+    final mapRect = _fullscreenMapRect(tester);
+    final russiaAnchor = _readNormalizedAnchor(
+      tester,
+      mapRect: mapRect,
+      pinCode: 'russia',
+    );
+    final kazakhstanAnchor = _readNormalizedAnchor(
+      tester,
+      mapRect: mapRect,
+      pinCode: 'kazakhstan',
+    );
+    final worldPins = {
+      for (final pin in CountrySelectionScreen.mapPins) pin.code: pin.position,
+    };
+
+    expect(russiaAnchor.dx, closeTo(worldPins['russia']!.dx, 0.02));
+    expect(russiaAnchor.dy, closeTo(worldPins['russia']!.dy, 0.02));
+    expect(kazakhstanAnchor.dx, closeTo(worldPins['kazakhstan']!.dx, 0.02));
+    expect(kazakhstanAnchor.dy, closeTo(worldPins['kazakhstan']!.dy, 0.02));
+  });
 }
 
 Future<void> _pumpCountrySelection(WidgetTester tester) async {
@@ -112,4 +178,49 @@ TransformationController _viewerController(WidgetTester tester) {
   final controller = viewer.transformationController;
   expect(controller, isNotNull);
   return controller!;
+}
+
+Rect _fullscreenMapRect(WidgetTester tester) {
+  const expectedMapWidth = 396.0;
+  const expectedMapHeight = 198.0;
+  final mapFinder = find.descendant(
+    of: find.byType(InteractiveViewer),
+    matching: find.byWidgetPredicate((widget) {
+      if (widget is! SizedBox) {
+        return false;
+      }
+      final width = widget.width;
+      final height = widget.height;
+      if (width == null || height == null) {
+        return false;
+      }
+      return (width - expectedMapWidth).abs() <= 0.1 &&
+          (height - expectedMapHeight).abs() <= 0.1;
+    }),
+  );
+  expect(mapFinder, findsOneWidget);
+  return tester.getRect(mapFinder);
+}
+
+Offset _readNormalizedAnchor(
+  WidgetTester tester, {
+  required Rect mapRect,
+  required String pinCode,
+}) {
+  const pinWidth = 92.0;
+  const pinAnchorDx = pinWidth / 2;
+  const pinAnchorDy = 20.0;
+
+  final pinFinder = find.byKey(ValueKey('map-pin-$pinCode'));
+  expect(pinFinder, findsOneWidget);
+  final pinRect = tester.getRect(pinFinder);
+  final scale = pinRect.width / pinWidth;
+  final anchor = Offset(
+    pinRect.left + pinAnchorDx * scale,
+    pinRect.top + pinAnchorDy * scale,
+  );
+  return Offset(
+    (anchor.dx - mapRect.left) / mapRect.width,
+    (anchor.dy - mapRect.top) / mapRect.height,
+  );
 }

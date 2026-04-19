@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Манна ааттар иhинэн ким Удмуртия кытта ситимнээх?",
+        "answers":  [
+                        {
+                            "text":  "Pyotr Tchaikovsky",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mikhail Kalashnikov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nadezhda Durova",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Galina Kulakova",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ким Удмуртия культура оло5ун кытта ыкса сибээстээх?",
+        "answers":  [
+                        {
+                            "text":  "Mikhail Kalashnikov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pyotr Tchaikovsky",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nadezhda Durova",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Galina Kulakova",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ким Удмуртия билиннээ5и тарихын кытта ситимнээх?",
+        "answers":  [
+                        {
+                            "text":  "Nadezhda Durova",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pyotr Tchaikovsky",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mikhail Kalashnikov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Galina Kulakova",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Удмуртия туhунан кэпсэткэннэ ким аата элбэхтик иhиллэрий?",
+        "answers":  [
+                        {
+                            "text":  "Galina Kulakova",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pyotr Tchaikovsky",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mikhail Kalashnikov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nadezhda Durova",
+                            "score":  0
+                        }
+                    ]
+    }
+]

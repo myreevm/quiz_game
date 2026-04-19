@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which city is the capital of Bashkortostan?",
+    "answers": [
+      {
+        "text": "Ufa",
+        "score": 1
+      },
+      {
+        "text": "Sterlitamak",
+        "score": 0
+      },
+      {
+        "text": "Salavat",
+        "score": 0
+      },
+      {
+        "text": "Orenburg",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In which year was the Bashkir ASSR formed?",
+    "answers": [
+      {
+        "text": "1919",
+        "score": 1
+      },
+      {
+        "text": "1927",
+        "score": 0
+      },
+      {
+        "text": "1936",
+        "score": 0
+      },
+      {
+        "text": "1941",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In which federal district is Bashkortostan located?",
+    "answers": [
+      {
+        "text": "Volga Federal District",
+        "score": 1
+      },
+      {
+        "text": "North Caucasian Federal District",
+        "score": 0
+      },
+      {
+        "text": "Far Eastern Federal District",
+        "score": 0
+      },
+      {
+        "text": "Southern Federal District",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which river is also known in Bashkortostan as Agidel?",
+    "answers": [
+      {
+        "text": "Belaya",
+        "score": 1
+      },
+      {
+        "text": "Kama",
+        "score": 0
+      },
+      {
+        "text": "Ural",
+        "score": 0
+      },
+      {
+        "text": "Yenisei",
+        "score": 0
+      }
+    ]
+  }
+]

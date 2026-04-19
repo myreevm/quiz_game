@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which lively urban style is a hallmark of Surinamese popular music?",
+        "answers":  [
+                        {
+                            "text":  "Kaseko",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Joropo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Likurai",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sega",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which genre is rooted in Afro-Surinamese rhythm traditions?",
+        "answers":  [
+                        {
+                            "text":  "Kawina",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Murga",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Salegy",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Hindustani-Surinamese vocal style is widely known in the country?",
+        "answers":  [
+                        {
+                            "text":  "Baithak Gana",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kuduro",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Zamrock",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ardha",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Maroon-influenced style from Suriname\u0027s interior is known as Aleke?",
+        "answers":  [
+                        {
+                            "text":  "Aleke",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kaseko",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kawina",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Soca",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which singer is often called a key icon of classic Surinamese kaseko?",
+        "answers":  [
+                        {
+                            "text":  "Lieve Hugo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kevin Lyttle",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eddy Grant",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Burna Boy",
+                            "score":  0
+                        }
+                    ]
+    }
+]

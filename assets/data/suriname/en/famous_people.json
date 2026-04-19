@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Who became the first president of independent Suriname in 1975?",
+        "answers":  [
+                        {
+                            "text":  "Johan Ferrier",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Desi Bouterse",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Clarence Seedorf",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Anton de Kom",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Surinamese figure is known as an anti-colonial writer and activist?",
+        "answers":  [
+                        {
+                            "text":  "Anton de Kom",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Johan Ferrier",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cynthia McLeod",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Clarence Seedorf",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Surinamese author is known for historical novels about the country?",
+        "answers":  [
+                        {
+                            "text":  "Cynthia McLeod",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Desi Bouterse",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Johan Ferrier",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lieve Hugo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which famous footballer was born in Paramaribo, Suriname?",
+        "answers":  [
+                        {
+                            "text":  "Clarence Seedorf",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kevin Lyttle",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eddy Grant",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Forbes Burnham",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which political leader is associated with Suriname\u0027s military era and later presidency?",
+        "answers":  [
+                        {
+                            "text":  "Desi Bouterse",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Johan Ferrier",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Anton de Kom",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cheddi Jagan",
+                            "score":  0
+                        }
+                    ]
+    }
+]

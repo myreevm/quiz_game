@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Which city is the main center of cinema projects in Chechnya?",
+        "answers":  [
+                        {
+                            "text":  "Grozny",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cheboksary",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Abakan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Izhevsk",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which theme is common in films about Chechnya?",
+        "answers":  [
+                        {
+                            "text":  "Mountain communities and post-war renewal",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Volga towns and village life",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Steppe landscapes and ancient monuments",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Factory city life and forest villages",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which language can often be heard in regional films of Chechnya?",
+        "answers":  [
+                        {
+                            "text":  "Chechen language",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Chuvash language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Khakas language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Udmurt language",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which genre is often used for stories about Chechnya?",
+        "answers":  [
+                        {
+                            "text":  "Historical drama",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Documentary drama",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ethnographic documentary",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Social drama",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In which city are most regional film events of Mordovia held?",
+        "answers":  [
+                        {
+                            "text":  "Saransk",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kyzyl",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kazan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vladikavkaz",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which landscapes of Mordovia are most often shown in documentaries?",
+        "answers":  [
+                        {
+                            "text":  "Forest rivers and rural settlements",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mountain steppes and Yenisei valley",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kazan Kremlin and Volga embankments",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mountain gorges and Terek valley",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which language besides Russian may be heard in films about Mordovia?",
+        "answers":  [
+                        {
+                            "text":  "Erzya and Moksha languages",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tuvan language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tatar language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ossetian language",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which topic most often appears in films about Mordovia?",
+        "answers":  [
+                        {
+                            "text":  "Erzya and Moksha heritage",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nomadic culture and throat singing",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tatar history and urban culture",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ossetian traditions and mountain communities",
+                            "score":  0
+                        }
+                    ]
+    }
+]

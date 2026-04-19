@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Какой город Алабамы дал название знаменитому звучанию Muscle Shoals?",
+        "answers":  [
+                        {
+                            "text":  "Масл-Шолс",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Таскалуса",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Бирмингем",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Оберн",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Кто исполняет песню Sweet Home Alabama?",
+        "answers":  [
+                        {
+                            "text":  "Lynyrd Skynyrd",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Eagles",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Creedence Clearwater Revival",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Allman Brothers Band",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "С каким жанром прежде всего связана группа Alabama?",
+        "answers":  [
+                        {
+                            "text":  "Кантри",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Хип-хоп",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Классика",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Регги",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какая легендарная студия звукозаписи находится в Масл-Шолс, Алабама?",
+        "answers":  [
+                        {
+                            "text":  "FAME Studios",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Abbey Road Studios",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sun Studio",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Motown Studio A",
+                            "score":  0
+                        }
+                    ]
+    }
+]

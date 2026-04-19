@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which city is the capital of the Altai Republic?",
+    "answers": [
+      {
+        "text": "Gorno-Altaysk",
+        "score": 1
+      },
+      {
+        "text": "Barnaul",
+        "score": 0
+      },
+      {
+        "text": "Biysk",
+        "score": 0
+      },
+      {
+        "text": "Kyzyl",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which peak is the highest in the Altai Republic?",
+    "answers": [
+      {
+        "text": "Belukha",
+        "score": 1
+      },
+      {
+        "text": "Elbrus",
+        "score": 0
+      },
+      {
+        "text": "Kazbek",
+        "score": 0
+      },
+      {
+        "text": "Narodnaya",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which river is one of the main rivers of Gorny Altai?",
+    "answers": [
+      {
+        "text": "Katun",
+        "score": 1
+      },
+      {
+        "text": "Oka",
+        "score": 0
+      },
+      {
+        "text": "Neva",
+        "score": 0
+      },
+      {
+        "text": "Amur",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In which federal district is the Altai Republic located?",
+    "answers": [
+      {
+        "text": "Siberian Federal District",
+        "score": 1
+      },
+      {
+        "text": "Southern Federal District",
+        "score": 0
+      },
+      {
+        "text": "Central Federal District",
+        "score": 0
+      },
+      {
+        "text": "Northwestern Federal District",
+        "score": 0
+      }
+    ]
+  }
+]

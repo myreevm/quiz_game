@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which instrument is considered a symbol of Bashkir music?",
+    "answers": [
+      {
+        "text": "Kurai",
+        "score": 1
+      },
+      {
+        "text": "Pshyne",
+        "score": 0
+      },
+      {
+        "text": "Gusli",
+        "score": 0
+      },
+      {
+        "text": "Domra",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the Bashkir throat-singing tradition called?",
+    "answers": [
+      {
+        "text": "Uzlyau",
+        "score": 1
+      },
+      {
+        "text": "Yodel",
+        "score": 0
+      },
+      {
+        "text": "Ragtime",
+        "score": 0
+      },
+      {
+        "text": "Fado",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In which city is the Bashkir State Opera and Ballet Theatre located?",
+    "answers": [
+      {
+        "text": "Ufa",
+        "score": 1
+      },
+      {
+        "text": "Kazan",
+        "score": 0
+      },
+      {
+        "text": "Samara",
+        "score": 0
+      },
+      {
+        "text": "Perm",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which folk holiday in Bashkortostan is accompanied by songs and dances?",
+    "answers": [
+      {
+        "text": "Sabantuy",
+        "score": 1
+      },
+      {
+        "text": "Oktoberfest",
+        "score": 0
+      },
+      {
+        "text": "Carnival",
+        "score": 0
+      },
+      {
+        "text": "Diwali",
+        "score": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Манна бериллибит дьонноон ким Коми регионон кытта ситимнээх буоларый?",
+        "answers":  [
+                        {
+                            "text":  "Pitirim Sorokin",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ivan Kuratov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Victor Savin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vladimir Torlopov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Коми регионун тарихын кытта ким дьоҕуруйарый?",
+        "answers":  [
+                        {
+                            "text":  "Ivan Kuratov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pitirim Sorokin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Victor Savin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vladimir Torlopov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Бу дьон иһинэн ким Коми регионон биллэрилэрий?",
+        "answers":  [
+                        {
+                            "text":  "Victor Savin",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pitirim Sorokin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Kuratov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vladimir Torlopov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Коми туһунан кэпсэткэннэ ким аата сурулларый?",
+        "answers":  [
+                        {
+                            "text":  "Vladimir Torlopov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pitirim Sorokin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Kuratov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Victor Savin",
+                            "score":  0
+                        }
+                    ]
+    }
+]

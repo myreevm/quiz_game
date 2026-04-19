@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In what year was Iowa admitted to the United States?",
+        "answers":  [
+                        {
+                            "text":  "1846",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1812",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1865",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1898",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which river forms most of the eastern border of Iowa?",
+        "answers":  [
+                        {
+                            "text":  "Mississippi River",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Missouri River",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ohio River",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Colorado River",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the name of the famous baseball field in Dyersville, Iowa?",
+        "answers":  [
+                        {
+                            "text":  "Field of Dreams",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fenway Park",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Wrigley Field",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yankee Stadium",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "The territory of modern Iowa was included in which 1803 land deal?",
+        "answers":  [
+                        {
+                            "text":  "Louisiana Purchase",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Oregon Treaty",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gadsden Purchase",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Adams-Onis Treaty",
+                            "score":  0
+                        }
+                    ]
+    }
+]

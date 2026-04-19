@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In what year did Idaho become a U.S. state?",
+        "answers":  [
+                        {
+                            "text":  "1890",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1850",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1910",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1935",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the capital city of Idaho?",
+        "answers":  [
+                        {
+                            "text":  "Boise",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Idaho Falls",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pocatello",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Coeur dAlene",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the well-known nickname of Idaho?",
+        "answers":  [
+                        {
+                            "text":  "The Gem State",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Sunshine State",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Empire State",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Bay State",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which dam disaster happened in Idaho in 1976?",
+        "answers":  [
+                        {
+                            "text":  "Teton Dam collapse",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hoover Dam failure",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Grand Coulee breach",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Glen Canyon collapse",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Манна бериллибит дьонноон ким Калмыкия регионон кытта ситимнээх буоларый?",
+        "answers":  [
+                        {
+                            "text":  "Kirsan Ilyumzhinov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yunus-Bek Yevkurov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Idris Bazorkin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sulambek Oskanov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Калмыкия регионун тарихын кытта ким дьоҕуруйарый?",
+        "answers":  [
+                        {
+                            "text":  "David Kugultinov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yunus-Bek Yevkurov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Idris Bazorkin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sulambek Oskanov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Бу дьон иһинэн ким Калмыкия регионон биллэрилэрий?",
+        "answers":  [
+                        {
+                            "text":  "Alexey Orlov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yunus-Bek Yevkurov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Idris Bazorkin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sulambek Oskanov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Калмыкия туһунан кэпсэткэннэ ким аата сурулларый?",
+        "answers":  [
+                        {
+                            "text":  "Batu Khasikov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yunus-Bek Yevkurov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Idris Bazorkin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sulambek Oskanov",
+                            "score":  0
+                        }
+                    ]
+    }
+]

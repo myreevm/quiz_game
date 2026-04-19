@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Hollywood actor known as The Duke was born in Winterset, Iowa?",
+        "answers":  [
+                        {
+                            "text":  "John Wayne",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Clint Eastwood",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gary Cooper",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Paul Newman",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which U.S. president was born in West Branch, Iowa?",
+        "answers":  [
+                        {
+                            "text":  "Herbert Hoover",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Dwight Eisenhower",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Harry Truman",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gerald Ford",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which actor from Cedar Rapids, Iowa starred in That 70s Show?",
+        "answers":  [
+                        {
+                            "text":  "Ashton Kutcher",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Chris Evans",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ryan Gosling",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Matt Damon",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which actor born in Cedar Rapids played Frodo in The Lord of the Rings films?",
+        "answers":  [
+                        {
+                            "text":  "Elijah Wood",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Daniel Radcliffe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Andrew Garfield",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tom Holland",
+                            "score":  0
+                        }
+                    ]
+    }
+]

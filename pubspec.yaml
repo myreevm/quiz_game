@@ -42,6 +42,102 @@ flutter:
     - assets/data/russia/dagestan/en/
     - assets/data/russia/dagestan/ru/
     - assets/data/russia/dagestan/sah/
+    - assets/data/russia/adygea/
+    - assets/data/russia/adygea/en/
+    - assets/data/russia/adygea/ru/
+    - assets/data/russia/adygea/sah/
+    - assets/data/russia/bashkortostan/
+    - assets/data/russia/bashkortostan/en/
+    - assets/data/russia/bashkortostan/ru/
+    - assets/data/russia/bashkortostan/sah/
+    - assets/data/russia/altai/
+    - assets/data/russia/altai/en/
+    - assets/data/russia/altai/ru/
+    - assets/data/russia/altai/sah/
+    - assets/data/russia/buryatia/
+    - assets/data/russia/buryatia/en/
+    - assets/data/russia/buryatia/ru/
+    - assets/data/russia/buryatia/sah/
+    - assets/data/russia/kalmykia/
+    - assets/data/russia/kalmykia/en/
+    - assets/data/russia/kalmykia/ru/
+    - assets/data/russia/kalmykia/sah/
+    - assets/data/russia/kabardino_balkaria/
+    - assets/data/russia/kabardino_balkaria/en/
+    - assets/data/russia/kabardino_balkaria/ru/
+    - assets/data/russia/kabardino_balkaria/sah/
+    - assets/data/russia/ingushetia/
+    - assets/data/russia/ingushetia/en/
+    - assets/data/russia/ingushetia/ru/
+    - assets/data/russia/ingushetia/sah/
+    - assets/data/russia/kamchatka/
+    - assets/data/russia/kamchatka/en/
+    - assets/data/russia/kamchatka/ru/
+    - assets/data/russia/kamchatka/sah/
+    - assets/data/russia/mari_el/
+    - assets/data/russia/mari_el/en/
+    - assets/data/russia/mari_el/ru/
+    - assets/data/russia/mari_el/sah/
+    - assets/data/russia/komi/
+    - assets/data/russia/komi/en/
+    - assets/data/russia/komi/ru/
+    - assets/data/russia/komi/sah/
+    - assets/data/russia/karelia/
+    - assets/data/russia/karelia/en/
+    - assets/data/russia/karelia/ru/
+    - assets/data/russia/karelia/sah/
+    - assets/data/russia/karachay_cherkessia/
+    - assets/data/russia/karachay_cherkessia/en/
+    - assets/data/russia/karachay_cherkessia/ru/
+    - assets/data/russia/karachay_cherkessia/sah/
+    - assets/data/russia/tuva/
+    - assets/data/russia/tuva/en/
+    - assets/data/russia/tuva/ru/
+    - assets/data/russia/tuva/sah/
+    - assets/data/russia/tatarstan/
+    - assets/data/russia/tatarstan/en/
+    - assets/data/russia/tatarstan/ru/
+    - assets/data/russia/tatarstan/sah/
+    - assets/data/russia/north_ossetia/
+    - assets/data/russia/north_ossetia/en/
+    - assets/data/russia/north_ossetia/ru/
+    - assets/data/russia/north_ossetia/sah/
+    - assets/data/russia/mordovia/
+    - assets/data/russia/mordovia/en/
+    - assets/data/russia/mordovia/ru/
+    - assets/data/russia/mordovia/sah/
+    - assets/data/russia/chuvashia/
+    - assets/data/russia/chuvashia/en/
+    - assets/data/russia/chuvashia/ru/
+    - assets/data/russia/chuvashia/sah/
+    - assets/data/russia/chechnya/
+    - assets/data/russia/chechnya/en/
+    - assets/data/russia/chechnya/ru/
+    - assets/data/russia/chechnya/sah/
+    - assets/data/russia/khakassia/
+    - assets/data/russia/khakassia/en/
+    - assets/data/russia/khakassia/ru/
+    - assets/data/russia/khakassia/sah/
+    - assets/data/russia/udmurtia/
+    - assets/data/russia/udmurtia/en/
+    - assets/data/russia/udmurtia/ru/
+    - assets/data/russia/udmurtia/sah/
+    - assets/data/russia/krasnoyarsk_krai/
+    - assets/data/russia/krasnoyarsk_krai/en/
+    - assets/data/russia/krasnoyarsk_krai/ru/
+    - assets/data/russia/krasnoyarsk_krai/sah/
+    - assets/data/russia/krasnodar_krai/
+    - assets/data/russia/krasnodar_krai/en/
+    - assets/data/russia/krasnodar_krai/ru/
+    - assets/data/russia/krasnodar_krai/sah/
+    - assets/data/russia/zabaykalsky_krai/
+    - assets/data/russia/zabaykalsky_krai/en/
+    - assets/data/russia/zabaykalsky_krai/ru/
+    - assets/data/russia/zabaykalsky_krai/sah/
+    - assets/data/russia/altai_krai/
+    - assets/data/russia/altai_krai/en/
+    - assets/data/russia/altai_krai/ru/
+    - assets/data/russia/altai_krai/sah/
     - assets/data/usa/en/
     - assets/data/usa/ru/
     - assets/data/usa/sah/
@@ -51,6 +147,22 @@ flutter:
     - assets/data/usa/texas/en/
     - assets/data/usa/texas/ru/
     - assets/data/usa/texas/sah/
+    - assets/data/usa/alaska/
+    - assets/data/usa/alaska/en/
+    - assets/data/usa/alaska/ru/
+    - assets/data/usa/alaska/sah/
+    - assets/data/usa/alabama/
+    - assets/data/usa/alabama/en/
+    - assets/data/usa/alabama/ru/
+    - assets/data/usa/alabama/sah/
+    - assets/data/usa/iowa/
+    - assets/data/usa/iowa/en/
+    - assets/data/usa/iowa/ru/
+    - assets/data/usa/iowa/sah/
+    - assets/data/usa/idaho/
+    - assets/data/usa/idaho/en/
+    - assets/data/usa/idaho/ru/
+    - assets/data/usa/idaho/sah/
     - assets/data/china/en/
     - assets/data/china/ru/
     - assets/data/china/sah/
@@ -309,6 +421,21 @@ flutter:
     - assets/data/mauritius/en/
     - assets/data/mauritius/ru/
     - assets/data/mauritius/sah/
+    - assets/data/east_timor/en/
+    - assets/data/east_timor/ru/
+    - assets/data/east_timor/sah/
+    - assets/data/suriname/en/
+    - assets/data/suriname/ru/
+    - assets/data/suriname/sah/
+    - assets/data/guyana/en/
+    - assets/data/guyana/ru/
+    - assets/data/guyana/sah/
+    - assets/data/venezuela/en/
+    - assets/data/venezuela/ru/
+    - assets/data/venezuela/sah/
+    - assets/data/saint_vincent_and_the_grenadines/en/
+    - assets/data/saint_vincent_and_the_grenadines/ru/
+    - assets/data/saint_vincent_and_the_grenadines/sah/
     - assets/data/argentina/en/
     - assets/data/argentina/ru/
     - assets/data/argentina/sah/

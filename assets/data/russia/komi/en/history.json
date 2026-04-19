@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "What is the capital of Komi?",
+        "answers":  [
+                        {
+                            "text":  "Syktyvkar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Petrozavodsk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cherkessk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yoshkar-Ola",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which natural feature is strongly associated with Komi?",
+        "answers":  [
+                        {
+                            "text":  "Northern taiga and the Pechora basin",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ladoga and Onega lake system",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Caucasus peaks and alpine valleys",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Volga-Vyatka forests and lakes",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which federal district is Komi located?",
+        "answers":  [
+                        {
+                            "text":  "Northwestern Federal District",
+                            "score":  1
+                        },
+                        {
+                            "text":  "North Caucasian Federal District",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Volga Federal District",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Central Federal District",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which local language is traditionally used in Komi besides Russian?",
+        "answers":  [
+                        {
+                            "text":  "Komi language",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Karelian language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Karachay-Balkar and Circassian languages",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mari language",
+                            "score":  0
+                        }
+                    ]
+    }
+]

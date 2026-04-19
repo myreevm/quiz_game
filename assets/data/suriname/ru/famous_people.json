@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Кто стал первым президентом независимого Суринама в 1975 году?",
+        "answers":  [
+                        {
+                            "text":  "Johan Ferrier",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Desi Bouterse",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Clarence Seedorf",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Anton de Kom",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой суринамский деятель известен как антиколониальный писатель и активист?",
+        "answers":  [
+                        {
+                            "text":  "Anton de Kom",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Johan Ferrier",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cynthia McLeod",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Clarence Seedorf",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какая суринамская писательница известна историческими романами о стране?",
+        "answers":  [
+                        {
+                            "text":  "Cynthia McLeod",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Desi Bouterse",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Johan Ferrier",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lieve Hugo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой известный футболист родился в Парамарибо, Суринам?",
+        "answers":  [
+                        {
+                            "text":  "Clarence Seedorf",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kevin Lyttle",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eddy Grant",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Forbes Burnham",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой политический лидер связан с военным периодом и последующим президентством в Суринаме?",
+        "answers":  [
+                        {
+                            "text":  "Desi Bouterse",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Johan Ferrier",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Anton de Kom",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cheddi Jagan",
+                            "score":  0
+                        }
+                    ]
+    }
+]

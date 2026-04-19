@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Which of these people is associated with Altai Krai?",
+        "answers":  [
+                        {
+                            "text":  "Robert Rozhdestvensky",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mikhail Kalashnikov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Valery Zolotukhin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mikhail Evdokimov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which figure is linked to the cultural life of Altai Krai?",
+        "answers":  [
+                        {
+                            "text":  "Mikhail Kalashnikov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Robert Rozhdestvensky",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Valery Zolotukhin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mikhail Evdokimov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who is connected with the modern history of Altai Krai?",
+        "answers":  [
+                        {
+                            "text":  "Valery Zolotukhin",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Robert Rozhdestvensky",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mikhail Kalashnikov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mikhail Evdokimov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which personality is often mentioned when speaking about Altai Krai?",
+        "answers":  [
+                        {
+                            "text":  "Mikhail Evdokimov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Robert Rozhdestvensky",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mikhail Kalashnikov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Valery Zolotukhin",
+                            "score":  0
+                        }
+                    ]
+    }
+]

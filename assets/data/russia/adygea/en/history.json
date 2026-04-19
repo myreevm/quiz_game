@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which city is the capital of the Republic of Adygea?",
+    "answers": [
+      {
+        "text": "Maykop",
+        "score": 1
+      },
+      {
+        "text": "Krasnodar",
+        "score": 0
+      },
+      {
+        "text": "Nalchik",
+        "score": 0
+      },
+      {
+        "text": "Armavir",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In which federal district is Adygea located?",
+    "answers": [
+      {
+        "text": "Southern Federal District",
+        "score": 1
+      },
+      {
+        "text": "Siberian Federal District",
+        "score": 0
+      },
+      {
+        "text": "Volga Federal District",
+        "score": 0
+      },
+      {
+        "text": "Ural Federal District",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which river is considered one of the main rivers of Adygea?",
+    "answers": [
+      {
+        "text": "Belaya",
+        "score": 1
+      },
+      {
+        "text": "Volga",
+        "score": 0
+      },
+      {
+        "text": "Don",
+        "score": 0
+      },
+      {
+        "text": "Ob",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the famous mountainous area of Adygea popular with tourists?",
+    "answers": [
+      {
+        "text": "Lago-Naki Plateau",
+        "score": 1
+      },
+      {
+        "text": "Chuysky Trakt",
+        "score": 0
+      },
+      {
+        "text": "Caucasian Mineral Waters",
+        "score": 0
+      },
+      {
+        "text": "Khibiny",
+        "score": 0
+      }
+    ]
+  }
+]

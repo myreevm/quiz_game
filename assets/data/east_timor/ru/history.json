@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Какая столица Восточного Тимора?",
+        "answers":  [
+                        {
+                            "text":  "Dili",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Baucau",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Liquica",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Suai",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "В каком году была восстановлена независимость Восточного Тимора?",
+        "answers":  [
+                        {
+                            "text":  "1999",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2002",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1975",
+                            "score":  0
+                        },
+                        {
+                            "text":  "2005",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "В каком году в Восточном Тиморе прошёл референдум при поддержке ООН?",
+        "answers":  [
+                        {
+                            "text":  "1991",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1999",
+                            "score":  1
+                        },
+                        {
+                            "text":  "2002",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1974",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какая пара является официальными языками Восточного Тимора?",
+        "answers":  [
+                        {
+                            "text":  "Tetum and Portuguese",
+                            "score":  1
+                        },
+                        {
+                            "text":  "English and Tetum",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Portuguese and Spanish",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tetum and Indonesian",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какая валюта широко используется в Восточном Тиморе?",
+        "answers":  [
+                        {
+                            "text":  "USD",
+                            "score":  1
+                        },
+                        {
+                            "text":  "EUR",
+                            "score":  0
+                        },
+                        {
+                            "text":  "AUD",
+                            "score":  0
+                        },
+                        {
+                            "text":  "IDR",
+                            "score":  0
+                        }
+                    ]
+    }
+]

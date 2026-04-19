@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which classic film adaptation is set in fictional Maycomb, Alabama?",
+        "answers":  [
+                        {
+                            "text":  "To Kill a Mockingbird",
+                            "score":  1
+                        },
+                        {
+                            "text":  "12 Angry Men",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Grapes of Wrath",
+                            "score":  0
+                        },
+                        {
+                            "text":  "On the Waterfront",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which 2014 film dramatizes the voting-rights marches from Selma?",
+        "answers":  [
+                        {
+                            "text":  "Selma",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lincoln",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Malcolm X",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Spotlight",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which romantic comedy starring Reese Witherspoon has Alabama in its title?",
+        "answers":  [
+                        {
+                            "text":  "Sweet Home Alabama",
+                            "score":  1
+                        },
+                        {
+                            "text":  "How to Lose a Guy in 10 Days",
+                            "score":  0
+                        },
+                        {
+                            "text":  "27 Dresses",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Holiday",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Forrest Gump says he is from which U.S. state?",
+        "answers":  [
+                        {
+                            "text":  "Alabama",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Georgia",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Texas",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mississippi",
+                            "score":  0
+                        }
+                    ]
+    }
+]

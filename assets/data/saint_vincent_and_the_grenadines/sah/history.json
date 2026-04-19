@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Сент-Винсент уонна Гренадиналар баштаах куората ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Kingstown",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Georgetown",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Basseterre",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Castries",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Сент-Винсент уонна Гренадиналар ханнык сылла бэйэ сирин ылбыттара?",
+        "answers":  [
+                        {
+                            "text":  "1979",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1966",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1986",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1992",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Сент-Винсент уонна Гренадиналарга туттуллар валютанын кода ханнык?",
+        "answers":  [
+                        {
+                            "text":  "XCD",
+                            "score":  1
+                        },
+                        {
+                            "text":  "SRD",
+                            "score":  0
+                        },
+                        {
+                            "text":  "GYD",
+                            "score":  0
+                        },
+                        {
+                            "text":  "VES",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Сент-Винсент уонна Гренадиналар ханнык региональнай холбоһукка киирэллэрий?",
+        "answers":  [
+                        {
+                            "text":  "CARICOM",
+                            "score":  1
+                        },
+                        {
+                            "text":  "ASEAN",
+                            "score":  0
+                        },
+                        {
+                            "text":  "EU",
+                            "score":  0
+                        },
+                        {
+                            "text":  "AU",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "2021 сылла Сент-Винсент арыытын ханнык вулкана атыырбытай?",
+        "answers":  [
+                        {
+                            "text":  "La Soufriere",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Etna",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Merapi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Popocatepetl",
+                            "score":  0
+                        }
+                    ]
+    }
+]

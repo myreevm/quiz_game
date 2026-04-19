@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Гайанаҕа \"нация аҕата\" диэн ааттанан, PPP-ны тэрийсээччилэртэн биир кимий?",
+        "answers":  [
+                        {
+                            "text":  "Cheddi Jagan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Forbes Burnham",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Irfaan Ali",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eddy Grant",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Гайананың бастакы исполнительнай президенэ ким буолбута?",
+        "answers":  [
+                        {
+                            "text":  "Forbes Burnham",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cheddi Jagan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Irfaan Ali",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shivnarine Chanderpaul",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "2020 сылла Гайана президенэ ким буолбута?",
+        "answers":  [
+                        {
+                            "text":  "Irfaan Ali",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Forbes Burnham",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cheddi Jagan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "David Panuelo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Electric Avenue хитом аан дойдуга биллэр гайана музыканта кимий?",
+        "answers":  [
+                        {
+                            "text":  "Eddy Grant",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kevin Lyttle",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gustavo Dudamel",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lieve Hugo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Tiger кушаҕынан биллэр гайана крикетиста кимий?",
+        "answers":  [
+                        {
+                            "text":  "Shivnarine Chanderpaul",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Eddy Grant",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Irfaan Ali",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cheddi Jagan",
+                            "score":  0
+                        }
+                    ]
+    }
+]

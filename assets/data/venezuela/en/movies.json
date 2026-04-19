@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "What is the acronym of Venezuela\u0027s national film body?",
+        "answers":  [
+                        {
+                            "text":  "CNAC",
+                            "score":  1
+                        },
+                        {
+                            "text":  "DFI",
+                            "score":  0
+                        },
+                        {
+                            "text":  "MIFF",
+                            "score":  0
+                        },
+                        {
+                            "text":  "PÖFF",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which classic documentary by Margot Benacerraf is associated with Venezuelan cinema?",
+        "answers":  [
+                        {
+                            "text":  "Araya",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Balibo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Wadjda",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Wan Pipel",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Venezuelan film won the Golden Lion in 2015?",
+        "answers":  [
+                        {
+                            "text":  "From Afar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Orator",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Honeyland",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tangerines",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Venezuelan horror film is known as The House at the End of Time?",
+        "answers":  [
+                        {
+                            "text":  "The House at the End of Time",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Araya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Virunga",
+                            "score":  0
+                        },
+                        {
+                            "text":  "City of Life",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city is the main center of Venezuela\u0027s film schools and screen production?",
+        "answers":  [
+                        {
+                            "text":  "Caracas",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Maracaibo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Merida",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cumana",
+                            "score":  0
+                        }
+                    ]
+    }
+]

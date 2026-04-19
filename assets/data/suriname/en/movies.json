@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which film is one of the most famous Surinamese-Dutch productions?",
+        "answers":  [
+                        {
+                            "text":  "Wan Pipel",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Araya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Balibo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "From Afar",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who directed the film Wan Pipel?",
+        "answers":  [
+                        {
+                            "text":  "Pim de la Parra",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Margot Benacerraf",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Haifaa Al-Mansour",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Milcho Manchevski",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which film adaptation is based on Surinamese historical fiction and is linked to Cynthia McLeod?",
+        "answers":  [
+                        {
+                            "text":  "The Price of Sugar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The House at the End of Time",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Wadjda",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Orator",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city is the main hub of Suriname\u0027s indie film scene?",
+        "answers":  [
+                        {
+                            "text":  "Paramaribo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Moengo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Albina",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Brokopondo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Suriname\u0027s screen projects are often made with which partner format?",
+        "answers":  [
+                        {
+                            "text":  "Dutch-Surinamese co-productions",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nordic co-productions",
+                            "score":  0
+                        },
+                        {
+                            "text":  "East Asian studios",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hollywood only",
+                            "score":  0
+                        }
+                    ]
+    }
+]

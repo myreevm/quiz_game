@@ -1,0 +1,86 @@
+[
+  {
+    "question": "In which city of Buryatia are regional film premieres most often held?",
+    "answers": [
+      {
+        "text": "Ulan-Ude",
+        "score": 1
+      },
+      {
+        "text": "Severobaykalsk",
+        "score": 0
+      },
+      {
+        "text": "Kyakhta",
+        "score": 0
+      },
+      {
+        "text": "Gusinoozersk",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which natural location of Buryatia often appears in films and documentaries?",
+    "answers": [
+      {
+        "text": "The Baikal coast",
+        "score": 1
+      },
+      {
+        "text": "Curonian Spit",
+        "score": 0
+      },
+      {
+        "text": "Caucasian waterfalls",
+        "score": 0
+      },
+      {
+        "text": "Kola Peninsula",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which language, besides Russian, is often heard in local Buryatia films?",
+    "answers": [
+      {
+        "text": "Buryat",
+        "score": 1
+      },
+      {
+        "text": "Karelian",
+        "score": 0
+      },
+      {
+        "text": "Udmurt",
+        "score": 0
+      },
+      {
+        "text": "Komi",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In which all-Russian campaign do Buryatia cinemas participate?",
+    "answers": [
+      {
+        "text": "Night of Cinema",
+        "score": 1
+      },
+      {
+        "text": "Night of Museums",
+        "score": 0
+      },
+      {
+        "text": "Night of Science",
+        "score": 0
+      },
+      {
+        "text": "Library Night",
+        "score": 0
+      }
+    ]
+  }
+]

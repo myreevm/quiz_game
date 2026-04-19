@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Венесуэла национальнай кино органын аббревиатурата ханнык?",
+        "answers":  [
+                        {
+                            "text":  "CNAC",
+                            "score":  1
+                        },
+                        {
+                            "text":  "DFI",
+                            "score":  0
+                        },
+                        {
+                            "text":  "MIFF",
+                            "score":  0
+                        },
+                        {
+                            "text":  "PÖFF",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Margot Benacerraf классическай документальнай фильмыттан венесуэла киногар ситимнээх ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Araya",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Balibo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Wadjda",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Wan Pipel",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "2015 сылла «Золотой лев» ылбыт венесуэла фильмата ханнык?",
+        "answers":  [
+                        {
+                            "text":  "From Afar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Orator",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Honeyland",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tangerines",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "The House at the End of Time диэн биллэр венесуэла хоррор фильмата ханнык?",
+        "answers":  [
+                        {
+                            "text":  "The House at the End of Time",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Araya",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Virunga",
+                            "score":  0
+                        },
+                        {
+                            "text":  "City of Life",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Венесуэла киносуолуур уонна экран производство сүрүн киинэ ханнык куорат?",
+        "answers":  [
+                        {
+                            "text":  "Caracas",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Maracaibo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Merida",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cumana",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "question": "What is the name of the Buddhist spiritual leader whose incorrupt body is kept in Ivolginsky Datsan?",
+    "answers": [
+      {
+        "text": "Dashi-Dorzho Itigilov",
+        "score": 1
+      },
+      {
+        "text": "Shamil Basayev",
+        "score": 0
+      },
+      {
+        "text": "Tenzin Gyatso",
+        "score": 0
+      },
+      {
+        "text": "Alexander Men",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which contemporary sculptor from Buryatia is known far beyond Russia?",
+    "answers": [
+      {
+        "text": "Dashi Namdakov",
+        "score": 1
+      },
+      {
+        "text": "Ernst Neizvestny",
+        "score": 0
+      },
+      {
+        "text": "Zurab Tsereteli",
+        "score": 0
+      },
+      {
+        "text": "Oleg Komov",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who was the first President of the Republic of Buryatia?",
+    "answers": [
+      {
+        "text": "Leonid Potapov",
+        "score": 1
+      },
+      {
+        "text": "Alexey Tsydenov",
+        "score": 0
+      },
+      {
+        "text": "Vyacheslav Nagovitsyn",
+        "score": 0
+      },
+      {
+        "text": "Sergey Shoigu",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who took office as the Head of the Republic of Buryatia in 2017?",
+    "answers": [
+      {
+        "text": "Alexey Tsydenov",
+        "score": 1
+      },
+      {
+        "text": "Leonid Potapov",
+        "score": 0
+      },
+      {
+        "text": "Murtaza Rakhimov",
+        "score": 0
+      },
+      {
+        "text": "Oleg Kozhemyako",
+        "score": 0
+      }
+    ]
+  }
+]

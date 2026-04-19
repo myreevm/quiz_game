@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In which city are most regional film events of Mari El held?",
+        "answers":  [
+                        {
+                            "text":  "Yoshkar-Ola",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Syktyvkar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Petrozavodsk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cherkessk",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which landscapes of Mari El are most often shown in documentaries?",
+        "answers":  [
+                        {
+                            "text":  "Forest lakes and river valleys",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Taiga rivers and northern forests",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Skerries, lakes, and conifer forests",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mountain passes and highland meadows",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which language besides Russian may be heard in films about Mari El?",
+        "answers":  [
+                        {
+                            "text":  "Mari language",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Komi language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Karelian language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Karachay-Balkar and Circassian languages",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which topic most often appears in films about Mari El?",
+        "answers":  [
+                        {
+                            "text":  "Mari folklore and regional traditions",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Life in the taiga and northern settlements",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Northern villages and Karelian epic heritage",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Highland life and Caucasus traditions",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -29,7 +29,14 @@ void main() {
         expect(manifestContent.contains(path), isTrue);
       }
 
-      const regions = <String>['oklahoma', 'texas'];
+      const regions = <String>[
+        'oklahoma',
+        'texas',
+        'alaska',
+        'alabama',
+        'iowa',
+        'idaho',
+      ];
       const languages = <String>['en', 'ru', 'sah'];
       const categories = <String>[
         'famous_people',
@@ -145,6 +152,11 @@ void main() {
         'tuvalu',
         'micronesia',
         'mauritius',
+        'east_timor',
+        'suriname',
+        'guyana',
+        'venezuela',
+        'saint_vincent_and_the_grenadines',
         'new_zealand',
         'nicaragua',
         'norway',
@@ -229,7 +241,14 @@ void main() {
 
     test('loads USA regions for English, Russian, and Yakut languages',
         () async {
-      for (final region in const <String>['oklahoma', 'texas']) {
+      for (final region in const <String>[
+        'oklahoma',
+        'texas',
+        'alaska',
+        'alabama',
+        'iowa',
+        'idaho',
+      ]) {
         for (final category in const <String>[
           'famous_people',
           'history',
@@ -356,6 +375,11 @@ void main() {
         'tuvalu',
         'micronesia',
         'mauritius',
+        'east_timor',
+        'suriname',
+        'guyana',
+        'venezuela',
+        'saint_vincent_and_the_grenadines',
         'new_zealand',
         'nicaragua',
         'norway',

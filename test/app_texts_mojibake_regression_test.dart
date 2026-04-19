@@ -103,8 +103,7 @@ void main() {
       expect(sah.countryName('oman'), '\u041E\u043C\u0430\u043D');
     });
 
-    test('countryName keeps Mali, Mauritania, Kuwait, and Angola readable',
-        () {
+    test('countryName keeps Mali, Mauritania, Kuwait, and Angola readable', () {
       expect(ru.countryName('mali'), '\u041C\u0430\u043B\u0438');
       expect(ru.countryName('mauritania'),
           '\u041C\u0430\u0432\u0440\u0438\u0442\u0430\u043D\u0438\u044F');
@@ -139,21 +138,24 @@ void main() {
     test(
         'countryName keeps Nigeria, Nepal, Uruguay, and North Macedonia readable',
         () {
-      expect(ru.countryName('nigeria'), '\u041D\u0438\u0433\u0435\u0440\u0438\u044F');
+      expect(ru.countryName('nigeria'),
+          '\u041D\u0438\u0433\u0435\u0440\u0438\u044F');
       expect(ru.countryName('nepal'), '\u041D\u0435\u043F\u0430\u043B');
-      expect(ru.countryName('uruguay'), '\u0423\u0440\u0443\u0433\u0432\u0430\u0439');
+      expect(ru.countryName('uruguay'),
+          '\u0423\u0440\u0443\u0433\u0432\u0430\u0439');
       expect(ru.countryName('north_macedonia'),
           '\u0421\u0435\u0432\u0435\u0440\u043D\u0430\u044F \u041C\u0430\u043A\u0435\u0434\u043E\u043D\u0438\u044F');
 
-      expect(sah.countryName('nigeria'), '\u041D\u0438\u0433\u0435\u0440\u0438\u044F');
+      expect(sah.countryName('nigeria'),
+          '\u041D\u0438\u0433\u0435\u0440\u0438\u044F');
       expect(sah.countryName('nepal'), '\u041D\u0435\u043F\u0430\u043B');
-      expect(sah.countryName('uruguay'), '\u0423\u0440\u0443\u0433\u0432\u0430\u0439');
+      expect(sah.countryName('uruguay'),
+          '\u0423\u0440\u0443\u0433\u0432\u0430\u0439');
       expect(sah.countryName('north_macedonia'),
           '\u0421\u0435\u0432\u0435\u0440\u043D\u0430\u044F \u041C\u0430\u043A\u0435\u0434\u043E\u043D\u0438\u044F');
     });
 
-    test('countryName keeps Samoa, Mozambique, Nauru, and Niger readable',
-        () {
+    test('countryName keeps Samoa, Mozambique, Nauru, and Niger readable', () {
       expect(ru.countryName('samoa'), '\u0421\u0430\u043C\u043E\u0430');
       expect(ru.countryName('mozambique'),
           '\u041C\u043E\u0437\u0430\u043C\u0431\u0438\u043A');
@@ -182,6 +184,69 @@ void main() {
           '\u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043D\u044B\u0435 \u0428\u0442\u0430\u0442\u044B \u041C\u0438\u043A\u0440\u043E\u043D\u0435\u0437\u0438\u0438');
       expect(sah.countryName('mauritius'),
           '\u041C\u0430\u0432\u0440\u0438\u043A\u0438\u0439');
+    });
+
+    test(
+        'countryName keeps East Timor, Suriname, Guyana, Venezuela, and SVG readable',
+        () {
+      expect(ru.countryName('east_timor'),
+          '\u0412\u043E\u0441\u0442\u043E\u0447\u043D\u044B\u0439 \u0422\u0438\u043C\u043E\u0440');
+      expect(ru.countryName('suriname'),
+          '\u0421\u0443\u0440\u0438\u043D\u0430\u043C');
+      expect(ru.countryName('guyana'), '\u0413\u0430\u0439\u0430\u043D\u0430');
+      expect(ru.countryName('venezuela'),
+          '\u0412\u0435\u043D\u0435\u0441\u0443\u044D\u043B\u0430');
+      expect(
+        ru.countryName('saint_vincent_and_the_grenadines'),
+        '\u0421\u0435\u043D\u0442-\u0412\u0438\u043D\u0441\u0435\u043D\u0442 \u0438 \u0413\u0440\u0435\u043D\u0430\u0434\u0438\u043D\u044B',
+      );
+
+      expect(sah.countryName('east_timor'),
+          '\u0412\u043E\u0441\u0442\u043E\u0447\u043D\u044B\u0439 \u0422\u0438\u043C\u043E\u0440');
+      expect(sah.countryName('suriname'),
+          '\u0421\u0443\u0440\u0438\u043D\u0430\u043C');
+      expect(sah.countryName('guyana'), '\u0413\u0430\u0439\u0430\u043D\u0430');
+      expect(sah.countryName('venezuela'),
+          '\u0412\u0435\u043D\u0435\u0441\u0443\u044D\u043B\u0430');
+      expect(
+        sah.countryName('saint_vincent_and_the_grenadines'),
+        '\u0421\u0435\u043D\u0442-\u0412\u0438\u043D\u0441\u0435\u043D\u0442 \u0438 \u0413\u0440\u0435\u043D\u0430\u0434\u0438\u043D\u044B',
+      );
+    });
+
+    test('continent labels and hint are readable in russian and yakut', () {
+      expect(
+          ru.continentName('europe'), '\u0415\u0432\u0440\u043E\u043F\u0430');
+      expect(ru.continentName('asia'), '\u0410\u0437\u0438\u044F');
+      expect(
+          ru.continentName('africa'), '\u0410\u0444\u0440\u0438\u043A\u0430');
+      expect(ru.continentName('oceania'),
+          '\u041E\u043A\u0435\u0430\u043D\u0438\u044F');
+      expect(ru.continentName('north_america'),
+          '\u0421\u0435\u0432\u0435\u0440\u043D\u0430\u044F \u0410\u043C\u0435\u0440\u0438\u043A\u0430');
+      expect(ru.continentName('south_america'),
+          '\u042E\u0436\u043D\u0430\u044F \u0410\u043C\u0435\u0440\u0438\u043A\u0430');
+
+      expect(
+          sah.continentName('europe'), '\u0415\u0432\u0440\u043E\u043F\u0430');
+      expect(sah.continentName('asia'), '\u0410\u0437\u0438\u044F');
+      expect(
+          sah.continentName('africa'), '\u0410\u0444\u0440\u0438\u043A\u0430');
+      expect(sah.continentName('oceania'),
+          '\u041E\u043A\u0435\u0430\u043D\u0438\u044F');
+      expect(sah.continentName('north_america'),
+          '\u0425\u043E\u0442\u0443\u0443 \u0410\u043C\u0435\u0440\u0438\u043A\u0430');
+      expect(sah.continentName('south_america'),
+          '\u0421\u043E\u0495\u0443\u0440\u0443\u0443 \u0410\u043C\u0435\u0440\u0438\u043A\u0430');
+
+      expect(
+        ru.continentMapHint,
+        '\u041D\u0430\u0436\u043C\u0438\u0442\u0435 \u043D\u0430 \u043A\u043E\u043D\u0442\u0438\u043D\u0435\u043D\u0442 \u043D\u0430 \u043A\u0430\u0440\u0442\u0435',
+      );
+      expect(
+        sah.continentMapHint,
+        '\u041A\u0430\u0440\u0442\u0430\u0495\u0430 \u043A\u043E\u043D\u0442\u0438\u043D\u0435\u043D\u044B \u0431\u0430\u0442\u0442\u0430\u0430',
+      );
     });
 
     test('countrySelectionSubtitle keeps south america strings readable', () {
@@ -482,7 +547,8 @@ void main() {
       );
     });
 
-    test('countrySelectionSubtitle keeps Samoa, Mozambique, Nauru, and Niger readable',
+    test(
+        'countrySelectionSubtitle keeps Samoa, Mozambique, Nauru, and Niger readable',
         () {
       expect(
         ru.countrySelectionSubtitle('samoa'),
@@ -554,6 +620,52 @@ void main() {
       expect(
         sah.countrySelectionSubtitle('mauritius'),
         '\u041C\u0430\u0432\u0440\u0438\u043A\u0438\u0439: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
+      );
+    });
+
+    test(
+        'countrySelectionSubtitle keeps East Timor, Suriname, Guyana, Venezuela, and SVG readable',
+        () {
+      expect(
+        ru.countrySelectionSubtitle('east_timor'),
+        '\u0412\u043E\u0441\u0442\u043E\u0447\u043D\u044B\u0439 \u0422\u0438\u043C\u043E\u0440: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
+      );
+      expect(
+        ru.countrySelectionSubtitle('suriname'),
+        '\u0421\u0443\u0440\u0438\u043D\u0430\u043C: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
+      );
+      expect(
+        ru.countrySelectionSubtitle('guyana'),
+        '\u0413\u0430\u0439\u0430\u043D\u0430: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
+      );
+      expect(
+        ru.countrySelectionSubtitle('venezuela'),
+        '\u0412\u0435\u043D\u0435\u0441\u0443\u044D\u043B\u0430: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
+      );
+      expect(
+        ru.countrySelectionSubtitle('saint_vincent_and_the_grenadines'),
+        '\u0421\u0435\u043D\u0442-\u0412\u0438\u043D\u0441\u0435\u043D\u0442 \u0438 \u0413\u0440\u0435\u043D\u0430\u0434\u0438\u043D\u044B: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0435 \u043B\u044E\u0434\u0438',
+      );
+
+      expect(
+        sah.countrySelectionSubtitle('east_timor'),
+        '\u0412\u043E\u0441\u0442\u043E\u0447\u043D\u044B\u0439 \u0422\u0438\u043C\u043E\u0440: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
+      );
+      expect(
+        sah.countrySelectionSubtitle('suriname'),
+        '\u0421\u0443\u0440\u0438\u043D\u0430\u043C: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
+      );
+      expect(
+        sah.countrySelectionSubtitle('guyana'),
+        '\u0413\u0430\u0439\u0430\u043D\u0430: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
+      );
+      expect(
+        sah.countrySelectionSubtitle('venezuela'),
+        '\u0412\u0435\u043D\u0435\u0441\u0443\u044D\u043B\u0430: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
+      );
+      expect(
+        sah.countrySelectionSubtitle('saint_vincent_and_the_grenadines'),
+        '\u0421\u0435\u043D\u0442-\u0412\u0438\u043D\u0441\u0435\u043D\u0442 \u0438 \u0413\u0440\u0435\u043D\u0430\u0434\u0438\u043D\u044B: \u0438\u0441\u0442\u043E\u0440\u0438\u044F, \u043A\u0438\u043D\u043E, \u043C\u0443\u0437\u044B\u043A\u0430 \u0443\u043E\u043D\u043D\u0430 \u0431\u0438\u043B\u043B\u044D\u0440 \u0434\u044C\u043E\u043D',
       );
     });
 

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which singer-songwriter grew up in Alaska and became famous with \u0027Who Will Save Your Soul\u0027?",
+        "answers":  [
+                        {
+                            "text":  "Jewel",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Shania Twain",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Madonna",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alicia Keys",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who served as governor of Alaska from 2006 to 2009?",
+        "answers":  [
+                        {
+                            "text":  "Sarah Palin",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jan Brewer",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tony Evers",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bill Walker",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which civil rights activist helped pass the Alaska Anti-Discrimination Act of 1945?",
+        "answers":  [
+                        {
+                            "text":  "Elizabeth Peratrovich",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Coretta Scott King",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dolores Huerta",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Susan B. Anthony",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who designed the Alaska state flag as a teenager?",
+        "answers":  [
+                        {
+                            "text":  "Benny Benson",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ansel Adams",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Norman Rockwell",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Walt Disney",
+                            "score":  0
+                        }
+                    ]
+    }
+]

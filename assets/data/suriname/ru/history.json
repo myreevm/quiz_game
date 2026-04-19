@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Какая столица Суринама?",
+        "answers":  [
+                        {
+                            "text":  "Paramaribo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nieuw Nickerie",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Moengo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Albina",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "В каком году Суринам получил независимость?",
+        "answers":  [
+                        {
+                            "text":  "1975",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1966",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1980",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1991",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой официальный язык Суринама?",
+        "answers":  [
+                        {
+                            "text":  "Dutch",
+                            "score":  1
+                        },
+                        {
+                            "text":  "English",
+                            "score":  0
+                        },
+                        {
+                            "text":  "French",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Spanish",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой код валюты Суринама?",
+        "answers":  [
+                        {
+                            "text":  "SRD",
+                            "score":  1
+                        },
+                        {
+                            "text":  "GYD",
+                            "score":  0
+                        },
+                        {
+                            "text":  "VES",
+                            "score":  0
+                        },
+                        {
+                            "text":  "XCD",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "На каком континенте находится Суринам?",
+        "answers":  [
+                        {
+                            "text":  "South America",
+                            "score":  1
+                        },
+                        {
+                            "text":  "North America",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Europe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Africa",
+                            "score":  0
+                        }
+                    ]
+    }
+]

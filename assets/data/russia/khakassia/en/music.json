@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "Which musical tradition is associated with Khakassia?",
+        "answers":  [
+                        {
+                            "text":  "Khakas throat singing",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Chuvash folk singing",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lezginka dance music",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Udmurt folk polyphony",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which language is often heard in folk songs of Khakassia?",
+        "answers":  [
+                        {
+                            "text":  "Khakas language",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Chuvash language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chechen language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Udmurt language",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which festival focus is typical for Khakassia?",
+        "answers":  [
+                        {
+                            "text":  "Throat singing and epic chants",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Folk choirs and traditional instruments",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dance ensembles and mountain rhythms",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Village songs and percussion ensembles",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which modern style is often mixed with regional motifs in Khakassia?",
+        "answers":  [
+                        {
+                            "text":  "Ethno-rock with throat singing",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ethno-pop with Volga motifs",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Modern pop with Caucasian dance rhythms",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Electro-folk with Udmurt melodies",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which genre dominates carnival music in Saint Vincent and the Grenadines?",
+        "answers":  [
+                        {
+                            "text":  "Soca",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Joropo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Likurai",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kaseko",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which classic Caribbean style remains important in Vincentian music culture?",
+        "answers":  [
+                        {
+                            "text":  "Calypso",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ardha",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mukam",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Zamrock",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which metal percussion instrument is central to many bands in Saint Vincent and the Grenadines?",
+        "answers":  [
+                        {
+                            "text":  "Steelpan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Accordion",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Violin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dutar",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the name of the main national carnival in Saint Vincent and the Grenadines?",
+        "answers":  [
+                        {
+                            "text":  "Vincy Mas",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Crop Over",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Caribana",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Notting Hill Carnival",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which internationally known pop artist from Saint Vincent and the Grenadines is associated with dance-pop hits?",
+        "answers":  [
+                        {
+                            "text":  "Kevin Lyttle",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Gustavo Dudamel",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bombino",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Raimonds Pauls",
+                            "score":  0
+                        }
+                    ]
+    }
+]

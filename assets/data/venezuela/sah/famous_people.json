@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "El Libertador диэн ааттанан биллэр, Венесуэла бэйэ сирэ историатыгар сүрүн киһи кимий?",
+        "answers":  [
+                        {
+                            "text":  "Simon Bolivar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hugo Chavez",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nicolas Maduro",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gustavo Dudamel",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Венесуэла президенэ 1999-тэн 2013 сылга диэри ким буолбута?",
+        "answers":  [
+                        {
+                            "text":  "Hugo Chavez",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nicolas Maduro",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Simon Bolivar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yulimar Rojas",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Билиҥҥи Венесуэла президенэ кимий?",
+        "answers":  [
+                        {
+                            "text":  "Nicolas Maduro",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hugo Chavez",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Simon Bolivar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Irfaan Ali",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Тройной ытыллыы олимпиада чемпионката буолбут венесуэла спортсуоменка кимий?",
+        "answers":  [
+                        {
+                            "text":  "Yulimar Rojas",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Shafiqua Maloney",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kelly Sildaru",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ruta Meilutyte",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Улахан оркестрдарынан аан дойдуга биллэр венесуэла дирижера кимий?",
+        "answers":  [
+                        {
+                            "text":  "Gustavo Dudamel",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Simon Bolivar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eddy Grant",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kevin Lyttle",
+                            "score":  0
+                        }
+                    ]
+    }
+]

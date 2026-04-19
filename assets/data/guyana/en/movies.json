@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which city is the main hub of Guyana\u0027s local film and screen culture?",
+        "answers":  [
+                        {
+                            "text":  "Georgetown",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Linden",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lethem",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mabaruma",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In Guyana, many local films are presented mainly through which format?",
+        "answers":  [
+                        {
+                            "text":  "Community screenings",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Large studio chains",
+                            "score":  0
+                        },
+                        {
+                            "text":  "National TV only",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Opera houses",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who often helps develop Guyanese film stories for international audiences?",
+        "answers":  [
+                        {
+                            "text":  "Diaspora filmmakers",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Football clubs",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shipping companies",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mining unions",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Guyana-related documentaries frequently focus on which themes?",
+        "answers":  [
+                        {
+                            "text":  "Rainforest and mining",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Polar science",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Roman architecture",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Space stations",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Regional partnerships in Guyanese filmmaking most often involve which type of cooperation?",
+        "answers":  [
+                        {
+                            "text":  "Caribbean co-productions",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nordic co-productions",
+                            "score":  0
+                        },
+                        {
+                            "text":  "East Asian anime studios",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Exclusive Hollywood contracts",
+                            "score":  0
+                        }
+                    ]
+    }
+]

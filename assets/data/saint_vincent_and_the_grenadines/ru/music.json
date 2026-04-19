@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Какой жанр доминирует в карнавальной музыке Сент-Винсента и Гренадин?",
+        "answers":  [
+                        {
+                            "text":  "Soca",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Joropo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Likurai",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kaseko",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой классический карибский стиль остаётся важным в музыкальной культуре Сент-Винсента и Гренадин?",
+        "answers":  [
+                        {
+                            "text":  "Calypso",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ardha",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mukam",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Zamrock",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой металлический ударный инструмент важен для многих групп Сент-Винсента и Гренадин?",
+        "answers":  [
+                        {
+                            "text":  "Steelpan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Accordion",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Violin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dutar",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Как называется главный национальный карнавал Сент-Винсента и Гренадин?",
+        "answers":  [
+                        {
+                            "text":  "Vincy Mas",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Crop Over",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Caribana",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Notting Hill Carnival",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой всемирно известный поп-исполнитель из Сент-Винсента и Гренадин связан с танцевальными хитами?",
+        "answers":  [
+                        {
+                            "text":  "Kevin Lyttle",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Gustavo Dudamel",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bombino",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Raimonds Pauls",
+                            "score":  0
+                        }
+                    ]
+    }
+]

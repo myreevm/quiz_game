@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Кто стал первым президентом Восточного Тимора после восстановления независимости в 2002 году?",
+        "answers":  [
+                        {
+                            "text":  "Xanana Gusmao",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jose Ramos-Horta",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mari Alkatiri",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Francisco Guterres",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой лидер Восточного Тимора получил Нобелевскую премию мира 1996 года?",
+        "answers":  [
+                        {
+                            "text":  "Xanana Gusmao",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jose Ramos-Horta",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Taur Matan Ruak",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Francisco Guterres",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Кто был первым премьер-министром после восстановления независимости?",
+        "answers":  [
+                        {
+                            "text":  "Mari Alkatiri",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jose Ramos-Horta",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Xanana Gusmao",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Francisco Guterres",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой восточнотиморский лидер известен под именем Taur Matan Ruak?",
+        "answers":  [
+                        {
+                            "text":  "Francisco Guterres",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jose Ramos-Horta",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Taur Matan Ruak",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mari Alkatiri",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой президент Восточного Тимора также известен как Lu-Olo?",
+        "answers":  [
+                        {
+                            "text":  "Francisco Guterres",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Xanana Gusmao",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mari Alkatiri",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jose Ramos-Horta",
+                            "score":  0
+                        }
+                    ]
+    }
+]

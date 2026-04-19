@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Which two carnival genres are widely heard in Guyana?",
+        "answers":  [
+                        {
+                            "text":  "Calypso and Soca",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Likurai and Tebe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Joropo and Murga",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sega and Seggae",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which festive music style reflects Indo-Guyanese heritage?",
+        "answers":  [
+                        {
+                            "text":  "Chutney",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kawina",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ardha",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Guyanese music is often described as a blend of which roots?",
+        "answers":  [
+                        {
+                            "text":  "Afro and Indo-Guyanese roots",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Only European classical roots",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Only East Asian roots",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Only North African roots",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which internationally known singer-songwriter was born in Guyana?",
+        "answers":  [
+                        {
+                            "text":  "Eddy Grant",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kevin Lyttle",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bonga",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fally Ipupa",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which instrument family is central in many Guyanese festival performances?",
+        "answers":  [
+                        {
+                            "text":  "Steelpan and percussion",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Harpsichord and flute",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bagpipes only",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pipe organ only",
+                            "score":  0
+                        }
+                    ]
+    }
+]

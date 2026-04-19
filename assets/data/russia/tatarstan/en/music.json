@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which instrument is common in traditional music of Tatarstan?",
+        "answers":  [
+                        {
+                            "text":  "Kubyz",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Igil",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Torama horn",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fandyr",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which performance style is often heard at celebrations in Tatarstan?",
+        "answers":  [
+                        {
+                            "text":  "Tatar folk singing",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Khoomei throat singing",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Erzya and Moksha folk polyphony",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ossetian heroic songs",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which language besides Russian is often used in songs from Tatarstan?",
+        "answers":  [
+                        {
+                            "text":  "Tatar language",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tuvan language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Erzya and Moksha languages",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ossetian language",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which theme is common in folk songs of Tatarstan?",
+        "answers":  [
+                        {
+                            "text":  "Volga, family, and homeland",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mountains, steppe, and nomadic life",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Forests, rivers, and village life",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mountains, honor, and ancestral memory",
+                            "score":  0
+                        }
+                    ]
+    }
+]

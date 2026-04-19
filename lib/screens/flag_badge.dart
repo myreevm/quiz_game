@@ -43,8 +43,36 @@ class FlagBadge extends StatelessWidget {
     'georgia': 'assets/flags/georgia.svg',
     'texas': 'assets/flags/texas.png',
     'oklahoma': 'assets/flags/oklahoma.png',
+    'alaska': 'assets/flags/alaska.svg',
+    'alabama': 'assets/flags/alabama.svg',
+    'iowa': 'assets/flags/iowa.svg',
+    'idaho': 'assets/flags/idaho.svg',
     'dagestan': 'assets/flags/dagestan.png',
     'yakutia': 'assets/flags/yakutia.png',
+    'adygea': 'assets/flags/adygea.svg',
+    'bashkortostan': 'assets/flags/bashkortostan.svg',
+    'altai': 'assets/flags/altai.svg',
+    'buryatia': 'assets/flags/buryatia.svg',
+    'kalmykia': 'assets/flags/kalmykia.svg',
+    'kabardino_balkaria': 'assets/flags/kabardino_balkaria.svg',
+    'ingushetia': 'assets/flags/ingushetia.svg',
+    'kamchatka': 'assets/flags/kamchatka.svg',
+    'mari_el': 'assets/flags/mari_el.svg',
+    'komi': 'assets/flags/komi.svg',
+    'karelia': 'assets/flags/karelia.svg',
+    'karachay_cherkessia': 'assets/flags/karachay_cherkessia.svg',
+    'tuva': 'assets/flags/tuva.svg',
+    'tatarstan': 'assets/flags/tatarstan.svg',
+    'north_ossetia': 'assets/flags/north_ossetia.svg',
+    'mordovia': 'assets/flags/mordovia.svg',
+    'chuvashia': 'assets/flags/chuvashia.svg',
+    'chechnya': 'assets/flags/chechnya.svg',
+    'khakassia': 'assets/flags/khakassia.svg',
+    'udmurtia': 'assets/flags/udmurtia.svg',
+    'krasnoyarsk_krai': 'assets/flags/krasnoyarsk_krai.svg',
+    'krasnodar_krai': 'assets/flags/krasnodar_krai.svg',
+    'zabaykalsky_krai': 'assets/flags/zabaykalsky_krai.svg',
+    'altai_krai': 'assets/flags/altai_krai.svg',
     'france': 'assets/flags/france.png',
     'czechia': 'assets/flags/czechia.svg',
     'slovakia': 'assets/flags/slovakia.svg',
@@ -123,6 +151,12 @@ class FlagBadge extends StatelessWidget {
     'tuvalu': 'assets/flags/tuvalu.svg',
     'micronesia': 'assets/flags/micronesia.svg',
     'mauritius': 'assets/flags/mauritius.svg',
+    'east_timor': 'assets/flags/east_timor.svg',
+    'suriname': 'assets/flags/suriname.svg',
+    'guyana': 'assets/flags/guyana.svg',
+    'venezuela': 'assets/flags/venezuela.svg',
+    'saint_vincent_and_the_grenadines':
+        'assets/flags/saint_vincent_and_the_grenadines.svg',
     'argentina': 'assets/flags/argentina.png',
     'chile': 'assets/flags/chile.svg',
     'paraguay': 'assets/flags/paraguay.svg',
@@ -213,6 +247,36 @@ class FlagBadge extends StatelessWidget {
             ),
           ),
         );
+      case 'europe':
+        return _continentFallback(
+          icon: Icons.account_balance_rounded,
+          color: const Color(0xFF355C7D),
+        );
+      case 'asia':
+        return _continentFallback(
+          icon: Icons.temple_hindu_rounded,
+          color: const Color(0xFF4E7D2A),
+        );
+      case 'africa':
+        return _continentFallback(
+          icon: Icons.wb_sunny_rounded,
+          color: const Color(0xFFD17A22),
+        );
+      case 'oceania':
+        return _continentFallback(
+          icon: Icons.sailing_rounded,
+          color: const Color(0xFF0B6E9C),
+        );
+      case 'north_america':
+        return _continentFallback(
+          icon: Icons.landscape_rounded,
+          color: const Color(0xFF4B5D67),
+        );
+      case 'south_america':
+        return _continentFallback(
+          icon: Icons.park_rounded,
+          color: const Color(0xFF2E8B57),
+        );
       case 'all':
         final colorScheme = Theme.of(context).colorScheme;
         return Container(
@@ -222,6 +286,21 @@ class FlagBadge extends StatelessWidget {
       default:
         return _textFallback();
     }
+  }
+
+  Widget _continentFallback({
+    required IconData icon,
+    required Color color,
+  }) {
+    return Container(
+      color: color,
+      alignment: Alignment.center,
+      child: Icon(
+        icon,
+        color: Colors.white,
+        size: 18,
+      ),
+    );
   }
 
   Widget _horizontalStripes(List<Color> colors) {

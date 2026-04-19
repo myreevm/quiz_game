@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Какой лидер известен как отец нации в Гайане и сооснователь PPP?",
+        "answers":  [
+                        {
+                            "text":  "Cheddi Jagan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Forbes Burnham",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Irfaan Ali",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eddy Grant",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Кто стал первым исполнительным президентом Гайаны?",
+        "answers":  [
+                        {
+                            "text":  "Forbes Burnham",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cheddi Jagan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Irfaan Ali",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shivnarine Chanderpaul",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой политик стал президентом Гайаны в 2020 году?",
+        "answers":  [
+                        {
+                            "text":  "Irfaan Ali",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Forbes Burnham",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cheddi Jagan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "David Panuelo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой гайанский музыкант всемирно известен благодаря хиту Electric Avenue?",
+        "answers":  [
+                        {
+                            "text":  "Eddy Grant",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kevin Lyttle",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gustavo Dudamel",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lieve Hugo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой гайанский крикетист знаменит под прозвищем Tiger?",
+        "answers":  [
+                        {
+                            "text":  "Shivnarine Chanderpaul",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Eddy Grant",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Irfaan Ali",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cheddi Jagan",
+                            "score":  0
+                        }
+                    ]
+    }
+]

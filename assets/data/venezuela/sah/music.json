@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Арфа, cuatro уонна маракас туттуллар венесуэла фольклор стили ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Joropo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Soca",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Likurai",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kaseko",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Венесуэла традиционнай музыкатагар сүрүн ханнык 4-струналыы инструментий?",
+        "answers":  [
+                        {
+                            "text":  "Cuatro",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ukulele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dutar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kora",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Joropo ансамбылларыгар cuatro кытта ханнык икки инструмен элбэхтик иһиллэрий?",
+        "answers":  [
+                        {
+                            "text":  "Harp and maracas",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Piano and cello",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Accordion and zither",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Saxophone and drums",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Оркестрга оҕону үөрэтэр Венесуэлаҕа улахан системата ханнык ааттаах?",
+        "answers":  [
+                        {
+                            "text":  "El Sistema",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kaseko School",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fatele Academy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Likurai Program",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Билиҥҥи венесуэла музыка култууратын символларыттан биир аан дойдуга биллэр дирижера кимий?",
+        "answers":  [
+                        {
+                            "text":  "Gustavo Dudamel",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Eddy Grant",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kevin Lyttle",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bombino",
+                            "score":  0
+                        }
+                    ]
+    }
+]

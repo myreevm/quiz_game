@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Гайанаҕа карнавалга ханнык икки жанр элбэхтик иһиллэрий?",
+        "answers":  [
+                        {
+                            "text":  "Calypso and Soca",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Likurai and Tebe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Joropo and Murga",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sega and Seggae",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Индо-гайана мирасын көрсөр бырааһынньык ырыа стили ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Chutney",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fatele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kawina",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ardha",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Гайана музыката хайдах тэриллэр дииллэрий?",
+        "answers":  [
+                        {
+                            "text":  "Afro and Indo-Guyanese roots",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Only European classical roots",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Only East Asian roots",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Only North African roots",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Гайанаттан төрүттээх аан дойдуга биллэр ырыаһыта кимий?",
+        "answers":  [
+                        {
+                            "text":  "Eddy Grant",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kevin Lyttle",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bonga",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fally Ipupa",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Гайана фестиваль оонньууларын кинигэр ханнык инструменнар сүрүн буолалларый?",
+        "answers":  [
+                        {
+                            "text":  "Steelpan and percussion",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Harpsichord and flute",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bagpipes only",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pipe organ only",
+                            "score":  0
+                        }
+                    ]
+    }
+]

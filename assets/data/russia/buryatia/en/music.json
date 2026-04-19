@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Which bowed instrument is traditionally associated with Buryatia's musical culture?",
+    "answers": [
+      {
+        "text": "Morin khuur",
+        "score": 1
+      },
+      {
+        "text": "Kurai",
+        "score": 0
+      },
+      {
+        "text": "Saxophone",
+        "score": 0
+      },
+      {
+        "text": "Organ",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the music festival held in Buryatia in summer?",
+    "answers": [
+      {
+        "text": "Voice of Nomads",
+        "score": 1
+      },
+      {
+        "text": "Nashestvie",
+        "score": 0
+      },
+      {
+        "text": "Wild Mint",
+        "score": 0
+      },
+      {
+        "text": "Wings",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the state song and dance theater of Buryatia?",
+    "answers": [
+      {
+        "text": "Baikal",
+        "score": 1
+      },
+      {
+        "text": "Beryozka",
+        "score": 0
+      },
+      {
+        "text": "Gzhel",
+        "score": 0
+      },
+      {
+        "text": "Cossack Circle",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which vocal technique is also found in traditional Buryat music?",
+    "answers": [
+      {
+        "text": "Throat singing",
+        "score": 1
+      },
+      {
+        "text": "Operatic bel canto",
+        "score": 0
+      },
+      {
+        "text": "Scat",
+        "score": 0
+      },
+      {
+        "text": "Rap freestyle",
+        "score": 0
+      }
+    ]
+  }
+]

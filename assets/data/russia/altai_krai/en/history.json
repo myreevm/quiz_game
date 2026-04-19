@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "What is the capital city of Altai Krai?",
+        "answers":  [
+                        {
+                            "text":  "Barnaul",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Krasnoyarsk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Krasnodar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chita",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which major river is closely connected with Altai Krai?",
+        "answers":  [
+                        {
+                            "text":  "Ob River",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yenisei River",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kuban River",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shilka River",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which language marker is associated with Altai Krai?",
+        "answers":  [
+                        {
+                            "text":  "Russian language",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Evenki language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Adyghe language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Buryat language",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which macro-region best describes Altai Krai?",
+        "answers":  [
+                        {
+                            "text":  "Southwestern Siberia",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Central Siberia",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kuban and Black Sea coast",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Trans-Baikal region",
+                            "score":  0
+                        }
+                    ]
+    }
+]

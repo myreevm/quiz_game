@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Какой венесуэльский фольклорный стиль обычно использует арфу, куатро и маракасы?",
+        "answers":  [
+                        {
+                            "text":  "Joropo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Soca",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Likurai",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kaseko",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой небольшой четырёхструнный инструмент важен в традиционной музыке Венесуэлы?",
+        "answers":  [
+                        {
+                            "text":  "Cuatro",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ukulele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dutar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kora",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "В ансамблях joropo какая пара часто звучит вместе с cuatro?",
+        "answers":  [
+                        {
+                            "text":  "Harp and maracas",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Piano and cello",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Accordion and zither",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Saxophone and drums",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Как называется влиятельная венесуэльская система музыкального воспитания молодёжи в оркестрах?",
+        "answers":  [
+                        {
+                            "text":  "El Sistema",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kaseko School",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fatele Academy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Likurai Program",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой всемирно известный дирижёр является одним из символов современной музыкальной культуры Венесуэлы?",
+        "answers":  [
+                        {
+                            "text":  "Gustavo Dudamel",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Eddy Grant",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kevin Lyttle",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bombino",
+                            "score":  0
+                        }
+                    ]
+    }
+]

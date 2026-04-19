@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "What is the capital city of Khakassia?",
+        "answers":  [
+                        {
+                            "text":  "Abakan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cheboksary",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Grozny",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Izhevsk",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which major river is closely connected with Khakassia?",
+        "answers":  [
+                        {
+                            "text":  "Yenisei River",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Volga River",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Terek River",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kama River",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which local language is traditionally spoken in Khakassia?",
+        "answers":  [
+                        {
+                            "text":  "Khakas language",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Chuvash language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chechen language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Udmurt language",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which macro-region best describes Khakassia?",
+        "answers":  [
+                        {
+                            "text":  "South Siberia",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Volga region",
+                            "score":  0
+                        },
+                        {
+                            "text":  "North Caucasus",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Volga-Ural region",
+                            "score":  0
+                        }
+                    ]
+    }
+]

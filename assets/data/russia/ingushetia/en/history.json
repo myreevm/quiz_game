@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "What is the capital of Ingushetia?",
+        "answers":  [
+                        {
+                            "text":  "Magas",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Petropavlovsk-Kamchatsky",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Elista",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nalchik",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which natural feature is strongly associated with Ingushetia?",
+        "answers":  [
+                        {
+                            "text":  "Medieval tower complexes",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Volcanoes and geysers",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Caspian lowland steppes",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mount Elbrus and Caucasus gorges",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which federal district is Ingushetia located?",
+        "answers":  [
+                        {
+                            "text":  "North Caucasian Federal District",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Far Eastern Federal District",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Southern Federal District",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Central Federal District",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which local language is traditionally used in Ingushetia besides Russian?",
+        "answers":  [
+                        {
+                            "text":  "Ingush",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Itelmen and Koryak languages",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kalmyk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kabardian and Balkar",
+                            "score":  0
+                        }
+                    ]
+    }
+]

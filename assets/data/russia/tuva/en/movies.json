@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In which city are most regional film events of Tuva held?",
+        "answers":  [
+                        {
+                            "text":  "Kyzyl",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kazan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Saransk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vladikavkaz",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which landscapes of Tuva are most often shown in documentaries?",
+        "answers":  [
+                        {
+                            "text":  "Mountain steppes and Yenisei valley",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kazan Kremlin and Volga embankments",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Forest rivers and rural settlements",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mountain gorges and Terek valley",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which language besides Russian may be heard in films about Tuva?",
+        "answers":  [
+                        {
+                            "text":  "Tuvan language",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tatar language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Erzya and Moksha languages",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ossetian language",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which topic most often appears in films about Tuva?",
+        "answers":  [
+                        {
+                            "text":  "Nomadic culture and throat singing",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tatar history and urban culture",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Erzya and Moksha heritage",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ossetian traditions and mountain communities",
+                            "score":  0
+                        }
+                    ]
+    }
+]

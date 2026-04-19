@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which instrument is common in traditional music of Kabardino-Balkaria?",
+        "answers":  [
+                        {
+                            "text":  "Accordion (harmonika)",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Frame drum",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ceremonial drum",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dombra",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which performance style is often heard at celebrations in Kabardino-Balkaria?",
+        "answers":  [
+                        {
+                            "text":  "Lezginka dance rhythms",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mountain dance tunes",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ritual dance chants",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Epic storytelling of Jangar",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which language besides Russian is often used in songs from Kabardino-Balkaria?",
+        "answers":  [
+                        {
+                            "text":  "Kabardian and Balkar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ingush",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Itelmen and Koryak languages",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kalmyk",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which theme is common in folk songs of Kabardino-Balkaria?",
+        "answers":  [
+                        {
+                            "text":  "Mountains, honor, and family",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tower villages and ancestral memory",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ocean, volcanoes, and northern nature",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Steppe, horses, and homeland",
+                            "score":  0
+                        }
+                    ]
+    }
+]

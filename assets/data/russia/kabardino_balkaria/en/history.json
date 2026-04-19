@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "What is the capital of Kabardino-Balkaria?",
+        "answers":  [
+                        {
+                            "text":  "Nalchik",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Magas",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Petropavlovsk-Kamchatsky",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Elista",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which natural feature is strongly associated with Kabardino-Balkaria?",
+        "answers":  [
+                        {
+                            "text":  "Mount Elbrus and Caucasus gorges",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Medieval tower complexes",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Volcanoes and geysers",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Caspian lowland steppes",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which federal district is Kabardino-Balkaria located?",
+        "answers":  [
+                        {
+                            "text":  "North Caucasian Federal District",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Far Eastern Federal District",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Southern Federal District",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Central Federal District",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which local language is traditionally used in Kabardino-Balkaria besides Russian?",
+        "answers":  [
+                        {
+                            "text":  "Kabardian and Balkar",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ingush",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Itelmen and Koryak languages",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kalmyk",
+                            "score":  0
+                        }
+                    ]
+    }
+]

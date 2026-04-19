@@ -1,0 +1,86 @@
+[
+    {
+        "question":  "What is the capital city of Krasnoyarsk Krai?",
+        "answers":  [
+                        {
+                            "text":  "Krasnoyarsk",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Krasnodar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chita",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Barnaul",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which major river is closely connected with Krasnoyarsk Krai?",
+        "answers":  [
+                        {
+                            "text":  "Yenisei River",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kuban River",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shilka River",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ob River",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which language marker is associated with Krasnoyarsk Krai?",
+        "answers":  [
+                        {
+                            "text":  "Evenki language",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Adyghe language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Buryat language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Russian language",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which macro-region best describes Krasnoyarsk Krai?",
+        "answers":  [
+                        {
+                            "text":  "Central Siberia",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kuban and Black Sea coast",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Trans-Baikal region",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Southwestern Siberia",
+                            "score":  0
+                        }
+                    ]
+    }
+]

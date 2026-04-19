@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "В каком городе Айдахо проходит Treefort Music Fest?",
+        "answers":  [
+                        {
+                            "text":  "Бойсе",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Туин-Фолс",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Нампа",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Льюистон",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какая инди-рок группа была основана в Бойсе Дагом Марчем?",
+        "answers":  [
+                        {
+                            "text":  "Built to Spill",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Arcade Fire",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pixies",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Spoon",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какая рок-группа 1960-х под руководством Пола Ревира была сформирована в Бойсе?",
+        "answers":  [
+                        {
+                            "text":  "Paul Revere \u0026 the Raiders",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Monkees",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Byrds",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Kinks",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой автор-исполнитель из Москвы (Айдахо) известен фолк-рок альбомами?",
+        "answers":  [
+                        {
+                            "text":  "Джош Риттер",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Райан Адамс",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Конор Оберст",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Джек Джонсон",
+                            "score":  0
+                        }
+                    ]
+    }
+]

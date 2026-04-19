@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Гайана баштаах куората ханнык?",
+        "answers":  [
+                        {
+                            "text":  "Georgetown",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Linden",
+                            "score":  0
+                        },
+                        {
+                            "text":  "New Amsterdam",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bartica",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Гайана ханнык сылла бэйэ сирин ылбытай?",
+        "answers":  [
+                        {
+                            "text":  "1966",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1970",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1958",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1981",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Гайана ханнык сылла республикэ буолбута?",
+        "answers":  [
+                        {
+                            "text":  "1970",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1966",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1990",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1985",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Гайана официалнай валютатын кода ханнык?",
+        "answers":  [
+                        {
+                            "text":  "GYD",
+                            "score":  1
+                        },
+                        {
+                            "text":  "SRD",
+                            "score":  0
+                        },
+                        {
+                            "text":  "VES",
+                            "score":  0
+                        },
+                        {
+                            "text":  "XCD",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Гайана официалнай тыла ханнык?",
+        "answers":  [
+                        {
+                            "text":  "English",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Dutch",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Spanish",
+                            "score":  0
+                        },
+                        {
+                            "text":  "French",
+                            "score":  0
+                        }
+                    ]
+    }
+]

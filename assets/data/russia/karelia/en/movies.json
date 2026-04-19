@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In which city are most regional film events of Karelia held?",
+        "answers":  [
+                        {
+                            "text":  "Petrozavodsk",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Syktyvkar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cherkessk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yoshkar-Ola",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which landscapes of Karelia are most often shown in documentaries?",
+        "answers":  [
+                        {
+                            "text":  "Skerries, lakes, and conifer forests",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Taiga rivers and northern forests",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mountain passes and highland meadows",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Forest lakes and river valleys",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which language besides Russian may be heard in films about Karelia?",
+        "answers":  [
+                        {
+                            "text":  "Karelian language",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Komi language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Karachay-Balkar and Circassian languages",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mari language",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which topic most often appears in films about Karelia?",
+        "answers":  [
+                        {
+                            "text":  "Northern villages and Karelian epic heritage",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Life in the taiga and northern settlements",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Highland life and Caucasus traditions",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mari folklore and regional traditions",
+                            "score":  0
+                        }
+                    ]
+    }
+]

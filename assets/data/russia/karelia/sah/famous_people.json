@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Манна бериллибит дьонноон ким Карелия регионон кытта ситимнээх буоларый?",
+        "answers":  [
+                        {
+                            "text":  "Arhippa Perttunen",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pitirim Sorokin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Kuratov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Victor Savin",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Карелия регионун тарихын кытта ким дьоҕуруйарый?",
+        "answers":  [
+                        {
+                            "text":  "Elias Lonnrot",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pitirim Sorokin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Kuratov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Victor Savin",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Бу дьон иһинэн ким Карелия регионон биллэрилэрий?",
+        "answers":  [
+                        {
+                            "text":  "Artur Parfenchikov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pitirim Sorokin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Kuratov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Victor Savin",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Карелия туһунан кэпсэткэннэ ким аата сурулларый?",
+        "answers":  [
+                        {
+                            "text":  "Nikolai Klyuev",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pitirim Sorokin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Kuratov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Victor Savin",
+                            "score":  0
+                        }
+                    ]
+    }
+]

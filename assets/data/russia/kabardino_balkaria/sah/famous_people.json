@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Манна бериллибит дьонноон ким Кабардино-Балкария регионон кытта ситимнээх буоларый?",
+        "answers":  [
+                        {
+                            "text":  "Yuri Temirkanov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yunus-Bek Yevkurov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Idris Bazorkin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sulambek Oskanov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Кабардино-Балкария регионун тарихын кытта ким дьоҕуруйарый?",
+        "answers":  [
+                        {
+                            "text":  "Kaisyn Kuliev",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yunus-Bek Yevkurov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Idris Bazorkin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sulambek Oskanov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Бу дьон иһинэн ким Кабардино-Балкария регионон биллэрилэрий?",
+        "answers":  [
+                        {
+                            "text":  "Ali Shogentsukov",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yunus-Bek Yevkurov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Idris Bazorkin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sulambek Oskanov",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Кабардино-Балкария туһунан кэпсэткэннэ ким аата сурулларый?",
+        "answers":  [
+                        {
+                            "text":  "Maria Lasitskene",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yunus-Bek Yevkurov",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Idris Bazorkin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sulambek Oskanov",
+                            "score":  0
+                        }
+                    ]
+    }
+]

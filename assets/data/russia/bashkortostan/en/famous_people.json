@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Who is the national hero of Bashkortostan and the figure on the famous monument in Ufa?",
+    "answers": [
+      {
+        "text": "Salavat Yulaev",
+        "score": 1
+      },
+      {
+        "text": "Yemelyan Pugachev",
+        "score": 0
+      },
+      {
+        "text": "Mikhail Lomonosov",
+        "score": 0
+      },
+      {
+        "text": "Alexander Nevsky",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who was Mustai Karim, a famous native of Bashkortostan?",
+    "answers": [
+      {
+        "text": "A poet and writer",
+        "score": 1
+      },
+      {
+        "text": "A cosmonaut",
+        "score": 0
+      },
+      {
+        "text": "A football player",
+        "score": 0
+      },
+      {
+        "text": "A chemist",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who was the first President of the Republic of Bashkortostan?",
+    "answers": [
+      {
+        "text": "Murtaza Rakhimov",
+        "score": 1
+      },
+      {
+        "text": "Rustem Khamitov",
+        "score": 0
+      },
+      {
+        "text": "Radiy Khabirov",
+        "score": 0
+      },
+      {
+        "text": "Aisen Nikolaev",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which famous singer was born in Ufa?",
+    "answers": [
+      {
+        "text": "Zemfira",
+        "score": 1
+      },
+      {
+        "text": "Alla Pugacheva",
+        "score": 0
+      },
+      {
+        "text": "Polina Gagarina",
+        "score": 0
+      },
+      {
+        "text": "Larisa Dolina",
+        "score": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which baseball movie is set on an Iowa farm?",
+        "answers":  [
+                        {
+                            "text":  "Field of Dreams",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Moneyball",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Major League",
+                            "score":  0
+                        },
+                        {
+                            "text":  "A League of Their Own",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which romantic drama is set in Madison County in Iowa?",
+        "answers":  [
+                        {
+                            "text":  "The Bridges of Madison County",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Notebook",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sleepless in Seattle",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Out of Africa",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In The Music Man, what is the fictional Iowa town called?",
+        "answers":  [
+                        {
+                            "text":  "River City",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Maycomb",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bedford Falls",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hill Valley",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "The film What Eating Gilbert Grape is set in which U.S. state?",
+        "answers":  [
+                        {
+                            "text":  "Iowa",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Kansas",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ohio",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Oregon",
+                            "score":  0
+                        }
+                    ]
+    }
+]

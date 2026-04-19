@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which instrument is common in traditional music of Mordovia?",
+        "answers":  [
+                        {
+                            "text":  "Torama horn",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Igil",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kubyz",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fandyr",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which performance style is often heard at celebrations in Mordovia?",
+        "answers":  [
+                        {
+                            "text":  "Erzya and Moksha folk polyphony",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Khoomei throat singing",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tatar folk singing",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ossetian heroic songs",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which language besides Russian is often used in songs from Mordovia?",
+        "answers":  [
+                        {
+                            "text":  "Erzya and Moksha languages",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tuvan language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tatar language",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ossetian language",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which theme is common in folk songs of Mordovia?",
+        "answers":  [
+                        {
+                            "text":  "Forests, rivers, and village life",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mountains, steppe, and nomadic life",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Volga, family, and homeland",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mountains, honor, and ancestral memory",
+                            "score":  0
+                        }
+                    ]
+    }
+]

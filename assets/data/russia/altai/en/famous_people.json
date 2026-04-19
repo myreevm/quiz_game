@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Who is considered the founder of professional visual art in Gorny Altai?",
+    "answers": [
+      {
+        "text": "Grigory Choros-Gurkin",
+        "score": 1
+      },
+      {
+        "text": "Ilya Repin",
+        "score": 0
+      },
+      {
+        "text": "Vasily Surikov",
+        "score": 0
+      },
+      {
+        "text": "Kuzma Petrov-Vodkin",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Who was the first Head of the Altai Republic?",
+    "answers": [
+      {
+        "text": "Valery Chaptynov",
+        "score": 1
+      },
+      {
+        "text": "Alexander Berdnikov",
+        "score": 0
+      },
+      {
+        "text": "Oleg Khorokhordin",
+        "score": 0
+      },
+      {
+        "text": "Viktor Zimin",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which Altai storyteller-kaychi is known as a keeper of epic traditions?",
+    "answers": [
+      {
+        "text": "Alexey Kalkin",
+        "score": 1
+      },
+      {
+        "text": "Bulat Okudzhava",
+        "score": 0
+      },
+      {
+        "text": "Sergey Yesenin",
+        "score": 0
+      },
+      {
+        "text": "Rasul Gamzatov",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which artist and philosopher made a famous expedition through Altai?",
+    "answers": [
+      {
+        "text": "Nicholas Roerich",
+        "score": 1
+      },
+      {
+        "text": "Karl Bryullov",
+        "score": 0
+      },
+      {
+        "text": "Arkhip Kuindzhi",
+        "score": 0
+      },
+      {
+        "text": "Isaac Levitan",
+        "score": 0
+      }
+    ]
+  }
+]

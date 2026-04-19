@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question":  "Гайана киносценатын сүрүн киинэ ханнык куорат буоларый?",
+        "answers":  [
+                        {
+                            "text":  "Georgetown",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Linden",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lethem",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mabaruma",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Гайанаҕа элбэх локальнай фильмнар элбэхтик ханнык формаҕа көрдөрүллэрий?",
+        "answers":  [
+                        {
+                            "text":  "Community screenings",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Large studio chains",
+                            "score":  0
+                        },
+                        {
+                            "text":  "National TV only",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Opera houses",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Гайана кино историаларын аан дойду көрөөччүһүгэр ким элбэхтик көмөлөһөрүй?",
+        "answers":  [
+                        {
+                            "text":  "Diaspora filmmakers",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Football clubs",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shipping companies",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mining unions",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Гайана туһунан документальнай фильмнар элбэхтик ханнык темалары туттулларый?",
+        "answers":  [
+                        {
+                            "text":  "Rainforest and mining",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Polar science",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Roman architecture",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Space stations",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Гайана киносфератыгар региональнай партнерство ханнык курдук тэриллэрий?",
+        "answers":  [
+                        {
+                            "text":  "Caribbean co-productions",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nordic co-productions",
+                            "score":  0
+                        },
+                        {
+                            "text":  "East Asian anime studios",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Exclusive Hollywood contracts",
+                            "score":  0
+                        }
+                    ]
+    }
+]
