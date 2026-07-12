@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which author lived in Hartford and wrote classics including \"The Adventures of Tom Sawyer\"?",
+        "answers":  [
+                        {
+                            "text":  "Mark Twain",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ernest Hemingway",
+                            "score":  0
+                        },
+                        {
+                            "text":  "F. Scott Fitzgerald",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jack London",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which actress from Connecticut won multiple Academy Awards, including for \"The Lion in Winter\"?",
+        "answers":  [
+                        {
+                            "text":  "Katharine Hepburn",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Meryl Streep",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jodie Foster",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Susan Sarandon",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which showman and circus founder was born in Connecticut?",
+        "answers":  [
+                        {
+                            "text":  "P. T. Barnum",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Walt Disney",
+                            "score":  0
+                        },
+                        {
+                            "text":  "David Copperfield",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Harry Houdini",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which anti-slavery author associated with Hartford wrote \"Uncle Tom\u0027s Cabin\"?",
+        "answers":  [
+                        {
+                            "text":  "Harriet Beecher Stowe",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Louisa May Alcott",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Edith Wharton",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Flannery O\u0027Connor",
+                            "score":  0
+                        }
+                    ]
+    }
+]

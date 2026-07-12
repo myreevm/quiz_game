@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Cheyenne Frontier Days концертыгары ханнык музыка жанра сүрүн буоларый?",
+        "answers":  [
+                        {
+                            "text":  "Кантри",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Опера",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Техно",
+                            "score":  0
+                        },
+                        {
+                            "text":  "К-поп",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Вайоминг штатын официальнай ырыата ханнык ааттаах?",
+        "answers":  [
+                        {
+                            "text":  "Wyoming",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Big Sky Anthem",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cowboy State Song",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Equality Hymn",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Cheyenne Frontier Days концерта ханнык куоратка буоларый?",
+        "answers":  [
+                        {
+                            "text":  "Шайенн",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Каспер",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ларами",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Джиллетт",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ye альбомун 2018 сылга Вайоминг ранчотугар ким суруйбутуй?",
+        "answers":  [
+                        {
+                            "text":  "Канье Уэст",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Дрейк",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Эминем",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Трэвис Скотт",
+                            "score":  0
+                        }
+                    ]
+    }
+]

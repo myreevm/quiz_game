@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which classic basketball film is set in small-town Indiana?",
+        "answers":  [
+                        {
+                            "text":  "Hoosiers",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Field of Dreams",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Remember the Titans",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Coach Carter",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which film about an underdog football player is centered on Notre Dame in Indiana?",
+        "answers":  [
+                        {
+                            "text":  "Rudy",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Invincible",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Draft Day",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Any Given Sunday",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which holiday film is set in a fictional Indiana town called Hohman?",
+        "answers":  [
+                        {
+                            "text":  "A Christmas Story",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Home Alone",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Elf",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Miracle on 34th Street",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which coming-of-age cycling film is set in Bloomington, Indiana?",
+        "answers":  [
+                        {
+                            "text":  "Breaking Away",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Stand by Me",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Outsiders",
+                            "score":  0
+                        },
+                        {
+                            "text":  "October Sky",
+                            "score":  0
+                        }
+                    ]
+    }
+]

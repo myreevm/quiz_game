@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Chicago is considered the birthplace of which genre?",
+        "answers":  [
+                        {
+                            "text":  "House music",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Reggae",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Flamenco",
+                            "score":  0
+                        },
+                        {
+                            "text":  "K-pop",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which rock band named after the city formed in Chicago in 1967?",
+        "answers":  [
+                        {
+                            "text":  "Chicago",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Journey",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Boston",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kansas",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which festival takes place in Chicago\u0027s Grant Park every summer?",
+        "answers":  [
+                        {
+                            "text":  "Lollapalooza",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Glastonbury",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Coachella",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eurovision",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Chicago-founded label recorded Muddy Waters and Howlin\u0027 Wolf?",
+        "answers":  [
+                        {
+                            "text":  "Chess Records",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Motown Records",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sun Records",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Atlantic Records",
+                            "score":  0
+                        }
+                    ]
+    }
+]

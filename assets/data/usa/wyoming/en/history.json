@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In what year did Wyoming become a U.S. state?",
+        "answers":  [
+                        {
+                            "text":  "1890",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1876",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1907",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1912",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What nickname is Wyoming best known by?",
+        "answers":  [
+                        {
+                            "text":  "The Equality State",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Garden State",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Volunteer State",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Empire State",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which national park is mostly located in Wyoming?",
+        "answers":  [
+                        {
+                            "text":  "Yellowstone",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Yosemite",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Zion",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Acadia",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which historic 1868 treaty was signed at a Wyoming military post?",
+        "answers":  [
+                        {
+                            "text":  "Treaty of Fort Laramie",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Treaty of Paris",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Treaty of Ghent",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Treaty of Guadalupe Hidalgo",
+                            "score":  0
+                        }
+                    ]
+    }
+]

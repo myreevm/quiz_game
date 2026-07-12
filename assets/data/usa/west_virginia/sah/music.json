@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Ханнык певец и автор песен из Западной Вирджинии написал «Lean on Me»?",
+        "answers":  [
+                        {
+                            "text":  "Билл Уизерс",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Брюс Спрингстин",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Том Петти",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Лайонел Ричи",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Как называется многолетнее живое радиошоу, выпускаемое в Чарлстоне, Западная Вирджиния?",
+        "answers":  [
+                        {
+                            "text":  "Mountain Stage",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Austin City Limits",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tiny Desk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Live Lounge",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ханнык жанр тесно связан с аппалачскими традициями Западной Вирджинии?",
+        "answers":  [
+                        {
+                            "text":  "Блюграсс и олд-тайм",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Самба",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Афробит",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Фламенко",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какое ежегодное событие возле Клиффтопа посвящено струнной олд-тайм музыке?",
+        "answers":  [
+                        {
+                            "text":  "Appalachian String Band Music Festival",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Newport Folk Festival",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Woodstock",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Monterey Pop Festival",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which sitcom is set in the fictional Wisconsin town of Point Place?",
+        "answers":  [
+                        {
+                            "text":  "That \u002770s Show",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Friends",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Seinfeld",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Office",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which 2011 comedy starring Kristen Wiig features major scenes in Milwaukee?",
+        "answers":  [
+                        {
+                            "text":  "Bridesmaids",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mean Girls",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Heat",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Legally Blonde",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which crime film about John Dillinger features scenes at Wisconsin\u0027s Little Bohemia Lodge?",
+        "answers":  [
+                        {
+                            "text":  "Public Enemies",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Heat",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Departed",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Scarface",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city hosts the annual Wisconsin Film Festival?",
+        "answers":  [
+                        {
+                            "text":  "Madison",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Green Bay",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Milwaukee",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Appleton",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Около какого куората в Колорадо расположен амфитеатр Ред-Рокс?",
+        "answers":  [
+                        {
+                            "text":  "Моррисон",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Аспен",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Форт-Коллинз",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Пуэбло",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ким спел «Rocky Mountain High» и стал прочно ассоциироваться с Колорадо?",
+        "answers":  [
+                        {
+                            "text":  "Джон Денвер",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Боб Дилан",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Брюс Спрингстин",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Билли Джоэл",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ханнык группа, известная благодаря песне \"How to Save a Life\", была основана в Денвере?",
+        "answers":  [
+                        {
+                            "text":  "The Fray",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Maroon 5",
+                            "score":  0
+                        },
+                        {
+                            "text":  "OneRepublic",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Imagine Dragons",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "The Telluride Bluegrass Ханнык куоратка Колорадо проводится фестиваль?",
+        "answers":  [
+                        {
+                            "text":  "Telluride",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Дуранго",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vail",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Стимбот-Спрингс",
+                            "score":  0
+                        }
+                    ]
+    }
+]

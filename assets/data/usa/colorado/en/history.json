@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In what year did Colorado become a U.S. state?",
+        "answers":  [
+                        {
+                            "text":  "1876",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1803",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1861",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1901",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the capital city of Colorado?",
+        "answers":  [
+                        {
+                            "text":  "Denver",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Boulder",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Colorado Springs",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Aspen",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which nickname is commonly used for Colorado?",
+        "answers":  [
+                        {
+                            "text":  "The Centennial State",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Garden State",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Keystone State",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Bay State",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which 1859 event brought many prospectors to Colorado?",
+        "answers":  [
+                        {
+                            "text":  "Pikes Peak Gold Rush",
+                            "score":  1
+                        },
+                        {
+                            "text":  "California Gold Rush",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Klondike Gold Rush",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Comstock Rush",
+                            "score":  0
+                        }
+                    ]
+    }
+]

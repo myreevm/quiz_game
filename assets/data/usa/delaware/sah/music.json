@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Ханнык музыкант из Уилмингтона известен песней «Bad to the Bone»?",
+        "answers":  [
+                        {
+                            "text":  "Джордж Торогуд",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Брюс Спрингстин",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Джон Мелленкамп",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Том Джонс",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ханнык джазовый трубач из Уилмингтона стал иконой бибопа?",
+        "answers":  [
+                        {
+                            "text":  "Клиффорд Браун",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Майлз Дэвис",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Чет Бейкер",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Диззи Гиллеспи",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ханнык городе Делавэра традиционно проходил фестиваль Firefly Music Festival?",
+        "answers":  [
+                        {
+                            "text":  "Довер",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Рехобот-Бич",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ньюарк",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Милфорд",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Как называется официальный гимн штата Делавэр?",
+        "answers":  [
+                        {
+                            "text":  "Our Delaware",
+                            "score":  1
+                        },
+                        {
+                            "text":  "My Old Kentucky Home",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Georgia on My Mind",
+                            "score":  0
+                        },
+                        {
+                            "text":  "America the Beautiful",
+                            "score":  0
+                        }
+                    ]
+    }
+]

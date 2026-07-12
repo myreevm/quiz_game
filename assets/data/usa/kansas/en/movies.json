@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Dorothy begins her journey in which Kansas setting in \"The Wizard of Oz\"?",
+        "answers":  [
+                        {
+                            "text":  "A Kansas farm",
+                            "score":  1
+                        },
+                        {
+                            "text":  "A city hotel",
+                            "score":  0
+                        },
+                        {
+                            "text":  "A mountain camp",
+                            "score":  0
+                        },
+                        {
+                            "text":  "A riverboat",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which Kansas town are the Clutter family murders depicted in \"In Cold Blood\"?",
+        "answers":  [
+                        {
+                            "text":  "Holcomb",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Topeka",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Wichita",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lawrence",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which film about Truman Capote focuses on a Kansas murder case?",
+        "answers":  [
+                        {
+                            "text":  "Capote",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Spotlight",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Argo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Zodiac",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Superman\u0027s childhood home Smallville is traditionally depicted in which state?",
+        "answers":  [
+                        {
+                            "text":  "Kansas",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Iowa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ohio",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nebraska",
+                            "score":  0
+                        }
+                    ]
+    }
+]

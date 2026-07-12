@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+﻿import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:quiz_app/screens/flag_badge.dart';
@@ -86,6 +86,26 @@ void main() {
     'alabama',
     'iowa',
     'idaho',
+    'washington',
+    'wyoming',
+    'arkansas',
+    'arizona',
+    'massachusetts',
+    'louisiana',
+    'connecticut',
+    'colorado',
+    'kentucky',
+    'kansas',
+    'california',
+    'indiana',
+    'hawaii',
+    'wisconsin',
+    'virginia',
+    'vermont',
+    'illinois',
+    'west_virginia',
+    'delaware',
+    'georgia_us',
   ];
 
   for (final code in svgCodes) {

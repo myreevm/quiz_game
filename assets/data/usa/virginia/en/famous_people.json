@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which first U.S. president was born in Virginia?",
+        "answers":  [
+                        {
+                            "text":  "George Washington",
+                            "score":  1
+                        },
+                        {
+                            "text":  "John Adams",
+                            "score":  0
+                        },
+                        {
+                            "text":  "James Monroe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Andrew Jackson",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which U.S. president and author of the Declaration of Independence was from Virginia?",
+        "answers":  [
+                        {
+                            "text":  "Thomas Jefferson",
+                            "score":  1
+                        },
+                        {
+                            "text":  "John Quincy Adams",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ulysses S. Grant",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Theodore Roosevelt",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which tennis champion from Richmond, Virginia, won the 1968 U.S. Open?",
+        "answers":  [
+                        {
+                            "text":  "Arthur Ashe",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Andre Agassi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pete Sampras",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ivan Lendl",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which music producer and performer from Virginia Beach co-wrote \"Happy\"?",
+        "answers":  [
+                        {
+                            "text":  "Pharrell Williams",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Usher",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ne-Yo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bruno Mars",
+                            "score":  0
+                        }
+                    ]
+    }
+]

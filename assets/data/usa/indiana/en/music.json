@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which singer-songwriter from Seymour, Indiana is known for \"Jack and Diane\"?",
+        "answers":  [
+                        {
+                            "text":  "John Mellencamp",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bruce Springsteen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tom Petty",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bob Seger",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which famous composer and songwriter was born in Peru, Indiana?",
+        "answers":  [
+                        {
+                            "text":  "Cole Porter",
+                            "score":  1
+                        },
+                        {
+                            "text":  "George Gershwin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Irving Berlin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Leonard Bernstein",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which family music group that included Michael Jackson came from Gary, Indiana?",
+        "answers":  [
+                        {
+                            "text":  "The Jackson 5",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Osmonds",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bee Gees",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Monkees",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which R\u0026B producer and singer from Indianapolis is known as Babyface?",
+        "answers":  [
+                        {
+                            "text":  "Kenneth \"Babyface\" Edmonds",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pharrell Williams",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Usher",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ne-Yo",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In what year did Massachusetts become a U.S. state?",
+        "answers":  [
+                        {
+                            "text":  "1788",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1776",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1804",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1820",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the capital city of Massachusetts?",
+        "answers":  [
+                        {
+                            "text":  "Boston",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Salem",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cambridge",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Springfield",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which protest in Boston Harbor in 1773 became a symbol of resistance to British rule?",
+        "answers":  [
+                        {
+                            "text":  "Boston Tea Party",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Stamp Act Congress",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Albany Congress",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mayflower Compact",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which battles in Massachusetts are considered the opening clashes of the American Revolutionary War?",
+        "answers":  [
+                        {
+                            "text":  "Lexington and Concord",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bunker Hill and Trenton",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yorktown and Saratoga",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Monmouth and Camden",
+                            "score":  0
+                        }
+                    ]
+    }
+]

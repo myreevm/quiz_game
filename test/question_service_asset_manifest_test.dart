@@ -1,4 +1,4 @@
-import 'dart:convert';
+﻿import 'dart:convert';
 import 'dart:io';
 
 import 'package:flutter_test/flutter_test.dart';
@@ -36,6 +36,26 @@ void main() {
         'alabama',
         'iowa',
         'idaho',
+        'washington',
+        'wyoming',
+        'arkansas',
+        'arizona',
+        'massachusetts',
+        'louisiana',
+        'connecticut',
+        'colorado',
+        'kentucky',
+        'kansas',
+        'california',
+        'indiana',
+        'hawaii',
+        'wisconsin',
+        'virginia',
+        'vermont',
+        'illinois',
+        'west_virginia',
+        'delaware',
+        'georgia_us',
       ];
       const languages = <String>['en', 'ru', 'sah'];
       const categories = <String>[
@@ -248,6 +268,26 @@ void main() {
         'alabama',
         'iowa',
         'idaho',
+        'washington',
+        'wyoming',
+        'arkansas',
+        'arizona',
+        'massachusetts',
+        'louisiana',
+        'connecticut',
+        'colorado',
+        'kentucky',
+        'kansas',
+        'california',
+        'indiana',
+        'hawaii',
+        'wisconsin',
+        'virginia',
+        'vermont',
+        'illinois',
+        'west_virginia',
+        'delaware',
+        'georgia_us',
       ]) {
         for (final category in const <String>[
           'famous_people',
@@ -281,6 +321,17 @@ void main() {
               isNot(englishQuestions.first.questionText));
           expect(yakutQuestions.first.questionText,
               isNot(englishQuestions.first.questionText));
+
+          final cyrillicPattern =
+              RegExp(r'[\u0410-\u042F\u0430-\u044F\u0401\u0451\u0494\u0495\u04A4\u04A5\u04E8\u04E9\u04BA\u04BB\u04AE\u04AF]');
+          final russianSample =
+              '${russianQuestions.first.questionText} ${russianQuestions.first.answers.first.text}';
+          final yakutSample =
+              '${yakutQuestions.first.questionText} ${yakutQuestions.first.answers.first.text}';
+          expect(cyrillicPattern.hasMatch(russianSample), isTrue);
+          expect(cyrillicPattern.hasMatch(yakutSample), isTrue);
+          expect(russianSample.contains('???'), isFalse);
+          expect(yakutSample.contains('???'), isFalse);
         }
       }
     });
@@ -445,3 +496,5 @@ void main() {
     });
   });
 }
+
+

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Wilmington musician is famous for \"Bad to the Bone\"?",
+        "answers":  [
+                        {
+                            "text":  "George Thorogood",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bruce Springsteen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "John Mellencamp",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tom Jones",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which jazz trumpeter from Wilmington became a bebop icon?",
+        "answers":  [
+                        {
+                            "text":  "Clifford Brown",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Miles Davis",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chet Baker",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dizzy Gillespie",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which Delaware city was Firefly Music Festival traditionally held?",
+        "answers":  [
+                        {
+                            "text":  "Dover",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Rehoboth Beach",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Newark",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Milford",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the official state song of Delaware?",
+        "answers":  [
+                        {
+                            "text":  "Our Delaware",
+                            "score":  1
+                        },
+                        {
+                            "text":  "My Old Kentucky Home",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Georgia on My Mind",
+                            "score":  0
+                        },
+                        {
+                            "text":  "America the Beautiful",
+                            "score":  0
+                        }
+                    ]
+    }
+]

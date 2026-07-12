@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Alfred Hitchcock thriller begins in Phoenix, Arizona?",
+        "answers":  [
+                        {
+                            "text":  "Psycho",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vertigo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rear Window",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rebecca",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Coen brothers comedy is set in Arizona?",
+        "answers":  [
+                        {
+                            "text":  "Raising Arizona",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fargo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Burn After Reading",
+                            "score":  0
+                        },
+                        {
+                            "text":  "No Country for Old Men",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which western film about the O.K. Corral story is set in Arizona?",
+        "answers":  [
+                        {
+                            "text":  "Tombstone",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Unforgiven",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Good the Bad and the Ugly",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dances with Wolves",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which western title references a route to an Arizona city?",
+        "answers":  [
+                        {
+                            "text":  "3:10 to Yuma",
+                            "score":  1
+                        },
+                        {
+                            "text":  "High Noon",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rio Grande",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pale Rider",
+                            "score":  0
+                        }
+                    ]
+    }
+]

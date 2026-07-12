@@ -1,5 +1,5 @@
-name: quiz_app
-description: Простая игра-викторина на Flutter
+﻿name: quiz_app
+description: РџСЂРѕСЃС‚Р°СЏ РёРіСЂР°-РІРёРєС‚РѕСЂРёРЅР° РЅР° Flutter
 publish_to: "none"
 
 version: 1.0.0+1
@@ -163,6 +163,86 @@ flutter:
     - assets/data/usa/idaho/en/
     - assets/data/usa/idaho/ru/
     - assets/data/usa/idaho/sah/
+    - assets/data/usa/washington/
+    - assets/data/usa/washington/en/
+    - assets/data/usa/washington/ru/
+    - assets/data/usa/washington/sah/
+    - assets/data/usa/wyoming/
+    - assets/data/usa/wyoming/en/
+    - assets/data/usa/wyoming/ru/
+    - assets/data/usa/wyoming/sah/
+    - assets/data/usa/arkansas/
+    - assets/data/usa/arkansas/en/
+    - assets/data/usa/arkansas/ru/
+    - assets/data/usa/arkansas/sah/
+    - assets/data/usa/arizona/
+    - assets/data/usa/arizona/en/
+    - assets/data/usa/arizona/ru/
+    - assets/data/usa/arizona/sah/
+    - assets/data/usa/massachusetts/
+    - assets/data/usa/massachusetts/en/
+    - assets/data/usa/massachusetts/ru/
+    - assets/data/usa/massachusetts/sah/
+    - assets/data/usa/louisiana/
+    - assets/data/usa/louisiana/en/
+    - assets/data/usa/louisiana/ru/
+    - assets/data/usa/louisiana/sah/
+    - assets/data/usa/connecticut/
+    - assets/data/usa/connecticut/en/
+    - assets/data/usa/connecticut/ru/
+    - assets/data/usa/connecticut/sah/
+    - assets/data/usa/colorado/
+    - assets/data/usa/colorado/en/
+    - assets/data/usa/colorado/ru/
+    - assets/data/usa/colorado/sah/
+    - assets/data/usa/kentucky/
+    - assets/data/usa/kentucky/en/
+    - assets/data/usa/kentucky/ru/
+    - assets/data/usa/kentucky/sah/
+    - assets/data/usa/kansas/
+    - assets/data/usa/kansas/en/
+    - assets/data/usa/kansas/ru/
+    - assets/data/usa/kansas/sah/
+    - assets/data/usa/california/
+    - assets/data/usa/california/en/
+    - assets/data/usa/california/ru/
+    - assets/data/usa/california/sah/
+    - assets/data/usa/indiana/
+    - assets/data/usa/indiana/en/
+    - assets/data/usa/indiana/ru/
+    - assets/data/usa/indiana/sah/
+    - assets/data/usa/hawaii/
+    - assets/data/usa/hawaii/en/
+    - assets/data/usa/hawaii/ru/
+    - assets/data/usa/hawaii/sah/
+    - assets/data/usa/wisconsin/
+    - assets/data/usa/wisconsin/en/
+    - assets/data/usa/wisconsin/ru/
+    - assets/data/usa/wisconsin/sah/
+    - assets/data/usa/virginia/
+    - assets/data/usa/virginia/en/
+    - assets/data/usa/virginia/ru/
+    - assets/data/usa/virginia/sah/
+    - assets/data/usa/vermont/
+    - assets/data/usa/vermont/en/
+    - assets/data/usa/vermont/ru/
+    - assets/data/usa/vermont/sah/
+    - assets/data/usa/illinois/
+    - assets/data/usa/illinois/en/
+    - assets/data/usa/illinois/ru/
+    - assets/data/usa/illinois/sah/
+    - assets/data/usa/west_virginia/
+    - assets/data/usa/west_virginia/en/
+    - assets/data/usa/west_virginia/ru/
+    - assets/data/usa/west_virginia/sah/
+    - assets/data/usa/delaware/
+    - assets/data/usa/delaware/en/
+    - assets/data/usa/delaware/ru/
+    - assets/data/usa/delaware/sah/
+    - assets/data/usa/georgia_us/
+    - assets/data/usa/georgia_us/en/
+    - assets/data/usa/georgia_us/ru/
+    - assets/data/usa/georgia_us/sah/
     - assets/data/china/en/
     - assets/data/china/ru/
     - assets/data/china/sah/

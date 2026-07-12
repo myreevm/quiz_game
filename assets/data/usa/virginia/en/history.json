@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In what year did Virginia ratify the U.S. Constitution and join the Union?",
+        "answers":  [
+                        {
+                            "text":  "1788",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1776",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1791",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1803",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the capital city of Virginia?",
+        "answers":  [
+                        {
+                            "text":  "Richmond",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Norfolk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alexandria",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Virginia Beach",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What was the first permanent English settlement in Virginia, founded in 1607?",
+        "answers":  [
+                        {
+                            "text":  "Jamestown",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Plymouth",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Roanoke",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Charleston",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What nickname is commonly used for Virginia?",
+        "answers":  [
+                        {
+                            "text":  "The Old Dominion",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Lone Star State",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Ocean State",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Prairie State",
+                            "score":  0
+                        }
+                    ]
+    }
+]

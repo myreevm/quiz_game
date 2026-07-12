@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In what year did Washington become a U.S. state?",
+        "answers":  [
+                        {
+                            "text":  "1889",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1867",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1901",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1912",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the capital city of Washington state?",
+        "answers":  [
+                        {
+                            "text":  "Olympia",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Seattle",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tacoma",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Spokane",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which 1962 event in Seattle led to the construction of the Space Needle?",
+        "answers":  [
+                        {
+                            "text":  "Worlds Fair",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Olympic Games",
+                            "score":  0
+                        },
+                        {
+                            "text":  "World Cup",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Expo River Summit",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which volcano erupted in Washington in 1980?",
+        "answers":  [
+                        {
+                            "text":  "Mount St. Helens",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mount Rainier",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mount Hood",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mount Adams",
+                            "score":  0
+                        }
+                    ]
+    }
+]

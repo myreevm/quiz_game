@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which comedian and actor from Denver voiced Buzz Lightyear in \"Toy Story\"?",
+        "answers":  [
+                        {
+                            "text":  "Tim Allen",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Robin Williams",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bill Murray",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jim Carrey",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which South Park co-creator grew up in Colorado and studied at the University of Colorado Boulder?",
+        "answers":  [
+                        {
+                            "text":  "Trey Parker",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Matt Groening",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Seth MacFarlane",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mike Judge",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Titanic survivor known as the \"Unsinkable\" had a famous house in Denver?",
+        "answers":  [
+                        {
+                            "text":  "Molly Brown",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Dorothy Gibson",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eva Hart",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lucy Christiana",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which NBA star nicknamed \"Mr. Big Shot\" was born in Denver?",
+        "answers":  [
+                        {
+                            "text":  "Chauncey Billups",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Allen Iverson",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chris Paul",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Reggie Miller",
+                            "score":  0
+                        }
+                    ]
+    }
+]

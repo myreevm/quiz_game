@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which film tells the story of Rocket Boys from Coalwood, West Virginia?",
+        "answers":  [
+                        {
+                            "text":  "October Sky",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Apollo 13",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hidden Figures",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Right Stuff",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which sports drama is about the 1970 Marshall University football tragedy?",
+        "answers":  [
+                        {
+                            "text":  "We Are Marshall",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Remember the Titans",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Friday Night Lights",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Moneyball",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which 1987 film depicts a coal miners\u0027 labor conflict in West Virginia?",
+        "answers":  [
+                        {
+                            "text":  "Matewan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Norma Rae",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Erin Brockovich",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Silkwood",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which West Virginia-born filmmaker directed the documentary \"Super Size Me\"?",
+        "answers":  [
+                        {
+                            "text":  "Morgan Spurlock",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ken Burns",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Michael Moore",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Errol Morris",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which American rock band named after the state recorded \"Carry On Wayward Son\"?",
+        "answers":  [
+                        {
+                            "text":  "Kansas",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Journey",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Foreigner",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Styx",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which jazz saxophonist was born in Kansas City, Kansas?",
+        "answers":  [
+                        {
+                            "text":  "Charlie Parker",
+                            "score":  1
+                        },
+                        {
+                            "text":  "John Coltrane",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Miles Davis",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dizzy Gillespie",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which singer-songwriter from Kansas City, Kansas released \"Make Me Feel\"?",
+        "answers":  [
+                        {
+                            "text":  "Janelle Monae",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Alicia Keys",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lady Gaga",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sia",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the official state song of Kansas?",
+        "answers":  [
+                        {
+                            "text":  "Home on the Range",
+                            "score":  1
+                        },
+                        {
+                            "text":  "America the Beautiful",
+                            "score":  0
+                        },
+                        {
+                            "text":  "My Old Kentucky Home",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yankee Doodle",
+                            "score":  0
+                        }
+                    ]
+    }
+]

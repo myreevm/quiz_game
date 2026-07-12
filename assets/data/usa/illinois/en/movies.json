@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Oscar-winning musical is set in Chicago and features Roxie Hart?",
+        "answers":  [
+                        {
+                            "text":  "Chicago",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Moulin Rouge!",
+                            "score":  0
+                        },
+                        {
+                            "text":  "La La Land",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cabaret",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which teen comedy follows Ferris during a day off in Chicago?",
+        "answers":  [
+                        {
+                            "text":  "Ferris Bueller\u0027s Day Off",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mean Girls",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Superbad",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Clueless",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which holiday movie about Kevin McCallister is set near Chicago?",
+        "answers":  [
+                        {
+                            "text":  "Home Alone",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Elf",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Polar Express",
+                            "score":  0
+                        },
+                        {
+                            "text":  "A Christmas Story",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Batman film used Chicago as a major filming location for Gotham?",
+        "answers":  [
+                        {
+                            "text":  "The Dark Knight",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Batman Forever",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Batman \u0026 Robin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Joker",
+                            "score":  0
+                        }
+                    ]
+    }
+]

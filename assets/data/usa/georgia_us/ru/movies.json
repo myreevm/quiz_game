@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Какой город Джорджии часто называют «Голливудом Юга»?",
+        "answers":  [
+                        {
+                            "text":  "Атланта",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Атенс",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Коламбус",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Вальдоста",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой долгоиграющий сериал о зомби снимался в основном в Джорджии?",
+        "answers":  [
+                        {
+                            "text":  "The Walking Dead",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Last of Us",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dexter",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Breaking Bad",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой научно-фантастический сериал Netflix снимал много сцен в районе Атланты?",
+        "answers":  [
+                        {
+                            "text":  "Stranger Things",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Crown",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dark",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Black Mirror",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Как называется крупный киностудийный комплекс в округе Фейет, Джорджия?",
+        "answers":  [
+                        {
+                            "text":  "Trilith Studios",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Paramount Ranch",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Warner Bros. Burbank",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pinewood London",
+                            "score":  0
+                        }
+                    ]
+    }
+]

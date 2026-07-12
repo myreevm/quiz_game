@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In what year did Kentucky become a U.S. state?",
+        "answers":  [
+                        {
+                            "text":  "1792",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1788",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1803",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1812",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the capital city of Kentucky?",
+        "answers":  [
+                        {
+                            "text":  "Frankfort",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Louisville",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lexington",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bowling Green",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which famous horse race has been held annually in Louisville since 1875?",
+        "answers":  [
+                        {
+                            "text":  "Kentucky Derby",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Preakness Stakes",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Belmont Stakes",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Breeders\u0027 Cup",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What nickname is commonly used for Kentucky?",
+        "answers":  [
+                        {
+                            "text":  "The Bluegrass State",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Sunflower State",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Silver State",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Granite State",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "What is the fictional Connecticut town where \"Gilmore Girls\" is set?",
+        "answers":  [
+                        {
+                            "text":  "Stars Hollow",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Riverdale",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hawkins",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Twin Peaks",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "The 1988 film \"Mystic Pizza\" is set in which Connecticut coastal town?",
+        "answers":  [
+                        {
+                            "text":  "Mystic",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Greenwich",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Meriden",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bristol",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In \"Beetlejuice\", what is the name of the fictional Connecticut town where the story takes place?",
+        "answers":  [
+                        {
+                            "text":  "Winter River",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sunny Falls",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Black Hollow",
+                            "score":  0
+                        },
+                        {
+                            "text":  "North Harbor",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "The suburban drama \"Revolutionary Road\" is set in which U.S. state?",
+        "answers":  [
+                        {
+                            "text":  "Connecticut",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ohio",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Maine",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vermont",
+                            "score":  0
+                        }
+                    ]
+    }
+]

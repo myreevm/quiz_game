@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which abstract painter was born in Cody, Wyoming?",
+        "answers":  [
+                        {
+                            "text":  "Jackson Pollock",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Andy Warhol",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mark Rothko",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Edward Hopper",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which showman gave his name to the Wyoming city of Cody?",
+        "answers":  [
+                        {
+                            "text":  "Buffalo Bill Cody",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Wild Bill Hickok",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Calamity Jane",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Doc Holliday",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which politician became the first female governor in U.S. history in Wyoming?",
+        "answers":  [
+                        {
+                            "text":  "Nellie Tayloe Ross",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hillary Clinton",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jeannette Rankin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Madeleine Albright",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which former U.S. vice president represented Wyoming in Congress?",
+        "answers":  [
+                        {
+                            "text":  "Dick Cheney",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Al Gore",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dan Quayle",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mike Pence",
+                            "score":  0
+                        }
+                    ]
+    }
+]

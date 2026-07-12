@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which music style is central to the King Biscuit Blues Festival in Arkansas?",
+        "answers":  [
+                        {
+                            "text":  "Blues",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Opera",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Techno",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ska",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city hosts the King Biscuit Blues Festival?",
+        "answers":  [
+                        {
+                            "text":  "Helena",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Conway",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Benton",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rogers",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What genre is featured at the Ozark Folk Center?",
+        "answers":  [
+                        {
+                            "text":  "Folk and bluegrass",
+                            "score":  1
+                        },
+                        {
+                            "text":  "EDM",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Synth-pop",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Reggaeton",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Johnny Cash, born in Arkansas, is most associated with which genre?",
+        "answers":  [
+                        {
+                            "text":  "Country",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Salsa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "House",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Classical",
+                            "score":  0
+                        }
+                    ]
+    }
+]

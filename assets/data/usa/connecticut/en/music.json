@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which singer-songwriter known for \"Gravity\" was born in Bridgeport, Connecticut?",
+        "answers":  [
+                        {
+                            "text":  "John Mayer",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ed Sheeran",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shawn Mendes",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bruno Mars",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "The Yale School of Music is located in which city?",
+        "answers":  [
+                        {
+                            "text":  "New Haven",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hartford",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Stamford",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Waterbury",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "The Hartford Symphony Orchestra is based in which Connecticut city?",
+        "answers":  [
+                        {
+                            "text":  "Hartford",
+                            "score":  1
+                        },
+                        {
+                            "text":  "New London",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Milford",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bristol",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "American composer Charles Ives was born in which Connecticut city?",
+        "answers":  [
+                        {
+                            "text":  "Danbury",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Stamford",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Norwalk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Waterbury",
+                            "score":  0
+                        }
+                    ]
+    }
+]

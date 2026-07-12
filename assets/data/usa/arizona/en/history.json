@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In what year did Arizona become a U.S. state?",
+        "answers":  [
+                        {
+                            "text":  "1912",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1889",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1907",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1925",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the capital city of Arizona?",
+        "answers":  [
+                        {
+                            "text":  "Phoenix",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tucson",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Flagstaff",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mesa",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In what year did Grand Canyon become a U.S. national park?",
+        "answers":  [
+                        {
+                            "text":  "1919",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1872",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1901",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1935",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which 1854 agreement added southern Arizona territory to the U.S.?",
+        "answers":  [
+                        {
+                            "text":  "Gadsden Purchase",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Louisiana Purchase",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Oregon Treaty",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Treaty of Paris",
+                            "score":  0
+                        }
+                    ]
+    }
+]

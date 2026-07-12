@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which pop star from Kentwood, Louisiana released \"...Baby One More Time\"?",
+        "answers":  [
+                        {
+                            "text":  "Britney Spears",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Beyonce",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lady Gaga",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Katy Perry",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Louisiana politician was known by the nickname \"Kingfish\"?",
+        "answers":  [
+                        {
+                            "text":  "Huey Long",
+                            "score":  1
+                        },
+                        {
+                            "text":  "John Edwards",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Earl Long",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bobby Jindal",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which NFL quarterback was born in New Orleans and won two Super Bowls with the New York Giants?",
+        "answers":  [
+                        {
+                            "text":  "Eli Manning",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tom Brady",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Drew Brees",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Aaron Rodgers",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which writer from New Orleans authored \"Interview with the Vampire\"?",
+        "answers":  [
+                        {
+                            "text":  "Anne Rice",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Harper Lee",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Donna Tartt",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Joyce Carol Oates",
+                            "score":  0
+                        }
+                    ]
+    }
+]

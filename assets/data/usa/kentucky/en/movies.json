@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which James Bond film features Fort Knox in Kentucky?",
+        "answers":  [
+                        {
+                            "text":  "Goldfinger",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Skyfall",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Casino Royale",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Thunderball",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which biographical film tells the story of Kentucky singer Loretta Lynn?",
+        "answers":  [
+                        {
+                            "text":  "Coal Miner\u0027s Daughter",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Walk the Line",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ray",
+                            "score":  0
+                        },
+                        {
+                            "text":  "La Bamba",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which romantic drama takes its name from a city in Kentucky?",
+        "answers":  [
+                        {
+                            "text":  "Elizabethtown",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nashville",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Memphis Belle",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chicago",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which horse-racing film includes scenes connected to the Kentucky Derby?",
+        "answers":  [
+                        {
+                            "text":  "Secretariat",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Seabiscuit",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rocky",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Moneyball",
+                            "score":  0
+                        }
+                    ]
+    }
+]

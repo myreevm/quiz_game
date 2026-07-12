@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Georgia city is often called the \"Hollywood of the South\"?",
+        "answers":  [
+                        {
+                            "text":  "Atlanta",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Athens",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Columbus",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Valdosta",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which long-running zombie series was filmed heavily in Georgia?",
+        "answers":  [
+                        {
+                            "text":  "The Walking Dead",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Last of Us",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dexter",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Breaking Bad",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Netflix science-fiction series filmed many scenes around Atlanta?",
+        "answers":  [
+                        {
+                            "text":  "Stranger Things",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Crown",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dark",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Black Mirror",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the current name of the major film studio complex in Fayette County, Georgia?",
+        "answers":  [
+                        {
+                            "text":  "Trilith Studios",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Paramount Ranch",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Warner Bros. Burbank",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pinewood London",
+                            "score":  0
+                        }
+                    ]
+    }
+]

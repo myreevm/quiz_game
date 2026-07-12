@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which West Virginia-born basketball legend is known as \"The Logo\"?",
+        "answers":  [
+                        {
+                            "text":  "Jerry West",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Magic Johnson",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Larry Bird",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Karl Malone",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which pilot born in Myra, West Virginia, broke the sound barrier in 1947?",
+        "answers":  [
+                        {
+                            "text":  "Chuck Yeager",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Amelia Earhart",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Howard Hughes",
+                            "score":  0
+                        },
+                        {
+                            "text":  "John Glenn",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which comedian from Morgantown played Barney Fife?",
+        "answers":  [
+                        {
+                            "text":  "Don Knotts",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bob Newhart",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Carroll O\u0027Connor",
+                            "score":  0
+                        },
+                        {
+                            "text":  "John Candy",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which actor from Huntington, West Virginia, voices Chucky in the \"Child\u0027s Play\" franchise?",
+        "answers":  [
+                        {
+                            "text":  "Brad Dourif",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Willem Dafoe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nicolas Cage",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gary Oldman",
+                            "score":  0
+                        }
+                    ]
+    }
+]

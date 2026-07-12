@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Georgia was one of how many original U.S. colonies?",
+        "answers":  [
+                        {
+                            "text":  "13 colonies",
+                            "score":  1
+                        },
+                        {
+                            "text":  "10 colonies",
+                            "score":  0
+                        },
+                        {
+                            "text":  "15 colonies",
+                            "score":  0
+                        },
+                        {
+                            "text":  "20 colonies",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In what year was the colony of Georgia founded?",
+        "answers":  [
+                        {
+                            "text":  "1733",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1607",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1776",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1819",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the capital of the U.S. state of Georgia?",
+        "answers":  [
+                        {
+                            "text":  "Atlanta",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Savannah",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Augusta",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Macon",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "The state of Georgia was named in honor of which British king?",
+        "answers":  [
+                        {
+                            "text":  "King George II",
+                            "score":  1
+                        },
+                        {
+                            "text":  "King Henry VIII",
+                            "score":  0
+                        },
+                        {
+                            "text":  "King Edward VII",
+                            "score":  0
+                        },
+                        {
+                            "text":  "King Charles I",
+                            "score":  0
+                        }
+                    ]
+    }
+]

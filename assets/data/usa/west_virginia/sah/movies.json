@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Ханнык фильм рассказывает о «ракетных мальчиках» из Коулвуда, Западная Вирджиния?",
+        "answers":  [
+                        {
+                            "text":  "October Sky",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Apollo 13",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hidden Figures",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Right Stuff",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ханнык спортивная драма посвящена трагедии футбольной команды Университета Маршалла 1970 года?",
+        "answers":  [
+                        {
+                            "text":  "We Are Marshall",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Remember the Titans",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Friday Night Lights",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Moneyball",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ханнык фильм 1987 года показывает трудовой конфликт шахтеров в Западной Вирджинии?",
+        "answers":  [
+                        {
+                            "text":  "Matewan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Norma Rae",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Erin Brockovich",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Silkwood",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ханнык режиссер, родившийся в Западной Вирджинии, снял документальный фильм «Super Size Me»?",
+        "answers":  [
+                        {
+                            "text":  "Морган Сперлок",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Кен Бёрнс",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Майкл Мур",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Эррол Моррис",
+                            "score":  0
+                        }
+                    ]
+    }
+]

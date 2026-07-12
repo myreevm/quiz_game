@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which annual multi-genre music festival is held in Virginia and named after a founder of the U.S.?",
+        "answers":  [
+                        {
+                            "text":  "Lockn\u0027 Festival",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Coachella",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bonnaroo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "SXSW",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which rapper and producer from Portsmouth, Virginia, is known for \"Get Ur Freak On\"?",
+        "answers":  [
+                        {
+                            "text":  "Missy Elliott",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cardi B",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nicki Minaj",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lizzo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which singer-songwriter from Virginia released \"A Thousand Miles\"?",
+        "answers":  [
+                        {
+                            "text":  "Vanessa Carlton",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Avril Lavigne",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Adele",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pink",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city is known for a historic Appalachian old-time and bluegrass music tradition in southwest Virginia?",
+        "answers":  [
+                        {
+                            "text":  "Bristol",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Arlington",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fairfax",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hampton",
+                            "score":  0
+                        }
+                    ]
+    }
+]

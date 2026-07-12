@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Какая американская рок-группа, названная в честь штата, записала песню \"Carry On Wayward Son\"?",
+        "answers":  [
+                        {
+                            "text":  "Kansas",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Journey",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Foreigner",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Styx",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой джазовый саксофонист родился в Канзас-Сити, штат Канзас?",
+        "answers":  [
+                        {
+                            "text":  "Чарли Паркер",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Джон Колтрейн",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Майлз Дэвис",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Диззи Гиллеспи",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой певец и автор песен из Канзас-Сити, штат Канзас, выпустил \"Make Me Feel\"?",
+        "answers":  [
+                        {
+                            "text":  "Жанель Монэ",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Алисия Киз",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Леди Гага",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sia",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Что является официальной песней штата Канзас?",
+        "answers":  [
+                        {
+                            "text":  "Home on the Range",
+                            "score":  1
+                        },
+                        {
+                            "text":  "America the Beautiful",
+                            "score":  0
+                        },
+                        {
+                            "text":  "My Old Kentucky Home",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yankee Doodle",
+                            "score":  0
+                        }
+                    ]
+    }
+]

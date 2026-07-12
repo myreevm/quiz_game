@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Какой хип-хоп дуэт из Атланты выпустил «Hey Ya!»?",
+        "answers":  [
+                        {
+                            "text":  "Outkast",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Run-D.M.C.",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mobb Deep",
+                            "score":  0
+                        },
+                        {
+                            "text":  "A Tribe Called Quest",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какая группа из Атенса, Джорджия, выпустила песню «Losing My Religion»?",
+        "answers":  [
+                        {
+                            "text":  "R.E.M.",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nirvana",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Radiohead",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Cure",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "С каким городом Джорджии больше всего связана группа The Allman Brothers Band?",
+        "answers":  [
+                        {
+                            "text":  "Мейкон",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Атенс",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Огаста",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Олбани",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой поджанр особенно вырос в Атланте благодаря артистам T.I. и Gucci Mane?",
+        "answers":  [
+                        {
+                            "text":  "Trap",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Disco",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ska",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Grunge",
+                            "score":  0
+                        }
+                    ]
+    }
+]

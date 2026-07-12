@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Red Rocks Amphitheatre is located near which Colorado town?",
+        "answers":  [
+                        {
+                            "text":  "Morrison",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Aspen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fort Collins",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pueblo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who sang \"Rocky Mountain High\" and became strongly associated with Colorado?",
+        "answers":  [
+                        {
+                            "text":  "John Denver",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bob Dylan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bruce Springsteen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Billy Joel",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which band known for \"How to Save a Life\" was formed in Denver?",
+        "answers":  [
+                        {
+                            "text":  "The Fray",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Maroon 5",
+                            "score":  0
+                        },
+                        {
+                            "text":  "OneRepublic",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Imagine Dragons",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "The Telluride Bluegrass Festival is held in which Colorado town?",
+        "answers":  [
+                        {
+                            "text":  "Telluride",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Durango",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vail",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Steamboat Springs",
+                            "score":  0
+                        }
+                    ]
+    }
+]

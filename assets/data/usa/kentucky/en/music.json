@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which music genre is most closely associated with Kentucky traditions?",
+        "answers":  [
+                        {
+                            "text":  "Bluegrass",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Disco",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Reggae",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Techno",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which musician known as the \"Father of Bluegrass\" was born in Rosine, Kentucky?",
+        "answers":  [
+                        {
+                            "text":  "Bill Monroe",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hank Williams",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Woody Guthrie",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pete Seeger",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which country singer from Butcher Hollow, Kentucky became a legend?",
+        "answers":  [
+                        {
+                            "text":  "Loretta Lynn",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Dolly Parton",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Patsy Cline",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tammy Wynette",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Grammy-winning singer-songwriter was born in Lexington, Kentucky?",
+        "answers":  [
+                        {
+                            "text":  "Chris Stapleton",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Garth Brooks",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kenny Rogers",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tim McGraw",
+                            "score":  0
+                        }
+                    ]
+    }
+]

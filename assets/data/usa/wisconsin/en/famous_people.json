@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which architect born in Wisconsin designed Fallingwater?",
+        "answers":  [
+                        {
+                            "text":  "Frank Lloyd Wright",
+                            "score":  1
+                        },
+                        {
+                            "text":  "I. M. Pei",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Zaha Hadid",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Le Corbusier",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which filmmaker and actor was born in Kenosha, Wisconsin, in 1915?",
+        "answers":  [
+                        {
+                            "text":  "Orson Welles",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Alfred Hitchcock",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Stanley Kubrick",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Martin Scorsese",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which actor-comedian from Madison, Wisconsin, was a star of SNL and Tommy Boy?",
+        "answers":  [
+                        {
+                            "text":  "Chris Farley",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jim Carrey",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Adam Sandler",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Will Ferrell",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which artist known for flowers and New Mexico landscapes was born in Sun Prairie, Wisconsin?",
+        "answers":  [
+                        {
+                            "text":  "Georgia O\u0027Keeffe",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Frida Kahlo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mary Cassatt",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yayoi Kusama",
+                            "score":  0
+                        }
+                    ]
+    }
+]

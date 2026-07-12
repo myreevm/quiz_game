@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In what year did Hawaii become a U.S. state?",
+        "answers":  [
+                        {
+                            "text":  "1959",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1945",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1912",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1963",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the capital city of Hawaii?",
+        "answers":  [
+                        {
+                            "text":  "Honolulu",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hilo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kailua",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lahaina",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In what year did the attack on Pearl Harbor take place?",
+        "answers":  [
+                        {
+                            "text":  "1941",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1939",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1944",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1951",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What nickname is commonly used for Hawaii?",
+        "answers":  [
+                        {
+                            "text":  "The Aloha State",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Sunshine State",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Evergreen State",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Bay State",
+                            "score":  0
+                        }
+                    ]
+    }
+]

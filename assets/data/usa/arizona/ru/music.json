@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Какая альтернативная рок-группа из Темпе известна хитом Hey Jealousy?",
+        "answers":  [
+                        {
+                            "text":  "Gin Blossoms",
+                            "score":  1
+                        },
+                        {
+                            "text":  "R.E.M.",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Blur",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Cure",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой город принимает фестиваль Tucson Folk Festival?",
+        "answers":  [
+                        {
+                            "text":  "Тусон",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Финикс",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Меса",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Юма",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "В каком городе Аризоны проходит M3F Music Festival?",
+        "answers":  [
+                        {
+                            "text":  "Финикс",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Флагстафф",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Скоттсдейл",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Темпе",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Какой инструмент является ключевым в традиционной музыке многих коренных народов Аризоны?",
+        "answers":  [
+                        {
+                            "text":  "Барабан",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Аккордеон",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Волынка",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Клавесин",
+                            "score":  0
+                        }
+                    ]
+    }
+]

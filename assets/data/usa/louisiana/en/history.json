@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In what year did Louisiana become a U.S. state?",
+        "answers":  [
+                        {
+                            "text":  "1812",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1788",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1845",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1861",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the capital city of Louisiana?",
+        "answers":  [
+                        {
+                            "text":  "Baton Rouge",
+                            "score":  1
+                        },
+                        {
+                            "text":  "New Orleans",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lafayette",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shreveport",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In what year was the Louisiana Purchase completed by the United States?",
+        "answers":  [
+                        {
+                            "text":  "1803",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1776",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1815",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1865",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In what year was New Orleans founded by the French?",
+        "answers":  [
+                        {
+                            "text":  "1718",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1607",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1776",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1845",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In what year did Arkansas become a U.S. state?",
+        "answers":  [
+                        {
+                            "text":  "1836",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1819",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1861",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1901",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the capital city of Arkansas?",
+        "answers":  [
+                        {
+                            "text":  "Little Rock",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fayetteville",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fort Smith",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hot Springs",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What 1957 event in Little Rock became a key civil rights milestone?",
+        "answers":  [
+                        {
+                            "text":  "Little Rock Nine school integration",
+                            "score":  1
+                        },
+                        {
+                            "text":  "March on Washington",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Montgomery Bus Boycott",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Freedom Rides",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is a common nickname for Arkansas?",
+        "answers":  [
+                        {
+                            "text":  "The Natural State",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Golden State",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The First State",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Bay State",
+                            "score":  0
+                        }
+                    ]
+    }
+]

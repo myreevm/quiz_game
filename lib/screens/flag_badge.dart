@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+﻿import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
 class FlagBadge extends StatelessWidget {
@@ -47,6 +47,26 @@ class FlagBadge extends StatelessWidget {
     'alabama': 'assets/flags/alabama.svg',
     'iowa': 'assets/flags/iowa.svg',
     'idaho': 'assets/flags/idaho.svg',
+    'washington': 'assets/flags/washington.svg',
+    'wyoming': 'assets/flags/wyoming.svg',
+    'arkansas': 'assets/flags/arkansas.svg',
+    'arizona': 'assets/flags/arizona.svg',
+    'massachusetts': 'assets/flags/massachusetts.svg',
+    'louisiana': 'assets/flags/louisiana.svg',
+    'connecticut': 'assets/flags/connecticut.svg',
+    'colorado': 'assets/flags/colorado.svg',
+    'kentucky': 'assets/flags/kentucky.svg',
+    'kansas': 'assets/flags/kansas.svg',
+    'california': 'assets/flags/california.svg',
+    'indiana': 'assets/flags/indiana.svg',
+    'hawaii': 'assets/flags/hawaii.svg',
+    'wisconsin': 'assets/flags/wisconsin.svg',
+    'virginia': 'assets/flags/virginia.svg',
+    'vermont': 'assets/flags/vermont.svg',
+    'illinois': 'assets/flags/illinois.svg',
+    'west_virginia': 'assets/flags/west_virginia.svg',
+    'delaware': 'assets/flags/delaware.svg',
+    'georgia_us': 'assets/flags/georgia_us.svg',
     'dagestan': 'assets/flags/dagestan.png',
     'yakutia': 'assets/flags/yakutia.png',
     'adygea': 'assets/flags/adygea.svg',

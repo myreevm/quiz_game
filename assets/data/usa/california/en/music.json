@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which major music and arts festival takes place in Indio, California?",
+        "answers":  [
+                        {
+                            "text":  "Coachella",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lollapalooza",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Glastonbury",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bonnaroo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which surf-rock band was formed in Hawthorne, California?",
+        "answers":  [
+                        {
+                            "text":  "The Beach Boys",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Doors",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Eagles",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nirvana",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which rapper-producer is closely associated with Compton, California?",
+        "answers":  [
+                        {
+                            "text":  "Dr. Dre",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jay-Z",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nas",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eminem",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which metal band was formed in Los Angeles, California in 1981?",
+        "answers":  [
+                        {
+                            "text":  "Metallica",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Megadeth",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Anthrax",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pantera",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Чикаго считается родиной какого жанра?",
+        "answers":  [
+                        {
+                            "text":  "Хаус-музыка",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Регги",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Фламенко",
+                            "score":  0
+                        },
+                        {
+                            "text":  "K-pop",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ханнык рок-группа, названная в честь города, была создана в Чикаго в 1967 году?",
+        "answers":  [
+                        {
+                            "text":  "Chicago",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Journey",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Boston",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kansas",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ханнык фестиваль проходит в чикагском Грант-парке каждое лето?",
+        "answers":  [
+                        {
+                            "text":  "Lollapalooza",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Glastonbury",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Coachella",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eurovision",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ханнык основанный в Чикаго лейбл записывал Muddy Waters и Howlin\u0027 Wolf?",
+        "answers":  [
+                        {
+                            "text":  "Chess Records",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Motown Records",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sun Records",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Atlantic Records",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In what year did West Virginia become a state?",
+        "answers":  [
+                        {
+                            "text":  "1863",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1776",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1812",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1905",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the capital of West Virginia?",
+        "answers":  [
+                        {
+                            "text":  "Charleston",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Huntington",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Wheeling",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Morgantown",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which famous bridge spans the New River Gorge in West Virginia?",
+        "answers":  [
+                        {
+                            "text":  "New River Gorge Bridge",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Golden Gate Bridge",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Brooklyn Bridge",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mackinac Bridge",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which industry historically shaped much of West Virginia\u0027s economy?",
+        "answers":  [
+                        {
+                            "text":  "Coal mining",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Silk production",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shipbuilding",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tea export",
+                            "score":  0
+                        }
+                    ]
+    }
+]

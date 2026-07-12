@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In what year did Connecticut become a U.S. state?",
+        "answers":  [
+                        {
+                            "text":  "1788",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1776",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1801",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1836",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the capital city of Connecticut?",
+        "answers":  [
+                        {
+                            "text":  "Hartford",
+                            "score":  1
+                        },
+                        {
+                            "text":  "New Haven",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bridgeport",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Stamford",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which nickname is commonly used for Connecticut?",
+        "answers":  [
+                        {
+                            "text":  "The Constitution State",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Empire State",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Bay State",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Sunshine State",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Yale University, founded in 1701, is located in which Connecticut city?",
+        "answers":  [
+                        {
+                            "text":  "New Haven",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hartford",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Norwalk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Danbury",
+                            "score":  0
+                        }
+                    ]
+    }
+]

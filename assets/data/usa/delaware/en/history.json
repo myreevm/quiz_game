@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which order did Delaware hold when ratifying the U.S. Constitution?",
+        "answers":  [
+                        {
+                            "text":  "First state",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Thirteenth state",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fiftieth state",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Twenty-first state",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the capital of Delaware?",
+        "answers":  [
+                        {
+                            "text":  "Dover",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Wilmington",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Newark",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Georgetown",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which European nation founded the first permanent settlement in Delaware?",
+        "answers":  [
+                        {
+                            "text":  "Sweden",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Spain",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Portugal",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Russia",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which river forms part of Delaware\u0027s border with New Jersey?",
+        "answers":  [
+                        {
+                            "text":  "Delaware River",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hudson River",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Potomac River",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ohio River",
+                            "score":  0
+                        }
+                    ]
+    }
+]

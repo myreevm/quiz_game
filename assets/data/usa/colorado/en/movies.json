@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which horror classic is closely linked to the Stanley Hotel in Estes Park, Colorado?",
+        "answers":  [
+                        {
+                            "text":  "The Shining",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Psycho",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Halloween",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Exorcist",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which long-running animated comedy series is set in a fictional Colorado town?",
+        "answers":  [
+                        {
+                            "text":  "South Park",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Futurama",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Family Guy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Simpsons",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In \"Dumb and Dumber\", which Colorado ski city is the main destination of the road trip?",
+        "answers":  [
+                        {
+                            "text":  "Aspen",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vail",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Boulder",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Durango",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Quentin Tarantino film was shot extensively in snowy Colorado locations?",
+        "answers":  [
+                        {
+                            "text":  "The Hateful Eight",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Django Unchained",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pulp Fiction",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kill Bill",
+                            "score":  0
+                        }
+                    ]
+    }
+]

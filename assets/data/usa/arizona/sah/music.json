@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Темпе куораттан ханнык альтернативнай рок-группа Hey Jealousy хытын таҕыста?",
+        "answers":  [
+                        {
+                            "text":  "Gin Blossoms",
+                            "score":  1
+                        },
+                        {
+                            "text":  "R.E.M.",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Blur",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Cure",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Tucson Folk Festival ханнык куоратка буоларый?",
+        "answers":  [
+                        {
+                            "text":  "Тусон",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Финикс",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Меса",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Юма",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "M3F Music Festival Аризона ханнык куоратыгар ааҕылларый?",
+        "answers":  [
+                        {
+                            "text":  "Финикс",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Флагстафф",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Скоттсдейл",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Темпе",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Аризона төрүт музыка традициятыгар ханнык тэрилин сүрүн буоларый?",
+        "answers":  [
+                        {
+                            "text":  "Барабан",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Аккордеон",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Волынка",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Клавесин",
+                            "score":  0
+                        }
+                    ]
+    }
+]

@@ -1,4 +1,4 @@
-import 'package:flutter_test/flutter_test.dart';
+﻿import 'package:flutter_test/flutter_test.dart';
 import 'package:quiz_app/models/app_settings.dart';
 import 'package:quiz_app/services/question_service.dart';
 
@@ -10,6 +10,26 @@ void main() {
     'alabama',
     'iowa',
     'idaho',
+    'washington',
+    'wyoming',
+    'arkansas',
+    'arizona',
+    'massachusetts',
+    'louisiana',
+    'connecticut',
+    'colorado',
+    'kentucky',
+    'kansas',
+    'california',
+    'indiana',
+    'hawaii',
+    'wisconsin',
+    'virginia',
+    'vermont',
+    'illinois',
+    'west_virginia',
+    'delaware',
+    'georgia_us',
   ];
 
   const categories = <String>[

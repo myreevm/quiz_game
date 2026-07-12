@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Ханнык фильм с Робином Уильямсом частично снимался в школе St. Andrew\u0027s в Делавэре?",
+        "answers":  [
+                        {
+                            "text":  "Dead Poets Society",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Good Will Hunting",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Patch Adams",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hook",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ханнык актер, родившийся в Делавэре, снялся в «Cruel Intentions»?",
+        "answers":  [
+                        {
+                            "text":  "Райан Филлипп",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Мэтт Дэймон",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Хоакин Феникс",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Бен Стиллер",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ханнык актриса из Делавэра сыграла в «Back to the Future Part II»?",
+        "answers":  [
+                        {
+                            "text":  "Элизабет Шу",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Вайнона Райдер",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Дрю Бэрримор",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Сандра Буллок",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ханнык актриса из Уилмингтона сыграла главную роль в фильме «Emily the Criminal»?",
+        "answers":  [
+                        {
+                            "text":  "Обри Плаза",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Энн Хэтэуэй",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Марго Робби",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Скарлетт Йоханссон",
+                            "score":  0
+                        }
+                    ]
+    }
+]

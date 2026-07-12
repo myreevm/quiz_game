@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which romantic film with Tom Hanks and Meg Ryan is set in Seattle?",
+        "answers":  [
+                        {
+                            "text":  "Sleepless in Seattle",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Youve Got Mail",
+                            "score":  0
+                        },
+                        {
+                            "text":  "When Harry Met Sally",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Notting Hill",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which grunge-era film is set in Seattle music scene?",
+        "answers":  [
+                        {
+                            "text":  "Singles",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Almost Famous",
+                            "score":  0
+                        },
+                        {
+                            "text":  "High Fidelity",
+                            "score":  0
+                        },
+                        {
+                            "text":  "School of Rock",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which film series about vampires was largely filmed in Washington?",
+        "answers":  [
+                        {
+                            "text":  "Twilight",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Underworld",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Blade",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Van Helsing",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which Washington city was much of 10 Things I Hate About You filmed?",
+        "answers":  [
+                        {
+                            "text":  "Tacoma",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Seattle",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Spokane",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Olympia",
+                            "score":  0
+                        }
+                    ]
+    }
+]

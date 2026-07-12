@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which instrument is strongly associated with traditional Hawaiian music?",
+        "answers":  [
+                        {
+                            "text":  "Ukulele",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Accordion",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bagpipe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cello",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Hawaiian singer is famous for \"Somewhere Over the Rainbow/What a Wonderful World\"?",
+        "answers":  [
+                        {
+                            "text":  "Israel Kamakawiwo\u0027ole",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bruno Mars",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Don Ho",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jack Johnson",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "The Merrie Monarch Festival in Hilo celebrates which Hawaiian art form?",
+        "answers":  [
+                        {
+                            "text":  "Hula",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Breakdance",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Opera",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tap dance",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which entertainer from Hawaii had a hit with \"Tiny Bubbles\"?",
+        "answers":  [
+                        {
+                            "text":  "Don Ho",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Elvis Presley",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Frank Sinatra",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tom Jones",
+                            "score":  0
+                        }
+                    ]
+    }
+]

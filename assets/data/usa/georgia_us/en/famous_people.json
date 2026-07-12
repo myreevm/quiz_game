@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which civil rights leader was born in Atlanta, Georgia?",
+        "answers":  [
+                        {
+                            "text":  "Martin Luther King Jr.",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Malcolm X",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Frederick Douglass",
+                            "score":  0
+                        },
+                        {
+                            "text":  "W.E.B. Du Bois",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which U.S. president was born in Plains, Georgia?",
+        "answers":  [
+                        {
+                            "text":  "Jimmy Carter",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Harry Truman",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ronald Reagan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "John Adams",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which actress was born in Smyrna, Georgia?",
+        "answers":  [
+                        {
+                            "text":  "Julia Roberts",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Meryl Streep",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nicole Kidman",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cate Blanchett",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which legendary singer and pianist was born in Albany, Georgia?",
+        "answers":  [
+                        {
+                            "text":  "Ray Charles",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Stevie Wonder",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Elton John",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Billy Joel",
+                            "score":  0
+                        }
+                    ]
+    }
+]

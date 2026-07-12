@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which jam band was formed at the University of Vermont in Burlington?",
+        "answers":  [
+                        {
+                            "text":  "Phish",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Grateful Dead",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pearl Jam",
+                            "score":  0
+                        },
+                        {
+                            "text":  "R.E.M.",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Vermont singer-songwriter is known for the song \"Stick Season\"?",
+        "answers":  [
+                        {
+                            "text":  "Noah Kahan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Vance Joy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lewis Capaldi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "James Bay",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city hosts the annual Grand Point North music festival created by Grace Potter?",
+        "answers":  [
+                        {
+                            "text":  "Burlington",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Montpelier",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bennington",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rutland",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What instrument is especially associated with Vermont\u0027s folk and old-time music gatherings?",
+        "answers":  [
+                        {
+                            "text":  "Fiddle",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Sitar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Synthesizer",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Trombone",
+                            "score":  0
+                        }
+                    ]
+    }
+]

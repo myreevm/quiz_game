@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which U.S. president served for decades as a senator from Delaware?",
+        "answers":  [
+                        {
+                            "text":  "Joe Biden",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Barack Obama",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gerald Ford",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jimmy Carter",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which actress from Wilmington stars in \"Parks and Recreation\"?",
+        "answers":  [
+                        {
+                            "text":  "Aubrey Plaza",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Emma Stone",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Natalie Portman",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mila Kunis",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which actor from Delaware starred in \"Cruel Intentions\"?",
+        "answers":  [
+                        {
+                            "text":  "Ryan Phillippe",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Paul Rudd",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mark Ruffalo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ed Helms",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Wilmington-born actress starred in \"The Karate Kid\"?",
+        "answers":  [
+                        {
+                            "text":  "Elisabeth Shue",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jodie Foster",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Meg Ryan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Diane Lane",
+                            "score":  0
+                        }
+                    ]
+    }
+]

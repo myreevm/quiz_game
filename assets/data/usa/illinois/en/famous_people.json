@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which U.S. president built his political career in Springfield, Illinois?",
+        "answers":  [
+                        {
+                            "text":  "Abraham Lincoln",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Theodore Roosevelt",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dwight Eisenhower",
+                            "score":  0
+                        },
+                        {
+                            "text":  "James Madison",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which former First Lady from Chicago wrote the memoir \"Becoming\"?",
+        "answers":  [
+                        {
+                            "text":  "Michelle Obama",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hillary Clinton",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Laura Bush",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rosalynn Carter",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Nobel Prize-winning author was born in Oak Park, Illinois?",
+        "answers":  [
+                        {
+                            "text":  "Ernest Hemingway",
+                            "score":  1
+                        },
+                        {
+                            "text":  "F. Scott Fitzgerald",
+                            "score":  0
+                        },
+                        {
+                            "text":  "John Steinbeck",
+                            "score":  0
+                        },
+                        {
+                            "text":  "William Faulkner",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which animation pioneer was born in Chicago and co-founded Disney?",
+        "answers":  [
+                        {
+                            "text":  "Walt Disney",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hayao Miyazaki",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chuck Jones",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tex Avery",
+                            "score":  0
+                        }
+                    ]
+    }
+]

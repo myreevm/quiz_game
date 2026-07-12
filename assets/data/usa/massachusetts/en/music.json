@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "The Boston Pops Orchestra is primarily based in which city?",
+        "answers":  [
+                        {
+                            "text":  "Boston",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Salem",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Worcester",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lowell",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which rock band formed in Boston in 1970 and became famous for the song \"Dream On\"?",
+        "answers":  [
+                        {
+                            "text":  "Aerosmith",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bon Jovi",
+                            "score":  0
+                        },
+                        {
+                            "text":  "KISS",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eagles",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which music college in Boston is known worldwide for jazz and contemporary programs?",
+        "answers":  [
+                        {
+                            "text":  "Berklee College of Music",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Juilliard School",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Curtis Institute",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eastman School",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Tanglewood, the summer home of the Boston Symphony Orchestra, is located in which Massachusetts town?",
+        "answers":  [
+                        {
+                            "text":  "Lenox",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Plymouth",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Quincy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lowell",
+                            "score":  0
+                        }
+                    ]
+    }
+]

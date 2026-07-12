@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which film by Billy Bob Thornton is set in Arkansas?",
+        "answers":  [
+                        {
+                            "text":  "Sling Blade",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fargo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rain Man",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Fighter",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Oscar-nominated drama about an immigrant family is set in rural Arkansas?",
+        "answers":  [
+                        {
+                            "text":  "Minari",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nomadland",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Brooklyn",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Florida Project",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which coming-of-age adventure film with Matthew McConaughey is set in Arkansas?",
+        "answers":  [
+                        {
+                            "text":  "Mud",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Stand by Me",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Goonies",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Boyhood",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which novel adaptation with John Wayne is based on an Arkansas author work?",
+        "answers":  [
+                        {
+                            "text":  "True Grit",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Searchers",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rio Bravo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Stagecoach",
+                            "score":  0
+                        }
+                    ]
+    }
+]

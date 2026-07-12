@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which HBO series follows musicians and residents of post-Katrina New Orleans?",
+        "answers":  [
+                        {
+                            "text":  "Treme",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Wire",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Boardwalk Empire",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Oz",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "The first season of \"True Detective\" is set mostly in which state?",
+        "answers":  [
+                        {
+                            "text":  "Louisiana",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Texas",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Florida",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mississippi",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which Louisiana city is \"The Curious Case of Benjamin Button\" primarily set?",
+        "answers":  [
+                        {
+                            "text":  "New Orleans",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Baton Rouge",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Houma",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Natchitoches",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Louisiana city is often nicknamed \"Hollywood South\" because of film production?",
+        "answers":  [
+                        {
+                            "text":  "New Orleans",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Alexandria",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Monroe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lake Charles",
+                            "score":  0
+                        }
+                    ]
+    }
+]

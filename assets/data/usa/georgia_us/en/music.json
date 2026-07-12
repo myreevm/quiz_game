@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which hip-hop duo from Atlanta released \"Hey Ya!\"?",
+        "answers":  [
+                        {
+                            "text":  "Outkast",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Run-D.M.C.",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mobb Deep",
+                            "score":  0
+                        },
+                        {
+                            "text":  "A Tribe Called Quest",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which band from Athens, Georgia, released \"Losing My Religion\"?",
+        "answers":  [
+                        {
+                            "text":  "R.E.M.",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Nirvana",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Radiohead",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Cure",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Georgia city is most associated with The Allman Brothers Band?",
+        "answers":  [
+                        {
+                            "text":  "Macon",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Athens",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Augusta",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Albany",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which subgenre grew strongly in Atlanta with artists like T.I. and Gucci Mane?",
+        "answers":  [
+                        {
+                            "text":  "Trap",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Disco",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ska",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Grunge",
+                            "score":  0
+                        }
+                    ]
+    }
+]

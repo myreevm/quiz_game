@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which guitar innovator and musician was born in Waukesha, Wisconsin?",
+        "answers":  [
+                        {
+                            "text":  "Les Paul",
+                            "score":  1
+                        },
+                        {
+                            "text":  "B. B. King",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eric Clapton",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chuck Berry",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which indie-folk project led by Justin Vernon began in Wisconsin?",
+        "answers":  [
+                        {
+                            "text":  "Bon Iver",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fleet Foxes",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mumford \u0026 Sons",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Lumineers",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city hosts Summerfest, one of the largest music festivals in the U.S.?",
+        "answers":  [
+                        {
+                            "text":  "Milwaukee",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Madison",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Green Bay",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Racine",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which pianist-entertainer known for flamboyant performances was born in Wisconsin?",
+        "answers":  [
+                        {
+                            "text":  "Liberace",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ray Charles",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Stevie Wonder",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Billy Joel",
+                            "score":  0
+                        }
+                    ]
+    }
+]

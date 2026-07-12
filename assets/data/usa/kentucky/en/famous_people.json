@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which heavyweight boxing champion was born in Louisville, Kentucky?",
+        "answers":  [
+                        {
+                            "text":  "Muhammad Ali",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mike Tyson",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Joe Frazier",
+                            "score":  0
+                        },
+                        {
+                            "text":  "George Foreman",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which U.S. president was born in Hodgenville, Kentucky?",
+        "answers":  [
+                        {
+                            "text":  "Abraham Lincoln",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Andrew Jackson",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ulysses S. Grant",
+                            "score":  0
+                        },
+                        {
+                            "text":  "James Madison",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Oscar-winning actress was born in Louisville, Kentucky?",
+        "answers":  [
+                        {
+                            "text":  "Jennifer Lawrence",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Natalie Portman",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Reese Witherspoon",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sandra Bullock",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which actor known for \"Ocean\u0027s Eleven\" was born in Lexington, Kentucky?",
+        "answers":  [
+                        {
+                            "text":  "George Clooney",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Brad Pitt",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Matt Damon",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tom Hanks",
+                            "score":  0
+                        }
+                    ]
+    }
+]

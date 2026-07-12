@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In what year did Illinois become the 21st U.S. state?",
+        "answers":  [
+                        {
+                            "text":  "1818",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1776",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1865",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1901",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What disaster devastated Chicago in 1871?",
+        "answers":  [
+                        {
+                            "text":  "The Great Chicago Fire",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Chicago Earthquake",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Great Flood",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Dust Storm",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the capital of Illinois?",
+        "answers":  [
+                        {
+                            "text":  "Springfield",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Chicago",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Peoria",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rockford",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which famous highway begins in Chicago?",
+        "answers":  [
+                        {
+                            "text":  "Route 66",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pacific Coast Highway",
+                            "score":  0
+                        },
+                        {
+                            "text":  "I-95",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lincoln Highway",
+                            "score":  0
+                        }
+                    ]
+    }
+]

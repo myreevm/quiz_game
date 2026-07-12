@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which U.S. president represented Massachusetts in the U.S. Senate before becoming president?",
+        "answers":  [
+                        {
+                            "text":  "John F. Kennedy",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ronald Reagan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jimmy Carter",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Richard Nixon",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which founding father from Quincy, Massachusetts became the second U.S. president?",
+        "answers":  [
+                        {
+                            "text":  "John Adams",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Thomas Jefferson",
+                            "score":  0
+                        },
+                        {
+                            "text":  "James Madison",
+                            "score":  0
+                        },
+                        {
+                            "text":  "James Monroe",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which poet from Amherst, Massachusetts is one of the most influential American poets?",
+        "answers":  [
+                        {
+                            "text":  "Emily Dickinson",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Maya Angelou",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sylvia Plath",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Edna St. Vincent Millay",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Who made the famous midnight ride warning in Massachusetts in 1775?",
+        "answers":  [
+                        {
+                            "text":  "Paul Revere",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Benedict Arnold",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Patrick Henry",
+                            "score":  0
+                        },
+                        {
+                            "text":  "John Hancock",
+                            "score":  0
+                        }
+                    ]
+    }
+]

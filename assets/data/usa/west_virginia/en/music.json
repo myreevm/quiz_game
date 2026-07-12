@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which singer-songwriter from West Virginia wrote \"Lean on Me\"?",
+        "answers":  [
+                        {
+                            "text":  "Bill Withers",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bruce Springsteen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tom Petty",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lionel Richie",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What long-running live music radio show is produced in Charleston, West Virginia?",
+        "answers":  [
+                        {
+                            "text":  "Mountain Stage",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Austin City Limits",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tiny Desk",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Live Lounge",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which genre is strongly tied to West Virginia\u0027s Appalachian traditions?",
+        "answers":  [
+                        {
+                            "text":  "Bluegrass and old-time",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Samba",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Afrobeat",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Flamenco",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which annual event near Clifftop celebrates old-time string music?",
+        "answers":  [
+                        {
+                            "text":  "Appalachian String Band Music Festival",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Newport Folk Festival",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Woodstock",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Monterey Pop Festival",
+                            "score":  0
+                        }
+                    ]
+    }
+]

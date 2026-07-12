@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which 1997 film about a math prodigy is set in South Boston?",
+        "answers":  [
+                        {
+                            "text":  "Good Will Hunting",
+                            "score":  1
+                        },
+                        {
+                            "text":  "A Beautiful Mind",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Social Network",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Whiplash",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Oscar-winning crime drama is set largely in Boston?",
+        "answers":  [
+                        {
+                            "text":  "The Departed",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Heat",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fargo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Zodiac",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "In which Massachusetts city is the boxing drama \"The Fighter\" set?",
+        "answers":  [
+                        {
+                            "text":  "Lowell",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cambridge",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Salem",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Worcester",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which thriller was filmed on Martha\u0027s Vineyard in Massachusetts?",
+        "answers":  [
+                        {
+                            "text":  "Jaws",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Psycho",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Se7en",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chinatown",
+                            "score":  0
+                        }
+                    ]
+    }
+]

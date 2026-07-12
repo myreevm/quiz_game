@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which music genre dominates major concerts at Cheyenne Frontier Days?",
+        "answers":  [
+                        {
+                            "text":  "Country",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Opera",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Techno",
+                            "score":  0
+                        },
+                        {
+                            "text":  "K-pop",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the title of Wyomings official state song?",
+        "answers":  [
+                        {
+                            "text":  "Wyoming",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Big Sky Anthem",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cowboy State Song",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Equality Hymn",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city hosts the Cheyenne Frontier Days concerts?",
+        "answers":  [
+                        {
+                            "text":  "Cheyenne",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Casper",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Laramie",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gillette",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which rapper recorded the 2018 album Ye at a Wyoming ranch?",
+        "answers":  [
+                        {
+                            "text":  "Kanye West",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Drake",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eminem",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Travis Scott",
+                            "score":  0
+                        }
+                    ]
+    }
+]

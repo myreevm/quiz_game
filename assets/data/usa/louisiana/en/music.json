@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Louisiana city is widely known as the birthplace of jazz?",
+        "answers":  [
+                        {
+                            "text":  "New Orleans",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Baton Rouge",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Monroe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shreveport",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Louis Armstrong, nicknamed \"Satchmo\", came from which Louisiana city?",
+        "answers":  [
+                        {
+                            "text":  "New Orleans",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lafayette",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Alexandria",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lake Charles",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which annual event in Louisiana celebrates jazz and local culture on a global scale?",
+        "answers":  [
+                        {
+                            "text":  "New Orleans Jazz \u0026 Heritage Festival",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Coachella Festival",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lollapalooza",
+                            "score":  0
+                        },
+                        {
+                            "text":  "SXSW",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which music genre with accordion and Creole/French influence is strongly associated with Louisiana?",
+        "answers":  [
+                        {
+                            "text":  "Zydeco",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Flamenco",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Grunge",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Reggaeton",
+                            "score":  0
+                        }
+                    ]
+    }
+]

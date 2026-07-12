@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which alternative rock band from Tempe had the hit Hey Jealousy?",
+        "answers":  [
+                        {
+                            "text":  "Gin Blossoms",
+                            "score":  1
+                        },
+                        {
+                            "text":  "R.E.M.",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Blur",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Cure",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which city hosts the Tucson Folk Festival?",
+        "answers":  [
+                        {
+                            "text":  "Tucson",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Phoenix",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mesa",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Yuma",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "M3F Music Festival is held in which Arizona city?",
+        "answers":  [
+                        {
+                            "text":  "Phoenix",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Flagstaff",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Scottsdale",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tempe",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which instrument is central in many Native music traditions in Arizona?",
+        "answers":  [
+                        {
+                            "text":  "Drum",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Accordion",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bagpipe",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Harpsichord",
+                            "score":  0
+                        }
+                    ]
+    }
+]

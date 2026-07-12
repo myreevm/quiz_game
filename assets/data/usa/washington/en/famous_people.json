@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Microsoft co-founder was born in Seattle, Washington?",
+        "answers":  [
+                        {
+                            "text":  "Bill Gates",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Steve Jobs",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Larry Page",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Elon Musk",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Nirvana frontman grew up in Aberdeen, Washington?",
+        "answers":  [
+                        {
+                            "text":  "Kurt Cobain",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Eddie Vedder",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Chris Cornell",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dave Grohl",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which martial artist and actor is buried in Seattle?",
+        "answers":  [
+                        {
+                            "text":  "Bruce Lee",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jackie Chan",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Jet Li",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Donnie Yen",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Amazon founder is closely associated with Seattle?",
+        "answers":  [
+                        {
+                            "text":  "Jeff Bezos",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mark Cuban",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Michael Dell",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Howard Schultz",
+                            "score":  0
+                        }
+                    ]
+    }
+]

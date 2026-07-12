@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which California district is the traditional center of the U.S. film industry?",
+        "answers":  [
+                        {
+                            "text":  "Hollywood",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Silicon Valley",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Venice Beach",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sunset Park",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Oscar-winning musical film is set largely in Los Angeles?",
+        "answers":  [
+                        {
+                            "text":  "La La Land",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Chicago",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Moulin Rouge!",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Artist",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Alfred Hitchcock thriller is famously set in San Francisco?",
+        "answers":  [
+                        {
+                            "text":  "Vertigo",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Psycho",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rear Window",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rebecca",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which film dramatizes the founding of a major social network in California?",
+        "answers":  [
+                        {
+                            "text":  "The Social Network",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Moneyball",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Whiplash",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Big Short",
+                            "score":  0
+                        }
+                    ]
+    }
+]

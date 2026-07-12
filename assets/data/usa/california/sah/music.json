@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Ханнык крупный фестиваль музыки и искусств проходит в Индио, Калифорния?",
+        "answers":  [
+                        {
+                            "text":  "Coachella",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lollapalooza",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Glastonbury",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bonnaroo",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ханнык серф-рок-группа была основана в Хоторне, Калифорния?",
+        "answers":  [
+                        {
+                            "text":  "The Beach Boys",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Doors",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Eagles",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nirvana",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ханнык рэпер-продюсер тесно связан с Комптоном, Калифорния?",
+        "answers":  [
+                        {
+                            "text":  "Dr. Dre",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jay-Z",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Nas",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eminem",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Ханнык металлическая группа была образована в Лос-Анджелесе, штат Калифорния, в 1981 году?",
+        "answers":  [
+                        {
+                            "text":  "Metallica",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Megadeth",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Anthrax",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pantera",
+                            "score":  0
+                        }
+                    ]
+    }
+]

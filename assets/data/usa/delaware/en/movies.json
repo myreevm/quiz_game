@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Robin Williams film was partly shot at St. Andrew\u0027s School in Delaware?",
+        "answers":  [
+                        {
+                            "text":  "Dead Poets Society",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Good Will Hunting",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Patch Adams",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hook",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Delaware-born actor appears in \"Cruel Intentions\"?",
+        "answers":  [
+                        {
+                            "text":  "Ryan Phillippe",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Matt Damon",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Joaquin Phoenix",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ben Stiller",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Delaware-born actress appears in \"Back to the Future Part II\"?",
+        "answers":  [
+                        {
+                            "text":  "Elisabeth Shue",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Winona Ryder",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Drew Barrymore",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sandra Bullock",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Wilmington-born actress starred in \"Emily the Criminal\"?",
+        "answers":  [
+                        {
+                            "text":  "Aubrey Plaza",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Anne Hathaway",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Margot Robbie",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Scarlett Johansson",
+                            "score":  0
+                        }
+                    ]
+    }
+]

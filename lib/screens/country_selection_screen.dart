@@ -1,4 +1,4 @@
-import 'dart:math';
+﻿import 'dart:math';
 
 import 'package:flutter/material.dart';
 
@@ -581,6 +581,26 @@ class _CountrySelectionScreenState extends State<CountrySelectionScreen> {
       'alabama',
       'iowa',
       'idaho',
+      'washington',
+      'wyoming',
+      'arkansas',
+      'arizona',
+      'massachusetts',
+      'louisiana',
+      'connecticut',
+      'colorado',
+      'kentucky',
+      'kansas',
+      'california',
+      'indiana',
+      'hawaii',
+      'wisconsin',
+      'virginia',
+      'vermont',
+      'illinois',
+      'west_virginia',
+      'delaware',
+      'georgia_us',
     ],
     'canada': <String>['all'],
     'mexico': <String>['all'],

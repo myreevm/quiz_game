@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which U.S. president grew up in Abilene, Kansas?",
+        "answers":  [
+                        {
+                            "text":  "Dwight D. Eisenhower",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Harry S. Truman",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gerald Ford",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Richard Nixon",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which aviation pioneer was born in Atchison, Kansas?",
+        "answers":  [
+                        {
+                            "text":  "Amelia Earhart",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bessie Coleman",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sally Ride",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Valentina Tereshkova",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which U.S. senator and presidential candidate was born in Russell, Kansas?",
+        "answers":  [
+                        {
+                            "text":  "Bob Dole",
+                            "score":  1
+                        },
+                        {
+                            "text":  "John McCain",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mitt Romney",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ted Kennedy",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Harlem Renaissance poet was born in Lawrence, Kansas?",
+        "answers":  [
+                        {
+                            "text":  "Langston Hughes",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Robert Frost",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Walt Whitman",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Allen Ginsberg",
+                            "score":  0
+                        }
+                    ]
+    }
+]

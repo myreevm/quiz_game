@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which U.S. senator from Arizona was the 2008 Republican presidential nominee?",
+        "answers":  [
+                        {
+                            "text":  "John McCain",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Mitt Romney",
+                            "score":  0
+                        },
+                        {
+                            "text":  "John Kerry",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bob Dole",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which U.S. Supreme Court justice from Arizona was the first woman on the Court?",
+        "answers":  [
+                        {
+                            "text":  "Sandra Day OConnor",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ruth Bader Ginsburg",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sonia Sotomayor",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Elena Kagan",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which singer from Tucson, Arizona became an international star?",
+        "answers":  [
+                        {
+                            "text":  "Linda Ronstadt",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Cher",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shakira",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Madonna",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which long-time U.S. senator from Arizona was known as Mr. Conservative?",
+        "answers":  [
+                        {
+                            "text":  "Barry Goldwater",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Ted Kennedy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "George McGovern",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Howard Baker",
+                            "score":  0
+                        }
+                    ]
+    }
+]

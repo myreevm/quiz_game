@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which former U.S. president was born in Honolulu, Hawaii?",
+        "answers":  [
+                        {
+                            "text":  "Barack Obama",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Joe Biden",
+                            "score":  0
+                        },
+                        {
+                            "text":  "George W. Bush",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bill Clinton",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Olympic swimming champion nicknamed \"The Duke\" was born in Hawaii?",
+        "answers":  [
+                        {
+                            "text":  "Duke Kahanamoku",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Michael Phelps",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Mark Spitz",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ryan Lochte",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which singer and actress known for \"The Rose\" was born in Honolulu?",
+        "answers":  [
+                        {
+                            "text":  "Bette Midler",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Madonna",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cher",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Celine Dion",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which actor known for playing Aquaman was born in Honolulu, Hawaii?",
+        "answers":  [
+                        {
+                            "text":  "Jason Momoa",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Chris Hemsworth",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Tom Hardy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Henry Cavill",
+                            "score":  0
+                        }
+                    ]
+    }
+]

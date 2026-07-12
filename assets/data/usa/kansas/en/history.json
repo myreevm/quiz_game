@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In what year did Kansas become a U.S. state?",
+        "answers":  [
+                        {
+                            "text":  "1861",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1820",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1845",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1876",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the capital city of Kansas?",
+        "answers":  [
+                        {
+                            "text":  "Topeka",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Wichita",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lawrence",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Dodge City",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What term describes the violent pre-Civil War conflicts in Kansas?",
+        "answers":  [
+                        {
+                            "text":  "Bleeding Kansas",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Dust Bowl",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Trail of Tears",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Gold Rush",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What nickname is commonly used for Kansas?",
+        "answers":  [
+                        {
+                            "text":  "The Sunflower State",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Bluegrass State",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Garden State",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Beaver State",
+                            "score":  0
+                        }
+                    ]
+    }
+]

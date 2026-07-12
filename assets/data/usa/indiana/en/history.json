@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In what year did Indiana become a U.S. state?",
+        "answers":  [
+                        {
+                            "text":  "1816",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1796",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1836",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1851",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the capital city of Indiana?",
+        "answers":  [
+                        {
+                            "text":  "Indianapolis",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Fort Wayne",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Evansville",
+                            "score":  0
+                        },
+                        {
+                            "text":  "South Bend",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "The Indianapolis 500 is held at which venue?",
+        "answers":  [
+                        {
+                            "text":  "Indianapolis Motor Speedway",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Lucas Oil Stadium",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Wrigley Field",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Daytona International Speedway",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What nickname is commonly used for Indiana?",
+        "answers":  [
+                        {
+                            "text":  "The Hoosier State",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Buckeye State",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Cornhusker State",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Pine Tree State",
+                            "score":  0
+                        }
+                    ]
+    }
+]

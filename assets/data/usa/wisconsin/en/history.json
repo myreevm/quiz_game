@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In what year did Wisconsin become a U.S. state?",
+        "answers":  [
+                        {
+                            "text":  "1848",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1820",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1861",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1901",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the capital city of Wisconsin?",
+        "answers":  [
+                        {
+                            "text":  "Madison",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Milwaukee",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Green Bay",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kenosha",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What nickname is commonly used for Wisconsin?",
+        "answers":  [
+                        {
+                            "text":  "The Badger State",
+                            "score":  1
+                        },
+                        {
+                            "text":  "The Granite State",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Hoosier State",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Golden State",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Wisconsin city is known as the \"Cream City\" in historical references?",
+        "answers":  [
+                        {
+                            "text":  "Milwaukee",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Madison",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Eau Claire",
+                            "score":  0
+                        },
+                        {
+                            "text":  "La Crosse",
+                            "score":  0
+                        }
+                    ]
+    }
+]

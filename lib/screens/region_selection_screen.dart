@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+﻿import 'package:flutter/material.dart';
 
 import '../models/app_texts.dart';
 import 'category_selection_screen.dart';
@@ -46,6 +46,26 @@ class RegionSelectionScreen extends StatelessWidget {
       _RegionOption(code: 'alabama'),
       _RegionOption(code: 'iowa'),
       _RegionOption(code: 'idaho'),
+      _RegionOption(code: 'washington'),
+      _RegionOption(code: 'wyoming'),
+      _RegionOption(code: 'arkansas'),
+      _RegionOption(code: 'arizona'),
+      _RegionOption(code: 'massachusetts'),
+      _RegionOption(code: 'louisiana'),
+      _RegionOption(code: 'connecticut'),
+      _RegionOption(code: 'colorado'),
+      _RegionOption(code: 'kentucky'),
+      _RegionOption(code: 'kansas'),
+      _RegionOption(code: 'california'),
+      _RegionOption(code: 'indiana'),
+      _RegionOption(code: 'hawaii'),
+      _RegionOption(code: 'wisconsin'),
+      _RegionOption(code: 'virginia'),
+      _RegionOption(code: 'vermont'),
+      _RegionOption(code: 'illinois'),
+      _RegionOption(code: 'west_virginia'),
+      _RegionOption(code: 'delaware'),
+      _RegionOption(code: 'georgia_us'),
     ],
   };
 
@@ -108,6 +128,26 @@ class RegionSelectionScreen extends StatelessWidget {
           MapPinData(code: 'alabama', position: Offset(0.62, 0.57)),
           MapPinData(code: 'iowa', position: Offset(0.56, 0.34)),
           MapPinData(code: 'idaho', position: Offset(0.36, 0.30)),
+          MapPinData(code: 'washington', position: Offset(0.28, 0.20)),
+          MapPinData(code: 'wyoming', position: Offset(0.44, 0.31)),
+          MapPinData(code: 'arkansas', position: Offset(0.58, 0.45)),
+          MapPinData(code: 'arizona', position: Offset(0.32, 0.52)),
+          MapPinData(code: 'massachusetts', position: Offset(0.80, 0.24)),
+          MapPinData(code: 'louisiana', position: Offset(0.56, 0.57)),
+          MapPinData(code: 'connecticut', position: Offset(0.77, 0.27)),
+          MapPinData(code: 'colorado', position: Offset(0.41, 0.40)),
+          MapPinData(code: 'kentucky', position: Offset(0.67, 0.46)),
+          MapPinData(code: 'kansas', position: Offset(0.50, 0.39)),
+          MapPinData(code: 'california', position: Offset(0.26, 0.45)),
+          MapPinData(code: 'indiana', position: Offset(0.65, 0.40)),
+          MapPinData(code: 'hawaii', position: Offset(0.19, 0.68)),
+          MapPinData(code: 'wisconsin', position: Offset(0.59, 0.31)),
+          MapPinData(code: 'virginia', position: Offset(0.73, 0.43)),
+          MapPinData(code: 'vermont', position: Offset(0.79, 0.23)),
+          MapPinData(code: 'illinois', position: Offset(0.61, 0.38)),
+          MapPinData(code: 'west_virginia', position: Offset(0.71, 0.44)),
+          MapPinData(code: 'delaware', position: Offset(0.76, 0.37)),
+          MapPinData(code: 'georgia_us', position: Offset(0.65, 0.55)),
         ];
       default:
         return const [

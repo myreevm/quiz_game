@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "In what year did California become a U.S. state?",
+        "answers":  [
+                        {
+                            "text":  "1850",
+                            "score":  1
+                        },
+                        {
+                            "text":  "1848",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1861",
+                            "score":  0
+                        },
+                        {
+                            "text":  "1876",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "What is the capital city of California?",
+        "answers":  [
+                        {
+                            "text":  "Sacramento",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Los Angeles",
+                            "score":  0
+                        },
+                        {
+                            "text":  "San Diego",
+                            "score":  0
+                        },
+                        {
+                            "text":  "San Francisco",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "The California Gold Rush began after gold was discovered in 1848 at which site?",
+        "answers":  [
+                        {
+                            "text":  "Sutter\u0027s Mill",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Pike\u0027s Peak",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Comstock Lode",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Fort Sumter",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which major fault line is strongly associated with earthquakes in California?",
+        "answers":  [
+                        {
+                            "text":  "San Andreas Fault",
+                            "score":  1
+                        },
+                        {
+                            "text":  "New Madrid Fault",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Wasatch Fault",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cascadia Fault",
+                            "score":  0
+                        }
+                    ]
+    }
+]

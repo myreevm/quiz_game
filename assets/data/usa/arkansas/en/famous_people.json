@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which U.S. president was born in Hope, Arkansas?",
+        "answers":  [
+                        {
+                            "text":  "Bill Clinton",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Jimmy Carter",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Lyndon Johnson",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Barack Obama",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which legendary singer was born in Kingsland, Arkansas?",
+        "answers":  [
+                        {
+                            "text":  "Johnny Cash",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Elvis Presley",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Roy Orbison",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Waylon Jennings",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which business founder is closely tied to Bentonville, Arkansas?",
+        "answers":  [
+                        {
+                            "text":  "Sam Walton",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Warren Buffett",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ray Kroc",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Howard Hughes",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which writer from Arkansas authored True Grit?",
+        "answers":  [
+                        {
+                            "text":  "Charles Portis",
+                            "score":  1
+                        },
+                        {
+                            "text":  "John Steinbeck",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Truman Capote",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Cormac McCarthy",
+                            "score":  0
+                        }
+                    ]
+    }
+]

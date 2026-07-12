@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Oscar-winning drama is set in Wyoming and tells a cowboy love story?",
+        "answers":  [
+                        {
+                            "text":  "Brokeback Mountain",
+                            "score":  1
+                        },
+                        {
+                            "text":  "No Country for Old Men",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Legends of the Fall",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shane",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Quentin Tarantino film takes place in snowy Wyoming?",
+        "answers":  [
+                        {
+                            "text":  "The Hateful Eight",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Django Unchained",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Pulp Fiction",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Kill Bill",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which thriller is set on the Wind River Reservation in Wyoming?",
+        "answers":  [
+                        {
+                            "text":  "Wind River",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Prisoners",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Sicario",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hell or High Water",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which sci-fi film features Devils Tower in Wyoming?",
+        "answers":  [
+                        {
+                            "text":  "Close Encounters of the Third Kind",
+                            "score":  1
+                        },
+                        {
+                            "text":  "E.T.",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Interstellar",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Arrival",
+                            "score":  0
+                        }
+                    ]
+    }
+]

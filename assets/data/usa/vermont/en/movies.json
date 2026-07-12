@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which comedy film is set in Vermont and follows the antics of state troopers?",
+        "answers":  [
+                        {
+                            "text":  "Super Troopers",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Police Academy",
+                            "score":  0
+                        },
+                        {
+                            "text":  "21 Jump Street",
+                            "score":  0
+                        },
+                        {
+                            "text":  "The Heat",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which holiday classic is set around a Vermont inn run by two former soldiers?",
+        "answers":  [
+                        {
+                            "text":  "White Christmas",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Elf",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Home Alone",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Scrooged",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which Hitchcock film is set in a small Vermont town?",
+        "answers":  [
+                        {
+                            "text":  "The Trouble with Harry",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Psycho",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Vertigo",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rear Window",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which comedy-drama about city-to-country life is largely set in rural Vermont?",
+        "answers":  [
+                        {
+                            "text":  "Baby Boom",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Erin Brockovich",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Julie \u0026 Julia",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Groundhog Day",
+                            "score":  0
+                        }
+                    ]
+    }
+]

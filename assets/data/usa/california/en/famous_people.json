@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which Apple co-founder was born in San Francisco, California?",
+        "answers":  [
+                        {
+                            "text":  "Steve Jobs",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Bill Gates",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Paul Allen",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Michael Dell",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which filmmaker from Modesto, California created \"Star Wars\"?",
+        "answers":  [
+                        {
+                            "text":  "George Lucas",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Steven Spielberg",
+                            "score":  0
+                        },
+                        {
+                            "text":  "James Cameron",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ridley Scott",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which pop singer born in Los Angeles released \"Bad Guy\"?",
+        "answers":  [
+                        {
+                            "text":  "Billie Eilish",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Taylor Swift",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ariana Grande",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Katy Perry",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which tennis champion raised in Compton, California won 23 Grand Slam singles titles?",
+        "answers":  [
+                        {
+                            "text":  "Serena Williams",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Venus Williams",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Maria Sharapova",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Naomi Osaka",
+                            "score":  0
+                        }
+                    ]
+    }
+]

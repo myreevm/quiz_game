@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question":  "Which U.S. president was born in Plymouth Notch, Vermont?",
+        "answers":  [
+                        {
+                            "text":  "Calvin Coolidge",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Herbert Hoover",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Woodrow Wilson",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Harry Truman",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which U.S. senator long associated with Vermont later ran for president in 2016 and 2020?",
+        "answers":  [
+                        {
+                            "text":  "Bernie Sanders",
+                            "score":  1
+                        },
+                        {
+                            "text":  "John Kerry",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ted Cruz",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Marco Rubio",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which musician from Strafford, Vermont, released the hit song \"Stick Season\"?",
+        "answers":  [
+                        {
+                            "text":  "Noah Kahan",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Hozier",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ed Sheeran",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Shawn Mendes",
+                            "score":  0
+                        }
+                    ]
+    },
+    {
+        "question":  "Which entrepreneurs founded an iconic ice cream company in Burlington, Vermont?",
+        "answers":  [
+                        {
+                            "text":  "Ben Cohen and Jerry Greenfield",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Walt and Roy Disney",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Larry Page and Sergey Brin",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Bill Hewlett and Dave Packard",
+                            "score":  0
+                        }
+                    ]
+    }
+]
